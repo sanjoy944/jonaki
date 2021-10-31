@@ -44,7 +44,7 @@ var main = new Vue({
       supportLoading: false,
       showSupport: false,
       mode: 4,
-      uploadCounter: 9999,
+      uploadCounter: 1,
       credit: 10000,
       page: "core",
       authError: "",
@@ -71,31 +71,6 @@ var main = new Vue({
 
   methods: {
 
-    setQuality: function(q){
-      this.quality = q;
-    },
-
-    routy: function(page){
-      this.authLoading = false;
-      this.authError = "";
-      var pages = ["core", "support", "create", "login", "faq", "reset"];
-      this.page = page;
-      pages.forEach(p => document.getElementById(p).style.display = "none");
-      document.getElementById(this.page).style.display = "block";
-      document.getElementById(this.page).style.display = "block";
-    },
-
-    resetPassword: function(){
-      var email = document.getElementById("reset-email-input").value;
-      var auth = firebase.auth();
-      this.resetText = "Sending Email";
-
-      auth.sendPasswordResetEmail(email).then(function() {
-        main.routy("core");
-      }).catch(function(error) {
-        main.resetError = "Error: No account with email exists";
-      });
-    },
 
     selectMode: function(mode){
       this.mode = mode;
@@ -111,64 +86,6 @@ var main = new Vue({
         document.getElementById("FAQ").style.display = "none";
         this.showFAQ = false;
       }
-    },
-
-    getUserData: async function(){
-      var userData = null
-      var reqCount = 0
-      while(userData == null)
-      {
-        db.collection("users").doc(main.user.uid).get().then((res) => {
-          userData = res
-        })
-        if(userData == null) await sleep(200)
-        reqCount += 1
-        // timeout exception
-        if(reqCount > 150) break;
-      }
-
-      var d = userData.data();
-      if(d == null){
-        // this.showCredits = false
-        return
-      }
-
-      else {
-
-        if(main.anonUpgrade){
-          var uploads = d.uploads;
-
-          // Union uploads of uploaded account and sign in if possible
-          for(var i = 0; i < main.anonUploads.length; i++){
-            if(d.uploads.filter(o => o.id == main.anonUploads[i].id).length == 0){
-              uploads.push(main.anonUploads[i]);
-            }
-          }
-          var credit = d.credit;
-          if(d.credit != null && main.anonCredit != null){
-              credit = Math.max(d.credit, main.anonCredit);
-          }
-          db.collection("users").doc(main.user.uid).update({
-            uploads: uploads,
-            credit: credit,
-          });
-        }
-      }
-
-      main.userData = d;
-      main.checkSuccess();
-      main.userDataSub = db.collection("users").doc(main.user.uid)
-      .onSnapshot(function(doc) {
-        db.collection("users").doc(main.user.uid).get()
-        .then((doc)=> {
-          var d = doc.data();
-          main.userData = d;
-          main.credit = main.getCredit();
-          main.checkSuccess();
-          document.getElementById("email-input").value = d.email;
-        })
-      });
-
     },
 
     // alert user that payment is successful
