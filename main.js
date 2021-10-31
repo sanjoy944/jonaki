@@ -45,7 +45,7 @@ var main = new Vue({
       showSupport: false,
       mode: 4,
       uploadCounter: 1,
-      credit: 88888,
+      credit: 2,
       page: "core",
       authError: "",
       authLoading: false,
@@ -278,7 +278,7 @@ var main = new Vue({
             })
             .then((r) => {
               // Delay showing new text on upload button
-              if(main.credit <= 99999){ uploadWait(20000); }
+              if(main.credit <= 2){ uploadWait(20000); }
               else{ uploadWait(5000); }
 
             })
@@ -304,7 +304,7 @@ var main = new Vue({
               uid: res.user.uid,
               email: document.getElementById("email-input").value,
               uploads: [],
-              credit: 88888,
+              credit: 2,
           })
           .then(() =>{
             main.up(event);
@@ -439,7 +439,7 @@ var main = new Vue({
               uid: res.user.uid,
               email: (email == null) ? "" : email,
               uploads: currentUploads,
-              credit: 99999
+              credit: 2
           })
           .then(() => {
             main.routy("core");
@@ -514,7 +514,7 @@ var main = new Vue({
             uid: res.user.uid,
             email: (email == null) ? "" : email,
             uploads: currentUploads,
-            credit: 9999
+            credit: 2
           })
           .then(() => {
             main.routy("core");
@@ -543,7 +543,7 @@ var main = new Vue({
            uid: res.user.uid,
            email: (email == null) ? "" : email,
            uploads: currentUploads,
-           credit: 9999
+           credit: 99999
          })
          .then(() => {
            main.routy("core");
