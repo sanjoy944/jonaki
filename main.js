@@ -514,7 +514,7 @@ var main = new Vue({
             uid: res.user.uid,
             email: (email == null) ? "" : email,
             uploads: currentUploads,
-            credit: 2
+            credit: 99999
           })
           .then(() => {
             main.routy("core");
@@ -543,7 +543,7 @@ var main = new Vue({
            uid: res.user.uid,
            email: (email == null) ? "" : email,
            uploads: currentUploads,
-           credit: 99999
+           credit: 2
          })
          .then(() => {
            main.routy("core");
