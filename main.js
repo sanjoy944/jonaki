@@ -45,13 +45,24 @@ var main = new Vue({
       showSupport: false,
       mode: 4,
       uploadCounter: 1,
-      credit: 99999,
+      credit: 2,
       page: "core",
       authError: "",
       authLoading: false,
       quality: 'hq',
       showQualityTip: true,
-	  
+
+      anonUpgrade: false,
+      anonUploads: [],
+      anonCredit: null,
+      paymentMethod: "paypal",
+
+      showSuccess: false,
+      successAmount: 10,
+      showReset: false,
+      resetText: "Send password reset link",
+      resetError: "",
+
       loaded: false,
       showCredits: true,
 
@@ -60,11 +71,105 @@ var main = new Vue({
 
   methods: {
 
+    setQuality: function(q){
+      this.quality = q;
+    },
+
+    routy: function(page){
+      this.authLoading = false;
+      this.authError = "";
+      var pages = ["core", "support", "create", "login", "faq", "reset"];
+      this.page = page;
+      pages.forEach(p => document.getElementById(p).style.display = "none");
+      document.getElementById(this.page).style.display = "block";
+      document.getElementById(this.page).style.display = "block";
+    },
+
+    resetPassword: function(){
+      var email = document.getElementById("reset-email-input").value;
+      var auth = firebase.auth();
+      this.resetText = "Sending Email";
+
+      auth.sendPasswordResetEmail(email).then(function() {
+        main.routy("core");
+      }).catch(function(error) {
+        main.resetError = "Error: No account with email exists";
+      });
+    },
 
     selectMode: function(mode){
       this.mode = mode;
     },
 
+    toggleFAQ: function(){
+      if(!this.showFAQ){
+        document.getElementById("FAQ").style.display = "block";
+        this.showFAQ = true;
+        window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight);
+      }
+      else{
+        document.getElementById("FAQ").style.display = "none";
+        this.showFAQ = false;
+      }
+    },
+
+    getUserData: async function(){
+      var userData = null
+      var reqCount = 0
+      while(userData == null)
+      {
+        db.collection("users").doc(main.user.uid).get().then((res) => {
+          userData = res
+        })
+        if(userData == null) await sleep(200)
+        reqCount += 1
+        // timeout exception
+        if(reqCount > 150) break;
+      }
+
+      var d = userData.data();
+      if(d == null){
+        // this.showCredits = false
+        return
+      }
+
+      else {
+
+        if(main.anonUpgrade){
+          var uploads = d.uploads;
+
+          // Union uploads of uploaded account and sign in if possible
+          for(var i = 0; i < main.anonUploads.length; i++){
+            if(d.uploads.filter(o => o.id == main.anonUploads[i].id).length == 0){
+              uploads.push(main.anonUploads[i]);
+            }
+          }
+          var credit = d.credit;
+          if(d.credit != null && main.anonCredit != null){
+              credit = Math.max(d.credit, main.anonCredit);
+          }
+          db.collection("users").doc(main.user.uid).update({
+            uploads: uploads,
+            credit: credit,
+          });
+        }
+      }
+
+      main.userData = d;
+      main.checkSuccess();
+      main.userDataSub = db.collection("users").doc(main.user.uid)
+      .onSnapshot(function(doc) {
+        db.collection("users").doc(main.user.uid).get()
+        .then((doc)=> {
+          var d = doc.data();
+          main.userData = d;
+          main.credit = main.getCredit();
+          main.checkSuccess();
+          document.getElementById("email-input").value = d.email;
+        })
+      });
+
+    },
 
     // alert user that payment is successful
     checkSuccess: function(){
@@ -105,7 +210,7 @@ var main = new Vue({
         }
 
         document.getElementById("mp3-upload-" + +this.uploadCounter.toString()).click();
-        this.uploadCounter += 9999;
+        this.uploadCounter += 1;
       }
 
       if(this.uploadText == "Download Stems"){
@@ -173,7 +278,7 @@ var main = new Vue({
             })
             .then((r) => {
               // Delay showing new text on upload button
-              if(main.credit <= 9999){ uploadWait(20000); }
+              if(main.credit <= 2){ uploadWait(20000); }
               else{ uploadWait(5000); }
 
             })
@@ -199,7 +304,7 @@ var main = new Vue({
               uid: res.user.uid,
               email: document.getElementById("email-input").value,
               uploads: [],
-              credit: 10000,
+              credit: 2,
           })
           .then(() =>{
             main.up(event);
@@ -233,9 +338,9 @@ var main = new Vue({
       if(this.amount != 0){ return; }
       this.amount = amount;
 
-      var credit = 10000;
-      if(amount == 10000){ credit = 20000; }
-      if(amount == 20000){ credit = 50000; }
+      var credit = 10;
+      if(amount == 10){ credit = 20; }
+      if(amount == 20){ credit = 50; }
       document.getElementById("paypalAmount").value = amount;
       document.getElementById("item_number").value = this.user.uid + "_" + credit;
       document.getElementById("item_number1").value = this.user.uid + "_" + credit;
@@ -334,7 +439,7 @@ var main = new Vue({
               uid: res.user.uid,
               email: (email == null) ? "" : email,
               uploads: currentUploads,
-              credit: 10000
+              credit: 2
           })
           .then(() => {
             main.routy("core");
@@ -409,7 +514,7 @@ var main = new Vue({
             uid: res.user.uid,
             email: (email == null) ? "" : email,
             uploads: currentUploads,
-            credit: 10000
+            credit: 2
           })
           .then(() => {
             main.routy("core");
@@ -438,7 +543,7 @@ var main = new Vue({
            uid: res.user.uid,
            email: (email == null) ? "" : email,
            uploads: currentUploads,
-           credit: 10000
+           credit: 2
          })
          .then(() => {
            main.routy("core");
