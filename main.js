@@ -45,24 +45,13 @@ var main = new Vue({
       showSupport: false,
       mode: 4,
       uploadCounter: 1,
-      credit: 10000,
+      credit: 99999,
       page: "core",
       authError: "",
       authLoading: false,
       quality: 'hq',
       showQualityTip: true,
-
-      anonUpgrade: false,
-      anonUploads: [],
-      anonCredit: null,
-      paymentMethod: "paypal",
-
-      showSuccess: false,
-      successAmount: 10,
-      showReset: false,
-      resetText: "Send password reset link",
-      resetError: "",
-
+	  
       loaded: false,
       showCredits: true,
 
@@ -76,17 +65,6 @@ var main = new Vue({
       this.mode = mode;
     },
 
-    toggleFAQ: function(){
-      if(!this.showFAQ){
-        document.getElementById("FAQ").style.display = "block";
-        this.showFAQ = true;
-        window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight);
-      }
-      else{
-        document.getElementById("FAQ").style.display = "none";
-        this.showFAQ = false;
-      }
-    },
 
     // alert user that payment is successful
     checkSuccess: function(){
