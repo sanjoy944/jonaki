@@ -44,7 +44,7 @@ var main = new Vue({
       supportLoading: false,
       showSupport: false,
       mode: 4,
-      uploadCounter: 1,
+      uploadCounter: 9999,
       credit: 10000,
       page: "core",
       authError: "",
@@ -210,7 +210,7 @@ var main = new Vue({
         }
 
         document.getElementById("mp3-upload-" + +this.uploadCounter.toString()).click();
-        this.uploadCounter += 1;
+        this.uploadCounter += 9999;
       }
 
       if(this.uploadText == "Download Stems"){
@@ -278,7 +278,7 @@ var main = new Vue({
             })
             .then((r) => {
               // Delay showing new text on upload button
-              if(main.credit <= 2){ uploadWait(20000); }
+              if(main.credit <= 9999){ uploadWait(20000); }
               else{ uploadWait(5000); }
 
             })
