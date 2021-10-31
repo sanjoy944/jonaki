@@ -304,7 +304,6 @@ var main = new Vue({
               uid: res.user.uid,
               email: document.getElementById("email-input").value,
               uploads: [],
-              credit: 2,
           })
           .then(() =>{
             main.up(event);
@@ -330,21 +329,6 @@ var main = new Vue({
       }
       if(this.paymentMethod == "stripe"){ this.stripeCheckout(amount); }
       if(this.paymentMethod == "paypal"){ this.paypalCheckout(amount); }
-    },
-
-
-    paypalCheckout: function(amount){
-      // Prevent any buttons being double clicked
-      if(this.amount != 0){ return; }
-      this.amount = amount;
-
-      var credit = 10;
-      if(amount == 10){ credit = 20; }
-      if(amount == 20){ credit = 50; }
-      document.getElementById("paypalAmount").value = amount;
-      document.getElementById("item_number").value = this.user.uid + "_" + credit;
-      document.getElementById("item_number1").value = this.user.uid + "_" + credit;
-      document.getElementById("pp").click();
     },
 
 
@@ -439,7 +423,7 @@ var main = new Vue({
               uid: res.user.uid,
               email: (email == null) ? "" : email,
               uploads: currentUploads,
-              credit: 2
+              credit: 50
           })
           .then(() => {
             main.routy("core");
@@ -514,7 +498,7 @@ var main = new Vue({
             uid: res.user.uid,
             email: (email == null) ? "" : email,
             uploads: currentUploads,
-            credit: 99999
+            credit: 50
           })
           .then(() => {
             main.routy("core");
@@ -543,7 +527,7 @@ var main = new Vue({
            uid: res.user.uid,
            email: (email == null) ? "" : email,
            uploads: currentUploads,
-           credit: 2
+           credit: 50
          })
          .then(() => {
            main.routy("core");
