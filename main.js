@@ -45,13 +45,25 @@ var main = new Vue({
       showSupport: false,
       mode: 4,
       uploadCounter: 1,
-      credit: 50,
+      credit: 999,
       page: "core",
       authError: "",
       authLoading: false,
       quality: 'hq',
       showQualityTip: true,
-	  
+
+      anonUpgrade: false,
+      anonUploads: [],
+      anonCredit: null,
+      paymentMethod: "paypal",
+
+      showSuccess: false,
+      successAmount: 10,
+      showReset: false,
+      resetText: "Send password reset link",
+      resetError: "",
+
+      loaded: false,
       showCredits: true,
 
     }
@@ -66,7 +78,7 @@ var main = new Vue({
     routy: function(page){
       this.authLoading = false;
       this.authError = "";
-      var pages = ["c", "support", "create", "login", "faq", "reset"];
+      var pages = ["core", "support", "create", "login", "faq", "reset"];
       this.page = page;
       pages.forEach(p => document.getElementById(p).style.display = "none");
       document.getElementById(this.page).style.display = "block";
@@ -79,7 +91,7 @@ var main = new Vue({
       this.resetText = "Sending Email";
 
       auth.sendPasswordResetEmail(email).then(function() {
-        main.routy("c");
+        main.routy("core");
       }).catch(function(error) {
         main.resetError = "Error: No account with email exists";
       });
@@ -153,7 +165,6 @@ var main = new Vue({
           main.userData = d;
           main.credit = main.getCredit();
           main.checkSuccess();
-          document.getElementById("email-input").value = d.email;
         })
       });
 
@@ -188,14 +199,6 @@ var main = new Vue({
           return;
         }
 
-        var email = document.getElementById("email-input").value;
-        if(!validEmail(email)){
-          this.showInvalidEmail = true;
-          return;
-        }
-        else{
-          this.showInvalidEmail = false;
-        }
 
         document.getElementById("mp3-upload-" + +this.uploadCounter.toString()).click();
         this.uploadCounter += 1;
@@ -238,7 +241,6 @@ var main = new Vue({
       });
 
       db.collection("users").doc(this.user.uid).update({
-          email: document.getElementById("email-input").value,
           uploads: ups
       })
       .then(() =>{
@@ -262,11 +264,11 @@ var main = new Vue({
               id: id,
               uid: main.user.uid,
               mode: main.mode,
-              email: document.getElementById("email-input").value
+     
             })
             .then((r) => {
               // Delay showing new text on upload button
-              if(main.credit <= 50){ uploadWait(20000); }
+              if(main.credit <= 2){ uploadWait(20000); }
               else{ uploadWait(5000); }
 
             })
@@ -290,7 +292,6 @@ var main = new Vue({
         .then((res) =>{
           db.collection("users").doc(res.user.uid).set({
               uid: res.user.uid,
-              email: document.getElementById("email-input").value,
               uploads: [],
           })
           .then(() =>{
@@ -315,15 +316,71 @@ var main = new Vue({
         this.routy("create")
         return
       }
+      if(this.paymentMethod == "stripe"){ this.stripeCheckout(amount); }
+      if(this.paymentMethod == "paypal"){ this.paypalCheckout(amount); }
     },
 
+
+    stripeCheckout: function(amount){
+      // Prevent any buttons being double clicked
+      if(this.amount != 0){ return; }
+      this.amount = amount;
+
+      var a = this.amount;
+      a*=100;
+
+      var initPayment = firebase.functions().httpsCallable('stripeStart')
+      initPayment({
+        uid: this.user.uid,
+        amount: a,
+      })
+      .then((x) => {
+        var stripe = Stripe('pk_live_nBCF7lQ68I9zbMIetbmkOQ0700LlnSSLQn');
+
+        stripe.redirectToCheckout({
+            sessionId: x.data.id
+          }).then(function (result) {
+        });
+      });
+    },
+
+
+    getCredit: function(){
+      var nUploads = this.userData.uploads.filter(u => u.status == 'Complete').length;
+      return this.userData.credit - nUploads;
+    },
+
+
+    paymentAmount: function(amount){
+      if(this.amount != 0){ return; }
+      this.amount = amount;
+      this.checkout();
+    },
+
+
+    loginClick: function(){
+      var email = document.getElementById("email-login-input").value;
+      var password = document.getElementById("password-login-input").value;
+      this.authError = "";
+      this.authLoading = true;
+      this.checkAnon()
+       firebase.auth()
+       .signInWithEmailAndPassword(email, password)
+       .then((res) => {
+         main.routy("core");
+       })
+       .catch(function(error) {
+         main.authError = error;
+         main.authLoading = false;
+       });
+   },
 
 
     createClick: function() {
       this.authError = "";
       this.authLoading = true;
-      var email = document.getElementById("sk").value;
-      var password = document.getElementById("sk").value;
+      var email = document.getElementById("email-signup-input").value;
+      var password = document.getElementById("password-signup-input1").value;
 
       var currentUploads = []
       if(this.anonUpgrade && this.userData.uploads != null) {
@@ -336,7 +393,7 @@ var main = new Vue({
         firebase.auth().currentUser.linkAndRetrieveDataWithCredential(credential)
         .then(function(res) {
           console.log(res);
-          main.routy("c");
+          main.routy("core");
         }, function(error) {
           main.authError = error;
           console.log(error);
@@ -350,15 +407,14 @@ var main = new Vue({
         .then((res) => {
           var credit = main.credit;
 
-          let email = document.getElementById("email-input").value
-          db.collection("users").doc(res.user.uid).set({
+          let email = db.collection("users").doc(res.user.uid).set({
               uid: res.user.uid,
               email: (email == null) ? "" : email,
               uploads: currentUploads,
               credit: 50
           })
           .then(() => {
-            main.routy("c");
+            main.routy("core");
           });
 
         })
@@ -369,6 +425,33 @@ var main = new Vue({
         });
       }
     },
+
+
+    logout: function(){
+      // Stop listening on socket
+      var uploads = this.userData.uploads;
+      if(this.userData.credit != null){ credit = this.userData.credit; }
+      this.userDataSub();
+      console.log(this.userData.credit)
+      if(this.userData.credit != null){
+        storageSet("hasAccount", true, 365)
+        firebase.auth().signOut()
+        return
+      }
+
+      firebase.auth().signOut()
+      // Cache uploads to anonymous account
+      .then(() =>{
+        let email = firebase.auth().signInAnonymously()
+        .then((res) =>{
+          db.collection("users").doc(res.user.uid).set({
+              uid: res.user.uid,
+              email: (email == null) ? "" : email,
+              uploads: uploads,
+              credit: credit
+          })
+        });
+      })
       this.uploadText = "Upload MP3";
     },
 
@@ -397,8 +480,7 @@ var main = new Vue({
       .then(function(res) {
         console.log("new user: ", res.additionalUserInfo.isNewUser)
         if(res.additionalUserInfo.isNewUser) {
-          let email = document.getElementById("email-input").value
-          db.collection("users").doc(res.user.uid).set({
+          let email = db.collection("users").doc(res.user.uid).set({
             uid: res.user.uid,
             email: (email == null) ? "" : email,
             uploads: currentUploads,
@@ -426,8 +508,7 @@ var main = new Vue({
      var provider = new firebase.auth.TwitterAuthProvider();
      firebase.auth().signInWithPopup(provider).then(function(res) {
        if(res.additionalUserInfo.isNewUser) {
-         let email = document.getElementById("email-input").value
-         db.collection("users").doc(res.user.uid).set({
+         let email = db.collection("users").doc(res.user.uid).set({
            uid: res.user.uid,
            email: (email == null) ? "" : email,
            uploads: currentUploads,
