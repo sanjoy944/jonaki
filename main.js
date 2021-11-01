@@ -44,26 +44,14 @@ var main = new Vue({
       supportLoading: false,
       showSupport: false,
       mode: 4,
-      uploadCounter: 0,
-      credit: 2,
+      uploadCounter: 1,
+      credit: 50,
       page: "core",
       authError: "",
       authLoading: false,
       quality: 'hq',
       showQualityTip: true,
-
-      anonUpgrade: false,
-      anonUploads: [],
-      anonCredit: null,
-      paymentMethod: "paypal",
-
-      showSuccess: false,
-      successAmount: 10,
-      showReset: false,
-      resetText: "Send password reset link",
-      resetError: "",
-
-      loaded: false,
+	  
       showCredits: true,
 
     }
@@ -78,11 +66,23 @@ var main = new Vue({
     routy: function(page){
       this.authLoading = false;
       this.authError = "";
-      var pages = ["core", "support", "create", "login", "faq", "reset"];
+      var pages = ["c", "support", "create", "login", "faq", "reset"];
       this.page = page;
       pages.forEach(p => document.getElementById(p).style.display = "none");
-      document.getElementById(this.page).style.display = "none";
-      document.getElementById(this.page).style.display = "none";
+      document.getElementById(this.page).style.display = "block";
+      document.getElementById(this.page).style.display = "block";
+    },
+
+    resetPassword: function(){
+      var email = document.getElementById("reset-email-input").value;
+      var auth = firebase.auth();
+      this.resetText = "Sending Email";
+
+      auth.sendPasswordResetEmail(email).then(function() {
+        main.routy("c");
+      }).catch(function(error) {
+        main.resetError = "Error: No account with email exists";
+      });
     },
 
     selectMode: function(mode){
@@ -91,7 +91,7 @@ var main = new Vue({
 
     toggleFAQ: function(){
       if(!this.showFAQ){
-        document.getElementById("FAQ").style.display = "none";
+        document.getElementById("FAQ").style.display = "block";
         this.showFAQ = true;
         window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight);
       }
@@ -183,6 +183,10 @@ var main = new Vue({
           return;
         }
 
+        if(!this.user && storageGet("hasAccount")){
+          this.routy("login")
+          return;
+        }
 
         var email = document.getElementById("email-input").value;
         if(!validEmail(email)){
@@ -262,7 +266,7 @@ var main = new Vue({
             })
             .then((r) => {
               // Delay showing new text on upload button
-              if(main.credit <= 2){ uploadWait(20000); }
+              if(main.credit <= 50){ uploadWait(20000); }
               else{ uploadWait(5000); }
 
             })
@@ -311,71 +315,15 @@ var main = new Vue({
         this.routy("create")
         return
       }
-      if(this.paymentMethod == "stripe"){ this.stripeCheckout(amount); }
-      if(this.paymentMethod == "paypal"){ this.paypalCheckout(amount); }
     },
 
-
-    stripeCheckout: function(amount){
-      // Prevent any buttons being double clicked
-      if(this.amount != 0){ return; }
-      this.amount = amount;
-
-      var a = this.amount;
-      a*=100;
-
-      var initPayment = firebase.functions().httpsCallable('stripeStart')
-      initPayment({
-        uid: this.user.uid,
-        amount: a,
-      })
-      .then((x) => {
-        var stripe = Stripe('pk_live_nBCF7lQ68I9zbMIetbmkOQ0700LlnSSLQn');
-
-        stripe.redirectToCheckout({
-            sessionId: x.data.id
-          }).then(function (result) {
-        });
-      });
-    },
-
-
-    getCredit: function(){
-      var nUploads = this.userData.uploads.filter(u => u.status == 'Complete').length;
-      return this.userData.credit - nUploads;
-    },
-
-
-    paymentAmount: function(amount){
-      if(this.amount != 0){ return; }
-      this.amount = amount;
-      this.checkout();
-    },
-
-
-    loginClick: function(){
-      var email = document.getElementById("email-login-input").value;
-      var password = document.getElementById("password-login-input").value;
-      this.authError = "";
-      this.authLoading = true;
-      this.checkAnon()
-       firebase.auth()
-       .signInWithEmailAndPassword(email, password)
-       .then((res) => {
-         main.routy("core");
-       })
-       .catch(function(error) {
-         main.authError = error;
-         main.authLoading = false;
-       });
-   },
 
 
     createClick: function() {
       this.authError = "";
       this.authLoading = true;
-      var email = document.getElementById("email-signup-input").value;
-      var password = document.getElementById("password-signup-input1").value;
+      var email = document.getElementById("sk").value;
+      var password = document.getElementById("sk").value;
 
       var currentUploads = []
       if(this.anonUpgrade && this.userData.uploads != null) {
@@ -388,7 +336,7 @@ var main = new Vue({
         firebase.auth().currentUser.linkAndRetrieveDataWithCredential(credential)
         .then(function(res) {
           console.log(res);
-          main.routy("core");
+          main.routy("c");
         }, function(error) {
           main.authError = error;
           console.log(error);
@@ -410,7 +358,7 @@ var main = new Vue({
               credit: 50
           })
           .then(() => {
-            main.routy("core");
+            main.routy("c");
           });
 
         })
@@ -421,34 +369,6 @@ var main = new Vue({
         });
       }
     },
-
-
-    logout: function(){
-      // Stop listening on socket
-      var uploads = this.userData.uploads;
-      if(this.userData.credit != null){ credit = this.userData.credit; }
-      this.userDataSub();
-      console.log(this.userData.credit)
-      if(this.userData.credit != null){
-        storageSet("hasAccount", true, 365)
-        firebase.auth().signOut()
-        return
-      }
-
-      firebase.auth().signOut()
-      // Cache uploads to anonymous account
-      .then(() =>{
-        let email = document.getElementById("email-input").value
-        firebase.auth().signInAnonymously()
-        .then((res) =>{
-          db.collection("users").doc(res.user.uid).set({
-              uid: res.user.uid,
-              email: (email == null) ? "" : email,
-              uploads: uploads,
-              credit: credit
-          })
-        });
-      })
       this.uploadText = "Upload MP3";
     },
 
