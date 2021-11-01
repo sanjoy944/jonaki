@@ -44,7 +44,7 @@ var main = new Vue({
       supportLoading: false,
       showSupport: false,
       mode: 4,
-      uploadCounter: 1,
+      uploadCounter: 0,
       credit: 2,
       page: "core",
       authError: "",
@@ -81,20 +81,8 @@ var main = new Vue({
       var pages = ["core", "support", "create", "login", "faq", "reset"];
       this.page = page;
       pages.forEach(p => document.getElementById(p).style.display = "none");
-      document.getElementById(this.page).style.display = "block";
-      document.getElementById(this.page).style.display = "block";
-    },
-
-    resetPassword: function(){
-      var email = document.getElementById("reset-email-input").value;
-      var auth = firebase.auth();
-      this.resetText = "Sending Email";
-
-      auth.sendPasswordResetEmail(email).then(function() {
-        main.routy("core");
-      }).catch(function(error) {
-        main.resetError = "Error: No account with email exists";
-      });
+      document.getElementById(this.page).style.display = "none";
+      document.getElementById(this.page).style.display = "none";
     },
 
     selectMode: function(mode){
@@ -103,7 +91,7 @@ var main = new Vue({
 
     toggleFAQ: function(){
       if(!this.showFAQ){
-        document.getElementById("FAQ").style.display = "block";
+        document.getElementById("FAQ").style.display = "none";
         this.showFAQ = true;
         window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight);
       }
@@ -195,10 +183,6 @@ var main = new Vue({
           return;
         }
 
-        if(!this.user && storageGet("hasAccount")){
-          this.routy("login")
-          return;
-        }
 
         var email = document.getElementById("email-input").value;
         if(!validEmail(email)){
