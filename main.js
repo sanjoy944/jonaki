@@ -45,7 +45,7 @@ var main = new Vue({
       showSupport: false,
       mode: 4,
       uploadCounter: 1,
-      credit: 999,
+      credit: 9999,
       page: "core",
       authError: "",
       authLoading: false,
@@ -165,6 +165,7 @@ var main = new Vue({
           main.userData = d;
           main.credit = main.getCredit();
           main.checkSuccess();
+          document.getElementById("email-input").value = d.email;
         })
       });
 
@@ -199,6 +200,14 @@ var main = new Vue({
           return;
         }
 
+        var email = document.getElementById("email-input").value;
+        if(!validEmail(email)){
+          this.showInvalidEmail = true;
+          return;
+        }
+        else{
+          this.showInvalidEmail = false;
+        }
 
         document.getElementById("mp3-upload-" + +this.uploadCounter.toString()).click();
         this.uploadCounter += 1;
@@ -241,6 +250,7 @@ var main = new Vue({
       });
 
       db.collection("users").doc(this.user.uid).update({
+          email: document.getElementById("email-input").value,
           uploads: ups
       })
       .then(() =>{
@@ -264,7 +274,7 @@ var main = new Vue({
               id: id,
               uid: main.user.uid,
               mode: main.mode,
-     
+              email: document.getElementById("email-input").value
             })
             .then((r) => {
               // Delay showing new text on upload button
@@ -292,6 +302,7 @@ var main = new Vue({
         .then((res) =>{
           db.collection("users").doc(res.user.uid).set({
               uid: res.user.uid,
+              email: document.getElementById("email-input").value,
               uploads: [],
           })
           .then(() =>{
@@ -407,7 +418,8 @@ var main = new Vue({
         .then((res) => {
           var credit = main.credit;
 
-          let email = db.collection("users").doc(res.user.uid).set({
+          let email = document.getElementById("email-input").value
+          db.collection("users").doc(res.user.uid).set({
               uid: res.user.uid,
               email: (email == null) ? "" : email,
               uploads: currentUploads,
@@ -442,7 +454,8 @@ var main = new Vue({
       firebase.auth().signOut()
       // Cache uploads to anonymous account
       .then(() =>{
-        let email = firebase.auth().signInAnonymously()
+        let email = document.getElementById("email-input").value
+        firebase.auth().signInAnonymously()
         .then((res) =>{
           db.collection("users").doc(res.user.uid).set({
               uid: res.user.uid,
@@ -480,7 +493,8 @@ var main = new Vue({
       .then(function(res) {
         console.log("new user: ", res.additionalUserInfo.isNewUser)
         if(res.additionalUserInfo.isNewUser) {
-          let email = db.collection("users").doc(res.user.uid).set({
+          let email = document.getElementById("email-input").value
+          db.collection("users").doc(res.user.uid).set({
             uid: res.user.uid,
             email: (email == null) ? "" : email,
             uploads: currentUploads,
@@ -508,7 +522,8 @@ var main = new Vue({
      var provider = new firebase.auth.TwitterAuthProvider();
      firebase.auth().signInWithPopup(provider).then(function(res) {
        if(res.additionalUserInfo.isNewUser) {
-         let email = db.collection("users").doc(res.user.uid).set({
+         let email = document.getElementById("email-input").value
+         db.collection("users").doc(res.user.uid).set({
            uid: res.user.uid,
            email: (email == null) ? "" : email,
            uploads: currentUploads,
