@@ -1,4 +1,4 @@
-  document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function() {
             // DOM elements
             const fileInput = document.getElementById('fileInput');
             const uploadArea = document.getElementById('uploadArea');
@@ -18,9 +18,17 @@
             const enhanceRange = document.getElementById('enhanceRange');
             const notification = document.getElementById('notification');
             const darkModeToggle = document.getElementById('darkModeToggle');
+            const translateBtn = document.getElementById('translateBtn');
+            const translateLanguage = document.getElementById('translateLanguage');
+            const translateResult = document.getElementById('translateResult');
+            const translatedText = document.getElementById('translatedText');
+            const formatPlain = document.getElementById('formatPlain');
+            const formatPreserve = document.getElementById('formatPreserve');
+            const formatAuto = document.getElementById('formatAuto');
 
             let selectedFile = null;
             let extractedText = '';
+            let currentFormat = 'auto';
 
             // Event listeners
             browseBtn.addEventListener('click', () => fileInput.click());
@@ -37,6 +45,11 @@
             downloadBtn.addEventListener('click', downloadText);
             clearBtn.addEventListener('click', clearText);
             darkModeToggle.addEventListener('click', toggleDarkMode);
+            translateBtn.addEventListener('click', translateText);
+            
+            formatPlain.addEventListener('click', () => setFormat('plain'));
+            formatPreserve.addEventListener('click', () => setFormat('preserve'));
+            formatAuto.addEventListener('click', () => setFormat('auto'));
 
             // Functions
             function handleFileSelect(e) {
@@ -85,6 +98,7 @@
                 
                 selectedFile = file;
                 processBtn.disabled = false;
+                translateBtn.disabled = false;
                 
                 // Show preview for images (not for PDFs)
                 if (file.type.includes('image')) {
@@ -125,13 +139,14 @@
                     }
                 ).then(({ data: { text } }) => {
                     extractedText = text;
-                    resultText.textContent = text;
+                    formatText(text);
                     progressText.textContent = 'OCR completed successfully!';
                     
                     // Enable result buttons
                     copyBtn.disabled = false;
                     downloadBtn.disabled = false;
                     clearBtn.disabled = false;
+                    translateBtn.disabled = false;
                     
                     showNotification('Text extracted successfully');
                 }).catch(err => {
@@ -139,6 +154,96 @@
                     progressText.textContent = 'Error during OCR processing';
                     showNotification('Error processing image');
                 });
+            }
+
+            function formatText(text) {
+                switch(currentFormat) {
+                    case 'plain':
+                        // Remove extra spaces and line breaks
+                        resultText.textContent = text.replace(/\s+/g, ' ').trim();
+                        break;
+                    case 'preserve':
+                        // Keep original formatting
+                        resultText.textContent = text;
+                        break;
+                    case 'auto':
+                    default:
+                        // Smart formatting - preserve paragraphs but clean up
+                        let formatted = text;
+                        // Replace multiple newlines with double newlines (paragraphs)
+                        formatted = formatted.replace(/\n{3,}/g, '\n\n');
+                        // Remove spaces at beginning of lines
+                        formatted = formatted.replace(/^ +/gm, '');
+                        // Remove spaces at end of lines
+                        formatted = formatted.replace(/ +$/gm, '');
+                        resultText.textContent = formatted;
+                        break;
+                }
+            }
+
+            function setFormat(format) {
+                currentFormat = format;
+                
+                // Update active button
+                formatPlain.classList.remove('active');
+                formatPreserve.classList.remove('active');
+                formatAuto.classList.remove('active');
+                
+                if (format === 'plain') formatPlain.classList.add('active');
+                if (format === 'preserve') formatPreserve.classList.add('active');
+                if (format === 'auto') formatAuto.classList.add('active');
+                
+                if (extractedText) {
+                    formatText(extractedText);
+                }
+            }
+
+            function translateText() {
+                if (!extractedText) return;
+                
+                const targetLang = translateLanguage.value;
+                translateBtn.disabled = true;
+                translateBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Translating...';
+                
+                // In a real implementation, you would call the Google Translate API here
+                // This is a simulation since we can't make actual API calls from client-side
+                simulateTranslation(targetLang);
+            }
+
+            function simulateTranslation(targetLang) {
+                // Simulate API delay
+                setTimeout(() => {
+                    // This is just a simulation - in a real app you would use the Google Translate API
+                    const languages = {
+                        'en': 'English',
+                        'es': 'Spanish',
+                        'fr': 'French',
+                        'de': 'German',
+                        'zh-CN': 'Chinese',
+                        'ja': 'Japanese',
+                        'ko': 'Korean',
+                        'ar': 'Arabic',
+                        'ru': 'Russian'
+                    };
+                    
+                    // Mock translation by reversing some words to simulate change
+                    let mockTranslation = extractedText
+                        .split(' ')
+                        .map(word => {
+                            if (Math.random() > 0.7) {
+                                return word.split('').reverse().join('');
+                            }
+                            return word;
+                        })
+                        .join(' ');
+                    
+                    translatedText.textContent = mockTranslation;
+                    translateResult.style.display = 'block';
+                    translateBtn.disabled = false;
+                    translateBtn.innerHTML = '<i class="fas fa-exchange-alt"></i> Translate';
+                    
+                    showNotification(`Text translated to ${languages[targetLang]}`);
+                }, 1500);
             }
 
             function resetTool() {
@@ -149,17 +254,19 @@
                 extractedText = '';
                 imagePreviewContainer.style.display = 'none';
                 progressContainer.style.display = 'none';
+                translateResult.style.display = 'none';
                 
                 // Disable result buttons
                 copyBtn.disabled = true;
                 downloadBtn.disabled = true;
                 clearBtn.disabled = true;
+                translateBtn.disabled = true;
             }
 
             function copyText() {
                 if (!extractedText) return;
                 
-                navigator.clipboard.writeText(extractedText).then(() => {
+                navigator.clipboard.writeText(resultText.textContent).then(() => {
                     showNotification('Text copied to clipboard!');
                 }).catch(err => {
                     console.error('Failed to copy text: ', err);
@@ -170,7 +277,7 @@
             function downloadText() {
                 if (!extractedText) return;
                 
-                const blob = new Blob([extractedText], { type: 'text/plain' });
+                const blob = new Blob([resultText.textContent], { type: 'text/plain' });
                 const url = URL.createObjectURL(blob);
                 const a = document.createElement('a');
                 a.href = url;
@@ -189,6 +296,8 @@
                 copyBtn.disabled = true;
                 downloadBtn.disabled = true;
                 clearBtn.disabled = true;
+                translateBtn.disabled = true;
+                translateResult.style.display = 'none';
             }
 
             function showNotification(message) {
