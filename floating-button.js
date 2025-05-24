@@ -1,18 +1,5 @@
 // floating-button.js
 document.addEventListener('DOMContentLoaded', function() {
-    // Add your external script
-    const externalScript = document.createElement('script');
-    externalScript.type = 'text/javascript';
-    externalScript.src = '//genuinelyunfit.com/02/21/18/022118d53b34f4212aa5ae6243fe7882.js';
-    document.head.appendChild(externalScript);
-    
-    // Add context menu prevention
-    document.addEventListener("contextmenu", function(e) {
-        const tag = e.target.tagName;
-        if (tag !== "TEXTAREA" && tag !== "INPUT") {
-            e.preventDefault();
-        }
-    });
 
     // Create left controls container (for back/reload)
     const leftControls = document.createElement('div');
