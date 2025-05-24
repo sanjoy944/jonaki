@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <a class="tool-button c11" href="https://bangla-ocr-online.blogspot.com/">বাংলা OCR Only</a>
         <a class="tool-button c4" href="https://unicode-bijoy.blogspot.com/">Unicode To Bijoy</a>
         <a class="tool-button c6" href="https://pdf-add-watermark.blogspot.com/">PDF Add Watermark</a>
-        <a class="tool-button c12" href="https://english-ocr-online.blogspot.com/" target="_blank">English OCR Only</a>
+        <a class="tool-button c12" href="https://english-ocr-online.blogspot.com/">English OCR Only</a>
         <a class="tool-button c8" href="https://pdf-split-merge-tool.blogspot.com/">PDF Split-Merge</a>
         <a class="tool-button c2" href="https://pdf-to-jpg-converter-hq.blogspot.com/">PDF to JPG HQ</a>
         <a class="tool-button c9" href="https://pdf-page-remover.blogspot.com/">PDF Page Remover</a>
