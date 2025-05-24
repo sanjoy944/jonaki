@@ -36,16 +36,16 @@ document.addEventListener('DOMContentLoaded', function() {
     style.textContent = `
         .floating-btn {
             position: fixed;
-            bottom: 20px;
-            left: 20px;
-            width: 60px;
-            height: 60px;
+            bottom: 10px;
+            left: 10px;
+            width: 40px;
+            height: 40px;
             background: #4a6baf;
             color: white;
             border-radius: 50%;
             text-align: center;
-            line-height: 60px;
-            font-size: 24px;
+            line-height: 40px;
+            font-size: 18px;
             cursor: pointer;
             box-shadow: 0 2px 10px rgba(0,0,0,0.2);
             z-index: 1000;
@@ -59,8 +59,8 @@ document.addEventListener('DOMContentLoaded', function() {
         
         .button-container {
             position: fixed;
-            bottom: 90px;
-            left: 20px;
+            bottom: 40px;
+            left: 10px;
             background: white;
             border-radius: 10px;
             box-shadow: 0 4px 20px rgba(0,0,0,0.15);
