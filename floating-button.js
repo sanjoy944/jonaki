@@ -29,6 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <a class="tool-button c1" href="https://video-frame-capture-tool.blogspot.com/">Video Frame Capture</a>
         <a class="tool-button c13" href="https://image-croppro.blogspot.com/">image Crop Tool</a>
         <a class="tool-button c14" href="https://emoji-universe.blogspot.com/">Emoji Universe</a>
+		 <a class="tool-button c15" href="https://gsmsanjoy.com/">🌐 Official website</a>
     `;
     
     // Add CSS styles dynamically
@@ -37,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
         .floating-btn {
             position: fixed;
             bottom: 10px;
-            left: 10px;
+            right: 10px;
             width: 40px;
             height: 40px;
             background: #4a6baf;
@@ -60,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
         .button-container {
             position: fixed;
             bottom: 40px;
-            left: 10px;
+            right: 10px;
             background: white;
             border-radius: 10px;
             box-shadow: 0 4px 20px rgba(0,0,0,0.15);
@@ -114,6 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
         .c12 { background: #FFD54F; }
         .c13 { background: #FF8A65; }
         .c14 { background: #A1887F; }
+		.c15 { background: #64B5F6; }
     `;
     document.head.appendChild(style);
     
