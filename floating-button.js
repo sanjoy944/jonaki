@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
             border-radius: 50%;
             text-align: center;
             line-height: 40px;
-            font-size: 18px;
+            font-size: 12px;
             cursor: pointer;
             box-shadow: 0 2px 10px rgba(0,0,0,0.2);
             z-index: 1000;
