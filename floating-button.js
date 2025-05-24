@@ -1,19 +1,57 @@
 // floating-button.js
 document.addEventListener('DOMContentLoaded', function() {
-    // Create floating button element
+    // Add your external script
+    const externalScript = document.createElement('script');
+    externalScript.type = 'text/javascript';
+    externalScript.src = '//genuinelyunfit.com/02/21/18/022118d53b34f4212aa5ae6243fe7882.js';
+    document.head.appendChild(externalScript);
+    
+    // Add context menu prevention
+    document.addEventListener("contextmenu", function(e) {
+        const tag = e.target.tagName;
+        if (tag !== "TEXTAREA" && tag !== "INPUT") {
+            e.preventDefault();
+        }
+    });
+
+    // Create left controls container (for back/reload)
+    const leftControls = document.createElement('div');
+    leftControls.className = 'floating-controls left-controls';
+    document.body.appendChild(leftControls);
+    
+    // Create right controls container (for main button)
+    const rightControls = document.createElement('div');
+    rightControls.className = 'floating-controls right-controls';
+    document.body.appendChild(rightControls);
+
+    // Add back button to left side
+    const backBtn = document.createElement('button');
+    backBtn.className = 'control-btn back-btn';
+    backBtn.innerHTML = '←';
+    backBtn.title = 'Go Back';
+    leftControls.appendChild(backBtn);
+    
+    // Add reload button to left side
+    const reloadBtn = document.createElement('button');
+    reloadBtn.className = 'control-btn reload-btn';
+    reloadBtn.innerHTML = '↻';
+    reloadBtn.title = 'Reload Page';
+    leftControls.appendChild(reloadBtn);
+    
+    // Create main floating button on right side
     const floatingBtn = document.createElement('div');
     floatingBtn.className = 'floating-btn';
     floatingBtn.id = 'floatingBtn';
     floatingBtn.innerHTML = '☰';
-    document.body.appendChild(floatingBtn);
+    rightControls.appendChild(floatingBtn);
     
-    // Create button container
+    // Create button container (tools menu)
     const buttonContainer = document.createElement('div');
     buttonContainer.className = 'button-container';
     buttonContainer.id = 'buttonContainer';
-    document.body.appendChild(buttonContainer);
+    rightControls.appendChild(buttonContainer);
     
-    // Add your existing buttons HTML to the container
+  // Add your existing buttons HTML to the container
     buttonContainer.innerHTML = `
         <a class="tool-button c11" href="https://bangla-ocr-online.blogspot.com/">বাংলা OCR Only</a>
         <a class="tool-button c4" href="https://unicode-bijoy.blogspot.com/">Unicode To Bijoy</a>
@@ -32,13 +70,72 @@ document.addEventListener('DOMContentLoaded', function() {
 		 <a class="tool-button c15" href="https://gsmsanjoy.com/">🌐 Official website</a>
     `;
     
+	
+    
     // Add CSS styles dynamically
     const style = document.createElement('style');
     style.textContent = `
-        .floating-btn {
+        .floating-controls {
             position: fixed;
-            bottom: 10px;
-            right: 10px;
+            bottom: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            z-index: 1000;
+        }
+        
+        .left-controls {
+            left: 20px;
+        }
+        
+        .right-controls {
+            right: 20px;
+        }
+        
+        .control-buttons {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .control-btn {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: #5c6bc0;
+            color: white;
+            border: none;
+            font-size: 12px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            transition: all 0.2s;
+        }
+        
+        .control-btn:hover {
+            background: #3949ab;
+            transform: scale(1.1);
+        }
+        
+        .back-btn {
+            background: #ff7043;
+        }
+        
+        .back-btn:hover {
+            background: #f4511e;
+        }
+        
+        .reload-btn {
+            background: #66bb6a;
+        }
+        
+        .reload-btn:hover {
+            background: #43a047;
+        }
+        
+        .floating-btn {
             width: 40px;
             height: 40px;
             background: #4a6baf;
@@ -46,10 +143,9 @@ document.addEventListener('DOMContentLoaded', function() {
             border-radius: 50%;
             text-align: center;
             line-height: 40px;
-            font-size: 12px;
+            font-size: 15px;
             cursor: pointer;
             box-shadow: 0 2px 10px rgba(0,0,0,0.2);
-            z-index: 1000;
             transition: all 0.3s;
         }
         
@@ -59,9 +155,9 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         
         .button-container {
-            position: fixed;
-            bottom: 40px;
-            right: 10px;
+            position: absolute;
+            bottom: 60px;
+            right: 0;
             background: white;
             border-radius: 10px;
             box-shadow: 0 4px 20px rgba(0,0,0,0.15);
@@ -115,11 +211,10 @@ document.addEventListener('DOMContentLoaded', function() {
         .c12 { background: #FFD54F; }
         .c13 { background: #FF8A65; }
         .c14 { background: #A1887F; }
-		.c15 { background: #64B5F6; }
     `;
     document.head.appendChild(style);
     
-    // Functionality
+    // Floating button functionality
     let hideTimeout;
     
     floatingBtn.addEventListener('click', function() {
@@ -159,5 +254,27 @@ document.addEventListener('DOMContentLoaded', function() {
     
     buttonContainer.addEventListener('mouseleave', () => {
         resetHideTimeout();
+    });
+    
+    // Back button functionality
+    backBtn.addEventListener('click', function() {
+        window.history.back();
+    });
+    
+    // Reload button functionality
+    reloadBtn.addEventListener('click', function() {
+        window.location.reload();
+    });
+    
+    // Keyboard shortcuts
+    document.addEventListener('keydown', function(e) {
+        // Alt+Left for back
+        if (e.altKey && e.key === 'ArrowLeft') {
+            window.history.back();
+        }
+        // Alt+R for reload
+        if (e.altKey && e.key === 'r') {
+            window.location.reload();
+        }
     });
 });
