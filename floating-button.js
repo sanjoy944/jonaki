@@ -1,88 +1,123 @@
 // floating-button.js
 document.addEventListener('DOMContentLoaded', function() {
+    // Create main controls container (all buttons on right side)
+    const controlsContainer = document.createElement('div');
+    controlsContainer.className = 'floating-controls-container';
+    document.body.appendChild(controlsContainer);
 
-    // Create left controls container (for back/reload)
-    const leftControls = document.createElement('div');
-    leftControls.className = 'floating-controls left-controls';
-    document.body.appendChild(leftControls);
-    
-    // Create right controls container (for main button)
-    const rightControls = document.createElement('div');
-    rightControls.className = 'floating-controls right-controls';
-    document.body.appendChild(rightControls);
+    // Create button group for all buttons
+    const buttonGroup = document.createElement('div');
+    buttonGroup.className = 'button-group';
+    controlsContainer.appendChild(buttonGroup);
 
-    // Add back button to left side
+    // Add connection status indicator
+    const connectionStatus = document.createElement('div');
+    connectionStatus.className = `connection-status ${navigator.onLine ? 'online' : 'offline'}`;
+    connectionStatus.title = navigator.onLine ? 'Online' : 'Offline';
+    buttonGroup.appendChild(connectionStatus);
+
+    // Add back button
     const backBtn = document.createElement('button');
     backBtn.className = 'control-btn back-btn';
     backBtn.innerHTML = '←';
     backBtn.title = 'Go Back';
-    leftControls.appendChild(backBtn);
+    buttonGroup.appendChild(backBtn);
     
-    // Add reload button to left side
+    // Add reload button
     const reloadBtn = document.createElement('button');
     reloadBtn.className = 'control-btn reload-btn';
     reloadBtn.innerHTML = '↻';
     reloadBtn.title = 'Reload Page';
-    leftControls.appendChild(reloadBtn);
+    buttonGroup.appendChild(reloadBtn);
     
-    // Create main floating button on right side
+    // Add popup window button
+    const popupBtn = document.createElement('button');
+    popupBtn.className = 'control-btn popup-btn';
+    popupBtn.innerHTML = '↗';
+    popupBtn.title = 'Open in Popup Window (640x500)';
+    buttonGroup.appendChild(popupBtn);
+    
+    // Create main floating button
     const floatingBtn = document.createElement('div');
     floatingBtn.className = 'floating-btn';
     floatingBtn.id = 'floatingBtn';
     floatingBtn.innerHTML = '☰';
-    rightControls.appendChild(floatingBtn);
+    buttonGroup.appendChild(floatingBtn);
     
     // Create button container (tools menu)
     const buttonContainer = document.createElement('div');
     buttonContainer.className = 'button-container';
     buttonContainer.id = 'buttonContainer';
-    rightControls.appendChild(buttonContainer);
+    controlsContainer.appendChild(buttonContainer);
     
-  // Add your existing buttons HTML to the container
-    buttonContainer.innerHTML = `
-        <a class="tool-button c11" href="https://bangla-ocr-online.blogspot.com/">OCR বাংলা </a>
-        <a class="tool-button c4" href="https://unicode-bijoy.blogspot.com/">Unicode2Bijoy</a>
-        <a class="tool-button c6" href="https://pdf-add-watermark.blogspot.com/">PDF Add Watermark</a>
-        <a class="tool-button c12" href="https://english-ocr-online.blogspot.com/">OCR English</a>
-        <a class="tool-button c8" href="https://pdf-split-merge-tool.blogspot.com/">PDF Split-Merge</a>
-        <a class="tool-button c2" href="https://pdf-to-jpg-converter-hq.blogspot.com/">PDF2JPG HQ</a>
-        <a class="tool-button c9" href="https://pdf-page-remover.blogspot.com/">PDF Page Remover</a>
-        <a class="tool-button c3" href="https://universal-image-converter-online.blogspot.com/">image Converter</a>
-        <a class="tool-button c5" href="https://youtube-thumbnail-downloader-4kb.blogspot.com/">YT Thumbnail Downloader</a>
-        <a class="tool-button c7" href="https://image-2-pdf-converter.blogspot.com/">Image2PDF Maker</a>
-        <a class="tool-button c1" href="https://video-frame-capture-tool.blogspot.com/">Video Frame Capture</a>
-        <a class="tool-button c13" href="https://image-croppro.blogspot.com/">image Crop Tool</a>
-        <a class="tool-button c14" href="https://emoji-universe.blogspot.com/">Emoji Universe</a>
-		 <a class="tool-button c10" href="https://maskurllink.blogspot.com/">Mask url</a>
-		 <a class="tool-button c15" href="https://gsmsanjoy.com/">🌐Our Website</a>
-    `;
-    
-	
+    // Add your tool buttons
+    const tools = [
+        {class: 'c11', name: 'OCR বাংলা', url: 'https://bangla-ocr-online.blogspot.com/'},
+        {class: 'c4', name: 'Unicode2Bijoy', url: 'https://unicode-bijoy.blogspot.com/'},
+        {class: 'c6', name: 'PDF Add Watermark', url: 'https://pdf-add-watermark.blogspot.com/'},
+        {class: 'c12', name: 'OCR English', url: 'https://english-ocr-online.blogspot.com/'},
+        {class: 'c8', name: 'PDF Split-Merge', url: 'https://pdf-split-merge-tool.blogspot.com/'},
+        {class: 'c2', name: 'PDF2JPG HQ', url: 'https://pdf-to-jpg-converter-hq.blogspot.com/'},
+        {class: 'c9', name: 'PDF Page Remover', url: 'https://pdf-page-remover.blogspot.com/'},
+        {class: 'c3', name: 'image Converter', url: 'https://universal-image-converter-online.blogspot.com/'},
+        {class: 'c5', name: 'YT Thumbnail Downloader', url: 'https://youtube-thumbnail-downloader-4kb.blogspot.com/'},
+        {class: 'c7', name: 'Image2PDF Maker', url: 'https://image-2-pdf-converter.blogspot.com/'},
+        {class: 'c1', name: 'Video Frame Capture', url: 'https://video-frame-capture-tool.blogspot.com/'},
+        {class: 'c13', name: 'image Crop Tool', url: 'https://image-croppro.blogspot.com/'},
+        {class: 'c14', name: 'Emoji Universe', url: 'https://emoji-universe.blogspot.com/'},
+        {class: 'c10', name: 'Mask url', url: 'https://maskurllink.blogspot.com/'},
+        {class: 'c15', name: '🌐Our Website', url: 'https://gsmsanjoy.com/'}
+    ];
+
+    tools.forEach(tool => {
+        const btn = document.createElement('button');
+        btn.className = `tool-button ${tool.class}`;
+        btn.textContent = tool.name;
+        btn.addEventListener('click', () => {
+            window.location.href = tool.url;
+        });
+        buttonContainer.appendChild(btn);
+    });
     
     // Add CSS styles dynamically
     const style = document.createElement('style');
     style.textContent = `
-        .floating-controls {
+        .floating-controls-container {
             position: fixed;
             bottom: 20px;
+            right: 15px;
             display: flex;
             flex-direction: column;
-            align-items: center;
+            align-items: flex-end;
             gap: 10px;
             z-index: 1000;
         }
         
-        .left-controls {
-            right: 70px;
-        }
-        
-        .right-controls {
-            right: 15px;
-        }
-        
-        .control-buttons {
+        .button-group {
             display: flex;
             gap: 10px;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 5px 10px;
+            border-radius: 30px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        .connection-status {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            position: relative;
+        }
+        
+        .connection-status.online {
+            background-color: #4CAF50;
+            box-shadow: 0 0 5px #4CAF50;
+        }
+        
+        .connection-status.offline {
+            background-color: #F44336;
+            box-shadow: 0 0 5px #F44336;
         }
         
         .control-btn {
@@ -120,6 +155,14 @@ document.addEventListener('DOMContentLoaded', function() {
         
         .reload-btn:hover {
             background: #43a047;
+        }
+        
+        .popup-btn {
+            background: #9c27b0;
+        }
+        
+        .popup-btn:hover {
+            background: #7b1fa2;
         }
         
         .floating-btn {
@@ -172,11 +215,12 @@ document.addEventListener('DOMContentLoaded', function() {
             display: block;
             padding: 10px 15px;
             border-radius: 5px;
-            text-decoration: none;
             color: white;
             font-weight: bold;
             text-align: center;
             transition: all 0.2s;
+            border: none;
+            cursor: pointer;
         }
         
         .tool-button:hover {
@@ -198,11 +242,57 @@ document.addEventListener('DOMContentLoaded', function() {
         .c12 { background: #FFD54F; }
         .c13 { background: #FF8A65; }
         .c14 { background: #A1887F; }
-		.c15 { background: #98D8C8; }
+        .c15 { background: #98D8C8; }
     `;
     document.head.appendChild(style);
     
-    // Floating button functionality
+    // Connection status functionality
+    function updateConnectionStatus() {
+        const isOnline = navigator.onLine;
+        connectionStatus.className = `connection-status ${isOnline ? 'online' : 'offline'}`;
+        connectionStatus.title = isOnline ? 'Online' : 'Offline';
+        
+        // Show connection status notification
+        const notification = document.createElement('div');
+        notification.className = `connection-notification ${isOnline ? 'online' : 'offline'}`;
+        notification.textContent = isOnline ? 'You are now online' : 'You are offline';
+        document.body.appendChild(notification);
+        
+        setTimeout(() => {
+            notification.style.opacity = '0';
+            setTimeout(() => notification.remove(), 500);
+        }, 3000);
+    }
+
+    // Add notification styles
+    const notificationStyle = document.createElement('style');
+    notificationStyle.textContent = `
+        .connection-notification {
+            position: fixed;
+            bottom: 80px;
+            right: 20px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            color: white;
+            font-weight: bold;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            z-index: 1001;
+            transition: opacity 0.5s;
+        }
+        .connection-notification.online {
+            background: #4CAF50;
+        }
+        .connection-notification.offline {
+            background: #F44336;
+        }
+    `;
+    document.head.appendChild(notificationStyle);
+
+    // Listen for connection changes
+    window.addEventListener('online', updateConnectionStatus);
+    window.addEventListener('offline', updateConnectionStatus);
+
+    // Rest of the existing functionality...
     let hideTimeout;
     
     floatingBtn.addEventListener('click', function() {
@@ -252,6 +342,17 @@ document.addEventListener('DOMContentLoaded', function() {
     // Reload button functionality
     reloadBtn.addEventListener('click', function() {
         window.location.reload();
+    });
+    
+    // Popup window button functionality
+    popupBtn.addEventListener('click', function() {
+        const width = 640;
+        const height = 500;
+        const left = (screen.width - width) / 2;
+        const top = (screen.height - height) / 2;
+        
+        window.open(window.location.href, '_blank', 
+            `width=${width},height=${height},left=${left},top=${top},scrollbars=yes`);
     });
     
     // Keyboard shortcuts
