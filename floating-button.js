@@ -59,6 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'c12', name: 'OCR English', url: 'https://english-ocr-online.blogspot.com/'},
         {class: 'c8', name: 'PDF Split-Merge', url: 'https://pdf-split-merge-tool.blogspot.com/'},
         {class: 'c2', name: 'PDF2JPG HQ', url: 'https://pdf-to-jpg-converter-hq.blogspot.com/'},
+         {class: 'c13', name: 'Reels Maker Image', url: 'https://reels-maker-pro.blogspot.com/'},
         {class: 'c9', name: 'PDF Page Remover', url: 'https://pdf-page-remover.blogspot.com/'},
         {class: 'c3', name: 'image Converter', url: 'https://universal-image-converter-online.blogspot.com/'},
         {class: 'c5', name: 'YT Thumbnail Downloader', url: 'https://youtube-thumbnail-downloader-4kb.blogspot.com/'},
@@ -370,3 +371,4 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
