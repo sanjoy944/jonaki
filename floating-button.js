@@ -65,6 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'c5', name: 'YT Thumbnail Downloader', url: 'https://youtube-thumbnail-downloader-4kb.blogspot.com/'},
         {class: 'c7', name: 'Image2PDF Maker', url: 'https://image-2-pdf-converter.blogspot.com/'},
         {class: 'c1', name: 'Video Frame Capture', url: 'https://video-frame-capture-tool.blogspot.com/'},
+        {class: 'c8', name: 'RGB COLOR Code', url: 'https://html-rgbcolor-codes.blogspot.com/'},
         {class: 'c13', name: 'image Crop Tool', url: 'https://image-croppro.blogspot.com/'},
         {class: 'c14', name: 'Emoji Universe', url: 'https://emoji-universe.blogspot.com/'},
         {class: 'c10', name: 'Mask url', url: 'https://maskurllink.blogspot.com/'},
@@ -371,4 +372,5 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
 
