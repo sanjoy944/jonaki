@@ -72,6 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'c5', name: 'Youtube To MP3', url: 'https://youtube-to2-mp3.blogspot.com/'},
          {class: 'c8', name: 'YT News Thumbnail', url: 'https://youtube-news-thumbnail.blogspot.com/'},
         {class: 'c3', name: 'HTML Parse', url: 'https://html-parse-online.blogspot.com/'},
+         {class: 'c4', name: 'Text 2 Voice', url: 'https://text-2-speech-online.blogspot.com/'},
         {class: 'c15', name: '🌐Our Website', url: 'https://gsmsanjoy.com/'}
     ];
 
@@ -373,6 +374,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
 
 
 
