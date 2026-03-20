@@ -52,11 +52,12 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Add your tool buttons
     const tools = [
-        {class: 'c11', name: 'OCR বাংলা', url: 'https://bangla-ocr-online.blogspot.com/'},
         {class: 'c4', name: 'Unicode2Bijoy', url: 'https://unicode-bijoy.blogspot.com/'},
         {class: 'c2', name: 'ID Card Scan PDF', url: 'https://idcardscantopdf.blogspot.com/'},
          {class: 'c8', name: 'JointPhotoMaker', url: 'https://jointphotomaker.blogspot.com/'},
         {class: 'c1', name: 'QR Generator', url: 'https://qrcode-generator-pro.blogspot.com/'},
+       {class: 'c12', name: 'OCR English', url: 'https://english-ocr-online.blogspot.com/'},
+         {class: 'c11', name: 'Video Snapshot', url: 'https://video-snapshot-manager.blogspot.com/'},
         {class: 'c6', name: 'PDF Add Watermark', url: 'https://pdf-add-watermark.blogspot.com/'},
         {class: 'c12', name: 'OCR English', url: 'https://english-ocr-online.blogspot.com/'},
         {class: 'c8', name: 'PDF Split-Merge', url: 'https://pdf-split-merge-tool.blogspot.com/'},
