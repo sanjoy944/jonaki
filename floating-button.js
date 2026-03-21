@@ -60,6 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
          {class: 'c7', name: 'Signature BG Remover', url: 'https://signaturebgremover.blogspot.com/'},
          {class: 'c11', name: 'Video Snapshot', url: 'https://video-snapshot-manager.blogspot.com/'},
          {class: 'c3', name: 'Data To Word', url: 'https://datetowordsconverter.blogspot.com/'},
+           {class: 'c4', name: 'Bangla To Banglish', url: 'https://bangla2banglishconverter.blogspot.com/'},
         {class: 'c6', name: 'PDF Add Watermark', url: 'https://pdf-add-watermark.blogspot.com/'},
         {class: 'c12', name: 'OCR English', url: 'https://english-ocr-online.blogspot.com/'},
         {class: 'c8', name: 'PDF Split-Merge', url: 'https://pdf-split-merge-tool.blogspot.com/'},
