@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const tools = [
         {class: 'c4', name: 'Unicode2Bijoy', url: 'https://unicode-bijoy.blogspot.com/'},
         {class: 'c2', name: 'ID Card Scan PDF', url: 'https://idcardscantopdf.blogspot.com/'},
-         {class: 'c8', name: 'JointPhotoMaker', url: 'https://jointphotomaker.blogspot.com/'},
+         {class: 'c8', name: 'Joint Photo Maker', url: 'https://jointphotomaker.blogspot.com/'},
         {class: 'c1', name: 'QR Generator', url: 'https://qrcode-generator-pro.blogspot.com/'},
          {class: 'c9', name: 'Barcode Suite', url: 'https://barcodegeneratorsc.blogspot.com/'},
        {class: 'c12', name: 'OCR Bangla', url: 'https://bangla-ocr-online.blogspot.com/'},
