@@ -64,6 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
            {class: 'c4', name: 'Bangla To Banglish', url: 'https://bangla2banglishconverter.blogspot.com/'},
           {class: 'c4', name: 'Age Calculator', url: 'https://age-calculator94.blogspot.com/'},
           {class: 'c14', name: 'Photo MetaClean', url: 'https://photometacleanpro.blogspot.com/'},
+        {class: 'c8', name: 'Dollar-Taka Rate', url: 'https://dollartakaconverter.blogspot.com/'},
         {class: 'c6', name: 'PDF Add Watermark', url: 'https://pdf-add-watermark.blogspot.com/'},
         {class: 'c12', name: 'OCR English', url: 'https://english-ocr-online.blogspot.com/'},
          {class: 'c9', name: 'Teletalk Photo 300px', url: 'https://teletalkphotosignatureresizer.blogspot.com/'},
