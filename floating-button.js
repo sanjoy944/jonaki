@@ -58,6 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'c1', name: 'QR Generator', url: 'https://qrcode-generator-pro.blogspot.com/'},
          {class: 'c9', name: 'Barcode Suite', url: 'https://barcodegeneratorsc.blogspot.com/'},
        {class: 'c12', name: 'OCR Bangla', url: 'https://bangla-ocr-online.blogspot.com/'},
+           {class: 'c6', name: 'En-Bn Translator', url: 'https://english-bengalitranslator.blogspot.com/'},
          {class: 'c7', name: 'Signature BG Remover', url: 'https://signaturebgremover.blogspot.com/'},
          {class: 'c11', name: 'Video Snapshot', url: 'https://video-snapshot-manager.blogspot.com/'},
          {class: 'c3', name: 'Data To Word', url: 'https://datetowordsconverter.blogspot.com/'},
