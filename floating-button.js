@@ -52,48 +52,49 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Add your tool buttons
     const tools = [
-        {class: 'c4', name: 'Unicode2Bijoy', url: 'https://unicode-bijoy.blogspot.com/'},
-        {class: 'c2', name: 'ID Card Scan PDF', url: 'https://idcardscantopdf.blogspot.com/'},
-         {class: 'c8', name: 'Joint Photo Maker', url: 'https://jointphotomaker.blogspot.com/'},
-        {class: 'c1', name: 'QR Generator', url: 'https://qrcode-generator-pro.blogspot.com/'},
-         {class: 'c9', name: 'Barcode Suite', url: 'https://barcodegeneratorsc.blogspot.com/'},
-       {class: 'c12', name: 'OCR Bangla', url: 'https://bangla-ocr-online.blogspot.com/'},
-           {class: 'c6', name: 'En-Bn Translator', url: 'https://english-bengalitranslator.blogspot.com/'},
-         {class: 'c7', name: 'Signature BG Remover', url: 'https://signaturebgremover.blogspot.com/'},
-         {class: 'c11', name: 'Video Snapshot', url: 'https://video-snapshot-manager.blogspot.com/'},
-         {class: 'c3', name: 'Data To Word', url: 'https://datetowordsconverter.blogspot.com/'},
-           {class: 'c4', name: 'Bangla To Banglish', url: 'https://bangla2banglishconverter.blogspot.com/'},
-          {class: 'c4', name: 'Age Calculator', url: 'https://age-calculator94.blogspot.com/'},
-          {class: 'c14', name: 'Photo MetaClean', url: 'https://photometacleanpro.blogspot.com/'},
-        {class: 'c8', name: 'Dollar-Taka Rate', url: 'https://dollartakaconverter.blogspot.com/'},
-        {class: 'c6', name: 'PDF Add Watermark', url: 'https://pdf-add-watermark.blogspot.com/'},
-        {class: 'c12', name: 'OCR English', url: 'https://english-ocr-online.blogspot.com/'},
-         {class: 'c9', name: 'Teletalk Photo 300px', url: 'https://teletalkphotosignatureresizer.blogspot.com/'},
-        {class: 'c8', name: 'PDF Split-Merge', url: 'https://pdf-split-merge-tool.blogspot.com/'},
-        {class: 'c2', name: 'PDF2JPG HQ', url: 'https://pdf-to-jpg-converter-hq.blogspot.com/'},
-         {class: 'c4', name: 'Video2PDF', url: 'https://videotopdf.blogspot.com/'},
-         {class: 'c13', name: 'Reels Maker Image', url: 'https://reels-maker-pro.blogspot.com/'},
-        {class: 'c10', name: 'videocreator pro', url: 'https://videocreator-pro.blogspot.com/'},
-        {class: 'c9', name: 'PDF Page Remover', url: 'https://pdf-page-remover.blogspot.com/'},
-        {class: 'c3', name: 'image Converter', url: 'https://universal-image-converter-online.blogspot.com/'},
-        {class: 'c5', name: 'YT Thumbnail Downloader', url: 'https://youtube-thumbnail-downloader-4kb.blogspot.com/'},
-        {class: 'c7', name: 'Image2PDF Maker', url: 'https://image-2-pdf-converter.blogspot.com/'},
-        {class: 'c1', name: 'Video Frame Capture', url: 'https://video-frame-capture-tool.blogspot.com/'},
-        {class: 'c8', name: 'RGB COLOR Code', url: 'https://html-rgbcolor-codes.blogspot.com/'},
-        {class: 'c13', name: 'image Crop Tool', url: 'https://image-croppro.blogspot.com/'},
-        {class: 'c14', name: 'Emoji Universe', url: 'https://emoji-universe.blogspot.com/'},
-        {class: 'c10', name: 'Mask url', url: 'https://maskurllink.blogspot.com/'},
-        {class: 'c5', name: 'Youtube To MP3', url: 'https://youtube-to2-mp3.blogspot.com/'},
-         {class: 'c8', name: 'YT News Thumbnail', url: 'https://youtube-news-thumbnail.blogspot.com/'},
-        {class: 'c3', name: 'HTML Parse', url: 'https://html-parse-online.blogspot.com/'},
-         {class: 'c4', name: 'Text 2 Voice', url: 'https://text-2-speech-online.blogspot.com/'},
-        {class: 'c15', name: '🌐Our Website', url: 'https://gsmsanjoy.com/'}
+        {class: 'url-btn', name: 'Unicode2Bijoy', url: 'https://unicode-bijoy.blogspot.com/'},
+        {class: 'url-btn', name: 'ID Card Scan PDF', url: 'https://idcardscantopdf.blogspot.com/'},
+        {class: 'url-btn', name: 'Joint Photo Maker', url: 'https://jointphotomaker.blogspot.com/'},
+        {class: 'url-btn', name: 'QR Generator', url: 'https://qrcode-generator-pro.blogspot.com/'},
+        {class: 'url-btn', name: 'Barcode Suite', url: 'https://barcodegeneratorsc.blogspot.com/'},
+        {class: 'url-btn', name: 'OCR Bangla', url: 'https://bangla-ocr-online.blogspot.com/'},
+        {class: 'url-btn', name: 'En-Bn Translator', url: 'https://english-bengalitranslator.blogspot.com/'},
+        {class: 'url-btn', name: 'Signature BG Remover', url: 'https://signaturebgremover.blogspot.com/'},
+        {class: 'url-btn', name: 'Video Snapshot', url: 'https://video-snapshot-manager.blogspot.com/'},
+        {class: 'url-btn', name: 'Data To Word', url: 'https://datetowordsconverter.blogspot.com/'},
+        {class: 'url-btn', name: 'Bangla To Banglish', url: 'https://bangla2banglishconverter.blogspot.com/'},
+        {class: 'url-btn', name: 'Age Calculator', url: 'https://age-calculator94.blogspot.com/'},
+        {class: 'url-btn', name: 'Photo MetaClean', url: 'https://photometacleanpro.blogspot.com/'},
+        {class: 'url-btn', name: 'Dollar-Taka Rate', url: 'https://dollartakaconverter.blogspot.com/'},
+        {class: 'url-btn', name: 'PDF Add Watermark', url: 'https://pdf-add-watermark.blogspot.com/'},
+        {class: 'url-btn', name: 'OCR English', url: 'https://english-ocr-online.blogspot.com/'},
+        {class: 'url-btn', name: 'Teletalk Photo 300px', url: 'https://teletalkphotosignatureresizer.blogspot.com/'},
+        {class: 'url-btn', name: 'PDF Split-Merge', url: 'https://pdf-split-merge-tool.blogspot.com/'},
+        {class: 'url-btn', name: 'PDF2JPG HQ', url: 'https://pdf-to-jpg-converter-hq.blogspot.com/'},
+        {class: 'url-btn', name: 'Video2PDF', url: 'https://videotopdf.blogspot.com/'},
+        {class: 'url-btn', name: 'Reels Maker Image', url: 'https://reels-maker-pro.blogspot.com/'},
+        {class: 'url-btn', name: 'videocreator pro', url: 'https://videocreator-pro.blogspot.com/'},
+        {class: 'url-btn', name: 'Photo Editor', url: 'https://photoeditor26.blogspot.com/'},
+        {class: 'url-btn', name: 'PDF Page Remover', url: 'https://pdf-page-remover.blogspot.com/'},
+        {class: 'url-btn', name: 'image Converter', url: 'https://universal-image-converter-online.blogspot.com/'},
+        {class: 'url-btn', name: 'YT Thumbnail Downloader', url: 'https://youtube-thumbnail-downloader-4kb.blogspot.com/'},
+        {class: 'url-btn', name: 'Image2PDF Maker', url: 'https://image-2-pdf-converter.blogspot.com/'},
+        {class: 'url-btn', name: 'Video Frame Capture', url: 'https://video-frame-capture-tool.blogspot.com/'},
+        {class: 'url-btn', name: 'RGB COLOR Code', url: 'https://html-rgbcolor-codes.blogspot.com/'},
+        {class: 'url-btn', name: 'image Crop Tool', url: 'https://image-croppro.blogspot.com/'},
+        {class: 'url-btn', name: 'Emoji Universe', url: 'https://emoji-universe.blogspot.com/'},
+        {class: 'url-btn', name: 'Mask url', url: 'https://maskurllink.blogspot.com/'},
+        {class: 'url-btn', name: 'Youtube To MP3', url: 'https://youtube-to2-mp3.blogspot.com/'},
+        {class: 'url-btn', name: 'YT News Thumbnail', url: 'https://youtube-news-thumbnail.blogspot.com/'},
+        {class: 'url-btn', name: 'HTML Parse', url: 'https://html-parse-online.blogspot.com/'},
+        {class: 'url-btn', name: 'Text 2 Voice', url: 'https://text-2-speech-online.blogspot.com/'},
+        {class: 'url-btn website-btn', name: '🌐Our Website', url: 'https://gsmsanjoy.com/'}
     ];
 
     tools.forEach(tool => {
         const btn = document.createElement('button');
         btn.className = `tool-button ${tool.class}`;
-        btn.textContent = tool.name;
+        btn.innerHTML = `<span class="btn-icon">🔗</span> ${tool.name}`;
         btn.addEventListener('click', () => {
             window.location.href = tool.url;
         });
@@ -141,11 +142,14 @@ document.addEventListener('DOMContentLoaded', function() {
             box-shadow: 0 0 5px #F44336;
         }
         
+        /* ============================================
+           CONTROL BUTTONS (Non-URL buttons)
+           Each has unique color
+           ============================================ */
         .control-btn {
             width: 30px;
             height: 30px;
             border-radius: 50%;
-            background: #5c6bc0;
             color: white;
             border: none;
             font-size: 12px;
@@ -158,70 +162,89 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         
         .control-btn:hover {
-            background: #3949ab;
             transform: scale(1.1);
         }
         
+        /* Back Button - Orange/Red */
         .back-btn {
-            background: #ff7043;
+            background: linear-gradient(135deg, #FF6B35, #F7444E);
+            box-shadow: 0 2px 8px rgba(247, 68, 78, 0.4);
         }
-        
         .back-btn:hover {
-            background: #f4511e;
+            background: linear-gradient(135deg, #F7444E, #E53935);
         }
         
+        /* Reload Button - Green */
         .reload-btn {
-            background: #66bb6a;
+            background: linear-gradient(135deg, #43E97B, #38F9D7);
+            box-shadow: 0 2px 8px rgba(56, 249, 215, 0.4);
         }
-        
         .reload-btn:hover {
-            background: #43a047;
+            background: linear-gradient(135deg, #38F9D7, #2ECC71);
         }
         
+        /* Popup Button - Purple */
         .popup-btn {
-            background: #9c27b0;
+            background: linear-gradient(135deg, #A855F7, #6366F1);
+            box-shadow: 0 2px 8px rgba(168, 85, 247, 0.4);
         }
-        
         .popup-btn:hover {
-            background: #7b1fa2;
+            background: linear-gradient(135deg, #6366F1, #4F46E5);
         }
         
+        /* Floating Menu Button - Dark Blue */
         .floating-btn {
             width: 40px;
             height: 40px;
-            background: #4a6baf;
+            background: linear-gradient(135deg, #1E3A5F, #2D5F8A);
             color: white;
             border-radius: 50%;
             text-align: center;
             line-height: 40px;
             font-size: 15px;
             cursor: pointer;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            box-shadow: 0 2px 10px rgba(30, 58, 95, 0.4);
             transition: all 0.3s;
         }
         
         .floating-btn:hover {
-            background: #3a5a9f;
+            background: linear-gradient(135deg, #2D5F8A, #1E3A5F);
             transform: scale(1.1);
         }
         
+        /* ============================================
+           BUTTON CONTAINER (Tools Menu)
+           ============================================ */
         .button-container {
             position: absolute;
             bottom: 60px;
             right: 0;
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            background: linear-gradient(145deg, #1a1a2e, #16213e);
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
             padding: 15px;
             display: none;
             flex-direction: column;
-            gap: 10px;
-            width: 200px;
+            gap: 8px;
+            width: 220px;
             max-height: 70vh;
             overflow-y: auto;
             z-index: 999;
             opacity: 1;
             transition: opacity 0.5s;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .button-container::-webkit-scrollbar {
+            width: 6px;
+        }
+        .button-container::-webkit-scrollbar-track {
+            background: rgba(255,255,255,0.05);
+            border-radius: 3px;
+        }
+        .button-container::-webkit-scrollbar-thumb {
+            background: rgba(255,255,255,0.2);
+            border-radius: 3px;
         }
         
         .button-container.hidden {
@@ -232,38 +255,71 @@ document.addEventListener('DOMContentLoaded', function() {
             opacity: 1;
         }
         
+        /* ============================================
+           URL BUTTONS (Tool buttons with links)
+           All have same Blue/Cyan gradient color
+           ============================================ */
         .tool-button {
-            display: block;
-            padding: 10px 15px;
-            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 12px;
+            border-radius: 8px;
             color: white;
-            font-weight: bold;
-            text-align: center;
-            transition: all 0.2s;
+            font-weight: 500;
+            font-size: 13px;
+            text-align: left;
+            transition: all 0.3s ease;
             border: none;
             cursor: pointer;
+            position: relative;
+            overflow: hidden;
         }
         
-        .tool-button:hover {
+        .tool-button .btn-icon {
+            font-size: 14px;
+            flex-shrink: 0;
+        }
+        
+        /* URL Buttons - Blue/Cyan Gradient */
+        .url-btn {
+            background: linear-gradient(135deg, #0EA5E9, #06B6D4);
+            box-shadow: 0 2px 8px rgba(14, 165, 233, 0.3);
+        }
+        
+        .url-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: left 0.5s;
+        }
+        
+        .url-btn:hover::before {
+            left: 100%;
+        }
+        
+        .url-btn:hover {
             transform: translateX(5px);
-            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+            background: linear-gradient(135deg, #0284C7, #0891B2);
+            box-shadow: 0 4px 15px rgba(14, 165, 233, 0.5);
         }
         
-        .c1 { background: #FF6B6B; }
-        .c2 { background: #4ECDC4; }
-        .c3 { background: #45B7D1; }
-        .c4 { background: #FFA07A; }
-        .c5 { background: #98D8C8; }
-        .c6 { background: #F06292; }
-        .c7 { background: #7986CB; }
-        .c8 { background: #9575CD; }
-        .c9 { background: #64B5F6; }
-        .c10 { background: #4DB6AC; }
-        .c11 { background: #81C784; }
-        .c12 { background: #FFD54F; }
-        .c13 { background: #FF8A65; }
-        .c14 { background: #A1887F; }
-        .c15 { background: #98D8C8; }
+        /* Website Button - Special Gold Color for "Our Website" */
+        .website-btn {
+            background: linear-gradient(135deg, #F59E0B, #EF4444);
+            box-shadow: 0 2px 8px rgba(245, 158, 11, 0.4);
+            font-weight: 700;
+        }
+        
+        .website-btn:hover {
+            background: linear-gradient(135deg, #EF4444, #DC2626);
+            transform: translateX(5px);
+            box-shadow: 0 4px 15px rgba(239, 68, 68, 0.5);
+        }
     `;
     document.head.appendChild(style);
     
@@ -313,7 +369,7 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('online', updateConnectionStatus);
     window.addEventListener('offline', updateConnectionStatus);
 
-    // Rest of the existing functionality...
+    // Sidebar functionality
     let hideTimeout;
     
     floatingBtn.addEventListener('click', function() {
@@ -388,9 +444,3 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
-
-
-
-
-
-
