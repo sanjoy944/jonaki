@@ -112,6 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'url-btn', name: 'Barcode Suite', url: 'https://barcodegeneratorsc.blogspot.com/'},
         {class: 'url-btn', name: 'OCR Bangla', url: 'https://bangla-ocr-online.blogspot.com/'},
         {class: 'url-btn', name: 'En-Bn Translator', url: 'https://english-bengalitranslator.blogspot.com/'},
+         {class: 'url-btn', name: 'Signature Maker', url: 'https://digitalsignaturemakerpad.blogspot.com/'},
         {class: 'url-btn', name: 'Signature Editor', url: 'https://signaturebgremover.blogspot.com/'},
         {class: 'url-btn', name: 'Video Snapshot', url: 'https://video-snapshot-manager.blogspot.com/'},
         {class: 'url-btn', name: 'Data To Word', url: 'https://datetowordsconverter.blogspot.com/'},
