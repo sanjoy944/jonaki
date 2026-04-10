@@ -56,6 +56,52 @@ document.addEventListener('DOMContentLoaded', function() {
     buttonContainer.id = 'buttonContainer';
     controlsContainer.appendChild(buttonContainer);
     
+    // Random color palettes for hover effects
+    const colorPalettes = [
+        { bg: 'linear-gradient(135deg, #FF6B6B, #EE5A24)', shadow: 'rgba(255, 107, 107, 0.6)', border: '#FF6B6B' },
+        { bg: 'linear-gradient(135deg, #F9CA24, #F0932B)', shadow: 'rgba(249, 202, 36, 0.6)', border: '#F9CA24' },
+        { bg: 'linear-gradient(135deg, #6AB04C, #BADC58)', shadow: 'rgba(106, 176, 76, 0.6)', border: '#6AB04C' },
+        { bg: 'linear-gradient(135deg, #22A6B3, #7ED6DF)', shadow: 'rgba(34, 166, 179, 0.6)', border: '#22A6B3' },
+        { bg: 'linear-gradient(135deg, #6C5CE7, #A29BFE)', shadow: 'rgba(108, 92, 231, 0.6)', border: '#6C5CE7' },
+        { bg: 'linear-gradient(135deg, #E84393, #FD79A8)', shadow: 'rgba(232, 67, 147, 0.6)', border: '#E84393' },
+        { bg: 'linear-gradient(135deg, #00B894, #55E6C1)', shadow: 'rgba(0, 184, 148, 0.6)', border: '#00B894' },
+        { bg: 'linear-gradient(135deg, #0984E3, #74B9FF)', shadow: 'rgba(9, 132, 227, 0.6)', border: '#0984E3' },
+        { bg: 'linear-gradient(135deg, #D63031, #FF7675)', shadow: 'rgba(214, 48, 49, 0.6)', border: '#D63031' },
+        { bg: 'linear-gradient(135deg, #E17055, #FAB1A0)', shadow: 'rgba(225, 112, 85, 0.6)', border: '#E17055' },
+        { bg: 'linear-gradient(135deg, #00CEC9, #81ECEC)', shadow: 'rgba(0, 206, 201, 0.6)', border: '#00CEC9' },
+        { bg: 'linear-gradient(135deg, #FDCB6E, #FFEAA7)', shadow: 'rgba(253, 203, 110, 0.6)', border: '#FDCB6E' },
+        { bg: 'linear-gradient(135deg, #A29BFE, #DFE6E9)', shadow: 'rgba(162, 155, 254, 0.6)', border: '#A29BFE' },
+        { bg: 'linear-gradient(135deg, #FF9FF3, #F368E0)', shadow: 'rgba(255, 159, 243, 0.6)', border: '#FF9FF3' },
+        { bg: 'linear-gradient(135deg, #48DBFB, #0ABDE3)', shadow: 'rgba(72, 219, 251, 0.6)', border: '#48DBFB' },
+        { bg: 'linear-gradient(135deg, #FF6348, #FF4757)', shadow: 'rgba(255, 99, 72, 0.6)', border: '#FF6348' },
+        { bg: 'linear-gradient(135deg, #2ED573, #7BED9F)', shadow: 'rgba(46, 213, 115, 0.6)', border: '#2ED573' },
+        { bg: 'linear-gradient(135deg, #1E90FF, #70A1FF)', shadow: 'rgba(30, 144, 255, 0.6)', border: '#1E90FF' },
+        { bg: 'linear-gradient(135deg, #FFA502, #ECCC68)', shadow: 'rgba(255, 165, 2, 0.6)', border: '#FFA502' },
+        { bg: 'linear-gradient(135deg, #FF4757, #FF6B81)', shadow: 'rgba(255, 71, 87, 0.6)', border: '#FF4757' }
+    ];
+
+    // Random transform effects
+    const randomEffects = [
+        'translateX(5px) scale(1.03)',
+        'translateX(-3px) scale(1.02)',
+        'translateX(8px) scale(1.04)',
+        'translateX(3px) translateY(-2px) scale(1.02)',
+        'translateX(6px) translateY(2px) scale(1.03)',
+        'translateX(4px) scale(1.05)',
+        'translateX(-2px) translateY(-3px) scale(1.02)',
+        'translateX(7px) translateY(-1px) scale(1.03)'
+    ];
+
+    // Function to get random color palette
+    function getRandomColor() {
+        return colorPalettes[Math.floor(Math.random() * colorPalettes.length)];
+    }
+
+    // Function to get random effect
+    function getRandomEffect() {
+        return randomEffects[Math.floor(Math.random() * randomEffects.length)];
+    }
+
     // Add your tool buttons
     const tools = [
         {class: 'url-btn', name: 'Unicode2Bijoy', url: 'https://unicode-bijoy.blogspot.com/'},
@@ -97,11 +143,49 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'url-btn', name: '🌐Our Website', url: 'https://gsmsanjoy.com/'}
     ];
 
-    tools.forEach((tool, index) => {
+    tools.forEach((tool) => {
         const btn = document.createElement('button');
         btn.className = `tool-button ${tool.class}`;
-        btn.style.animationDelay = `${index * 0.1}s`;
+        // NO ANIMATION DELAY - removed
         btn.innerHTML = `<span class="btn-icon">🔗</span> <span class="btn-text">${tool.name}</span>`;
+        
+        // Random hover effects with background color change
+        btn.addEventListener('mouseenter', function() {
+            const randomColor = getRandomColor();
+            const randomEffect = getRandomEffect();
+            
+            this.style.background = randomColor.bg;
+            this.style.boxShadow = `0 4px 20px ${randomColor.shadow}, 0 0 30px ${randomColor.shadow}`;
+            this.style.borderColor = randomColor.border;
+            this.style.transform = randomEffect;
+            
+            // Random icon animation
+            const icon = this.querySelector('.btn-icon');
+            const rotations = ['-10deg', '15deg', '-15deg', '20deg', '-20deg', '10deg'];
+            const randomRotation = rotations[Math.floor(Math.random() * rotations.length)];
+            icon.style.transform = `scale(1.3) rotate(${randomRotation})`;
+            
+            // Random text shadow color
+            const text = this.querySelector('.btn-text');
+            text.style.textShadow = `0 0 10px ${randomColor.shadow}, 0 0 20px ${randomColor.shadow}`;
+            text.style.fontWeight = '700';
+        });
+        
+        btn.addEventListener('mouseleave', function() {
+            // Reset to default styles
+            this.style.background = '';
+            this.style.boxShadow = '';
+            this.style.borderColor = 'transparent';
+            this.style.transform = '';
+            
+            const icon = this.querySelector('.btn-icon');
+            icon.style.transform = '';
+            
+            const text = this.querySelector('.btn-text');
+            text.style.textShadow = '';
+            text.style.fontWeight = '';
+        });
+        
         btn.addEventListener('click', () => {
             window.location.href = tool.url;
         });
@@ -115,49 +199,9 @@ document.addEventListener('DOMContentLoaded', function() {
            KEYFRAME ANIMATIONS
            ============================================ */
         
-        @keyframes colorCycle {
-            0% { background: linear-gradient(135deg, #FF6B6B, #EE5A24); box-shadow: 0 4px 20px rgba(255, 107, 107, 0.5); }
-            15% { background: linear-gradient(135deg, #F9CA24, #F0932B); box-shadow: 0 4px 20px rgba(249, 202, 36, 0.5); }
-            30% { background: linear-gradient(135deg, #6AB04C, #BADC58); box-shadow: 0 4px 20px rgba(106, 176, 76, 0.5); }
-            45% { background: linear-gradient(135deg, #22A6B3, #7ED6DF); box-shadow: 0 4px 20px rgba(34, 166, 179, 0.5); }
-            60% { background: linear-gradient(135deg, #30336B, #535C68); box-shadow: 0 4px 20px rgba(48, 51, 107, 0.5); }
-            75% { background: linear-gradient(135deg, #6C5CE7, #A29BFE); box-shadow: 0 4px 20px rgba(108, 92, 231, 0.5); }
-            90% { background: linear-gradient(135deg, #E84393, #FD79A8); box-shadow: 0 4px 20px rgba(232, 67, 147, 0.5); }
-            100% { background: linear-gradient(135deg, #FF6B6B, #EE5A24); box-shadow: 0 4px 20px rgba(255, 107, 107, 0.5); }
-        }
-        
-        @keyframes rainbowText {
-            0% { color: #FF6B6B; }
-            15% { color: #F9CA24; }
-            30% { color: #6AB04C; }
-            45% { color: #22A6B3; }
-            60% { color: #6C5CE7; }
-            75% { color: #E84393; }
-            90% { color: #FF6B6B; }
-            100% { color: #FF6B6B; }
-        }
-        
         @keyframes shimmer {
             0% { left: -100%; }
             100% { left: 100%; }
-        }
-        
-        @keyframes pulse {
-            0%, 100% { transform: translateX(5px) scale(1); }
-            50% { transform: translateX(8px) scale(1.02); }
-        }
-        
-        @keyframes glowPulse {
-            0%, 100% { filter: brightness(1); }
-            50% { filter: brightness(1.2); }
-        }
-        
-        @keyframes borderGlow {
-            0%, 100% { border-color: rgba(255, 107, 107, 0.6); }
-            20% { border-color: rgba(249, 202, 36, 0.6); }
-            40% { border-color: rgba(106, 176, 76, 0.6); }
-            60% { border-color: rgba(108, 92, 231, 0.6); }
-            80% { border-color: rgba(232, 67, 147, 0.6); }
         }
         
         @keyframes iconBounce {
@@ -387,7 +431,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         /* ============================================
            URL BUTTONS (Tool buttons with links)
-           ANIMATED COLOR CHANGE ON HOVER
+           RANDOM HOVER EFFECTS WITH JS
            ============================================ */
         .tool-button {
             display: flex;
@@ -399,7 +443,7 @@ document.addEventListener('DOMContentLoaded', function() {
             font-weight: 500;
             font-size: 13px;
             text-align: left;
-            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             border: 2px solid transparent;
             cursor: pointer;
             position: relative;
@@ -425,7 +469,7 @@ document.addEventListener('DOMContentLoaded', function() {
             box-shadow: 0 2px 8px rgba(14, 165, 233, 0.3);
         }
         
-        /* Shimmer Effect - Always visible on hover */
+        /* Shimmer Effect on hover */
         .url-btn::before {
             content: '';
             position: absolute;
@@ -434,7 +478,8 @@ document.addEventListener('DOMContentLoaded', function() {
             width: 100%;
             height: 100%;
             background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
-            transition: none;
+            opacity: 0;
+            transition: opacity 0.3s;
         }
         
         /* Second shimmer layer for extra effect */
@@ -446,38 +491,19 @@ document.addEventListener('DOMContentLoaded', function() {
             width: 60%;
             height: 100%;
             background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
-            transition: none;
+            opacity: 0;
+            transition: opacity 0.3s;
         }
         
-        /* ============================================
-           HOVER STATE - ANIMATED COLOR CHANGE
-           ============================================ */
-        .url-btn:hover {
-            animation: colorCycle 3s ease-in-out infinite, pulse 1s ease-in-out infinite, glowPulse 2s ease-in-out infinite;
-            border: 2px solid rgba(255,255,255,0.4);
-            animation: colorCycle 3s ease-in-out infinite, pulse 1s ease-in-out infinite;
-            transform: translateX(5px) scale(1.02);
-        }
-        
-        /* Shimmer animation on hover */
+        /* Show shimmer on hover */
         .url-btn:hover::before {
+            opacity: 1;
             animation: shimmer 1.5s ease-in-out infinite;
         }
         
         .url-btn:hover::after {
+            opacity: 1;
             animation: shimmer 1.5s ease-in-out infinite 0.75s;
-        }
-        
-        /* Rainbow text on hover */
-        .url-btn:hover .btn-text {
-            animation: rainbowText 2s linear infinite;
-            font-weight: 700;
-            text-shadow: 0 0 10px rgba(255,255,255,0.5);
-        }
-        
-        /* Icon bounce on hover */
-        .url-btn:hover .btn-icon {
-            animation: iconBounce 0.8s ease-in-out infinite;
         }
         
         /* ============================================
@@ -487,22 +513,6 @@ document.addEventListener('DOMContentLoaded', function() {
             background: linear-gradient(135deg, #F59E0B, #EF4444);
             box-shadow: 0 2px 8px rgba(245, 158, 11, 0.4);
             font-weight: 700;
-        }
-        
-        .website-btn:hover {
-            animation: colorCycle 2.5s ease-in-out infinite, pulse 0.8s ease-in-out infinite;
-            border: 2px solid rgba(255,255,255,0.5);
-            transform: translateX(5px) scale(1.05);
-            text-shadow: 0 0 15px rgba(255,255,255,0.8);
-        }
-        
-        .website-btn:hover::before {
-            animation: shimmer 1s ease-in-out infinite;
-        }
-        
-        .website-btn:hover .btn-icon {
-            animation: iconBounce 0.6s ease-in-out infinite;
-            font-size: 16px;
         }
         
         /* Position indicator dots */
@@ -779,7 +789,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         setTimeout(() => {
             notification.style.opacity = '0';
-            setTimeout(() => notification.remove(), 500);
+            setTimeout(() => notification.remove(), 300);
         }, 3000);
     }
 
@@ -831,7 +841,7 @@ document.addEventListener('DOMContentLoaded', function() {
         buttonContainer.classList.add('hidden');
         setTimeout(() => {
             buttonContainer.style.display = 'none';
-        }, 500);
+        }, 300);
     }
     
     function resetHideTimeout() {
