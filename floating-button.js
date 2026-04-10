@@ -108,6 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'url-btn', name: 'ID Card Scan PDF', url: 'https://idcardscantopdf.blogspot.com/'},
         {class: 'url-btn', name: 'Joint Photo Maker', url: 'https://jointphotomaker.blogspot.com/'},
         {class: 'url-btn', name: 'QR Generator', url: 'https://qrcode-generator-pro.blogspot.com/'},
+         {class: 'url-btn', name: 'Multi-image PDF', url: 'https://multi-imagetopdf.blogspot.com/'},
         {class: 'url-btn', name: 'Barcode Suite', url: 'https://barcodegeneratorsc.blogspot.com/'},
         {class: 'url-btn', name: 'OCR Bangla', url: 'https://bangla-ocr-online.blogspot.com/'},
         {class: 'url-btn', name: 'En-Bn Translator', url: 'https://english-bengalitranslator.blogspot.com/'},
