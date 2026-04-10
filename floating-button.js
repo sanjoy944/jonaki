@@ -5,6 +5,12 @@ document.addEventListener('DOMContentLoaded', function() {
     controlsContainer.className = 'floating-controls-container';
     document.body.appendChild(controlsContainer);
 
+    // Create drag handle indicator
+    const dragHandle = document.createElement('div');
+    dragHandle.className = 'drag-handle';
+    dragHandle.title = 'Drag to move toolbar';
+    controlsContainer.appendChild(dragHandle);
+
     // Create button group for all buttons
     const buttonGroup = document.createElement('div');
     buttonGroup.className = 'button-group';
@@ -88,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'url-btn', name: 'YT News Thumbnail', url: 'https://youtube-news-thumbnail.blogspot.com/'},
         {class: 'url-btn', name: 'HTML Parse', url: 'https://html-parse-online.blogspot.com/'},
         {class: 'url-btn', name: 'Text 2 Voice', url: 'https://text-2-speech-online.blogspot.com/'},
-        {class: 'url-btn website-btn', name: '🌐Our Website', url: 'https://gsmsanjoy.com/'}
+        {class: 'url-btn', name: '🌐Our Website', url: 'https://gsmsanjoy.com/'}
     ];
 
     tools.forEach(tool => {
@@ -111,8 +117,63 @@ document.addEventListener('DOMContentLoaded', function() {
             display: flex;
             flex-direction: column;
             align-items: flex-end;
-            gap: 10px;
+            gap: 8px;
             z-index: 1000;
+            user-select: none;
+            transition: none;
+        }
+        
+        .floating-controls-container.dragging {
+            cursor: grabbing !important;
+            opacity: 0.9;
+            transition: none;
+        }
+        
+        .floating-controls-container.dragging .button-group {
+            box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+            transform: scale(1.02);
+        }
+        
+        .floating-controls-container.dragging .drag-handle {
+            background: rgba(255, 255, 255, 0.6);
+        }
+        
+        /* Drag Handle */
+        .drag-handle {
+            width: 100%;
+            height: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: grab;
+            padding: 4px 15px;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.15);
+            transition: all 0.2s;
+            position: relative;
+        }
+        
+        .drag-handle::before {
+            content: '';
+            display: block;
+            width: 30px;
+            height: 3px;
+            background: rgba(255, 255, 255, 0.5);
+            border-radius: 2px;
+            transition: all 0.2s;
+        }
+        
+        .drag-handle:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+        
+        .drag-handle:hover::before {
+            background: rgba(255, 255, 255, 0.8);
+            width: 40px;
+        }
+        
+        .drag-handle:active {
+            cursor: grabbing;
         }
         
         .button-group {
@@ -123,6 +184,12 @@ document.addEventListener('DOMContentLoaded', function() {
             padding: 5px 10px;
             border-radius: 30px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            transition: all 0.2s;
+            cursor: grab;
+        }
+        
+        .button-group:active {
+            cursor: grabbing;
         }
         
         .connection-status {
@@ -130,6 +197,7 @@ document.addEventListener('DOMContentLoaded', function() {
             height: 12px;
             border-radius: 50%;
             position: relative;
+            pointer-events: none;
         }
         
         .connection-status.online {
@@ -217,7 +285,7 @@ document.addEventListener('DOMContentLoaded', function() {
            ============================================ */
         .button-container {
             position: absolute;
-            bottom: 60px;
+            bottom: 70px;
             right: 0;
             background: linear-gradient(145deg, #1a1a2e, #16213e);
             border-radius: 12px;
@@ -320,8 +388,306 @@ document.addEventListener('DOMContentLoaded', function() {
             transform: translateX(5px);
             box-shadow: 0 4px 15px rgba(239, 68, 68, 0.5);
         }
+        
+        /* Position indicator dots */
+        .position-indicator {
+            position: fixed;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.3);
+            pointer-events: none;
+            z-index: 999;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        
+        .position-indicator.visible {
+            opacity: 1;
+        }
     `;
     document.head.appendChild(style);
+    
+    // ============================================
+    // DRAG FUNCTIONALITY
+    // ============================================
+    let isDragging = false;
+    let isClick = true;
+    let dragStartX, dragStartY;
+    let initialLeft, initialBottom;
+    let hasMoved = false;
+    const DRAG_THRESHOLD = 5; // Minimum pixels to consider as drag
+    
+    // Convert bottom positioning to top for easier calculations
+    function getInitialPosition() {
+        const rect = controlsContainer.getBoundingClientRect();
+        return {
+            left: rect.left,
+            top: rect.top
+        };
+    }
+    
+    // Switch to top/left positioning for drag
+    function switchToTopLeft() {
+        const rect = controlsContainer.getBoundingClientRect();
+        controlsContainer.style.bottom = 'auto';
+        controlsContainer.style.right = 'auto';
+        controlsContainer.style.left = rect.left + 'px';
+        controlsContainer.style.top = rect.top + 'px';
+    }
+    
+    // Mouse down - Start drag
+    function onDragStart(e) {
+        // Don't start drag from buttons
+        if (e.target.closest('.control-btn') || e.target.closest('.floating-btn') || e.target.closest('.tool-button')) {
+            return;
+        }
+        
+        isDragging = false;
+        hasMoved = false;
+        isClick = true;
+        
+        const clientX = e.type.includes('touch') ? e.touches[0].clientX : e.clientX;
+        const clientY = e.type.includes('touch') ? e.touches[0].clientY : e.clientY;
+        
+        dragStartX = clientX;
+        dragStartY = clientY;
+        
+        // Switch to top/left positioning
+        switchToTopLeft();
+        
+        const rect = controlsContainer.getBoundingClientRect();
+        initialLeft = rect.left;
+        initialTop = rect.top;
+        
+        e.preventDefault();
+    }
+    
+    // Mouse move - During drag
+    function onDragMove(e) {
+        if (dragStartX === undefined) return;
+        
+        const clientX = e.type.includes('touch') ? e.touches[0].clientX : e.clientX;
+        const clientY = e.type.includes('touch') ? e.touches[0].clientY : e.clientY;
+        
+        const deltaX = clientX - dragStartX;
+        const deltaY = clientY - dragStartY;
+        
+        // Check if moved beyond threshold
+        if (!hasMoved && (Math.abs(deltaX) > DRAG_THRESHOLD || Math.abs(deltaY) > DRAG_THRESHOLD)) {
+            hasMoved = true;
+            isDragging = true;
+            isClick = false;
+            controlsContainer.classList.add('dragging');
+        }
+        
+        if (isDragging) {
+            e.preventDefault();
+            
+            let newLeft = initialLeft + deltaX;
+            let newTop = initialTop + deltaY;
+            
+            // Get container dimensions
+            const containerWidth = controlsContainer.offsetWidth;
+            const containerHeight = controlsContainer.offsetHeight;
+            
+            // Keep within viewport bounds
+            const maxX = window.innerWidth - containerWidth;
+            const maxY = window.innerHeight - containerHeight;
+            
+            newLeft = Math.max(10, Math.min(newLeft, maxX - 10));
+            newTop = Math.max(10, Math.min(newTop, maxY - 10));
+            
+            controlsContainer.style.left = newLeft + 'px';
+            controlsContainer.style.top = newTop + 'px';
+            
+            // Update button container position based on toolbar position
+            updateMenuPosition();
+        }
+    }
+    
+    // Mouse up - End drag
+    function onDragEnd(e) {
+        if (isDragging) {
+            controlsContainer.classList.remove('dragging');
+            
+            // Snap to edges when close
+            snapToEdge();
+            
+            // Save position to localStorage
+            savePosition();
+        }
+        
+        isDragging = false;
+        hasMoved = false;
+        dragStartX = undefined;
+        dragStartY = undefined;
+    }
+    
+    // Snap toolbar to nearest edge when close
+    function snapToEdge() {
+        const rect = controlsContainer.getBoundingClientRect();
+        const centerX = rect.left + rect.width / 2;
+        const centerY = rect.top + rect.height / 2;
+        
+        const snapThreshold = 80;
+        
+        // Snap to left or right edge
+        if (rect.left < snapThreshold) {
+            controlsContainer.style.left = '10px';
+        } else if (rect.right > window.innerWidth - snapThreshold) {
+            controlsContainer.style.left = (window.innerWidth - rect.width - 10) + 'px';
+        }
+        
+        // Snap to top or bottom edge
+        if (rect.top < snapThreshold) {
+            controlsContainer.style.top = '10px';
+        } else if (rect.bottom > window.innerHeight - snapThreshold) {
+            controlsContainer.style.top = (window.innerHeight - rect.height - 10) + 'px';
+        }
+    }
+    
+    // Update tools menu position based on toolbar location
+    function updateMenuPosition() {
+        const rect = controlsContainer.getBoundingClientRect();
+        const menuHeight = 400; // Approximate max menu height
+        
+        // Position menu above by default
+        if (rect.top > menuHeight + 20) {
+            buttonContainer.style.bottom = '70px';
+            buttonContainer.style.top = 'auto';
+        } else {
+            // Position below if not enough space above
+            buttonContainer.style.top = '70px';
+            buttonContainer.style.bottom = 'auto';
+        }
+        
+        // Adjust horizontal position
+        if (rect.left < 220) {
+            buttonContainer.style.left = '0';
+            buttonContainer.style.right = 'auto';
+        } else {
+            buttonContainer.style.right = '0';
+            buttonContainer.style.left = 'auto';
+        }
+    }
+    
+    // Save position to localStorage
+    function savePosition() {
+        const rect = controlsContainer.getBoundingClientRect();
+        const position = {
+            left: rect.left,
+            top: rect.top
+        };
+        localStorage.setItem('toolbarPosition', JSON.stringify(position));
+    }
+    
+    // Load saved position from localStorage
+    function loadPosition() {
+        const saved = localStorage.getItem('toolbarPosition');
+        if (saved) {
+            try {
+                const position = JSON.parse(saved);
+                const containerWidth = controlsContainer.offsetWidth;
+                const containerHeight = controlsContainer.offsetHeight;
+                
+                // Validate position is still within viewport
+                const maxX = window.innerWidth - containerWidth;
+                const maxY = window.innerHeight - containerHeight;
+                
+                if (position.left >= 0 && position.left <= maxX && 
+                    position.top >= 0 && position.top <= maxY) {
+                    controlsContainer.style.bottom = 'auto';
+                    controlsContainer.style.right = 'auto';
+                    controlsContainer.style.left = position.left + 'px';
+                    controlsContainer.style.top = position.top + 'px';
+                    return true;
+                }
+            } catch (e) {
+                console.log('Invalid saved position');
+            }
+        }
+        return false;
+    }
+    
+    // Reset to default position
+    function resetPosition() {
+        controlsContainer.style.left = '';
+        controlsContainer.style.top = '';
+        controlsContainer.style.bottom = '20px';
+        controlsContainer.style.right = '15px';
+        localStorage.removeItem('toolbarPosition');
+    }
+    
+    // Add mouse event listeners
+    controlsContainer.addEventListener('mousedown', onDragStart);
+    document.addEventListener('mousemove', onDragMove);
+    document.addEventListener('mouseup', onDragEnd);
+    
+    // Add touch event listeners for mobile
+    controlsContainer.addEventListener('touchstart', onDragStart, { passive: false });
+    document.addEventListener('touchmove', onDragMove, { passive: false });
+    document.addEventListener('touchend', onDragEnd);
+    
+    // Double-click to reset position
+    controlsContainer.addEventListener('dblclick', function(e) {
+        if (!e.target.closest('.control-btn') && !e.target.closest('.floating-btn') && !e.target.closest('.tool-button')) {
+            resetPosition();
+            
+            // Show reset notification
+            showNotification('Toolbar position reset!');
+        }
+    });
+    
+    // Load saved position on startup
+    loadPosition();
+    
+    // Handle window resize
+    window.addEventListener('resize', function() {
+        const rect = controlsContainer.getBoundingClientRect();
+        const containerWidth = controlsContainer.offsetWidth;
+        const containerHeight = controlsContainer.offsetHeight;
+        
+        // Adjust if outside viewport after resize
+        if (rect.right > window.innerWidth) {
+            controlsContainer.style.left = (window.innerWidth - containerWidth - 10) + 'px';
+        }
+        if (rect.bottom > window.innerHeight) {
+            controlsContainer.style.top = (window.innerHeight - containerHeight - 10) + 'px';
+        }
+    });
+    
+    // Show notification function
+    function showNotification(message) {
+        const notification = document.createElement('div');
+        notification.style.cssText = `
+            position: fixed;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(135deg, #1E3A5F, #2D5F8A);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            z-index: 10000;
+            opacity: 0;
+            transition: opacity 0.3s;
+        `;
+        notification.textContent = message;
+        document.body.appendChild(notification);
+        
+        requestAnimationFrame(() => {
+            notification.style.opacity = '1';
+        });
+        
+        setTimeout(() => {
+            notification.style.opacity = '0';
+            setTimeout(() => notification.remove(), 300);
+        }, 2000);
+    }
     
     // Connection status functionality
     function updateConnectionStatus() {
@@ -377,6 +743,7 @@ document.addEventListener('DOMContentLoaded', function() {
             hideSidebar();
         } else {
             showSidebar();
+            updateMenuPosition();
         }
     });
     
