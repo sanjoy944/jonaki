@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'url-btn', name: 'Photo Editor', url: 'https://photoeditor26.blogspot.com/'},
         {class: 'url-btn', name: 'PDF Page Remover', url: 'https://pdf-page-remover.blogspot.com/'},
         {class: 'url-btn', name: 'image Converter', url: 'https://universal-image-converter-online.blogspot.com/'},
-        {class: 'url-btn', name: 'YT Thumbnail Downloader', url: 'https://youtube-thumbnail-downloader-4kb.blogspot.com/'},
+        {class: 'url-btn', name: 'YT Thumbnail', url: 'https://youtube-thumbnail-downloader-4kb.blogspot.com/'},
         {class: 'url-btn', name: 'Image2PDF Maker', url: 'https://image-2-pdf-converter.blogspot.com/'},
         {class: 'url-btn', name: 'Video Frame Capture', url: 'https://video-frame-capture-tool.blogspot.com/'},
         {class: 'url-btn', name: 'RGB COLOR Code', url: 'https://html-rgbcolor-codes.blogspot.com/'},
@@ -97,10 +97,11 @@ document.addEventListener('DOMContentLoaded', function() {
         {class: 'url-btn', name: '🌐Our Website', url: 'https://gsmsanjoy.com/'}
     ];
 
-    tools.forEach(tool => {
+    tools.forEach((tool, index) => {
         const btn = document.createElement('button');
         btn.className = `tool-button ${tool.class}`;
-        btn.innerHTML = `<span class="btn-icon">🔗</span> ${tool.name}`;
+        btn.style.animationDelay = `${index * 0.1}s`;
+        btn.innerHTML = `<span class="btn-icon">🔗</span> <span class="btn-text">${tool.name}</span>`;
         btn.addEventListener('click', () => {
             window.location.href = tool.url;
         });
@@ -110,6 +111,67 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add CSS styles dynamically
     const style = document.createElement('style');
     style.textContent = `
+        /* ============================================
+           KEYFRAME ANIMATIONS
+           ============================================ */
+        
+        @keyframes colorCycle {
+            0% { background: linear-gradient(135deg, #FF6B6B, #EE5A24); box-shadow: 0 4px 20px rgba(255, 107, 107, 0.5); }
+            15% { background: linear-gradient(135deg, #F9CA24, #F0932B); box-shadow: 0 4px 20px rgba(249, 202, 36, 0.5); }
+            30% { background: linear-gradient(135deg, #6AB04C, #BADC58); box-shadow: 0 4px 20px rgba(106, 176, 76, 0.5); }
+            45% { background: linear-gradient(135deg, #22A6B3, #7ED6DF); box-shadow: 0 4px 20px rgba(34, 166, 179, 0.5); }
+            60% { background: linear-gradient(135deg, #30336B, #535C68); box-shadow: 0 4px 20px rgba(48, 51, 107, 0.5); }
+            75% { background: linear-gradient(135deg, #6C5CE7, #A29BFE); box-shadow: 0 4px 20px rgba(108, 92, 231, 0.5); }
+            90% { background: linear-gradient(135deg, #E84393, #FD79A8); box-shadow: 0 4px 20px rgba(232, 67, 147, 0.5); }
+            100% { background: linear-gradient(135deg, #FF6B6B, #EE5A24); box-shadow: 0 4px 20px rgba(255, 107, 107, 0.5); }
+        }
+        
+        @keyframes rainbowText {
+            0% { color: #FF6B6B; }
+            15% { color: #F9CA24; }
+            30% { color: #6AB04C; }
+            45% { color: #22A6B3; }
+            60% { color: #6C5CE7; }
+            75% { color: #E84393; }
+            90% { color: #FF6B6B; }
+            100% { color: #FF6B6B; }
+        }
+        
+        @keyframes shimmer {
+            0% { left: -100%; }
+            100% { left: 100%; }
+        }
+        
+        @keyframes pulse {
+            0%, 100% { transform: translateX(5px) scale(1); }
+            50% { transform: translateX(8px) scale(1.02); }
+        }
+        
+        @keyframes glowPulse {
+            0%, 100% { filter: brightness(1); }
+            50% { filter: brightness(1.2); }
+        }
+        
+        @keyframes borderGlow {
+            0%, 100% { border-color: rgba(255, 107, 107, 0.6); }
+            20% { border-color: rgba(249, 202, 36, 0.6); }
+            40% { border-color: rgba(106, 176, 76, 0.6); }
+            60% { border-color: rgba(108, 92, 231, 0.6); }
+            80% { border-color: rgba(232, 67, 147, 0.6); }
+        }
+        
+        @keyframes iconBounce {
+            0%, 100% { transform: scale(1) rotate(0deg); }
+            25% { transform: scale(1.3) rotate(-10deg); }
+            50% { transform: scale(1.1) rotate(10deg); }
+            75% { transform: scale(1.2) rotate(-5deg); }
+        }
+        
+        @keyframes slideInLeft {
+            from { opacity: 0; transform: translateX(-20px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
+        
         .floating-controls-container {
             position: fixed;
             bottom: 20px;
@@ -294,7 +356,7 @@ document.addEventListener('DOMContentLoaded', function() {
             display: none;
             flex-direction: column;
             gap: 8px;
-            width: 220px;
+            width: 240px;
             max-height: 70vh;
             overflow-y: auto;
             z-index: 999;
@@ -325,7 +387,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         /* ============================================
            URL BUTTONS (Tool buttons with links)
-           All have same Blue/Cyan gradient color
+           ANIMATED COLOR CHANGE ON HOVER
            ============================================ */
         .tool-button {
             display: flex;
@@ -337,24 +399,33 @@ document.addEventListener('DOMContentLoaded', function() {
             font-weight: 500;
             font-size: 13px;
             text-align: left;
-            transition: all 0.3s ease;
-            border: none;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            border: 2px solid transparent;
             cursor: pointer;
             position: relative;
             overflow: hidden;
+            animation: slideInLeft 0.5s ease-out both;
         }
         
         .tool-button .btn-icon {
             font-size: 14px;
             flex-shrink: 0;
+            transition: all 0.3s ease;
         }
         
-        /* URL Buttons - Blue/Cyan Gradient */
+        .tool-button .btn-text {
+            position: relative;
+            z-index: 2;
+            transition: all 0.3s ease;
+        }
+        
+        /* URL Buttons - Default State */
         .url-btn {
             background: linear-gradient(135deg, #0EA5E9, #06B6D4);
             box-shadow: 0 2px 8px rgba(14, 165, 233, 0.3);
         }
         
+        /* Shimmer Effect - Always visible on hover */
         .url-btn::before {
             content: '';
             position: absolute;
@@ -362,21 +433,56 @@ document.addEventListener('DOMContentLoaded', function() {
             left: -100%;
             width: 100%;
             height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
-            transition: left 0.5s;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+            transition: none;
         }
         
-        .url-btn:hover::before {
-            left: 100%;
+        /* Second shimmer layer for extra effect */
+        .url-btn::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 60%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
+            transition: none;
         }
         
+        /* ============================================
+           HOVER STATE - ANIMATED COLOR CHANGE
+           ============================================ */
         .url-btn:hover {
-            transform: translateX(5px);
-            background: linear-gradient(135deg, #0284C7, #0891B2);
-            box-shadow: 0 4px 15px rgba(14, 165, 233, 0.5);
+            animation: colorCycle 3s ease-in-out infinite, pulse 1s ease-in-out infinite, glowPulse 2s ease-in-out infinite;
+            border: 2px solid rgba(255,255,255,0.4);
+            animation: colorCycle 3s ease-in-out infinite, pulse 1s ease-in-out infinite;
+            transform: translateX(5px) scale(1.02);
         }
         
-        /* Website Button - Special Gold Color for "Our Website" */
+        /* Shimmer animation on hover */
+        .url-btn:hover::before {
+            animation: shimmer 1.5s ease-in-out infinite;
+        }
+        
+        .url-btn:hover::after {
+            animation: shimmer 1.5s ease-in-out infinite 0.75s;
+        }
+        
+        /* Rainbow text on hover */
+        .url-btn:hover .btn-text {
+            animation: rainbowText 2s linear infinite;
+            font-weight: 700;
+            text-shadow: 0 0 10px rgba(255,255,255,0.5);
+        }
+        
+        /* Icon bounce on hover */
+        .url-btn:hover .btn-icon {
+            animation: iconBounce 0.8s ease-in-out infinite;
+        }
+        
+        /* ============================================
+           SPECIAL WEBSITE BUTTON STYLES
+           ============================================ */
         .website-btn {
             background: linear-gradient(135deg, #F59E0B, #EF4444);
             box-shadow: 0 2px 8px rgba(245, 158, 11, 0.4);
@@ -384,9 +490,19 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         
         .website-btn:hover {
-            background: linear-gradient(135deg, #EF4444, #DC2626);
-            transform: translateX(5px);
-            box-shadow: 0 4px 15px rgba(239, 68, 68, 0.5);
+            animation: colorCycle 2.5s ease-in-out infinite, pulse 0.8s ease-in-out infinite;
+            border: 2px solid rgba(255,255,255,0.5);
+            transform: translateX(5px) scale(1.05);
+            text-shadow: 0 0 15px rgba(255,255,255,0.8);
+        }
+        
+        .website-btn:hover::before {
+            animation: shimmer 1s ease-in-out infinite;
+        }
+        
+        .website-btn:hover .btn-icon {
+            animation: iconBounce 0.6s ease-in-out infinite;
+            font-size: 16px;
         }
         
         /* Position indicator dots */
@@ -414,11 +530,10 @@ document.addEventListener('DOMContentLoaded', function() {
     let isDragging = false;
     let isClick = true;
     let dragStartX, dragStartY;
-    let initialLeft, initialBottom;
+    let initialLeft, initialTop;
     let hasMoved = false;
-    const DRAG_THRESHOLD = 5; // Minimum pixels to consider as drag
+    const DRAG_THRESHOLD = 5;
     
-    // Convert bottom positioning to top for easier calculations
     function getInitialPosition() {
         const rect = controlsContainer.getBoundingClientRect();
         return {
@@ -427,7 +542,6 @@ document.addEventListener('DOMContentLoaded', function() {
         };
     }
     
-    // Switch to top/left positioning for drag
     function switchToTopLeft() {
         const rect = controlsContainer.getBoundingClientRect();
         controlsContainer.style.bottom = 'auto';
@@ -436,9 +550,7 @@ document.addEventListener('DOMContentLoaded', function() {
         controlsContainer.style.top = rect.top + 'px';
     }
     
-    // Mouse down - Start drag
     function onDragStart(e) {
-        // Don't start drag from buttons
         if (e.target.closest('.control-btn') || e.target.closest('.floating-btn') || e.target.closest('.tool-button')) {
             return;
         }
@@ -453,7 +565,6 @@ document.addEventListener('DOMContentLoaded', function() {
         dragStartX = clientX;
         dragStartY = clientY;
         
-        // Switch to top/left positioning
         switchToTopLeft();
         
         const rect = controlsContainer.getBoundingClientRect();
@@ -463,7 +574,6 @@ document.addEventListener('DOMContentLoaded', function() {
         e.preventDefault();
     }
     
-    // Mouse move - During drag
     function onDragMove(e) {
         if (dragStartX === undefined) return;
         
@@ -473,7 +583,6 @@ document.addEventListener('DOMContentLoaded', function() {
         const deltaX = clientX - dragStartX;
         const deltaY = clientY - dragStartY;
         
-        // Check if moved beyond threshold
         if (!hasMoved && (Math.abs(deltaX) > DRAG_THRESHOLD || Math.abs(deltaY) > DRAG_THRESHOLD)) {
             hasMoved = true;
             isDragging = true;
@@ -487,11 +596,9 @@ document.addEventListener('DOMContentLoaded', function() {
             let newLeft = initialLeft + deltaX;
             let newTop = initialTop + deltaY;
             
-            // Get container dimensions
             const containerWidth = controlsContainer.offsetWidth;
             const containerHeight = controlsContainer.offsetHeight;
             
-            // Keep within viewport bounds
             const maxX = window.innerWidth - containerWidth;
             const maxY = window.innerHeight - containerHeight;
             
@@ -501,20 +608,14 @@ document.addEventListener('DOMContentLoaded', function() {
             controlsContainer.style.left = newLeft + 'px';
             controlsContainer.style.top = newTop + 'px';
             
-            // Update button container position based on toolbar position
             updateMenuPosition();
         }
     }
     
-    // Mouse up - End drag
     function onDragEnd(e) {
         if (isDragging) {
             controlsContainer.classList.remove('dragging');
-            
-            // Snap to edges when close
             snapToEdge();
-            
-            // Save position to localStorage
             savePosition();
         }
         
@@ -524,22 +625,16 @@ document.addEventListener('DOMContentLoaded', function() {
         dragStartY = undefined;
     }
     
-    // Snap toolbar to nearest edge when close
     function snapToEdge() {
         const rect = controlsContainer.getBoundingClientRect();
-        const centerX = rect.left + rect.width / 2;
-        const centerY = rect.top + rect.height / 2;
-        
         const snapThreshold = 80;
         
-        // Snap to left or right edge
         if (rect.left < snapThreshold) {
             controlsContainer.style.left = '10px';
         } else if (rect.right > window.innerWidth - snapThreshold) {
             controlsContainer.style.left = (window.innerWidth - rect.width - 10) + 'px';
         }
         
-        // Snap to top or bottom edge
         if (rect.top < snapThreshold) {
             controlsContainer.style.top = '10px';
         } else if (rect.bottom > window.innerHeight - snapThreshold) {
@@ -547,23 +642,19 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
     
-    // Update tools menu position based on toolbar location
     function updateMenuPosition() {
         const rect = controlsContainer.getBoundingClientRect();
-        const menuHeight = 400; // Approximate max menu height
+        const menuHeight = 400;
         
-        // Position menu above by default
         if (rect.top > menuHeight + 20) {
             buttonContainer.style.bottom = '70px';
             buttonContainer.style.top = 'auto';
         } else {
-            // Position below if not enough space above
             buttonContainer.style.top = '70px';
             buttonContainer.style.bottom = 'auto';
         }
         
-        // Adjust horizontal position
-        if (rect.left < 220) {
+        if (rect.left < 240) {
             buttonContainer.style.left = '0';
             buttonContainer.style.right = 'auto';
         } else {
@@ -572,7 +663,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
     
-    // Save position to localStorage
     function savePosition() {
         const rect = controlsContainer.getBoundingClientRect();
         const position = {
@@ -582,7 +672,6 @@ document.addEventListener('DOMContentLoaded', function() {
         localStorage.setItem('toolbarPosition', JSON.stringify(position));
     }
     
-    // Load saved position from localStorage
     function loadPosition() {
         const saved = localStorage.getItem('toolbarPosition');
         if (saved) {
@@ -591,7 +680,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 const containerWidth = controlsContainer.offsetWidth;
                 const containerHeight = controlsContainer.offsetHeight;
                 
-                // Validate position is still within viewport
                 const maxX = window.innerWidth - containerWidth;
                 const maxY = window.innerHeight - containerHeight;
                 
@@ -610,7 +698,6 @@ document.addEventListener('DOMContentLoaded', function() {
         return false;
     }
     
-    // Reset to default position
     function resetPosition() {
         controlsContainer.style.left = '';
         controlsContainer.style.top = '';
@@ -619,36 +706,28 @@ document.addEventListener('DOMContentLoaded', function() {
         localStorage.removeItem('toolbarPosition');
     }
     
-    // Add mouse event listeners
     controlsContainer.addEventListener('mousedown', onDragStart);
     document.addEventListener('mousemove', onDragMove);
     document.addEventListener('mouseup', onDragEnd);
     
-    // Add touch event listeners for mobile
     controlsContainer.addEventListener('touchstart', onDragStart, { passive: false });
     document.addEventListener('touchmove', onDragMove, { passive: false });
     document.addEventListener('touchend', onDragEnd);
     
-    // Double-click to reset position
     controlsContainer.addEventListener('dblclick', function(e) {
         if (!e.target.closest('.control-btn') && !e.target.closest('.floating-btn') && !e.target.closest('.tool-button')) {
             resetPosition();
-            
-            // Show reset notification
             showNotification('Toolbar position reset!');
         }
     });
     
-    // Load saved position on startup
     loadPosition();
     
-    // Handle window resize
     window.addEventListener('resize', function() {
         const rect = controlsContainer.getBoundingClientRect();
         const containerWidth = controlsContainer.offsetWidth;
         const containerHeight = controlsContainer.offsetHeight;
         
-        // Adjust if outside viewport after resize
         if (rect.right > window.innerWidth) {
             controlsContainer.style.left = (window.innerWidth - containerWidth - 10) + 'px';
         }
@@ -657,7 +736,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
     
-    // Show notification function
     function showNotification(message) {
         const notification = document.createElement('div');
         notification.style.cssText = `
@@ -689,13 +767,11 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 2000);
     }
     
-    // Connection status functionality
     function updateConnectionStatus() {
         const isOnline = navigator.onLine;
         connectionStatus.className = `connection-status ${isOnline ? 'online' : 'offline'}`;
         connectionStatus.title = isOnline ? 'Online' : 'Offline';
         
-        // Show connection status notification
         const notification = document.createElement('div');
         notification.className = `connection-notification ${isOnline ? 'online' : 'offline'}`;
         notification.textContent = isOnline ? 'You are now online' : 'You are offline';
@@ -707,7 +783,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 3000);
     }
 
-    // Add notification styles
     const notificationStyle = document.createElement('style');
     notificationStyle.textContent = `
         .connection-notification {
@@ -731,7 +806,6 @@ document.addEventListener('DOMContentLoaded', function() {
     `;
     document.head.appendChild(notificationStyle);
 
-    // Listen for connection changes
     window.addEventListener('online', updateConnectionStatus);
     window.addEventListener('offline', updateConnectionStatus);
 
@@ -801,11 +875,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Keyboard shortcuts
     document.addEventListener('keydown', function(e) {
-        // Alt+Left for back
         if (e.altKey && e.key === 'ArrowLeft') {
             window.history.back();
         }
-        // Alt+R for reload
         if (e.altKey && e.key === 'r') {
             window.location.reload();
         }
