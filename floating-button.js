@@ -895,3 +895,305 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
+(function(){
+  "use strict";
+
+  /* =========================================
+     CONFIGURATION
+     ========================================= */
+  var AD_URL = "https://jonaksd.blogspot.com/";
+  var CUSTOM_WORDS = [];
+  var COOLDOWN = 2000;   // 6 seconds cooldown per word
+  var RING_SEC = 1000;   // 5 seconds mini-circle timer
+  var SKIP_WORDS = ["which","their","there","these","those","being","every","about","would","could","should","other","after","before","between","through","during","without","however","because","although","while","where","when","what","have","been","will","with","from","this","that","each","also","some","more","most","than","only","over","such","then","into","them","they","very","just","like","even","back","much","many","well","does","make","know","same","still","own","come","since","both","under","never","going","might","using","used","based","given","different","another","first","second","third","around","often","though","whether","rather","either","neither","already","enough","least","several","perhaps","probably","really","quite","always","usually","actually","certainly","clearly","recently","become","became"];
+
+  /* =========================================
+     INJECT CSS SAFELY (Won't break theme)
+     ========================================= */
+  var css = document.createElement("style");
+  css.textContent = `
+    ._aw{color:#1a6dff!important;text-decoration:underline!important;text-decoration-color:#1a6dff!important;text-underline-offset:2px!important;cursor:pointer!important;transition:color .15s!important;background:none!important;padding:0!important;margin:0!important;border:none!important;font:inherit!important}
+    ._aw:hover{color:#0044cc!important;text-decoration-color:#0044cc!important}
+    ._cr{position:fixed;width:20px;height:20px;pointer-events:none;z-index:999997;opacity:0;transition:opacity .2s}
+    ._cr._v{opacity:1}
+    ._cr svg{width:100%;height:100%;transform:rotate(-90deg)}
+    ._cr .bg{fill:none;stroke:rgba(26,109,255,0.15);stroke-width:3}
+    ._cr .pg{fill:none;stroke:#1a6dff;stroke-width:3;stroke-linecap:round;stroke-dasharray:50.2;stroke-dashoffset:50.2}
+    ._cr._a .pg{animation:_fill 5s linear forwards}
+    @keyframes _fill{to{stroke-dashoffset:0}}
+    ._po{display:none;position:fixed;z-index:999999;width:540px;max-width:94vw;height:420px;max-height:72vh;background:#fff;border:1px solid #d0d0d0;border-radius:10px;overflow:hidden;box-shadow:0 20px 50px rgba(0,0,0,0.25)}
+    ._po._s{display:block;animation:_pIn .25s ease-out}
+    ._po._h{animation:_pOut .15s ease-in forwards}
+    @keyframes _pIn{from{opacity:0;transform:scale(.95) translateY(6px)}to{opacity:1;transform:scale(1) translateY(0)}}
+    @keyframes _pOut{to{opacity:0;transform:scale(.97) translateY(4px)}}
+    ._bk{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.3);z-index:999998}
+    ._bk._s{display:block;animation:_fIn .2s ease-out}
+    @keyframes _fIn{from{opacity:0}to{opacity:1}}
+    ._tb{display:flex;align-items:center;justify-content:space-between;padding:8px 14px;background:#f7f7f7;border-bottom:1px solid #eaeaea;cursor:grab;user-select:none}
+    ._tb:active{cursor:grabbing}
+    ._ti{display:flex;align-items:center;gap:6px;font-size:11px;color:#999}
+    ._td{width:5px;height:5px;border-radius:50%;background:#1a6dff}
+    ._tc{width:22px;height:22px;border:none;background:transparent;color:#bbb;font-size:16px;cursor:pointer;border-radius:4px;display:flex;align-items:center;justify-content:center}
+    ._tc:hover{background:#eee;color:#333}
+    ._fm{width:100%;height:calc(100% - 37px);border:none}
+    ._ld{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);display:flex;flex-direction:column;align-items:center;gap:10px;pointer-events:none;transition:opacity .3s}
+    ._ld._n{opacity:0}
+    ._sp{width:22px;height:22px;border:2px solid #eee;border-top-color:#1a6dff;border-radius:50%;animation:_spin .6s linear infinite}
+    @keyframes _spin{to{transform:rotate(360deg)}}
+    ._ld span{font-size:11px;color:#bbb}
+    ._do{display:none;position:absolute;top:37px;left:0;right:0;bottom:0;z-index:2}
+    ._po._d ._do{display:block}
+  `;
+  document.head.appendChild(css);
+
+  /* =========================================
+     STATE VARIABLES
+     ========================================= */
+  var coolMap = {}, popupOpen = false, closeTimer = null, ringTimer = null;
+  var currentHoverWord = null, isDragging = false, dragOffX = 0, dragOffY = 0;
+
+  /* =========================================
+     INJECT POPUP & RING HTML
+     ========================================= */
+  var bk = document.createElement("div"); bk.className = "_bk";
+  var po = document.createElement("div"); po.className = "_po";
+  po.innerHTML = '<div class="_tb" id="_hdl"><div class="_ti"><div class="_td"></div><span>Sponsored</span></div><button class="_tc" id="_cls">&times;</button></div><div class="_do"></div><div class="_ld" id="_ldr"><div class="_sp"></div><span>Loading...</span></div><iframe class="_fm" id="_ifm"></iframe>';
+  document.body.appendChild(bk);
+  document.body.appendChild(po);
+
+  var ifm = document.getElementById("_ifm"), ldr = document.getElementById("_ldr");
+  var hdl = document.getElementById("_hdl"), cls = document.getElementById("_cls");
+
+  var cr = document.createElement("div"); cr.className = "_cr";
+  cr.innerHTML = '<svg viewBox="0 0 20 20"><circle class="bg" cx="10" cy="10" r="8"/><circle class="pg" cx="10" cy="10" r="8"/></svg>';
+  document.body.appendChild(cr);
+
+  /* =========================================
+     HELPER FUNCTIONS
+     ========================================= */
+  function randInt(a, b) { return Math.floor(Math.random() * (b - a + 1)) + a; }
+  function isCustomWord(w) { return CUSTOM_WORDS.indexOf(w.replace(/[^a-zA-Z]/g, "").toLowerCase()) !== -1; }
+  function isValidFallback(w) { var c = w.replace(/[^a-zA-Z]/g, ""); return c.length >= 5 && SKIP_WORDS.indexOf(c.toLowerCase()) === -1; }
+
+  /* Safe text node scanner (Ignores links, scripts, existing ads) */
+  function getSafeTextNodes(container) {
+    var nodes = [];
+    var w = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
+      acceptNode: function(n) {
+        if (!n.textContent.trim()) return NodeFilter.FILTER_REJECT;
+        var p = n.parentNode;
+        while (p && p !== container) {
+          if (p.tagName === "A" || p.tagName === "SCRIPT" || p.tagName === "STYLE" || p.tagName === "IFRAME" || (p.classList && p.classList.contains("_aw"))) {
+            return NodeFilter.FILTER_REJECT;
+          }
+          p = p.parentNode;
+        }
+        return NodeFilter.FILTER_ACCEPT;
+      }
+    });
+    while (w.nextNode()) nodes.push(w.currentNode);
+    return nodes;
+  }
+
+  /* =========================================
+     SAFE WORD PROCESSOR (3 Pass System)
+     ========================================= */
+  function process() {
+    var containers = document.querySelectorAll(".post-body, .post-content, .entry-content, article");
+    if (!containers.length) containers = document.querySelectorAll("body");
+
+    containers.forEach(function(container) {
+      if (container.getAttribute("data-ad-processed")) return; // Stop double processing
+      container.setAttribute("data-ad-processed", "true");
+
+      var textNodes = getSafeTextNodes(container);
+      var map = []; // Master map of all words
+      var gi = 0;
+
+      // PASS 1: Read all text and map locations WITHOUT touching DOM
+      textNodes.forEach(function(tn) {
+        var parts = tn.textContent.split(/(\s+)/);
+        parts.forEach(function(part, li) {
+          if (part.trim().length > 0) {
+            map.push({ tn: tn, li: li, tx: part, gi: gi++ });
+          }
+        });
+      });
+
+      if (map.length === 0) return;
+
+      // PASS 2: Determine which global indexes to select
+      var toSelect = new Set();
+      var foundCustom = false;
+
+      map.forEach(function(item) {
+        if (isCustomWord(item.tx)) {
+          toSelect.add(item.gi);
+          foundCustom = true;
+        }
+      });
+
+      if (!foundCustom) {
+        for (var i = 0; i < map.length; i += 20) {
+          var chunk = map.slice(i, i + 20);
+          var valid = chunk.filter(function(w) { return isValidFallback(w.tx); });
+          // Shuffle and pick 2
+          for (var j = valid.length - 1; j > 0; j--) { var k = randInt(0, j); var tmp = valid[j]; valid[j] = valid[k]; valid[k] = tmp; }
+          valid.slice(0, 2).forEach(function(w) { toSelect.add(w.gi); });
+        }
+      }
+
+      if (toSelect.size === 0) return;
+
+      // Group selected words by their parent Text Node so we only modify what's needed
+      var nodeGroups = new Map();
+      toSelect.forEach(function(gi) {
+        var item = map[gi];
+        if (!nodeGroups.has(item.tn)) nodeGroups.set(item.tn, []);
+        nodeGroups.get(item.tn).push(item.li);
+      });
+
+      // PASS 3: Safely replace ONLY the selected words inside their original text nodes
+      nodeGroups.forEach(function(indexes, tn) {
+        var words = tn.textContent.split(/(\s+)/);
+        var spans = {};
+
+        indexes.forEach(function(idx) {
+          var el = document.createElement("span");
+          el.className = "_aw";
+          el.textContent = words[idx];
+          el.setAttribute("data-w", words[idx].trim().toLowerCase());
+          el.onmouseenter = handleEnter;
+          el.onmouseleave = handleLeave;
+          el.onclick = handleClick;
+          words[idx] = "%%" + idx + "%%";
+          spans["%%" + idx + "%%"] = el;
+        });
+
+        var frag = document.createDocumentFragment();
+        for (var f = 0; f < words.length; f++) {
+          frag.appendChild(spans[words[f]] || document.createTextNode(words[f]));
+        }
+        tn.parentNode.replaceChild(frag, tn);
+      });
+    });
+  }
+
+  /* =========================================
+     EVENT HANDLERS (Ring & Click)
+     ========================================= */
+  function handleEnter(e) {
+    var w = e.target.getAttribute("data-w");
+    var now = Date.now();
+    if (coolMap[w] && now - coolMap[w] < COOLDOWN) return;
+
+    currentHoverWord = w;
+    var r = e.target.getBoundingClientRect();
+    cr.style.left = (r.right + 6) + "px";
+    cr.style.top = (r.top + (r.height / 2) - 10) + "px";
+    cr.classList.remove("_a"); 
+    void cr.offsetWidth; 
+    cr.classList.add("_v", "_a");
+
+    ringTimer = setTimeout(function() {
+      if (currentHoverWord === w) {
+        hideRing();
+        coolMap[w] = Date.now();
+        showPopup(e.target);
+      }
+    }, RING_SEC);
+  }
+
+  function handleLeave() {
+    clearTimeout(ringTimer);
+    hideRing();
+    currentHoverWord = null;
+  }
+
+  function handleClick(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    clearTimeout(ringTimer);
+    hideRing();
+    currentHoverWord = null;
+    closePopup(true);
+    window.open(AD_URL, '_blank');
+  }
+
+  function hideRing() { cr.classList.remove("_v", "_a"); }
+
+  /* =========================================
+     POPUP LOGIC
+     ========================================= */
+  function showPopup(anchor) {
+    if (popupOpen) closePopup(true);
+    ifm.src = "about:blank"; ldr.classList.remove("_n");
+
+    var r = anchor.getBoundingClientRect();
+    var pw = Math.min(540, window.innerWidth * 0.94);
+    var ph = Math.min(420, window.innerHeight * 0.72);
+    var l = r.left + r.width / 2 - pw / 2;
+    var t = r.bottom + 12;
+    if (l < 8) l = 8; if (l + pw > window.innerWidth - 8) l = window.innerWidth - pw - 8;
+    if (t + ph > window.innerHeight - 8) t = r.top - ph - 12; if (t < 8) t = 8;
+
+    po.style.left = l + "px"; po.style.top = t + "px"; po.style.width = pw + "px"; po.style.height = ph + "px";
+    bk.classList.add("_s"); po.classList.add("_s"); po.classList.remove("_h");
+    popupOpen = true;
+
+    setTimeout(function() {
+      ifm.src = AD_URL;
+      ifm.onload = function() { ldr.classList.add("_n"); };
+      setTimeout(function() { ldr.classList.add("_n"); }, 5000);
+    }, 100);
+
+    po.onmouseleave = function() { if (!isDragging) closeTimer = setTimeout(function() { closePopup(false); }, 150); };
+    po.onmouseenter = function() { if (closeTimer) { clearTimeout(closeTimer); closeTimer = null; } };
+    bk.onmousedown = function() { closePopup(false); };
+  }
+
+  function closePopup(force) {
+    if (!popupOpen) return;
+    if (closeTimer) { clearTimeout(closeTimer); closeTimer = null; }
+    if (force) {
+      bk.classList.remove("_s"); po.classList.remove("_s", "_d"); ifm.src = "about:blank"; popupOpen = false;
+    } else {
+      po.classList.add("_h");
+      setTimeout(function() { bk.classList.remove("_s"); po.classList.remove("_s", "_h", "_d"); ifm.src = "about:blank"; popupOpen = false; }, 150);
+    }
+  }
+
+  cls.onclick = function(e) { e.stopPropagation(); closePopup(false); };
+  document.addEventListener("keydown", function(e) { if (e.key === "Escape" && popupOpen) closePopup(false); });
+
+  /* =========================================
+     DRAGGABLE POPUP LOGIC
+     ========================================= */
+  hdl.addEventListener("mousedown", function(e) {
+    if (e.target.tagName === "BUTTON") return;
+    isDragging = true; po.classList.add("_d");
+    dragOffX = e.clientX - po.offsetLeft; dragOffY = e.clientY - po.offsetTop;
+    e.preventDefault();
+  });
+  document.addEventListener("mousemove", function(e) {
+    if (!isDragging) return;
+    po.style.left = Math.max(0, e.clientX - dragOffX) + "px";
+    po.style.top = Math.max(0, e.clientY - dragOffY) + "px";
+  });
+  document.addEventListener("mouseup", function() { if (isDragging) { isDragging = false; po.classList.remove("_d"); } });
+
+  /* =========================================
+     INIT ON LOAD
+     ========================================= */
+  function init() {
+    process();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+
+})();
