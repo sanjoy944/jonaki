@@ -26706,7 +26706,7 @@
       ],
       "createdAt": 1781753969464,
       "description": "iTEL L6502 Dump.zip (1.6G)",
-      "downloads": 1,
+      "downloads": 2,
       "folderId": "f_mqi2f2ph_dpv99dw66",
       "isLink": false,
       "lastModified": 1781822023211,
@@ -33787,7 +33787,7 @@
       ],
       "createdAt": 1782361553554,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1782361553554,
@@ -36210,7 +36210,7 @@
       ],
       "createdAt": 1783915902674,
       "description": "Itel Fastboot Info Read Tool",
-      "downloads": 37,
+      "downloads": 38,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1783915902674,
@@ -45561,92 +45561,272 @@
       "url": ""
     }
   },
-  "settings": {
-    "registrationEnabled": false,
-    "websiteUrl": "https://mobileftp24.blogspot.com/",
-    "faviconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0eMrrWjQBgyDKq-Y2FkC8y07djZfKfvhcQ9WGB4OLMDZ0NEriUvHWOMqWu3SIMYOjGa-pzAHwHSrKcahcdCkxout55ZK7rQ64TRqNXU-2tCYxittm_m6Ds4qbXuzPZSa1IXPBkNfrg5fpnIwqw3hTajPo5EcyhL23Ib8gGagh3Zy2___zrDQDu5HkdiA/s16000/logon.png",
-    "activeTheme": "light",
-    "redirectEnabled": true,
-    "redirectUrl": "https://diagramshowpage.blogspot.com/",
-    "excludeUrls": [
-      "https://frpbypass2026.blogspot.com/"
-    ],
-    "dlStyle": "classic",
-    "fakeDownloadBtns": [
-      {
-        "enabled": true,
-        "id": "f_mpsefsqz_drasntwh2",
-        "name": "Download Now",
-        "position": "floating",
-        "url": "https://unalaskamiaskitewormproof.monster/8vrp90634a5513029319feaccd2995b01b05088824fbf"
-      },
-      {
-        "enabled": true,
-        "id": "f_mpsf2z7j_bi5edi7km",
-        "name": "Download Now",
-        "position": "center",
-        "url": "https://unalaskamiaskitewormproof.monster/8vrp90634a5513029319feaccd2995b01b05088824fbf"
-      }
-    ],
-    "watermarkUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBq4xamA3fG-VPpw0t99IUq6S9l7ZsXz6q2UoBGl6wDrb3UsQKpPaurc0lLbsHBT_gbgjUcNz7kR08z5872GONBtBgog8xK5UuIiGv3xO2G4Kn_utrMbrP9iQW2hGAgN8uZmdtHnUvByaEyWIfOoCR3EsiVJsjOEqTdRJ-wjdYSA3lEceS2SvPgMwQoAc/w200-h119/logonew.jpg",
-    "watermarkMode": "diagonal",
-    "watermarkOpacity": 10,
-    "fakeDownloadBtn": {
-      "enabled": true,
-      "name": "Download Now",
-      "position": "top",
-      "url": "https://gsmsanjoy.com"
+  "ratings": {
+    "f_mp6td7zv_oqvnsue5q": {
+      "avg": 4.5,
+      "count": 1025
     },
-    "showFolderFileCount": false,
-    "showSubCatCount": false,
-    "sitemapXml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url>\n    <loc>https://mobileftp24.blogspot.com</loc>\n    <lastmod>2026-05-17</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>1.0</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=usb-drivers</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=crack-software</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=mobile-software</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=original-setup</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=fastboot-tools</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=abd-tools</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=frp-tools</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=firmware</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=mtk-driver</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=spd-driver</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=qualcomm-driver</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=samsung-driver</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=all-in-one-driver-pack</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=icloud-tools</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=pc-softwares</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=frp-bypass-apk</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=gsmxteam-tools</loc>\n    <lastmod>2026-05-17</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=gct-pack-tools</loc>\n    <lastmod>2026-05-17</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?folder=idm-free</loc>\n    <lastmod>2026-05-17</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?p=open-frp-bypass</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.9</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?p=deroid-unbricker-pro</loc>\n    <lastmod>2026-05-15</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.9</priority>\n  </url>\n  <url>\n    <loc>https://mobileftp24.blogspot.com?p=idm-crck-2026</loc>\n    <lastmod>2026-05-17</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.9</priority>\n  </url>\n</urlset>"
-  },
-  "socialBar": {
-    "enabled": true,
-    "telegram": "https://t.me/mobilerepairsoftwareV2",
-    "facebook": "",
-    "youtube": "",
-    "apps": "",
-    "chromeExtensions": ""
-  },
-  "ads": {
-    "topAd": "<script async=\"async\" data-cfasync=\"false\" src=\"https://twigcrucialpal.com/b143febb73f565d7997041747d2551c8/invoke.js\"></script>\n<div id=\"container-b143febb73f565d7997041747d2551c8\"></div>\n<script src=\"https://twigcrucialpal.com/7c/30/b5/7c30b54eca9eb04d9b533dc7b5269d3f.js\"></script>\n",
-    "bottomAd": "<center><script>\n  atOptions = {\n    'key' : 'efa55b4c1f26998703d943b6ca0a06ab',\n    'format' : 'iframe',\n    'height' : 90,\n    'width' : 728,\n    'params' : {}\n  };\n</script>\n<script src=\"https://twigcrucialpal.com/efa55b4c1f26998703d943b6ca0a06ab/invoke.js\"></script>\n</center>\n<script src=\"https://twigcrucialpal.com/7c/30/b5/7c30b54eca9eb04d9b533dc7b5269d3f.js\"></script>\n",
-    "sideAdLeft": "<script>\n  atOptions = {\n    'key' : '2fb6bcf4091c6ffd4e4d49fab78d9d0e',\n    'format' : 'iframe',\n    'height' : 600,\n    'width' : 160,\n    'params' : {}\n  };\n</script>\n<script src=\"https://twigcrucialpal.com/2fb6bcf4091c6ffd4e4d49fab78d9d0e/invoke.js\"></script>\n",
-    "sideAdRight": "<script>\n  atOptions = {\n    'key' : '2fb6bcf4091c6ffd4e4d49fab78d9d0e',\n    'format' : 'iframe',\n    'height' : 600,\n    'width' : 160,\n    'params' : {}\n  };\n</script>\n<script src=\"https://twigcrucialpal.com/2fb6bcf4091c6ffd4e4d49fab78d9d0e/invoke.js\"></script>\n",
-    "footerTopAd": "<script async=\"async\" data-cfasync=\"false\" src=\"https://twigcrucialpal.com/c8a3b15e39f96ed3fe1026baff4a0a92/invoke.js\"></script>\n<div id=\"container-c8a3b15e39f96ed3fe1026baff4a0a92\"></div>\n",
-    "rightSidebarAd": "<script>\n  atOptions = {\n    'key' : 'd1f411bd9f4ed9043928f639289c380b',\n    'format' : 'iframe',\n    'height' : 250,\n    'width' : 300,\n    'params' : {}\n  };\n</script>\n<script src=\"https://twigcrucialpal.com/d1f411bd9f4ed9043928f639289c380b/invoke.js\"></script>\n",
-    "rightSidebarAdEnabled": true,
-    "homeAdEnabled": false,
-    "sideAd": "<script>\n  atOptions = {\n    'key' : '2fb6bcf4091c6ffd4e4d49fab78d9d0e',\n    'format' : 'iframe',\n    'height' : 600,\n    'width' : 160,\n    'params' : {}\n  };\n</script>\n<script src=\"https://twigcrucialpal.com/2fb6bcf4091c6ffd4e4d49fab78d9d0e/invoke.js\"></script>\n"
-  },
-  "footerPages": {
-    "about": {
-      "content": "MobileFTP24 is a modern file management system designed to help you organize, share, and manage your files efficiently.\n\nBuilt with simplicity and power in mind, MobileFTP24 provides an intuitive interface for managing folders, files, and download links. Whether you are distributing software, sharing resources, or organizing digital assets, MobileFTP24 makes it easy.\n\nKey Features:\n• Nested folder structure for organized file management\n• Multiple download links per file for different versions\n• Link-only entries for external resources\n• Admin dashboard for full control\n• Real-time updates powered by Firebase",
-      "title": "About MobileFTP24"
+    "f_mp6wh0jf_w23yxny8f": {
+      "avg": 4.5,
+      "count": 1031
     },
-    "contact": {
-      "content": "We would love to hear from you!\n\nIf you have any questions, feedback, or support needs, please reach out to us.\n\nEmail: support@mobileftp.com\n\nWe typically respond within 24-48 hours.\n\nFor urgent issues, please include \"URGENT\" in your subject line.",
-      "title": "Contact Us"
+    "f_mp9n0wyg_1nbw0n1t5": {
+      "avg": 4.5,
+      "count": 1027
     },
-    "privacy": {
-      "content": "Last updated: 2026\n\nWe respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our service.\n\nInformation We Collect:\n• Account information (name, email) when you register\n• Usage data and analytics\n\nHow We Use Your Information:\n• To provide and maintain our service\n• To improve user experience\n• To communicate important updates\n\nData Security:\nWe implement appropriate security measures to protect your personal data. However, no method of transmission over the Internet is 100% secure.\n\nContact:\nIf you have questions about this policy, please contact us through our Contact page.",
-      "title": "Privacy Policy"
+    "f_mpajuflu_ln19z9l2m": {
+      "avg": 4.5,
+      "count": 1042
     },
-    "terms": {
-      "content": "Last updated: 2026\n\nBy accessing and using MobileFTP, you agree to be bound by these terms and conditions.\n\n1. Use of Service\nYou may use MobileFTP only for lawful purposes and in accordance with these terms.\n\n2. User Accounts\nYou are responsible for safeguarding your account password. You agree not to disclose your password to any third party.\n\n3. Content\nYou are responsible for the content you upload and share. You must have the rights to distribute any files or links you add.\n\n4. Prohibited Activities\n• Distributing malware or harmful content\n• Violating intellectual property rights\n• Attempting to gain unauthorized access\n\n5. Disclaimer\nThe service is provided \"as is\" without warranties of any kind.\n\n6. Changes to Terms\nWe reserve the right to modify these terms at any time.",
-      "title": "Terms and Conditions"
+    "f_mpcgloi8_s4vys27ag": {
+      "avg": 4.5,
+      "count": 1030
+    },
+    "f_mpctest6_n63lcaqjl": {
+      "avg": 4.5,
+      "count": 1029
+    },
+    "f_mpjop6xr_smwl7be7x": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpjosuus_11q6m737o": {
+      "avg": 4.5,
+      "count": 1028
+    },
+    "f_mpjp4xht_75gs7fh89": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpjpdlvj_m9s0l4wsg": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpjrm9ap_6u82gj1eh": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mpjtuawi_qf0fwalkc": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpknqi6x_14giqn8nw": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpkplxc3_oaj8wlkjc": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mpl72xcr_1uk7he2gp": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mpl7menk_xqbx4vazg": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mpl8pdnc_3zit7dppv": {
+      "avg": 4.5,
+      "count": 1027
+    },
+    "f_mpm5siml_l38kt8243": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpm5x0ve_waaukox5h": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpm5z7ef_vbb9ra35p": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpmgw0p1_qx5ar9lev": {
+      "avg": 4.5,
+      "count": 1032
+    },
+    "f_mppgaih9_6o9v3zha1": {
+      "avg": 4.5,
+      "count": 1029
+    },
+    "f_mppijc3n_bkf1ux2uw": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mppji9ym_p3idmyxhz": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mppjtw2n_ro4162j7v": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpq9mj6j_1iosxmptw": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpsbakub_ki5ko472l": {
+      "avg": 4.5,
+      "count": 1028
+    },
+    "f_mpul5sy5_6ffjshizv": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mpunkcnh_2rgg6se80": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpva4vif_lrskj31qj": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpvagva9_cilyyi12i": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpzhklmg_nnu665w8h": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mpzho4hz_ye7djsv36": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mq0sx2mg_h2ac1dx3g": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mq103jto_cwaur37gm": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mq1tpmbp_pxuskghp9": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mq2bmw3h_4b01nwqiw": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mq2f7c0w_43ds391l1": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mq2gf39w_qkaq70d6l": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mq2hthns_onaw1o2ja": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mq6o9ztu_rzw5csyfd": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mq7ut2va_z06fttq5x": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mq7vrhu0_dih1v2d6k": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mq7xoip9_udequjhwi": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mq92bf4j_9rzrduzzp": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mqaax12n_oh91ycdzk": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqabre2b_z1g0c8wmy": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqac2klq_o12hejybv": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mqccu5tn_1d47ffztj": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqcdaku5_62s5z9rgk": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mqdbsowd_l5b6o2wcw": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqen5g53_cnr2parkv": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqesb05b_zw3tk14yh": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqg4l4vv_4gfkvnca4": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqg6v4wx_j6nibzi5a": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mqglzth4_98g0jo842": {
+      "avg": 4.5,
+      "count": 1027
+    },
+    "f_mqiyh5rr_o2trgtwqa": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqndidzb_mk9gfdzgd": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqq2n5b2_yf169o5d1": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqt01sia_gwwj7xk8q": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mqvvpfbf_rpxx2eask": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mqwfsvsc_u1a4lcvxa": {
+      "avg": 4.5,
+      "count": 1026
+    },
+    "f_mqzakq34_rksyex0pl": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mrfuozvu_1fcwpjsm9": {
+      "avg": 4.5,
+      "count": 1025
+    },
+    "f_mroyhi64_2fvvbrz28": {
+      "avg": 4.5,
+      "count": 1027
     }
   },
-  "homeAds": {
-    "enabled": true,
-    "code": "<script async=\"async\" data-cfasync=\"false\" src=\"https://twigcrucialpal.com/0377191398375827c4d3940002f2f120/invoke.js\"></script>\n<div id=\"container-0377191398375827c4d3940002f2f120\"></div>"
-  },
-  "emailSettings": {
-    "enabled": true,
-    "serviceId": "service_vxa6axh",
-    "templateId": "template_t1ye0ww",
-    "publicKey": "rEBROtphxQ7WYfti3",
-    "fromName": "MobileFTP24 Admin"
+  "_meta": {
+    "label": "",
+    "createdAt": "2026-07-25T02:25:58.141Z",
+    "version": "2.0",
+    "sections": 5
   }
 }
