@@ -943,6 +943,14 @@
       "name": "XIAOMI PINOUT",
       "order": 0,
       "parentId": "f_mpwpnyf1_qdmankxtu"
+    },
+    "f_ms1c2vfi_h88rbr5dj": {
+      "name": "Software Tokens",
+      "parentId": "f_mpzj47qr_vdk1zdplj",
+      "icon": "",
+      "order": 0,
+      "createdAt": 1785042271134,
+      "lastModified": 1785042271134
     }
   },
   "files": {
@@ -24877,7 +24885,7 @@
       ],
       "createdAt": 1781583014574,
       "description": "Features KG KILLER V2.2\n🔹 GeneralADB Read Info\nLive Screen (ADB)\nInstall Samsung Driver\nCheck KG Status (ADB)\nSamsung Payjoy (New)\nDisable Google Framework APK\nFRP Universal (ADB)\nSamsung Knox Disable\n🔹 Samsung (KG / ADB)KG Android 15 BETA (APK Method)\nKG Android 14 New Method 1\nKG Android 14 New Method 2\nKG Android 14 New Method 3\nKG Android 14 (All Patch)\nSet To KG Active 01 (IMEI)\nKG Android 13 (New Patch)\nKG Android 13 (03-24)",
-      "downloads": 0,
+      "downloads": 11,
       "folderId": "f_mqf4u5qs_49twakrzn",
       "isLink": false,
       "lastModified": 1781583014574,
@@ -36250,7 +36258,7 @@
       ],
       "createdAt": 1784167816384,
       "description": "",
-      "downloads": 12,
+      "downloads": 13,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1784167816384,
@@ -37378,7 +37386,7 @@
       ],
       "createdAt": 1784987902376,
       "description": "Step-by-Step Installation Process\nRun the Installer: Locate\nHSD_AIO_TOOL.exe\nin your Downloads folder and double-click to start the setup wizard.\nCreate Desktop Shortcut: On the Select Additional Tasks window, check Create a desktop shortcut and click Next.\nHandle Active Background Tasks: If prompted to close running applications (such as\nadb.exe\n), select Automatically close the applications and click Next.\nComplete Installation: Allow the installer to finish extracting files. Keep Launch HSD_AIO_TOOL checked and click Finish.\nSign-Up Guide (Get 1 Month Free Access)\nLaunch Sign Up: Open the application and click the SIGN UP button on the login screen.\nFill in Required Information:\nEmail ID: Enter your valid email address.\nMobile: Enter your mobile number.\nPassword: Create a strong password for your account.\nEnter Referral Code: In the referral code field, enter SOFT11111 to claim your free 1-month full access.\nInstant Registration: Click SIGN UP. Account creation is immediate with no server verification required.\n🎁 Referral Program (Earn Free Access)\n1 Month Free per User: Share your unique referral code with other users. Each user who signs up using your code grants you 1 additional month of free access.\n1 Year Free Access: Refer 4 users with your referral code to automatically unlock 1 full year of unlimited free access.",
-      "downloads": 0,
+      "downloads": 3,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1784987902376,
@@ -45603,11 +45611,22 @@
       "published": true,
       "sourceType": "html",
       "url": ""
+    },
+    "f_ms1c3pt0_je5kkh3a2": {
+      "name": "Free Token",
+      "folderId": "f_ms1c2vfi_h88rbr5dj",
+      "sourceType": "html",
+      "htmlSource": "<script src=\"//genuinelyunfit.com/dc/cb/71/dccb7124596351ff4ec93d6d8a2da068.js\" type=\"text/javascript\"></script>\n<script src=\"//genuinelyunfit.com/4e/4b/0b/4e4b0b93b434029565c34b110d89bfa2.js\" type=\"text/javascript\"></script>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      text-align: center;\n    }\n    .box {\n      background: #fff;\n      border: 2px solid #4CAF50;\n      padding: 20px;\n      font-size: 24px;\n      margin-bottom: 10px;\n      display: inline-block;\n      border-radius: 8px;\n      min-width: 200px;\n      font-weight: bold;\n    }\n\n    button {\n      padding: 10px 20px;\n      font-size: 16px;\n      border: none;\n      background: #4CAF50;\n      color: #fff;\n      border-radius: 5px;\n      cursor: pointer;\n    }\n\n    button:hover {\n      background: #45a049;\n    }\n\n    .qr {\n      margin-top: 20px;\n    }\n  </style>\n\n  <h2>Your Valid Token</h2>\n  <div class=\"box\" id=\"passwordBox\">Loading...</div><br />\n  <button onclick=\"copyPassword()\">Copy</button>\n\n<script type=\"text/javascript\">\n\tatOptions = {\n\t\t'key' : 'e524c60f4cfa855d82b1d7d1f62b8c2a',\n\t\t'format' : 'iframe',\n\t\t'height' : 250,\n\t\t'width' : 300,\n\t\t'params' : {}\n\t};\n</script>\n<script src=\"//genuinelyunfit.com/e524c60f4cfa855d82b1d7d1f62b8c2a/invoke.js\" type=\"text/javascript\"></script>\n  <div class=\"qr\">\n    <h3>QR Code</h3>\n    <img alt=\"QR Code will appear here\" id=\"qrImage\" src=\"\" />\n  </div>\n\n  <script>\n    const passwords = [\n      \"gsmsanjoy\",\n      \"pass123\",\n      \"hello2024\",\n      \"android01\",\n      \"unlockme\",\n      \"gsmworld\",\n      \"tokenX\",\n      \"secret88\",\n      \"deviceOK\",\n      \"flashTool\",\n      \"repair123\"\n    ];\n\n    const passwordBox = document.getElementById(\"passwordBox\");\n    const qrImage = document.getElementById(\"qrImage\");\n\n    const savedToken = localStorage.getItem(\"token\");\n    const savedTime = localStorage.getItem(\"tokenTime\");\n    const now = new Date().getTime();\n    const twoHours = 2 * 60 * 60 * 1000; // 2 hours in milliseconds\n\n    let finalToken = \"\";\n\n    if (savedToken && savedTime && (now - savedTime < twoHours)) {\n      // Reuse existing token\n      finalToken = savedToken;\n    } else {\n      // Generate new token\n      finalToken = passwords[Math.floor(Math.random() * passwords.length)];\n      localStorage.setItem(\"token\", finalToken);\n      localStorage.setItem(\"tokenTime\", now);\n    }\n\n    passwordBox.innerText = finalToken;\n\n    // Generate QR code using external API\n    const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?data=${encodeURIComponent(finalToken)}&size=200x200`;\n    qrImage.src = qrUrl;\n\n    function copyPassword() {\n      navigator.clipboard.writeText(finalToken).then(() => {\n        alert(\"Token copied: \" + finalToken);\n      });\n    }\n  </script>",
+      "url": "",
+      "publishUrl": "freetoken",
+      "published": true,
+      "createdAt": 1785042310500,
+      "lastModified": 1785042310500
     }
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-07-25T14:00:05.368Z",
+    "createdAt": "2026-07-26T05:08:40.322Z",
     "version": "2.0",
     "sections": 4
   }
