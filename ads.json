@@ -27684,7 +27684,7 @@
       ],
       "createdAt": 1781870272656,
       "description": "MH Unlocker Pro SPD Module V2.0\n🔧General Service\nRead Information\nFactory Reset\nFRP Reset\nAdvanced Reset Methods\nRead Security Backup\nWrite Security Backup\nDM-Verity Error Fix\n🔓 Bootloader\nUnlock Bootloader\nRelock Bootloader\n📱 SIM Lock & Network Lock\nSIM Unlock\nNetwork Unlock\nPermanent Network Lock Removal\nFlash Mode Unlock Support\n💾 RPMB Functions\nRead RPMB\nWrite RPMB\n📥 Read Functions\nRead Firmware\nRead GPT\nRead Partitions\n📤 Write Functions\nWrite Firmware\nWrite PAC Firmware\nWrite Partitions\n📦 Firmware Support\nPAC Firmware Support\nInternal Loaders\nHybrid Loaders\nManual Loaders\nFlash Mode Support\n⚙️ Security Operations\nSecurity Backup & Restore\nDM-Verity Fix\nAdvanced Diagnostics\nSupported CPUs in MH Unlocker Pro SPD Module V2.0\nOne of the strongest points of MH Unlocker Pro SPD Module V2.0 is its wide range of supported Spreadtrum and Unisoc processors. Here is the complete list:\n\nSC7731E SC9832E SC9863A SC9863A 64-Bit Tiger T310 Tiger T606 Tiger T610 Tiger T612 Tiger T616 Tiger T700 Tiger T760 Series",
-      "downloads": 14,
+      "downloads": 21,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1781870629428,
@@ -37709,18 +37709,27 @@
       ],
       "createdAt": 1785560504050,
       "description": "UnlockTool Latest Version Download Free No Login Required\n\nHow to Install\nDownload the UnlockTool package and extract all files to a new folder.\nTemporarily disable Windows Defender or any antivirus if it blocks the launcher files.\nRun the RE_GURU launcher as Administrator.\n\nClick Activate with a Code.\nOpen the official RE_GURU Telegram bot from the launcher.\nPress Start in the bot and generate a new activation code.\nCopy the generated 6-digit code.\nPaste the code into the activation window and click Activate.\nSave the generated User ID and Password shown by the launcher.\nClick Run UnlockTool.\nOpen Windows Task Manager and locate UnlockTool.exe.\nGo to Details and change the process priority to High.\nReturn to the launcher and click Login.\nAccept the disclaimer window.\nWait until all modules finish loading.\nSelect your device brand and start using the software.",
-      "downloads": 154,
+      "downloads": 156,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1785560504050,
+      "lastModified": 1786449366050,
       "link": "https://file.unlocktool.net/",
       "links": [
         {
-          "label": "UnlockTool Latest Version Download",
+          "label": "UnlockTool Download Official",
           "urls": [
             {
-              "password": "",
-              "url": "https://file.unlocktool.net/"
+              "url": "https://file.unlocktool.net/",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "Loader V2 Link",
+          "urls": [
+            {
+              "url": "https://re-guru.com/",
+              "password": ""
             }
           ]
         },
@@ -37728,16 +37737,16 @@
           "label": "Loader Link",
           "urls": [
             {
-              "password": "",
-              "url": "https://mega.nz/file/el4wnBAI#XaxP-RRh8m7IdoYJarPGwv-vX3LMRntBVDIboo0ma4o"
+              "url": "https://mega.nz/file/el4wnBAI#XaxP-RRh8m7IdoYJarPGwv-vX3LMRntBVDIboo0ma4o",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1drv.ms/u/c/60278a53f75dbc69/IQAMsiDdLlPhRqgTolvXm9e0AWUJIwUCTF72r1mh5zDFBSc?e=V4NILW"
+              "url": "https://1drv.ms/u/c/60278a53f75dbc69/IQAMsiDdLlPhRqgTolvXm9e0AWUJIwUCTF72r1mh5zDFBSc?e=V4NILW",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/1mC1FBFcHUKRB8_3tiOF6dA"
+              "url": "https://1024terabox.com/s/1mC1FBFcHUKRB8_3tiOF6dA",
+              "password": ""
             }
           ]
         }
@@ -37748,7 +37757,7 @@
       "password": "",
       "publishUrl": "unlocktool-craked-by-re-guru",
       "published": true,
-      "size": "253mb",
+      "size": "",
       "unrarPassword": ""
     },
     "f_msl898b0_x3t3me0fr": {
@@ -37758,7 +37767,7 @@
       ],
       "createdAt": 1786245172812,
       "description": "Features OnePlus Rollback Firmware Downloader\nAutomatic Connection Fix: Fixes official server connection issues in the background without exposing manual system tweaks.\nDirect Firmware Downloader: Paste official OxygenOS rollback URLs to start downloading immediately.\nDownload Control Options: Full support to pause, resume, or cancel active downloads at any time.\nLive Speed & Progress Metrics: Displays real-time download speed, remaining time (ETA), and progress percentage.\nAuto Folder & File Formatting: Automatically organizes downloaded packages into specific device folders and renames them to oplus_ota_downgrade.zip.\nBuilt-in ADB Suite: Check connected ADB devices, copy downloaded firmware directly to phone storage root (/sdcard/), and reboot into the bootloader with a single click.\nBuilt-in Fastboot Controls: Verify fastboot device connections, initiate bootloader unlocking, flash custom boot or recovery images, and reboot to system.\nClean Background Exit: Automatically cleans up network parameters upon closing the program to keep your PC system clean.",
-      "downloads": 0,
+      "downloads": 32,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1786245172812,
@@ -37794,7 +37803,7 @@
       ],
       "createdAt": 1786245553521,
       "description": "Features Data Unlocker Tool\nSupports offline operation without requiring the original online server.\nNo internet connection required after installation.\nNo activation or yearly renewal needed for the offline edition.\nSupports Samsung, Xiaomi, Huawei, Motorola, LG, Oppo, Vivo, Infinix, Realme and other supported Android devices.\nCompatible with MediaTek, Qualcomm and Unisoc chipsets.\nBuilt-in Unlock module for supported devices.\nRead device information before starting any repair operation.\nDirect Unlock function for supported phone models.\nRepair IMEI option for supported devices.\nRead security or unlock codes.\nRead device certificates.\nWrite certificates back to supported devices.\nRestore security data after supported repair procedures.\nRepair boot-related problems on supported phones.\nCalculate Motorola unlock codes using IMEI.\nChange Samsung CSC.\nChange LG CSC.\nConvert CSC for supported Samsung and LG devices.\nRemove Samsung FRP through MTP Mode.\nWrite EmToken using ADB.\nSupports EmToken V1, V2, V3 and V4.\nMediaTek Custom DA selection.\nSupports manual Preloader loading.\nSupports manual EMI file loading.\nRemove FRP through BROM Mode.\nRemove Xiaomi Mi Account on supported MTK devices.\nRemove Demo Mode from supported Oppo devices.\nRemove Demo Mode from supported Vivo devices.\nRemove Huawei ID on supported models.\nRemove Realme ID on supported devices.\nSafe Factory Reset option.\nRemove Samsung KG Lock.\nRemove Samsung Knox protection.\nRemove Infinix MDM.\nUnlock bootloader on supported MTK devices.\nRepair Boot using BROM Mode.\nPartition Manager with Read function.\nPartition Manager with Erase function.\nPartition Manager with Write function.\nBackup Security partitions.\nCrash Preloader function.\nBuilt-in Scatter firmware flasher.\nFlash Dump files.\nQualcomm support by Model.\nQualcomm support using Firehose loader.\nManual Firehose loader selection.\nSamsung Qualcomm servicing.\nRemove Qualcomm FRP Lock.\nRemove Xiaomi Mi Account (A-R).\nRemove Xiaomi Mi Account M2.\nRemove Samsung Knox.\nRemove Samsung KG Lock.\nFast Knox and KG removal method.\nRemove Huawei ID.\nReset modem configuration.\nBackup EFS partition.\nFactory Reset using EXT4.\nQualcomm Loader Manager.\nQualcomm Partition Manager.\nQualcomm firmware flashing support.\nUnisoc and Spreadtrum device support.\nRemove FRP Lock on supported Unisoc phones.\nRemove MDM (Beta).\nFactory Reset for supported devices.\nNetwork Unlock function.\nRead IMEI 1.\nWrite IMEI 1.\nRead IMEI 2.\nWrite IMEI 2.\nRead partitions.\nErase partitions.\nWrite partitions.\nFlash PAC firmware files.\nSamsung DM Mode flashing.\nLG DM Mode flashing.\nMotorola Fastboot flashing.\nRead connected device information.\nStart firmware flashing.\nKDZ firmware flashing support.\nXML firmware flashing support.\nDump file flashing support.\nConvert supported devices to CDMA.\nEnable VoLTE directly.\nRead Carrier Policy.\nWrite Carrier Policy.\nRepair Baseband.\nWrite 3G Settings.\nPatch Sprint SIM.\nInstall 4G Settings.\nDisable supported network bands.\nEnable supported network bands.\nRepair 4G network problems.\nRepair Replace SIM issues.\nRemove Policyman.\nWrite Motorola 3G settings.\nWrite QCN backup.\nOpen SPD Engineer Menu.\nOpen SPD Operator Settings.\nOpen SPD GCF Settings.\nOpen IMS Menu for ZTE devices.\nOpen IMS Menu for LG devices.\nOpen MediaTek Engineer Mode.\nOpen MediaTek Operator Selection Menu.\nOpen MediaTek MiscConfig Menu.\nOpen Xiaomi MBN Config Editor.\nOpen Qualcomm MBN Test Menu.\nEnable VoLTE on rooted MTK devices.\nSamsung KG Removal Method 1.\nSamsung KG Removal Method 2.\nSamsung KG Removal Method New 5.\nStart KG Removal process.\nRepair Call Not Sent problem.\nOpen LG Diag Menu.\nOpen LG APN Menu.\nOpen LG Enable Bands Menu.\nOpen LG NOA Test Settings.\nOpen LG MCFG Edit Menu.\nOpen Samsung SPC Menu.\nOpen Samsung USB Menu.\nOpen Samsung Hidden Services.\nOpen Samsung Change CSC Menu.\nOpen Universal Network Menu.\nEnable Diag Mode for supported devices.\nOpen ZTE General Diag Menu.\nSupports manual DA, EMI and Firehose loading after server shutdown.\nWorks completely offline with locally stored firmware files.\nDesigned for Windows 7, Windows 8, Windows 10 and Windows 11.\nSimple login with pre-configured offline credentials.\nDark modern user interface with organized service tabs.\nWhat's New in Data Unlocker Tool V1.7.4\nAdded Direct Unlock support for Samsung Galaxy SM-A136U (ATT/CHA) Bit 9 to A.\nAdded Direct Unlock support for SM-A136U1 (ATT/CHA) Bit 9 to A.\nAdded Direct Unlock support for SM-A136W (All Carriers) Bit 9 to A.\nAdded Direct Unlock support for SM-A136B (All Carriers) Bit 7 to 8.\nAdded Direct Unlock support for SM-A136M (All Carriers) Bit 8 to 9.\nAdded Direct Unlock support for SM-A136S (All Carriers) Bit 6 to 7.\nAdded Direct Unlock support for SM-A326U (ATT/CHA) Bit E to F.\nAdded Direct Unlock support for SM-A326U1 (ATT/CHA) Bit E to F.\nAdded Direct Unlock support for SM-A326W (All Carriers) Bit E to F.\nAdded Direct Unlock support for SM-A326B (All Carriers) Bit B to C.\nAdded Direct Unlock support for SM-A326BR (All Carriers) Bit B to C.\nAdded Direct Unlock support for SM-A326K (All Carriers) Bit 5 to 6.\nAdded Direct Unlock support for SM-T227U (ATT/CHA) Bit 9 to A.\nSome supported Samsung models now require a Test Point during the unlocking process.\nAdded Direct Unlock support for Dialn Nova.\nAdded Direct Unlock support for Dialn X62.\nAdded Direct Unlock support for Dialn X65.\nAdded Direct Unlock support for Dialn Neo.\nAdded support for the new Unisoc Tiger T310_64 CPU.\nAdded more supported models for Annual License users.\nGeneral improvements for stability and compatibility.\nFixed various reported bugs.\n\n\nHow to Install Data Unlocker Tool V1.7.4\nDownload the ZIP package from the download section below.\nExtract the archive using WinRAR or 7-Zip.\n\nWhen prompted, enter the extraction password: gsmyogesh.\nOpen the extracted Data Unlock Tool folder.\nRun Data Unlock Tool.exe as Administrator.\nThe username and password are already filled in. Do not modify them.\nClick the Login button.\nAfter the Login Successful message appears, click OK.\n\n\nThe software will open and is ready for offline use.\nIf a repair or flashing operation requires a DA, EMI or Firehose file, browse to your own local files because the original server is no longer available.\nDownload Data Unlocker Tool V1.7.4",
-      "downloads": 0,
+      "downloads": 2,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786245553521,
@@ -37824,44 +37833,84 @@
       "unrarPassword": "gsmyogesh"
     },
     "f_msl8tlv1_ei0jy45oo": {
-      "name": "Exynos FRP v1.0.0 FREE",
-      "folderId": "f_mppfc768_ya5wj6h2f",
-      "size": "24mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cUtFmIBPy4tM0kGqlKz0XmmStmArowD6uqwLtdy9Acg560SknN-wlpYAjud-MjjYgNO8WU8F84HMm1bJ4t8PovMEKbL58ZY9jiy8er-0pEdFiOMERWsrHInzIzomoL7vhWB4vibLLLuWSRRV7mS9Mq65E5DUiTIZWmsdrzirdRZYHbm8C40NqaURb2Vx/w640-h430/Exynos%20FRP%20v1.0.0%20FREE.png",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cUtFmIBPy4tM0kGqlKz0XmmStmArowD6uqwLtdy9Acg560SknN-wlpYAjud-MjjYgNO8WU8F84HMm1bJ4t8PovMEKbL58ZY9jiy8er-0pEdFiOMERWsrHInzIzomoL7vhWB4vibLLLuWSRRV7mS9Mq65E5DUiTIZWmsdrzirdRZYHbm8C40NqaURb2Vx/w640-h430/Exynos%20FRP%20v1.0.0%20FREE.png"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "exynos-frp-v100-free",
+      "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 0,
-      "link": "https://1drv.ms/u/c/60278a53f75dbc69/IQBCp1Ovi7X2S5yJH8vvRnVoAauKZzMdzxsuIFJo-USFGQw?e=Khyapu",
+      "downloads": 46,
+      "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
-      "published": true,
+      "lastModified": 1786246123501,
+      "link": "https://1drv.ms/u/c/60278a53f75dbc69/IQBCp1Ovi7X2S5yJH8vvRnVoAauKZzMdzxsuIFJo-USFGQw?e=Khyapu",
       "links": [
         {
           "label": "Exynos FRP v1.0.0 FREE",
           "urls": [
             {
-              "url": "https://1drv.ms/u/c/60278a53f75dbc69/IQBCp1Ovi7X2S5yJH8vvRnVoAauKZzMdzxsuIFJo-USFGQw?e=Khyapu",
-              "password": ""
+              "password": "",
+              "url": "https://1drv.ms/u/c/60278a53f75dbc69/IQBCp1Ovi7X2S5yJH8vvRnVoAauKZzMdzxsuIFJo-USFGQw?e=Khyapu"
             },
             {
-              "url": "https://mega.nz/file/1m1kSbya#bJDi93celnji3lySw5_ewfC5A0bdfHNuDAEI8RE21-0",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/1m1kSbya#bJDi93celnji3lySw5_ewfC5A0bdfHNuDAEI8RE21-0"
             },
             {
-              "url": "https://1024terabox.com/s/1_aF1EIV6V1O4BDvwkc5eLw",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1_aF1EIV6V1O4BDvwkc5eLw"
             }
           ]
         }
       ],
-      "createdAt": 1786246123501,
-      "lastModified": 1786246123501
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Exynos FRP v1.0.0 FREE",
+      "password": "",
+      "publishUrl": "exynos-frp-v100-free",
+      "published": true,
+      "size": "24mb",
+      "unrarPassword": ""
+    },
+    "f_msolorfy_mzuxe71xf": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSJjtR4q2fBh9WUrLFD6pfMwTWu5HrhhgCF3TbitAg-2yUREelA9qNqb9stWIf-m5uy5464y2M3xWsCPHf_9bR2UDP_tB9YYsJzO_tmAry-It35f1lZ3eBmniGJ8jkCQSdP7z58xtuZBr8X5AjfRFm96hoiuvGGjrSz7mNgLCri0fRIMe6xkI5ZKyoYlw/w640-h333/GSM%20PROF%20Auth%20Tool%20Free.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSJjtR4q2fBh9WUrLFD6pfMwTWu5HrhhgCF3TbitAg-2yUREelA9qNqb9stWIf-m5uy5464y2M3xWsCPHf_9bR2UDP_tB9YYsJzO_tmAry-It35f1lZ3eBmniGJ8jkCQSdP7z58xtuZBr8X5AjfRFm96hoiuvGGjrSz7mNgLCri0fRIMe6xkI5ZKyoYlw/w640-h333/GSM%20PROF%20Auth%20Tool%20Free.png"
+      ],
+      "createdAt": 1786449130990,
+      "description": "GSM PROF Auth Tool Features I Found\nMediate MTK Auth section\nPreloader-related options\nBROM connection options\nAuthorization-related functions\nAuto reboot option\nMTK FRP-related operation\nQualcomm flashing options\nCustom and automatic loader options\nPartition backup and erase options\nPartition Manager\nEFS backup, restore and wipe options\nToken Generate section\nXiaomi Mi Assistant functions\nFast boot device information\nConsole log for showing device communication",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1786449130990,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQArpOc3nPSgR6Z7waAT2YORAYASwnfG_GUc1lpPjffgNN0?e=juA1r7",
+      "links": [
+        {
+          "label": "GSM PROF Auth Tool Free",
+          "urls": [
+            {
+              "password": "gsmyogesh",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQArpOc3nPSgR6Z7waAT2YORAYASwnfG_GUc1lpPjffgNN0?e=juA1r7"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1NSeXubyLHoA-gtbnZVz6Kw"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/JzcSnB7K#VsiGrrJU6BLVWWILrR2j-GKtQmGCY49fpS4kFH8_G0s"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "GSM PROF Auth Tool Free",
+      "password": "",
+      "publishUrl": "gsm-prof-auth-tool-free",
+      "published": true,
+      "size": "232mb",
+      "unrarPassword": "gsmyogesh"
     }
   },
   "images": {
@@ -46033,7 +46082,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-09T03:28:58.195Z",
+    "createdAt": "2026-08-11T11:56:34.834Z",
     "version": "2.0",
     "sections": 4
   }
