@@ -37386,7 +37386,7 @@
       ],
       "createdAt": 1784987902376,
       "description": "Step-by-Step Installation Process\nRun the Installer: Locate\nHSD_AIO_TOOL.exe\nin your Downloads folder and double-click to start the setup wizard.\nCreate Desktop Shortcut: On the Select Additional Tasks window, check Create a desktop shortcut and click Next.\nHandle Active Background Tasks: If prompted to close running applications (such as\nadb.exe\n), select Automatically close the applications and click Next.\nComplete Installation: Allow the installer to finish extracting files. Keep Launch HSD_AIO_TOOL checked and click Finish.\nSign-Up Guide (Get 1 Month Free Access)\nLaunch Sign Up: Open the application and click the SIGN UP button on the login screen.\nFill in Required Information:\nEmail ID: Enter your valid email address.\nMobile: Enter your mobile number.\nPassword: Create a strong password for your account.\nEnter Referral Code: In the referral code field, enter SOFT11111 to claim your free 1-month full access.\nInstant Registration: Click SIGN UP. Account creation is immediate with no server verification required.\n🎁 Referral Program (Earn Free Access)\n1 Month Free per User: Share your unique referral code with other users. Each user who signs up using your code grants you 1 additional month of free access.\n1 Year Free Access: Refer 4 users with your referral code to automatically unlock 1 full year of unlimited free access.",
-      "downloads": 28,
+      "downloads": 31,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1784987902376,
@@ -38017,38 +38017,38 @@
       "unrarPassword": ""
     },
     "f_msrfclk6_zibfqk5bg": {
-      "name": "Sigma Plus v1.01.16 Released",
-      "folderId": "f_mp6sihua_qn9c5cpoh",
-      "size": "35mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjrfZYHYARvY3IM9b6BYmS6sg-3N-AicjcTsRuL-tl0eY4f3ZmR5CKre2tWcr_KybtUHMoB0H2hGkk9hhjQKrjuWmeGpE8qUTYdgNeMcDrq4PuN7lt9ivU3kU1094es5JIMk8Ljaw8xKJnjtHPvcpLvJjE2Rc5-Jub5jbvQR5aNkZtvSFinAg9JsFOV8Z9X=w640-h184-rw",
       "covers": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEjrfZYHYARvY3IM9b6BYmS6sg-3N-AicjcTsRuL-tl0eY4f3ZmR5CKre2tWcr_KybtUHMoB0H2hGkk9hhjQKrjuWmeGpE8qUTYdgNeMcDrq4PuN7lt9ivU3kU1094es5JIMk8Ljaw8xKJnjtHPvcpLvJjE2Rc5-Jub5jbvQR5aNkZtvSFinAg9JsFOV8Z9X=w640-h184-rw",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz1UkCQt450OvtivgcNo8ZulJ897E1VJQZj1nkJlQljIyn9eJQjsbJBukkv8l1-qUezScvNmmOGjMbk-OLrWKnc7HtnuOWXDZFiQ4eJQJ5y2OxQw1k-MAtv7YqRRmwpdreN-75tllrUaVB1Z2SEQ-N5jrbR9F2Ev0gfSJcXFU9nEoeTYim_wg1G-aI_r5K/w640-h218-rw/2025-07-10_212415.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEjn3PYYVNP9e9AvzCIs_mb-byJkvKdScA58umBYv69DF3UH8Qwa5cMB0pECjB2GHeaIKMnP4eSZFcOL218QHy4xsNkEvr0IK-WcpOrdUMywjzNrO-T6_jtGJCeXT4su7bpKhA74r-Ziaq4H2MojyK1u6YL80CNIdTF0fDkhmhPlsU8i4Yn3VMmACW3_ZQ=w640-h374-rw"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "sigma-plus-v10116-released",
+      "createdAt": 1786619884327,
       "description": "Supported Brands:\nHuawei, \nHonor, \nMoto, \nZTE, \nVivo, \nSamsung, \nAlcatel, and many more.\n🛠️ Get Ready to Use Sigma Plus\nFollow these steps to set up Sigma Plus and start working:\n\n🔌 If You Have a Sigma Plus Box or Dongle\nPlug your Sigma Plus box or dongle into your computer.\nInstall the drivers it needs (you’ll find them on the website or in the software).\nDownload and install the latest Sigma Plus software.\nOpen the software and follow the on-screen instructions.\nMake sure to update or activate your box/dongle when asked.\n\n🔑 If You’re Using a Sigma Plus License\nGo to the Sigma Plus website and create your account.\nBuy a license from gsmserver.com or a local dealer.\nDownload and install the Sigma Plus software from below link\nOpen the software and log in using the email and password you used to create your account.\nThat’s it! You’re ready to start using Sigma Plus.\nFeatures Sigma Plus Tool:\nSupported Features & Devices List\nMTK (MediaTek)\nFRP Removal:\nSupports a large group of Samsung devices.\nPopular models supported, including 2022 models.\nA/E/F/G/J/N/M/P/S/T/X series supported.\nAndroid 7-12 supported, no testpoint required.\nLatest security versions supported.\nBypass Boot Authorization:\nDisable security and service devices with any security configuration.\nBootrom Security Bypass Exploits for supported CPUs.\nSupported CPUs:\nMT6572, MT6580, MT6582, MT6735, MT6737, MT6739, MT6755, MT6757, MT6761, MT6763, MT6765, MT6768, MT6771, MT6785, MT6799, MT6873, MT8127, MT8163, MT8173, MT8695, and more.\nRepair IMEI:\nSupports VIVO MTK devices.\nFixes \"Invalid IMEI\" or \"IMEI: 0\" issues.\nIMEI remains repaired after a master reset.\nHuawei ID Removal:\nFull and correct Huawei ID unlock.\nHuawei ID lock will not return after reflashing.\nBackup and Restore:\nBackup and restore NV calibrations.\nSupports MTK devices with eMMC and UFS flash chips.\nUnlock and FRP Removal:\nSPFT method for unlocking and FRP removal.\nSupports Motorola, Alcatel, Huawei, and other MTK devices.\nYoda Method:\nUnlock/Get Unlock Codes for MTK smartphones.\nIMEI repair for MTK devices.\nRoot Solution:\nSupports various Android versions for root/unroot.\nFlash/Backup:\nUpgrade/downgrade firmware.\nHuge archive of firmware versions and language packs.",
       "downloads": 0,
-      "link": "https://1drv.ms/u/c/3c985ce697e29976/IQD8CiSTSkRER5TT94mrp20DAcj70CTwHR6UPzb3I3RCaUg?e=UWJXmd",
+      "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
-      "published": true,
+      "lastModified": 1786619884327,
+      "link": "https://1drv.ms/u/c/3c985ce697e29976/IQD8CiSTSkRER5TT94mrp20DAcj70CTwHR6UPzb3I3RCaUg?e=UWJXmd",
       "links": [
         {
           "label": "Sigma Plus v1.01.16 Released",
           "urls": [
             {
-              "url": "https://1drv.ms/u/c/3c985ce697e29976/IQD8CiSTSkRER5TT94mrp20DAcj70CTwHR6UPzb3I3RCaUg?e=UWJXmd",
-              "password": ""
+              "password": "",
+              "url": "https://1drv.ms/u/c/3c985ce697e29976/IQD8CiSTSkRER5TT94mrp20DAcj70CTwHR6UPzb3I3RCaUg?e=UWJXmd"
             }
           ]
         }
       ],
-      "createdAt": 1786619884327,
-      "lastModified": 1786619884327
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Sigma Plus v1.01.16 Released",
+      "password": "",
+      "publishUrl": "sigma-plus-v10116-released",
+      "published": true,
+      "size": "35mb",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -46199,9 +46199,9 @@
       "createdAt": 1782617839645,
       "folderId": "f_mqxeezc7_c3kkl1zit",
       "htmlSource": "",
-      "lastModified": 1785900098858,
-      "name": "TV SERVER",
-      "publishUrl": "tv-server",
+      "lastModified": 1786621063225,
+      "name": "IPTV LIVE",
+      "publishUrl": "iptv-live",
       "published": true,
       "sourceType": "url",
       "url": "https://banglatvhub.blogspot.com/"
@@ -46216,11 +46216,22 @@
       "published": true,
       "sourceType": "html",
       "url": ""
+    },
+    "f_msrg3g1y_02eotmsqx": {
+      "name": "Adult TV",
+      "folderId": "f_mqxeezc7_c3kkl1zit",
+      "sourceType": "url",
+      "htmlSource": "",
+      "url": "https://adulttvhub.blogspot.com/",
+      "publishUrl": "adult-tv",
+      "published": true,
+      "createdAt": 1786621136902,
+      "lastModified": 1786621136902
     }
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-13T11:18:38.269Z",
+    "createdAt": "2026-08-13T11:52:32.368Z",
     "version": "2.0",
     "sections": 4
   }
