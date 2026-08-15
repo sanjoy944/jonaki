@@ -435,7 +435,7 @@
     "f_mq0trbio_s85a1hyu7": {
       "createdAt": 1780657934352,
       "icon": "",
-      "lastModified": 1786764169419,
+      "lastModified": 1786764169086,
       "name": "Realme ROM",
       "order": 2,
       "parentId": "f_mq7wdlf9_xzcp43ied"
@@ -37839,7 +37839,7 @@
       ],
       "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 401,
+      "downloads": 404,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1786246123501,
@@ -38487,6 +38487,46 @@
       "published": true,
       "size": "",
       "unrarPassword": ""
+    },
+    "f_msuakxfj_xgriip5vo": {
+      "name": "iOS Toolkit Apple Device Tools",
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "size": "62mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSx1ksTMwmWO9ORJSozJT-xI63CDnSoXZCf9pZRlA1fj35GykbVWVIONZ39BLL7uhQ0UCK3qPy_DuPrFE5hC_vQgJsReKHgEbX1IpyhpqAQ8WX79Pm1_TqpNClOc36T1MZ15KOpBEh0PHgE1rnQ2Vhi_JMQI4thYR5QjJ53TwdN9NCEXxbbUkWrFnGkvsy/w640-h358/iOS%20Toolkit%20Apple%20Device%20Tools.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSx1ksTMwmWO9ORJSozJT-xI63CDnSoXZCf9pZRlA1fj35GykbVWVIONZ39BLL7uhQ0UCK3qPy_DuPrFE5hC_vQgJsReKHgEbX1IpyhpqAQ8WX79Pm1_TqpNClOc36T1MZ15KOpBEh0PHgE1rnQ2Vhi_JMQI4thYR5QjJ53TwdN9NCEXxbbUkWrFnGkvsy/w640-h358/iOS%20Toolkit%20Apple%20Device%20Tools.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "ios-toolkit-apple-device-tools",
+      "description": "iOS Toolkit Apple Device Tools  Dashboard – Check Connected Apple Device\nThe Dashboard is the main place to start after connecting an Apple device. A connected device appears in the device selection area, and the toolkit can show detailed information about it.\n\nThere is also a Rescan Hardware button. This can be useful when you connect a device after the toolkit has already been opened.\n\nThe information area includes several fields, including:\n\nDevice Name – Shows the name of the connected device.\nModel Name – Displays the detected model.\nProduct Type – Shows the device product identifier.\niOS / Build – Displays the available iOS and build information.\nSerial Number – Shows the device serial number.\nUDID – Displays the device UDID.\nIMEI – Shows the available IMEI information.\nMEID – Displays the available MEID information.\nWi-Fi MAC – Shows the Wi-Fi address.\nBluetooth MAC – Shows the Bluetooth address.\nCPU Arch – Displays the CPU architecture information.\nHW Model – Shows the hardware model.\nSIM Status – Displays the available SIM status.\nLock Screen – Shows the available lock screen status.\nBattery and storage are also shown separately on the Dashboard using progress indicators.",
+      "downloads": 0,
+      "link": "https://drive.google.com/file/d/1ZBRS1BNOY3luahufbIxITI7wGqACqVdh/view?usp=sharing",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "iOS Toolkit Apple Device Tools",
+          "urls": [
+            {
+              "url": "https://drive.google.com/file/d/1ZBRS1BNOY3luahufbIxITI7wGqACqVdh/view?usp=sharing",
+              "password": ""
+            },
+            {
+              "url": "https://mega.nz/file/hydCVb5J#xjyYKDAa9NHrOU_0l69p3V0E727i-VYolTPpbDawiWQ",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1ha6MYggtsz8W2gEOq2pF4w",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1786793273407,
+      "lastModified": 1786793273407
     }
   },
   "images": {
@@ -46669,7 +46709,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-15T03:29:08.739Z",
+    "createdAt": "2026-08-15T11:28:10.923Z",
     "version": "2.0",
     "sections": 4
   }
