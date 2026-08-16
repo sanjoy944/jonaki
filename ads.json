@@ -37466,7 +37466,7 @@
       ],
       "createdAt": 1785125523283,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mq7f7s06_6p5wmh3aa",
       "isLink": false,
       "lastModified": 1785125523283,
@@ -37709,7 +37709,7 @@
       ],
       "createdAt": 1785560504050,
       "description": "UnlockTool Latest Version Download Free No Login Required\n\nHow to Install\nDownload the UnlockTool package and extract all files to a new folder.\nTemporarily disable Windows Defender or any antivirus if it blocks the launcher files.\nRun the RE_GURU launcher as Administrator.\n\nClick Activate with a Code.\nOpen the official RE_GURU Telegram bot from the launcher.\nPress Start in the bot and generate a new activation code.\nCopy the generated 6-digit code.\nPaste the code into the activation window and click Activate.\nSave the generated User ID and Password shown by the launcher.\nClick Run UnlockTool.\nOpen Windows Task Manager and locate UnlockTool.exe.\nGo to Details and change the process priority to High.\nReturn to the launcher and click Login.\nAccept the disclaimer window.\nWait until all modules finish loading.\nSelect your device brand and start using the software.",
-      "downloads": 180,
+      "downloads": 186,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1786449366050,
@@ -37839,7 +37839,7 @@
       ],
       "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 404,
+      "downloads": 405,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1786246123501,
@@ -37987,7 +37987,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 7,
+      "downloads": 9,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -38489,44 +38489,80 @@
       "unrarPassword": ""
     },
     "f_msuakxfj_xgriip5vo": {
-      "name": "iOS Toolkit Apple Device Tools",
-      "folderId": "f_mp6sunl4_or57y3gxd",
-      "size": "62mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSx1ksTMwmWO9ORJSozJT-xI63CDnSoXZCf9pZRlA1fj35GykbVWVIONZ39BLL7uhQ0UCK3qPy_DuPrFE5hC_vQgJsReKHgEbX1IpyhpqAQ8WX79Pm1_TqpNClOc36T1MZ15KOpBEh0PHgE1rnQ2Vhi_JMQI4thYR5QjJ53TwdN9NCEXxbbUkWrFnGkvsy/w640-h358/iOS%20Toolkit%20Apple%20Device%20Tools.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSx1ksTMwmWO9ORJSozJT-xI63CDnSoXZCf9pZRlA1fj35GykbVWVIONZ39BLL7uhQ0UCK3qPy_DuPrFE5hC_vQgJsReKHgEbX1IpyhpqAQ8WX79Pm1_TqpNClOc36T1MZ15KOpBEh0PHgE1rnQ2Vhi_JMQI4thYR5QjJ53TwdN9NCEXxbbUkWrFnGkvsy/w640-h358/iOS%20Toolkit%20Apple%20Device%20Tools.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "ios-toolkit-apple-device-tools",
+      "createdAt": 1786793273407,
       "description": "iOS Toolkit Apple Device Tools  Dashboard – Check Connected Apple Device\nThe Dashboard is the main place to start after connecting an Apple device. A connected device appears in the device selection area, and the toolkit can show detailed information about it.\n\nThere is also a Rescan Hardware button. This can be useful when you connect a device after the toolkit has already been opened.\n\nThe information area includes several fields, including:\n\nDevice Name – Shows the name of the connected device.\nModel Name – Displays the detected model.\nProduct Type – Shows the device product identifier.\niOS / Build – Displays the available iOS and build information.\nSerial Number – Shows the device serial number.\nUDID – Displays the device UDID.\nIMEI – Shows the available IMEI information.\nMEID – Displays the available MEID information.\nWi-Fi MAC – Shows the Wi-Fi address.\nBluetooth MAC – Shows the Bluetooth address.\nCPU Arch – Displays the CPU architecture information.\nHW Model – Shows the hardware model.\nSIM Status – Displays the available SIM status.\nLock Screen – Shows the available lock screen status.\nBattery and storage are also shown separately on the Dashboard using progress indicators.",
-      "downloads": 0,
-      "link": "https://drive.google.com/file/d/1ZBRS1BNOY3luahufbIxITI7wGqACqVdh/view?usp=sharing",
+      "downloads": 9,
+      "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
-      "published": true,
+      "lastModified": 1786793273407,
+      "link": "https://drive.google.com/file/d/1ZBRS1BNOY3luahufbIxITI7wGqACqVdh/view?usp=sharing",
       "links": [
         {
           "label": "iOS Toolkit Apple Device Tools",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1ZBRS1BNOY3luahufbIxITI7wGqACqVdh/view?usp=sharing",
+              "password": "",
+              "url": "https://drive.google.com/file/d/1ZBRS1BNOY3luahufbIxITI7wGqACqVdh/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/hydCVb5J#xjyYKDAa9NHrOU_0l69p3V0E727i-VYolTPpbDawiWQ"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1ha6MYggtsz8W2gEOq2pF4w"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iOS Toolkit Apple Device Tools",
+      "password": "",
+      "publishUrl": "ios-toolkit-apple-device-tools",
+      "published": true,
+      "size": "62mb",
+      "unrarPassword": ""
+    },
+    "f_msv7j3fv_kpufr1iax": {
+      "name": "SnapdragonFlash NoAuth v2.0 Tool",
+      "folderId": "f_mqdrga34_wfiqp3gsz",
+      "size": "21mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFhsn27vhmNa4Uyhj0VHBua9qvnholcCcl2a5dlDy96ZxyGzv4wgMRRJCus8iHAoTYWxq2nTWZrvOgR4nALHbX31CQ3k-uMktormas2vaALo350OhFqZqJ4NYNgJd3b7FvhyrN5AYk6vWYhlJnFYLqOxmv-msc0kWdCTUvKj-2W82kG4GbfC-8OVGiFm6U/s1600/SnapdragonFlash%20NoAuth%20v2.0%20Tool.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFhsn27vhmNa4Uyhj0VHBua9qvnholcCcl2a5dlDy96ZxyGzv4wgMRRJCus8iHAoTYWxq2nTWZrvOgR4nALHbX31CQ3k-uMktormas2vaALo350OhFqZqJ4NYNgJd3b7FvhyrN5AYk6vWYhlJnFYLqOxmv-msc0kWdCTUvKj-2W82kG4GbfC-8OVGiFm6U/s1600/SnapdragonFlash%20NoAuth%20v2.0%20Tool.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "snapdragonflash-noauth-v20-tool",
+      "description": "SnapdragonFlash NoAuth v2.0 Tool SnapdragonFlash NoAuth v2.0 – Qualcomm EDL Flash Tool for Xiaomi Devices\nSnapdragonFlash NoAuth v2.0\nThe software window clearly shows the name SnapdragonFlash NoAuth v2.0 - Qualcomm EDL Flash Tool. At the top there are tabs for Configuration, Driver, Other and Log.\n\nThe main screen has a select button for choosing the firmware location. There is also a refresh button and a start flash button. Once a device is connected, its information is shown in the table below.\n\nThe table contains columns for ID, device, progress, elapsed time, status and result. This makes it possible to see what the tool is doing while the flash operation is running.\n\nMy Flashing Check\nI checked the tool with a Redmi Note 7 Pro. My first check was through EDL mode. The tool detected the device and started the flashing process. The screenshot shows a connected device on COM7, with the progress bar active and the status showing a system image being flashed.\n\nThe screenshot also shows the elapsed time at 35 seconds at the point when the image was captured. The result column was showing flashing, meaning the process was still running when the screenshot was taken.\nQualcomm EDL Flash Tool: The program is designed for flashing Qualcomm devices through EDL mode.\n47 Snapdragon chipset compatibility: The supplied information lists compatibility covering Snapdragon chipsets from SD845 to SD8 Elite.\nXiaomi / Redmi / POCO support: These three device brands are listed as supported.\nNo authentication required: The tool is presented as a NoAuth flash tool and did not ask for authentication during my stated test.\nSupported Snapdragon Chipsets\nSeries\tChipsets\nSD8xx\tSD845, SD855, SD865, SD870, SD888, SD8+Gen1, SD8Gen2, SD8Gen3, SD8Elite\nSD7xx\tSD710, SD730, SD750G, SD765G, SD778G, SD7+Gen1, SD7+Gen2, SD7+Gen3\nSD6xx\tSD636, SD660, SD665, SD670, SD675, SD680, SD695, SD6Gen1\nSD4xx\tSD460, SD480, SD4Gen1, SD4Gen2, SD4Gen3\nOther\tSD2Gen1, SW5100\nFlashing Options Shown in the Tool\nAt the bottom of the main window, the software shows three options: clean all, save user data and clean all and lock.Developer Credit\nSnapdragonFlash NoAuth v2.0 is developed by Rasheed. Credit goes to Rasheed for developing the Qualcomm-based Xiaomi flashing tool described here.\n\nThe tool was shared from a GitHub release and was also being shared on Facebook when I came across it. I am posting the information here based on the supplied details and the screenshots provided.\n\nSoftware Information\nSoftware Name\tSnapdragonFlash NoAuth\nVersion\tv2.0\nDeveloper\tRasheed\nSupported OS\tWindows computers\nSupported Devices\tXiaomi, Redmi and POCO smartphones",
+      "downloads": 0,
+      "link": "https://github.com/xcracker000/SnapdragonFlash-Tool/releases/tag/v2.0",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "SnapdragonFlash NoAuth v2.0 Tool",
+          "urls": [
+            {
+              "url": "https://github.com/xcracker000/SnapdragonFlash-Tool/releases/tag/v2.0",
               "password": ""
             },
             {
-              "url": "https://mega.nz/file/hydCVb5J#xjyYKDAa9NHrOU_0l69p3V0E727i-VYolTPpbDawiWQ",
-              "password": ""
-            },
-            {
-              "url": "https://1024terabox.com/s/1ha6MYggtsz8W2gEOq2pF4w",
+              "url": "https://drive.google.com/file/d/1wDM12jUT1j_5iPHymKy0AQ9-UdUeTEjh/view?usp=sharing",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1786793273407,
-      "lastModified": 1786793273407
+      "createdAt": 1786848615211,
+      "lastModified": 1786848615211
     }
   },
   "images": {
@@ -46709,7 +46745,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-15T11:28:10.923Z",
+    "createdAt": "2026-08-16T02:50:24.712Z",
     "version": "2.0",
     "sections": 4
   }
