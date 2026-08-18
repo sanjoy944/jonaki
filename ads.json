@@ -24975,7 +24975,7 @@
       ],
       "createdAt": 1781583161675,
       "description": "",
-      "downloads": 0,
+      "downloads": 34,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1781583161675,
@@ -31693,7 +31693,7 @@
       ],
       "createdAt": 1782184510622,
       "description": "",
-      "downloads": 43,
+      "downloads": 46,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1782184510622,
@@ -36097,7 +36097,7 @@
       ],
       "createdAt": 1783336104270,
       "description": "",
-      "downloads": 94,
+      "downloads": 95,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1783336104270,
@@ -36170,7 +36170,7 @@
       ],
       "createdAt": 1783743280555,
       "description": "",
-      "downloads": 94,
+      "downloads": 95,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1783743280555,
@@ -36218,7 +36218,7 @@
       ],
       "createdAt": 1783915902674,
       "description": "Itel Fastboot Info Read Tool",
-      "downloads": 46,
+      "downloads": 47,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1783915902674,
@@ -37709,7 +37709,7 @@
       ],
       "createdAt": 1785560504050,
       "description": "UnlockTool Latest Version Download Free No Login Required\n\nHow to Install\nDownload the UnlockTool package and extract all files to a new folder.\nTemporarily disable Windows Defender or any antivirus if it blocks the launcher files.\nRun the RE_GURU launcher as Administrator.\n\nClick Activate with a Code.\nOpen the official RE_GURU Telegram bot from the launcher.\nPress Start in the bot and generate a new activation code.\nCopy the generated 6-digit code.\nPaste the code into the activation window and click Activate.\nSave the generated User ID and Password shown by the launcher.\nClick Run UnlockTool.\nOpen Windows Task Manager and locate UnlockTool.exe.\nGo to Details and change the process priority to High.\nReturn to the launcher and click Login.\nAccept the disclaimer window.\nWait until all modules finish loading.\nSelect your device brand and start using the software.",
-      "downloads": 190,
+      "downloads": 196,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1786449366050,
@@ -37987,7 +37987,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 26,
+      "downloads": 30,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -38495,7 +38495,7 @@
       ],
       "createdAt": 1786793273407,
       "description": "iOS Toolkit Apple Device Tools  Dashboard – Check Connected Apple Device\nThe Dashboard is the main place to start after connecting an Apple device. A connected device appears in the device selection area, and the toolkit can show detailed information about it.\n\nThere is also a Rescan Hardware button. This can be useful when you connect a device after the toolkit has already been opened.\n\nThe information area includes several fields, including:\n\nDevice Name – Shows the name of the connected device.\nModel Name – Displays the detected model.\nProduct Type – Shows the device product identifier.\niOS / Build – Displays the available iOS and build information.\nSerial Number – Shows the device serial number.\nUDID – Displays the device UDID.\nIMEI – Shows the available IMEI information.\nMEID – Displays the available MEID information.\nWi-Fi MAC – Shows the Wi-Fi address.\nBluetooth MAC – Shows the Bluetooth address.\nCPU Arch – Displays the CPU architecture information.\nHW Model – Shows the hardware model.\nSIM Status – Displays the available SIM status.\nLock Screen – Shows the available lock screen status.\nBattery and storage are also shown separately on the Dashboard using progress indicators.",
-      "downloads": 10,
+      "downloads": 12,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1786793273407,
@@ -38535,7 +38535,7 @@
       ],
       "createdAt": 1786848615211,
       "description": "SnapdragonFlash NoAuth v2.0 Tool SnapdragonFlash NoAuth v2.0 – Qualcomm EDL Flash Tool for Xiaomi Devices\nSnapdragonFlash NoAuth v2.0\nThe software window clearly shows the name SnapdragonFlash NoAuth v2.0 - Qualcomm EDL Flash Tool. At the top there are tabs for Configuration, Driver, Other and Log.\n\nThe main screen has a select button for choosing the firmware location. There is also a refresh button and a start flash button. Once a device is connected, its information is shown in the table below.\n\nThe table contains columns for ID, device, progress, elapsed time, status and result. This makes it possible to see what the tool is doing while the flash operation is running.\n\nMy Flashing Check\nI checked the tool with a Redmi Note 7 Pro. My first check was through EDL mode. The tool detected the device and started the flashing process. The screenshot shows a connected device on COM7, with the progress bar active and the status showing a system image being flashed.\n\nThe screenshot also shows the elapsed time at 35 seconds at the point when the image was captured. The result column was showing flashing, meaning the process was still running when the screenshot was taken.\nQualcomm EDL Flash Tool: The program is designed for flashing Qualcomm devices through EDL mode.\n47 Snapdragon chipset compatibility: The supplied information lists compatibility covering Snapdragon chipsets from SD845 to SD8 Elite.\nXiaomi / Redmi / POCO support: These three device brands are listed as supported.\nNo authentication required: The tool is presented as a NoAuth flash tool and did not ask for authentication during my stated test.\nSupported Snapdragon Chipsets\nSeries\tChipsets\nSD8xx\tSD845, SD855, SD865, SD870, SD888, SD8+Gen1, SD8Gen2, SD8Gen3, SD8Elite\nSD7xx\tSD710, SD730, SD750G, SD765G, SD778G, SD7+Gen1, SD7+Gen2, SD7+Gen3\nSD6xx\tSD636, SD660, SD665, SD670, SD675, SD680, SD695, SD6Gen1\nSD4xx\tSD460, SD480, SD4Gen1, SD4Gen2, SD4Gen3\nOther\tSD2Gen1, SW5100\nFlashing Options Shown in the Tool\nAt the bottom of the main window, the software shows three options: clean all, save user data and clean all and lock.Developer Credit\nSnapdragonFlash NoAuth v2.0 is developed by Rasheed. Credit goes to Rasheed for developing the Qualcomm-based Xiaomi flashing tool described here.\n\nThe tool was shared from a GitHub release and was also being shared on Facebook when I came across it. I am posting the information here based on the supplied details and the screenshots provided.\n\nSoftware Information\nSoftware Name\tSnapdragonFlash NoAuth\nVersion\tv2.0\nDeveloper\tRasheed\nSupported OS\tWindows computers\nSupported Devices\tXiaomi, Redmi and POCO smartphones",
-      "downloads": 39,
+      "downloads": 82,
       "folderId": "f_mqdrga34_wfiqp3gsz",
       "isLink": false,
       "lastModified": 1786848615211,
@@ -38605,44 +38605,84 @@
       "unrarPassword": ""
     },
     "f_mswn9su1_9dfvsxqvo": {
-      "name": "Xiaomi DIAG Tool v2.1 Free",
-      "folderId": "f_mq0uduoi_4okvszeb9",
-      "size": "25mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTRFgTb69oZKHFK5xIgs4-8TZlvWwegQQZSTO0LOeWLQbmNyWjW4ma00Rk8qpW6hv3M6pPIgXbIDcJZV-hQLSHpDaadqg3g0P_Po2q5lnxZJk5ZO1Q4FwMJMmtTGySvCfYOjvKaT7trnHsekuncQ_x6mLsRRlm3K-d2Bbl829GMO08l4piZf2Yw-ii0bY/w640-h348/Xiaomi%20DIAG%20Tool%20v2.1%20Free.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTRFgTb69oZKHFK5xIgs4-8TZlvWwegQQZSTO0LOeWLQbmNyWjW4ma00Rk8qpW6hv3M6pPIgXbIDcJZV-hQLSHpDaadqg3g0P_Po2q5lnxZJk5ZO1Q4FwMJMmtTGySvCfYOjvKaT7trnHsekuncQ_x6mLsRRlm3K-d2Bbl829GMO08l4piZf2Yw-ii0bY/w640-h348/Xiaomi%20DIAG%20Tool%20v2.1%20Free.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "xiaomi-diag-tool-v21-free",
+      "createdAt": 1786935521593,
       "description": "Xiaomi DIAG Tool v2.1 Free Features Xiaomi DIAG Mode Enable Tool\nAutomatic Xiaomi Device Detection: The tool keeps checking for a connected Xiaomi phone and shows the detected model and Android version when the device is available. \nADB Connection Check: The phone needs to be connected with ADB enabled before the main DIAG process can start.\nDevice Information: The tool can read the Xiaomi model, brand, Android version and available MIUI or HyperOS information from the connected device. \nAutomatic DIAG APK Handling: If the required diagnostic package is not already installed, the tool tries to install it automatically. \nManual APK Installation: If automatic installation does not work, the tool copies the required package to the phone and asks the user to install it manually from the Download folder. \nDIAG Mode Start: After the required package is ready, the tool starts the diagnostic mode on the Xiaomi phone. \nDIAG Driver Detection: After starting DIAG mode, the tool waits for the Windows DIAG driver and shows the detected driver when available.\nProgress Status: The main window shows stages such as Checking, Installing, Starting DIAG, Detecting and Success while the process is running.\nManual Installation Verification: When the APK has to be installed manually, the tool can check again whether the package is installed before continuing with DIAG mode.\nDark Interface: The tool uses a dark interface with a simple device status area, progress bar and main action button.\nWhat's New\nCurrent release version is v2.1. \nAutomatic device monitoring is included in the main window.\nThe tool can show the connected Xiaomi model and Android version.\nAutomatic installation of the required Xiaomi diagnostic package is supported.\nA manual installation fallback is available when automatic installation fails.\nThe tool checks for the DIAG driver after starting diagnostic mode.\nA separate verification step is available after manual APK installation. How to Install Xiaomi DIAG Tool\nDownload Xiaomi DIAG Tool v2.1 from the download section below.\nExtract the downloaded package if it comes as a ZIP archive.\nKeep the required Xiaomi diagnostic APK in the same tool folder if it is included separately.\nMake sure ADB is available and the Xiaomi phone is connected with ADB enabled.\nRun the Xiaomi DIAG Tool.\nWait for the tool to detect the connected Xiaomi phone.\nCheck the displayed model and Android information.\nClick ENABLE DIAG to start the process.\nIf the diagnostic package is already installed, the tool continues automatically.\nIf automatic installation is not possible, follow the on-screen instruction and install the APK from Internal Storage > Download.\nClick CONTINUE after the manual installation is completed.\nThe tool will check the installation, start DIAG mode and wait for the Windows DIAG driver.\nWhen the driver is detected, the tool shows the DIAG process as successful.",
       "downloads": 0,
-      "link": "https://1drv.ms/u/c/362938347b225930/IQAMHvYpGhXQSpRrefcsO09WATAUdUEDKvEz8zKYpiJ1h4c?e=vUhJbF",
+      "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
-      "published": true,
+      "lastModified": 1786935521593,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQAMHvYpGhXQSpRrefcsO09WATAUdUEDKvEz8zKYpiJ1h4c?e=vUhJbF",
       "links": [
         {
           "label": "Xiaomi DIAG Tool v2.1 Free",
           "urls": [
             {
-              "url": "https://1drv.ms/u/c/362938347b225930/IQAMHvYpGhXQSpRrefcsO09WATAUdUEDKvEz8zKYpiJ1h4c?e=vUhJbF",
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQAMHvYpGhXQSpRrefcsO09WATAUdUEDKvEz8zKYpiJ1h4c?e=vUhJbF"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/s30AkKzJ#VSRbZoa1k_nLxtVmnfum_N990y37ioH1YweIPWPYtx0"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1DsMw363VK9Atic9g6k6hPw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Xiaomi DIAG Tool v2.1 Free",
+      "password": "",
+      "publishUrl": "xiaomi-diag-tool-v21-free",
+      "published": true,
+      "size": "25mb",
+      "unrarPassword": ""
+    },
+    "f_msykn5tc_pjrbhwhko": {
+      "name": "Passcode Eraser v1.0 A12-A13 Free",
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "size": "81MB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzpLduprGJfemAEtjIY3hYlkWlBXbasgVyYfqtfwKO2ZE9HsFLyrnsc7jS-cHnu4JmAVZxeAKGEUYRVBU_BAz9DsgyyozT7YYbylPNlCGst-FGadu2q9Aa817vEm_3f4e13Cy-OuZgYkIpmCSyZlfxwN1ejNnWK9HOY7AOBRbWkyXl9bc3oYOUZ-JyMKnT/w640-h430/Passcode%20Eraser%20v1.0%20A12-A13%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzpLduprGJfemAEtjIY3hYlkWlBXbasgVyYfqtfwKO2ZE9HsFLyrnsc7jS-cHnu4JmAVZxeAKGEUYRVBU_BAz9DsgyyozT7YYbylPNlCGst-FGadu2q9Aa817vEm_3f4e13Cy-OuZgYkIpmCSyZlfxwN1ejNnWK9HOY7AOBRbWkyXl9bc3oYOUZ-JyMKnT/w640-h430/Passcode%20Eraser%20v1.0%20A12-A13%20Free.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "passcode-eraser-v10-a12-a13-free",
+      "description": "Passcode Eraser v1.0 A12-A13 Free BR Team A12-A13 Passcode Eraser v1.0 Free Download BR Team A12-A13 Passcode Eraser v1.0 Free Download\nBR Team A12-A13 Passcode Eraser is a free offline tool made for supported A12 and A13 Apple devices. The tool is designed to erase data from supported passcode locked devices and return them back to the Hello screen. This is the v1.0 release build of the BR Team A12-A13 Erase Tool. According to the provided information, it works with supported devices in DFU mode and requires a PWNED DFU setup using RP2350. One important requirement is RP2350-USB-A. The tool also requires Windows 10.BR Team A12-A13 Erase Tool Information\nSoftware Name\tBR Team A12-A13 Passcode Eraser\nVersion\tv1.0 Release Build\nDeveloper\tBR Team\nLicense\t100% Free\nSupported OS\tWindows 10\nSupported Devices\tSelected A12 and A13 devices listed below\n\nMain Requirements\nPWNED DFU using RP2350\nRP2350-USB-A is required\nWindows 10\nThese requirements are important for using the tool. RP2350-USB-A is specifically mentioned as a required item.\n\nSupported DevicesThe current supported device list provided for BR Team A12-A13 Passcode Eraser v1.0 includes the following models:\n\niPhone XS\niPhone XS Max\niPhone XR\niPhone 11\niPhone 11 Pro\niPhone 11 Pro Max\niPhone SE (2nd generation)\niPad mini 5\niPad Air 3\niPad (8th generation)\nNo other devices are included here because no additional supported models were provided.",
+      "downloads": 0,
+      "link": "https://bookra1n.com/Blue/a12a13erase/erase.zip",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "Passcode Eraser v1.0 A12-A13 Free",
+          "urls": [
+            {
+              "url": "https://bookra1n.com/Blue/a12a13erase/erase.zip",
               "password": ""
             },
             {
-              "url": "https://mega.nz/file/s30AkKzJ#VSRbZoa1k_nLxtVmnfum_N990y37ioH1YweIPWPYtx0",
+              "url": "https://mega.nz/file/RnUylRAR#hF5bXeA0WYrGCE811mVyg64in2KNuW-z1JM3fKibZ44",
               "password": ""
             },
             {
-              "url": "https://1024terabox.com/s/1DsMw363VK9Atic9g6k6hPw",
+              "url": "https://1024terabox.com/s/14fFqoneMmRIObjgOIbQN-Q",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1786935521593,
-      "lastModified": 1786935521593
+      "createdAt": 1787052038448,
+      "lastModified": 1787052038448
     }
   },
   "images": {
@@ -46825,7 +46865,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-17T02:58:46.695Z",
+    "createdAt": "2026-08-18T11:23:05.173Z",
     "version": "2.0",
     "sections": 4
   }
