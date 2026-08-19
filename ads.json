@@ -1024,7 +1024,7 @@
       ],
       "createdAt": 1779069162882,
       "description": "Main Features of MOBILedit Forensic ULTRA\nAdvanced Android forensic analysis\nLogical and physical data extraction\nADB extraction support\nEDL extraction support\nCloud data analysis\nDeleted data recovery\nApplication analysis system\nPhoto recognition feature\nFace matching support\nLive update packages\nPassword bypass support for supported devices\nSecurity bypass methods\nUNISOC chipset support\nEXYNOS chipset support\nMessage and call history analysis\nTimeline and chat viewer\nSIM cloning support\nPhysical dump creation\nDevice backup support\nFile system browsing\nCloud extraction options\nData decryption support\nBruteforce options for supported devices\nMalware detection features\nEasy dark theme user interface\nSupport for Samsung Galaxy Watch devices\nFast device detection\nDetailed forensic reports\nImport and export options\nRegular live updates",
-      "downloads": 784,
+      "downloads": 785,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1780709605693,
@@ -2544,16 +2544,16 @@
           "label": "HUA Lite New V1.5.7 GCT",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/aovzexs655wi5cd/HUALiteNew-1.5.7.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/aovzexs655wi5cd/HUALiteNew-1.5.7.rar/file"
             },
             {
-              "url": "https://mega.nz/file/Mu0DAAZQ#08jC8ymN6q8Oru2ckdNifBunmgE-G68Trb-l5AdQggE",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/Mu0DAAZQ#08jC8ymN6q8Oru2ckdNifBunmgE-G68Trb-l5AdQggE"
             },
             {
-              "url": "https://1024terabox.com/s/1mfQWu-34p6fsrbiNdcDHbg",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1mfQWu-34p6fsrbiNdcDHbg"
             }
           ]
         },
@@ -2561,12 +2561,12 @@
           "label": "Hua lite 153.rar",
           "urls": [
             {
-              "url": "https://mega.nz/file/4m0VxDiL#Gh9ZB7USeRed_BZBEXtiVR10kNhZhj8HDsskQTFmo1A",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/4m0VxDiL#Gh9ZB7USeRed_BZBEXtiVR10kNhZhj8HDsskQTFmo1A"
             },
             {
-              "url": "https://1024terabox.com/s/17QPdYjBpFMPDjux_wJJKPQ",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/17QPdYjBpFMPDjux_wJJKPQ"
             }
           ]
         },
@@ -2574,12 +2574,12 @@
           "label": "HUALiteNew-Setup_Rev1.3.8_By_GCT_Team.rar",
           "urls": [
             {
-              "url": "https://mega.nz/file/TTJVQSzA#tuFR3L68zDIXo1TNHHzZVYyApNpDmxK-NdYSFcmoYZs",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/TTJVQSzA#tuFR3L68zDIXo1TNHHzZVYyApNpDmxK-NdYSFcmoYZs"
             },
             {
-              "url": "https://1024terabox.com/s/1AEeB1EuzWXUbU2nz6vJt_w",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1AEeB1EuzWXUbU2nz6vJt_w"
             }
           ]
         },
@@ -2587,8 +2587,8 @@
           "label": "HUA Lite New Dongle v1.3.4 By GCT_Team.rar",
           "urls": [
             {
-              "url": "https://1024terabox.com/s/1ZKay95LO5_St-4lD8xvpdw",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1ZKay95LO5_St-4lD8xvpdw"
             }
           ]
         },
@@ -2596,12 +2596,12 @@
           "label": "HUA Lite Dongle_v1.4.4_Pack.rar",
           "urls": [
             {
-              "url": "https://mega.nz/file/bDAjAIwQ#6CISE-lt9vlPjZCVs_feKkChZ537LLBRhkpSZgeVaYA",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/bDAjAIwQ#6CISE-lt9vlPjZCVs_feKkChZ537LLBRhkpSZgeVaYA"
             },
             {
-              "url": "https://1024terabox.com/s/1ENW4_Ay6cshK2ZhY6R7P3g",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1ENW4_Ay6cshK2ZhY6R7P3g"
             }
           ]
         }
@@ -23997,7 +23997,7 @@
       ],
       "createdAt": 1781530221657,
       "description": "Key Features of Mysterious-Dev Tool\nGeneral & Drivers\nDriver monitoring system\nAuto check and repair all drivers with one click\nManual driver check for Unisoc, Android, QCOM/MTK, ADB/Fastboot, HTC, and Huawei\nAccount Information\nServer connection status\nAccount expiration and credit balance display\nADB & Application Manager\nADB services and device connection check\nExecute custom ADB shell commands\nWireless ADB support\nList installed, system, disabled, and third-party apps\nBackup APK files\nClear app data\nUninstall, disable, or enable applications\nUnlock & SIM Services\nSIM unlock for MediaTek devices\nUniversal SIM unlock\nUnlock SIM for Google Pixel devices\n\nSamsung Services\nRead and write certificates\nChange serial number (beta)\nChange CSC code to switch carrier\nQualcomm Services (EDL, Diag, Flash)\nFlash firmware using XML, Patch, or MultiRaw files\nSingle and multi firmware flashing\nPartition manager with read, write, erase, and backup options\nRead device information and XML firmware\nFRP and factory reset services\nAccounts protection and security data services\nXiaomi network repair\nQCN backup and restore\nIMEI and MEID repair",
-      "downloads": 8,
+      "downloads": 9,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1781530221657,
@@ -24995,7 +24995,7 @@
       ],
       "createdAt": 1781583161675,
       "description": "",
-      "downloads": 152,
+      "downloads": 234,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1781583161675,
@@ -33923,7 +33923,7 @@
       ],
       "createdAt": 1782361889004,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1782361889004,
@@ -36117,7 +36117,7 @@
       ],
       "createdAt": 1783336104270,
       "description": "",
-      "downloads": 95,
+      "downloads": 110,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1783336104270,
@@ -36190,7 +36190,7 @@
       ],
       "createdAt": 1783743280555,
       "description": "",
-      "downloads": 95,
+      "downloads": 98,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1783743280555,
@@ -36238,7 +36238,7 @@
       ],
       "createdAt": 1783915902674,
       "description": "Itel Fastboot Info Read Tool",
-      "downloads": 47,
+      "downloads": 48,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1783915902674,
@@ -37406,7 +37406,7 @@
       ],
       "createdAt": 1784987902376,
       "description": "Step-by-Step Installation Process\nRun the Installer: Locate\nHSD_AIO_TOOL.exe\nin your Downloads folder and double-click to start the setup wizard.\nCreate Desktop Shortcut: On the Select Additional Tasks window, check Create a desktop shortcut and click Next.\nHandle Active Background Tasks: If prompted to close running applications (such as\nadb.exe\n), select Automatically close the applications and click Next.\nComplete Installation: Allow the installer to finish extracting files. Keep Launch HSD_AIO_TOOL checked and click Finish.\nSign-Up Guide (Get 1 Month Free Access)\nLaunch Sign Up: Open the application and click the SIGN UP button on the login screen.\nFill in Required Information:\nEmail ID: Enter your valid email address.\nMobile: Enter your mobile number.\nPassword: Create a strong password for your account.\nEnter Referral Code: In the referral code field, enter SOFT11111 to claim your free 1-month full access.\nInstant Registration: Click SIGN UP. Account creation is immediate with no server verification required.\n🎁 Referral Program (Earn Free Access)\n1 Month Free per User: Share your unique referral code with other users. Each user who signs up using your code grants you 1 additional month of free access.\n1 Year Free Access: Refer 4 users with your referral code to automatically unlock 1 full year of unlimited free access.",
-      "downloads": 36,
+      "downloads": 37,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1784987902376,
@@ -37859,7 +37859,7 @@
       ],
       "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 405,
+      "downloads": 412,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1786246123501,
@@ -37939,7 +37939,7 @@
       ],
       "createdAt": 1786618260978,
       "description": "To celebrate the launch, the developers are offering 6 hours of full access for free. No credits, no subscription required during this window — just activate the tool and start testing.\n\nSupported Devices & Features\nThe new build supports a wide range of A12 and above devices, including everything from the iPhone XR up to the iPhone 17 series. That alone makes the tool practical for technicians working on current-generation models.Here’s what works right now:\n\n✔ Working Features\n iCloud bypass for A12 and newer chips\nOutgoing calls (confirmed working on XS Max)\nApp Store login supported\nWorks on iOS versions from 18.7.1 all the way up to 26.1\nAbility to block OTA updates\nBypass Activation Lock and enter the system\niCloud sign-in possible when using a proxy\nFor a first release, this is already more complete than many similar tools.\n\nWhat’s Still in Progress\nThe developers are calling this Phase 2 of development. Some network-related functions still need work:\n\n Incoming calls – not working yet\nOutgoing SMS – not available\nIncoming SMS – not available\nMobile data – currently disabledThese features usually take longer because they depend on modem and baseband behavior inside activation-bypassed devices. The team has confirmed that updates are already planned.\n\nWhy This Release Matters\niBypasser A12+ Remastered v2.0 Changelog\nNew Features\nAdded FMI OFF Open Menu.\nAdded Passcode Bypass with Full Signal.\nAdded Hello Bypass without changing the Serial Number.\nAdded automatic camera fix after bypass.\nSupports iOS 13 to iOS 27.\nImprovements\nFaster bypass process.\nEasier interface.\nAdded one-click bypass process.\nImproved stability and reliability.\nAutomatic driver extraction and setup.\nBetter support for compatible devices.\nGeneral speed improvements.\nFixed several known bugs.\nSupported DevicesiOS 13 to iOS 27\n\niPhone XS\niPhone XS Max\niPhone XR\niPhone 11\niPhone 11 Pro\niPhone 11 Pro Max\niPhone SE (2nd Generation)\niPad mini (5th Generation)\niPad Air (3rd Generation)\niPad (8th Generation)\niPad (9th Generation)\nAdditional Compatibility\niOS 17 to 18.7.2\niOS 26.0 to 26.1\nSupports devices from iPhone XR up to iPhone 17 Pro Max\nRequirements\nRP2350 / Pico is required.",
-      "downloads": 0,
+      "downloads": 2,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1786618417854,
@@ -38007,7 +38007,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 30,
+      "downloads": 34,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -38515,7 +38515,7 @@
       ],
       "createdAt": 1786793273407,
       "description": "iOS Toolkit Apple Device Tools  Dashboard – Check Connected Apple Device\nThe Dashboard is the main place to start after connecting an Apple device. A connected device appears in the device selection area, and the toolkit can show detailed information about it.\n\nThere is also a Rescan Hardware button. This can be useful when you connect a device after the toolkit has already been opened.\n\nThe information area includes several fields, including:\n\nDevice Name – Shows the name of the connected device.\nModel Name – Displays the detected model.\nProduct Type – Shows the device product identifier.\niOS / Build – Displays the available iOS and build information.\nSerial Number – Shows the device serial number.\nUDID – Displays the device UDID.\nIMEI – Shows the available IMEI information.\nMEID – Displays the available MEID information.\nWi-Fi MAC – Shows the Wi-Fi address.\nBluetooth MAC – Shows the Bluetooth address.\nCPU Arch – Displays the CPU architecture information.\nHW Model – Shows the hardware model.\nSIM Status – Displays the available SIM status.\nLock Screen – Shows the available lock screen status.\nBattery and storage are also shown separately on the Dashboard using progress indicators.",
-      "downloads": 12,
+      "downloads": 14,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1786793273407,
@@ -38555,7 +38555,7 @@
       ],
       "createdAt": 1786848615211,
       "description": "SnapdragonFlash NoAuth v2.0 Tool SnapdragonFlash NoAuth v2.0 – Qualcomm EDL Flash Tool for Xiaomi Devices\nSnapdragonFlash NoAuth v2.0\nThe software window clearly shows the name SnapdragonFlash NoAuth v2.0 - Qualcomm EDL Flash Tool. At the top there are tabs for Configuration, Driver, Other and Log.\n\nThe main screen has a select button for choosing the firmware location. There is also a refresh button and a start flash button. Once a device is connected, its information is shown in the table below.\n\nThe table contains columns for ID, device, progress, elapsed time, status and result. This makes it possible to see what the tool is doing while the flash operation is running.\n\nMy Flashing Check\nI checked the tool with a Redmi Note 7 Pro. My first check was through EDL mode. The tool detected the device and started the flashing process. The screenshot shows a connected device on COM7, with the progress bar active and the status showing a system image being flashed.\n\nThe screenshot also shows the elapsed time at 35 seconds at the point when the image was captured. The result column was showing flashing, meaning the process was still running when the screenshot was taken.\nQualcomm EDL Flash Tool: The program is designed for flashing Qualcomm devices through EDL mode.\n47 Snapdragon chipset compatibility: The supplied information lists compatibility covering Snapdragon chipsets from SD845 to SD8 Elite.\nXiaomi / Redmi / POCO support: These three device brands are listed as supported.\nNo authentication required: The tool is presented as a NoAuth flash tool and did not ask for authentication during my stated test.\nSupported Snapdragon Chipsets\nSeries\tChipsets\nSD8xx\tSD845, SD855, SD865, SD870, SD888, SD8+Gen1, SD8Gen2, SD8Gen3, SD8Elite\nSD7xx\tSD710, SD730, SD750G, SD765G, SD778G, SD7+Gen1, SD7+Gen2, SD7+Gen3\nSD6xx\tSD636, SD660, SD665, SD670, SD675, SD680, SD695, SD6Gen1\nSD4xx\tSD460, SD480, SD4Gen1, SD4Gen2, SD4Gen3\nOther\tSD2Gen1, SW5100\nFlashing Options Shown in the Tool\nAt the bottom of the main window, the software shows three options: clean all, save user data and clean all and lock.Developer Credit\nSnapdragonFlash NoAuth v2.0 is developed by Rasheed. Credit goes to Rasheed for developing the Qualcomm-based Xiaomi flashing tool described here.\n\nThe tool was shared from a GitHub release and was also being shared on Facebook when I came across it. I am posting the information here based on the supplied details and the screenshots provided.\n\nSoftware Information\nSoftware Name\tSnapdragonFlash NoAuth\nVersion\tv2.0\nDeveloper\tRasheed\nSupported OS\tWindows computers\nSupported Devices\tXiaomi, Redmi and POCO smartphones",
-      "downloads": 82,
+      "downloads": 87,
       "folderId": "f_mqdrga34_wfiqp3gsz",
       "isLink": false,
       "lastModified": 1786848615211,
@@ -38591,7 +38591,7 @@
       ],
       "createdAt": 1786935236461,
       "description": "Xiaomi Firmware Assistant toolsFeatures Xiaomi Firmware Assistant OTA Tool\nCheck Device: Connects with the Xiaomi phone and checks whether the device is available in the required mode.\nRead Device: Reads details such as the device name, installed software version, serial, Android information, build, language, region and zone.\nOTA Firmware Verification: Checks the selected firmware using the phone information before installation.\nServer Validation: The firmware check uses the Xiaomi update service and requires an internet connection.\nGenerate Sign: Prepares the selected firmware for the installation stage after the validation check is completed.\nInstall Firmware: Installs the selected and validated firmware package through the supported Xiaomi sideload process.\nProgress Bar: Shows the installation progress while the firmware is being transferred.\nErase Data: Removes personal data from the connected phone. The tool warns that photos, apps and other files may be deleted. \nRestart: Sends a restart command to the connected Xiaomi phone.\nOTA Version Check Workflow: The installed software version can be checked first, then a matching OTA version higher than the installed build can be selected for verification.\nWhat's New (Changelog)\nFirmware validation is included before the installation process.\nCurrent Xiaomi device information can be read before selecting firmware.\nOTA firmware can be selected directly from the firmware section.\nServer-based firmware validation is used before installation.\nFirmware installation includes a progress indicator.\nSeparate options are available for Erase Data and Restart.\nHow to Install Xiaomi Firmware Assistant\nDownload the Xiaomi Firmware Assistant package from the download section below.\nExtract the downloaded ZIP file if it is provided as an archive.\nOpen the extracted folder and start the tool.\nConnect the Xiaomi phone in the required sideload mode.\nUse Check Device and then Read Device to check the current phone information.\nNote the software version currently installed on the phone.\nSelect a matching OTA firmware package that is higher than the installed version.\nClick Generate Sign and wait for the Xiaomi server verification to finish.\nIf the firmware is accepted, continue with Install Firmware.\nKeep the USB cable connected while the firmware is being installed.\nWait until the progress reaches 100% and the tool reports that installation is finished.\nRestart the phone and check the software version again after it boots.\nDownload Xiaomi Firmware Assistant Latest Version",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1786935236461,
@@ -38631,7 +38631,7 @@
       ],
       "createdAt": 1786935521593,
       "description": "Xiaomi DIAG Tool v2.1 Free Features Xiaomi DIAG Mode Enable Tool\nAutomatic Xiaomi Device Detection: The tool keeps checking for a connected Xiaomi phone and shows the detected model and Android version when the device is available. \nADB Connection Check: The phone needs to be connected with ADB enabled before the main DIAG process can start.\nDevice Information: The tool can read the Xiaomi model, brand, Android version and available MIUI or HyperOS information from the connected device. \nAutomatic DIAG APK Handling: If the required diagnostic package is not already installed, the tool tries to install it automatically. \nManual APK Installation: If automatic installation does not work, the tool copies the required package to the phone and asks the user to install it manually from the Download folder. \nDIAG Mode Start: After the required package is ready, the tool starts the diagnostic mode on the Xiaomi phone. \nDIAG Driver Detection: After starting DIAG mode, the tool waits for the Windows DIAG driver and shows the detected driver when available.\nProgress Status: The main window shows stages such as Checking, Installing, Starting DIAG, Detecting and Success while the process is running.\nManual Installation Verification: When the APK has to be installed manually, the tool can check again whether the package is installed before continuing with DIAG mode.\nDark Interface: The tool uses a dark interface with a simple device status area, progress bar and main action button.\nWhat's New\nCurrent release version is v2.1. \nAutomatic device monitoring is included in the main window.\nThe tool can show the connected Xiaomi model and Android version.\nAutomatic installation of the required Xiaomi diagnostic package is supported.\nA manual installation fallback is available when automatic installation fails.\nThe tool checks for the DIAG driver after starting diagnostic mode.\nA separate verification step is available after manual APK installation. How to Install Xiaomi DIAG Tool\nDownload Xiaomi DIAG Tool v2.1 from the download section below.\nExtract the downloaded package if it comes as a ZIP archive.\nKeep the required Xiaomi diagnostic APK in the same tool folder if it is included separately.\nMake sure ADB is available and the Xiaomi phone is connected with ADB enabled.\nRun the Xiaomi DIAG Tool.\nWait for the tool to detect the connected Xiaomi phone.\nCheck the displayed model and Android information.\nClick ENABLE DIAG to start the process.\nIf the diagnostic package is already installed, the tool continues automatically.\nIf automatic installation is not possible, follow the on-screen instruction and install the APK from Internal Storage > Download.\nClick CONTINUE after the manual installation is completed.\nThe tool will check the installation, start DIAG mode and wait for the Windows DIAG driver.\nWhen the driver is detected, the tool shows the DIAG process as successful.",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1786935521593,
@@ -38702,6 +38702,47 @@
       "publishUrl": "passcode-eraser-v10-a12-a13-free",
       "published": true,
       "size": "81MB",
+      "unrarPassword": ""
+    },
+    "f_mszjb3gk_u0bdwiq4c": {
+      "coverUrl": "https://scontent.fdac198-2.fna.fbcdn.net/v/t39.30808-6/778916109_122115371493317950_9213437927417417109_n.jpg?stp=dst-jpg_tt6&cstp=mx1460x963&ctp=p180x540&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Vb6njovXm-AQ7kNvwEhq39H&_nc_oc=AdrZruoV6G44cS_UsrcuxT32VjRCPtEgG9tbNd6ZXafOhG_jLKFWhmIw2QEDLoxyyGShELzGOheCTRSiqhnF80t-&_nc_zt=23&_nc_ht=scontent.fdac198-2.fna&_nc_gid=ZRswq0N18m_XoZ8UjoT-Vw&_nc_ss=7b2a8&oh=00_AQGsRVmpdLSfTp7BIsDGXdoiYQtZ9c47enHgxB5PKGy_9g&oe=6A8AFC99",
+      "covers": [
+        "https://scontent.fdac198-2.fna.fbcdn.net/v/t39.30808-6/778916109_122115371493317950_9213437927417417109_n.jpg?stp=dst-jpg_tt6&cstp=mx1460x963&ctp=p180x540&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Vb6njovXm-AQ7kNvwEhq39H&_nc_oc=AdrZruoV6G44cS_UsrcuxT32VjRCPtEgG9tbNd6ZXafOhG_jLKFWhmIw2QEDLoxyyGShELzGOheCTRSiqhnF80t-&_nc_zt=23&_nc_ht=scontent.fdac198-2.fna&_nc_gid=ZRswq0N18m_XoZ8UjoT-Vw&_nc_ss=7b2a8&oh=00_AQGsRVmpdLSfTp7BIsDGXdoiYQtZ9c47enHgxB5PKGy_9g&oe=6A8AFC99"
+      ],
+      "createdAt": 1787110262084,
+      "description": "HM TESTPOINT OFFLINE",
+      "downloads": 0,
+      "folderId": "f_mpzhn51z_ka1g9srm4",
+      "isLink": false,
+      "lastModified": 1787110262084,
+      "link": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F12lHV5KzHGvJoex7P1NiSV_z0jM9RrMgA%2Fview%3Fusp%3Dsharing%26fbclid%3DIwcGRvZgFleHRuA2FlbQIxMABicmlkETFnRTBXMWdJdHJCMlpNOTBhc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkr9FDbuyPG7NjPKdwezOSRsl1Sny4tMfhkpAPOelxzJZLXXv3HxFtaNOv3l_aem_7tWhgBhf7CVF8zv2S8iYSQ&h=AUCXKydeAWJ70J-wOHqgXlvf4u5qRa16rZhjGhnnuAfWyXts4sWXwsjbdTq_N4_Dm38nSklYr4VNfzJfgs55TwQQoNICkuoJLL3Op4CvHJ1IHWguiOaZAaqGBMJ37PeHdy2byHNi1u2DhPdmhuh7G8WY1AcsZhWD&__tn__=-UK-R&c[0]=AUD1whQyTnGCieyg-CagHTJrb_AQToDetqn9JZN6aohTFJAcvWXHwRQFJGnQtFBBzkEsrMRnBqmdV9qK88zmgun-NvnkP_tOBUoA9AMO4LPU0sa4WheRK_0p_FE-zne2xzr_5qr7fLW8Kn3ytKPpstmrbZvyH35EZGV1gX34fs5Rifa3hrQ",
+      "links": [
+        {
+          "label": "HM TESTPOINT OFFLINE",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F12lHV5KzHGvJoex7P1NiSV_z0jM9RrMgA%2Fview%3Fusp%3Dsharing%26fbclid%3DIwcGRvZgFleHRuA2FlbQIxMABicmlkETFnRTBXMWdJdHJCMlpNOTBhc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkr9FDbuyPG7NjPKdwezOSRsl1Sny4tMfhkpAPOelxzJZLXXv3HxFtaNOv3l_aem_7tWhgBhf7CVF8zv2S8iYSQ&h=AUCXKydeAWJ70J-wOHqgXlvf4u5qRa16rZhjGhnnuAfWyXts4sWXwsjbdTq_N4_Dm38nSklYr4VNfzJfgs55TwQQoNICkuoJLL3Op4CvHJ1IHWguiOaZAaqGBMJ37PeHdy2byHNi1u2DhPdmhuh7G8WY1AcsZhWD&__tn__=-UK-R&c[0]=AUD1whQyTnGCieyg-CagHTJrb_AQToDetqn9JZN6aohTFJAcvWXHwRQFJGnQtFBBzkEsrMRnBqmdV9qK88zmgun-NvnkP_tOBUoA9AMO4LPU0sa4WheRK_0p_FE-zne2xzr_5qr7fLW8Kn3ytKPpstmrbZvyH35EZGV1gX34fs5Rifa3hrQ"
+            }
+          ]
+        },
+        {
+          "label": "HWID ACTIVE LINK",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.facebook.com/groups/1322066452120780/user/61589538510935"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "HM TESTPOINT OFFLINE",
+      "password": "",
+      "publishUrl": "hm-testpoint-offline",
+      "published": true,
+      "size": "1.6gb",
       "unrarPassword": ""
     }
   },
@@ -46885,7 +46926,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-18T13:07:32.501Z",
+    "createdAt": "2026-08-19T11:31:22.952Z",
     "version": "2.0",
     "sections": 4
   }
