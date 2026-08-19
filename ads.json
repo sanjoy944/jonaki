@@ -992,22 +992,26 @@
       "downloads": 13,
       "folderId": "f_mp9mxftd_pvqs6uine",
       "isLink": false,
-      "lastModified": 1781926696110,
-      "link": "https://www.upload.ee/files/19350990/idm.6.42.64_with_patch.rar.html",
+      "lastModified": 1787145327221,
+      "link": "https://mega.nz/file/d2VBiQgJ#nXl5T9mcoeuQVdjQBGVTS1CK7Xigbx2YkwKEG0QWSSQ",
       "links": [
         {
-          "label": "IDM 6.42V Build 64",
+          "label": "V6.43 Build 9 Multilingual",
           "urls": [
             {
-              "password": "",
-              "url": "https://www.upload.ee/files/19350990/idm.6.42.64_with_patch.rar.html"
+              "url": "https://mega.nz/file/d2VBiQgJ#nXl5T9mcoeuQVdjQBGVTS1CK7Xigbx2YkwKEG0QWSSQ",
+              "password": "123"
+            },
+            {
+              "url": "https://1024terabox.com/s/1VRqsP63TFrPk85JF_vZktA",
+              "password": "123"
             }
           ]
         }
       ],
       "loginPassword": "",
       "loginUsername": "",
-      "name": "IDM Cr!ck 2026",
+      "name": "IDM Cr!ck V6.43 Build 92026",
       "password": "",
       "publishUrl": "idm-crck-2026",
       "published": true,
@@ -46926,7 +46930,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-19T11:31:22.952Z",
+    "createdAt": "2026-08-19T13:20:01.360Z",
     "version": "2.0",
     "sections": 4
   }
