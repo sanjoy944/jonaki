@@ -951,6 +951,14 @@
       "name": "Software Tokens",
       "order": 0,
       "parentId": "f_mpzj47qr_vdk1zdplj"
+    },
+    "f_mt122z89_l3uw1a2wc": {
+      "name": "MICROMAX PINOUT",
+      "parentId": "f_mpwpnyf1_qdmankxtu",
+      "icon": "",
+      "order": 0,
+      "createdAt": 1787202262233,
+      "lastModified": 1787202262233
     }
   },
   "files": {
@@ -999,12 +1007,12 @@
           "label": "V6.43 Build 9 Multilingual",
           "urls": [
             {
-              "url": "https://mega.nz/file/d2VBiQgJ#nXl5T9mcoeuQVdjQBGVTS1CK7Xigbx2YkwKEG0QWSSQ",
-              "password": "123"
+              "password": "123",
+              "url": "https://mega.nz/file/d2VBiQgJ#nXl5T9mcoeuQVdjQBGVTS1CK7Xigbx2YkwKEG0QWSSQ"
             },
             {
-              "url": "https://1024terabox.com/s/1VRqsP63TFrPk85JF_vZktA",
-              "password": "123"
+              "password": "123",
+              "url": "https://1024terabox.com/s/1VRqsP63TFrPk85JF_vZktA"
             }
           ]
         }
@@ -1096,7 +1104,7 @@
       ],
       "createdAt": 1779184648016,
       "description": "Main Features of TFT Unlock Tool\nFRP Remove\nFactory Reset\nBootloader Unlock and Relock\nSamsung KG and Knox Disable\nMTK and Qualcomm Support\nADB Functions\nFastboot Functions\nMTP and Meta Mode Support\nRead Device Information\nReset Passcode\nMiCloud Reset Functions\nSupport for Samsung, Xiaomi, Vivo, Oppo, Huawei, Realme, Tecno, Infinix, and many more brands",
-      "downloads": 124,
+      "downloads": 134,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1779618122482,
@@ -24909,7 +24917,7 @@
       ],
       "createdAt": 1781583014574,
       "description": "Features KG KILLER V2.2\n🔹 GeneralADB Read Info\nLive Screen (ADB)\nInstall Samsung Driver\nCheck KG Status (ADB)\nSamsung Payjoy (New)\nDisable Google Framework APK\nFRP Universal (ADB)\nSamsung Knox Disable\n🔹 Samsung (KG / ADB)KG Android 15 BETA (APK Method)\nKG Android 14 New Method 1\nKG Android 14 New Method 2\nKG Android 14 New Method 3\nKG Android 14 (All Patch)\nSet To KG Active 01 (IMEI)\nKG Android 13 (New Patch)\nKG Android 13 (03-24)",
-      "downloads": 11,
+      "downloads": 16,
       "folderId": "f_mqf4u5qs_49twakrzn",
       "isLink": false,
       "lastModified": 1781583014574,
@@ -24999,7 +25007,7 @@
       ],
       "createdAt": 1781583161675,
       "description": "",
-      "downloads": 234,
+      "downloads": 304,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1781583161675,
@@ -36194,7 +36202,7 @@
       ],
       "createdAt": 1783743280555,
       "description": "",
-      "downloads": 98,
+      "downloads": 101,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1783743280555,
@@ -37490,7 +37498,7 @@
       ],
       "createdAt": 1785125523283,
       "description": "",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "f_mq7f7s06_6p5wmh3aa",
       "isLink": false,
       "lastModified": 1785125523283,
@@ -37827,7 +37835,7 @@
       ],
       "createdAt": 1786245553521,
       "description": "Features Data Unlocker Tool\nSupports offline operation without requiring the original online server.\nNo internet connection required after installation.\nNo activation or yearly renewal needed for the offline edition.\nSupports Samsung, Xiaomi, Huawei, Motorola, LG, Oppo, Vivo, Infinix, Realme and other supported Android devices.\nCompatible with MediaTek, Qualcomm and Unisoc chipsets.\nBuilt-in Unlock module for supported devices.\nRead device information before starting any repair operation.\nDirect Unlock function for supported phone models.\nRepair IMEI option for supported devices.\nRead security or unlock codes.\nRead device certificates.\nWrite certificates back to supported devices.\nRestore security data after supported repair procedures.\nRepair boot-related problems on supported phones.\nCalculate Motorola unlock codes using IMEI.\nChange Samsung CSC.\nChange LG CSC.\nConvert CSC for supported Samsung and LG devices.\nRemove Samsung FRP through MTP Mode.\nWrite EmToken using ADB.\nSupports EmToken V1, V2, V3 and V4.\nMediaTek Custom DA selection.\nSupports manual Preloader loading.\nSupports manual EMI file loading.\nRemove FRP through BROM Mode.\nRemove Xiaomi Mi Account on supported MTK devices.\nRemove Demo Mode from supported Oppo devices.\nRemove Demo Mode from supported Vivo devices.\nRemove Huawei ID on supported models.\nRemove Realme ID on supported devices.\nSafe Factory Reset option.\nRemove Samsung KG Lock.\nRemove Samsung Knox protection.\nRemove Infinix MDM.\nUnlock bootloader on supported MTK devices.\nRepair Boot using BROM Mode.\nPartition Manager with Read function.\nPartition Manager with Erase function.\nPartition Manager with Write function.\nBackup Security partitions.\nCrash Preloader function.\nBuilt-in Scatter firmware flasher.\nFlash Dump files.\nQualcomm support by Model.\nQualcomm support using Firehose loader.\nManual Firehose loader selection.\nSamsung Qualcomm servicing.\nRemove Qualcomm FRP Lock.\nRemove Xiaomi Mi Account (A-R).\nRemove Xiaomi Mi Account M2.\nRemove Samsung Knox.\nRemove Samsung KG Lock.\nFast Knox and KG removal method.\nRemove Huawei ID.\nReset modem configuration.\nBackup EFS partition.\nFactory Reset using EXT4.\nQualcomm Loader Manager.\nQualcomm Partition Manager.\nQualcomm firmware flashing support.\nUnisoc and Spreadtrum device support.\nRemove FRP Lock on supported Unisoc phones.\nRemove MDM (Beta).\nFactory Reset for supported devices.\nNetwork Unlock function.\nRead IMEI 1.\nWrite IMEI 1.\nRead IMEI 2.\nWrite IMEI 2.\nRead partitions.\nErase partitions.\nWrite partitions.\nFlash PAC firmware files.\nSamsung DM Mode flashing.\nLG DM Mode flashing.\nMotorola Fastboot flashing.\nRead connected device information.\nStart firmware flashing.\nKDZ firmware flashing support.\nXML firmware flashing support.\nDump file flashing support.\nConvert supported devices to CDMA.\nEnable VoLTE directly.\nRead Carrier Policy.\nWrite Carrier Policy.\nRepair Baseband.\nWrite 3G Settings.\nPatch Sprint SIM.\nInstall 4G Settings.\nDisable supported network bands.\nEnable supported network bands.\nRepair 4G network problems.\nRepair Replace SIM issues.\nRemove Policyman.\nWrite Motorola 3G settings.\nWrite QCN backup.\nOpen SPD Engineer Menu.\nOpen SPD Operator Settings.\nOpen SPD GCF Settings.\nOpen IMS Menu for ZTE devices.\nOpen IMS Menu for LG devices.\nOpen MediaTek Engineer Mode.\nOpen MediaTek Operator Selection Menu.\nOpen MediaTek MiscConfig Menu.\nOpen Xiaomi MBN Config Editor.\nOpen Qualcomm MBN Test Menu.\nEnable VoLTE on rooted MTK devices.\nSamsung KG Removal Method 1.\nSamsung KG Removal Method 2.\nSamsung KG Removal Method New 5.\nStart KG Removal process.\nRepair Call Not Sent problem.\nOpen LG Diag Menu.\nOpen LG APN Menu.\nOpen LG Enable Bands Menu.\nOpen LG NOA Test Settings.\nOpen LG MCFG Edit Menu.\nOpen Samsung SPC Menu.\nOpen Samsung USB Menu.\nOpen Samsung Hidden Services.\nOpen Samsung Change CSC Menu.\nOpen Universal Network Menu.\nEnable Diag Mode for supported devices.\nOpen ZTE General Diag Menu.\nSupports manual DA, EMI and Firehose loading after server shutdown.\nWorks completely offline with locally stored firmware files.\nDesigned for Windows 7, Windows 8, Windows 10 and Windows 11.\nSimple login with pre-configured offline credentials.\nDark modern user interface with organized service tabs.\nWhat's New in Data Unlocker Tool V1.7.4\nAdded Direct Unlock support for Samsung Galaxy SM-A136U (ATT/CHA) Bit 9 to A.\nAdded Direct Unlock support for SM-A136U1 (ATT/CHA) Bit 9 to A.\nAdded Direct Unlock support for SM-A136W (All Carriers) Bit 9 to A.\nAdded Direct Unlock support for SM-A136B (All Carriers) Bit 7 to 8.\nAdded Direct Unlock support for SM-A136M (All Carriers) Bit 8 to 9.\nAdded Direct Unlock support for SM-A136S (All Carriers) Bit 6 to 7.\nAdded Direct Unlock support for SM-A326U (ATT/CHA) Bit E to F.\nAdded Direct Unlock support for SM-A326U1 (ATT/CHA) Bit E to F.\nAdded Direct Unlock support for SM-A326W (All Carriers) Bit E to F.\nAdded Direct Unlock support for SM-A326B (All Carriers) Bit B to C.\nAdded Direct Unlock support for SM-A326BR (All Carriers) Bit B to C.\nAdded Direct Unlock support for SM-A326K (All Carriers) Bit 5 to 6.\nAdded Direct Unlock support for SM-T227U (ATT/CHA) Bit 9 to A.\nSome supported Samsung models now require a Test Point during the unlocking process.\nAdded Direct Unlock support for Dialn Nova.\nAdded Direct Unlock support for Dialn X62.\nAdded Direct Unlock support for Dialn X65.\nAdded Direct Unlock support for Dialn Neo.\nAdded support for the new Unisoc Tiger T310_64 CPU.\nAdded more supported models for Annual License users.\nGeneral improvements for stability and compatibility.\nFixed various reported bugs.\n\n\nHow to Install Data Unlocker Tool V1.7.4\nDownload the ZIP package from the download section below.\nExtract the archive using WinRAR or 7-Zip.\n\nWhen prompted, enter the extraction password: gsmyogesh.\nOpen the extracted Data Unlock Tool folder.\nRun Data Unlock Tool.exe as Administrator.\nThe username and password are already filled in. Do not modify them.\nClick the Login button.\nAfter the Login Successful message appears, click OK.\n\n\nThe software will open and is ready for offline use.\nIf a repair or flashing operation requires a DA, EMI or Firehose file, browse to your own local files because the original server is no longer available.\nDownload Data Unlocker Tool V1.7.4",
-      "downloads": 8,
+      "downloads": 12,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786245553521,
@@ -38519,7 +38527,7 @@
       ],
       "createdAt": 1786793273407,
       "description": "iOS Toolkit Apple Device Tools  Dashboard – Check Connected Apple Device\nThe Dashboard is the main place to start after connecting an Apple device. A connected device appears in the device selection area, and the toolkit can show detailed information about it.\n\nThere is also a Rescan Hardware button. This can be useful when you connect a device after the toolkit has already been opened.\n\nThe information area includes several fields, including:\n\nDevice Name – Shows the name of the connected device.\nModel Name – Displays the detected model.\nProduct Type – Shows the device product identifier.\niOS / Build – Displays the available iOS and build information.\nSerial Number – Shows the device serial number.\nUDID – Displays the device UDID.\nIMEI – Shows the available IMEI information.\nMEID – Displays the available MEID information.\nWi-Fi MAC – Shows the Wi-Fi address.\nBluetooth MAC – Shows the Bluetooth address.\nCPU Arch – Displays the CPU architecture information.\nHW Model – Shows the hardware model.\nSIM Status – Displays the available SIM status.\nLock Screen – Shows the available lock screen status.\nBattery and storage are also shown separately on the Dashboard using progress indicators.",
-      "downloads": 14,
+      "downloads": 15,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1786793273407,
@@ -38559,7 +38567,7 @@
       ],
       "createdAt": 1786848615211,
       "description": "SnapdragonFlash NoAuth v2.0 Tool SnapdragonFlash NoAuth v2.0 – Qualcomm EDL Flash Tool for Xiaomi Devices\nSnapdragonFlash NoAuth v2.0\nThe software window clearly shows the name SnapdragonFlash NoAuth v2.0 - Qualcomm EDL Flash Tool. At the top there are tabs for Configuration, Driver, Other and Log.\n\nThe main screen has a select button for choosing the firmware location. There is also a refresh button and a start flash button. Once a device is connected, its information is shown in the table below.\n\nThe table contains columns for ID, device, progress, elapsed time, status and result. This makes it possible to see what the tool is doing while the flash operation is running.\n\nMy Flashing Check\nI checked the tool with a Redmi Note 7 Pro. My first check was through EDL mode. The tool detected the device and started the flashing process. The screenshot shows a connected device on COM7, with the progress bar active and the status showing a system image being flashed.\n\nThe screenshot also shows the elapsed time at 35 seconds at the point when the image was captured. The result column was showing flashing, meaning the process was still running when the screenshot was taken.\nQualcomm EDL Flash Tool: The program is designed for flashing Qualcomm devices through EDL mode.\n47 Snapdragon chipset compatibility: The supplied information lists compatibility covering Snapdragon chipsets from SD845 to SD8 Elite.\nXiaomi / Redmi / POCO support: These three device brands are listed as supported.\nNo authentication required: The tool is presented as a NoAuth flash tool and did not ask for authentication during my stated test.\nSupported Snapdragon Chipsets\nSeries\tChipsets\nSD8xx\tSD845, SD855, SD865, SD870, SD888, SD8+Gen1, SD8Gen2, SD8Gen3, SD8Elite\nSD7xx\tSD710, SD730, SD750G, SD765G, SD778G, SD7+Gen1, SD7+Gen2, SD7+Gen3\nSD6xx\tSD636, SD660, SD665, SD670, SD675, SD680, SD695, SD6Gen1\nSD4xx\tSD460, SD480, SD4Gen1, SD4Gen2, SD4Gen3\nOther\tSD2Gen1, SW5100\nFlashing Options Shown in the Tool\nAt the bottom of the main window, the software shows three options: clean all, save user data and clean all and lock.Developer Credit\nSnapdragonFlash NoAuth v2.0 is developed by Rasheed. Credit goes to Rasheed for developing the Qualcomm-based Xiaomi flashing tool described here.\n\nThe tool was shared from a GitHub release and was also being shared on Facebook when I came across it. I am posting the information here based on the supplied details and the screenshots provided.\n\nSoftware Information\nSoftware Name\tSnapdragonFlash NoAuth\nVersion\tv2.0\nDeveloper\tRasheed\nSupported OS\tWindows computers\nSupported Devices\tXiaomi, Redmi and POCO smartphones",
-      "downloads": 87,
+      "downloads": 92,
       "folderId": "f_mqdrga34_wfiqp3gsz",
       "isLink": false,
       "lastModified": 1786848615211,
@@ -38747,6 +38755,38 @@
       "publishUrl": "hm-testpoint-offline",
       "published": true,
       "size": "1.6gb",
+      "unrarPassword": ""
+    },
+    "f_mt0v9vhd_y3scqr4tv": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh2MoVz_xjHKT0iHw0Vfo4aYPKmHOK1rKdAG7ts8wFkNsLIVEZdnmDXTWyAhqAARcfua3mUZqKFYs4oLN-p3D-YOzyuy7JWPMjIPog7DDe86pMX0cjW0VqDSTbj94gYshGWaZDxTc0rUlxSoDOAoL36eIx1nxb3JdXmbEJMBhp_J-kkpk-LLyj_jnawpW24",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEh2MoVz_xjHKT0iHw0Vfo4aYPKmHOK1rKdAG7ts8wFkNsLIVEZdnmDXTWyAhqAARcfua3mUZqKFYs4oLN-p3D-YOzyuy7JWPMjIPog7DDe86pMX0cjW0VqDSTbj94gYshGWaZDxTc0rUlxSoDOAoL36eIx1nxb3JdXmbEJMBhp_J-kkpk-LLyj_jnawpW24"
+      ],
+      "createdAt": 1787190826657,
+      "description": "MRST Pro v1.3.1 Free MRST Pro v1.3.1 Changelog\nMotorola MTK Fastboot\nAdded new Motorola MTK Fastboot method\nAdded FRP Reset\nAdded Bootloader Unlock\nAdded Manual LK Selection\nAdded Patch LK support\nExpanded Motorola MTK model support\nTested Motorola Models\nXT2343-5 - CANCUNF RETIN - Android 15 - V1TDS35H.83-20-5-6\nXT2255-2 - Android 13 - T2SVS33.68-21-10-21\nXT2303-2 - Android 15 - V1TLS35.73-60-3-8\nXT2307-2 - Android 15 - V1TMS35H.3-45-3-2-3\nXT2431-1 - Android 15 - V1TDS35H.83-20-5-7\nXT2453-1 - Android 16 - W1UCS36H.96-24-4-6\nXT2503-2 - Android 16 - W1VC36H.14-20-1\nXT2507-2 - Android 16 - W1VVS36H.7-21-5-1\nManual LK Method\nAdded MANUAL LK option for unlisted Motorola MTK models\nSelect the correct stock LK file from the device firmware\nUse PATCH LK before starting FRP or Bootloader operation\nSamsung Exynos\nAdded Samsung Exynos ADB Enable\nAdded Samsung Exynos FRP Reset\nJune 2026 and newer security patches are currently not supported for Exynos ADB FRP\nSamsung EDL\nAdded EDL Loader format and FRP support\nAdded new Samsung EDL loaders with updated BIT support\nSM-F711N - Galaxy Z Flip3 - BIT-E\nSM-F721B - Galaxy Z Flip4 - BIT-C\nSM-F926B - Galaxy Z Fold3 - BIT-I\nSM-F956B - Galaxy Z Fold6 - BIT-4\nSM-G998U - Galaxy S21 Ultra - BIT-J\nSM-G980U - Galaxy S20 - BIT-G\nSM-S901E - Galaxy S22 - BIT-E\nSM-S906N - Galaxy S22+ - BIT-9\nSM-S911B - Galaxy S23 - BIT-A\nSM-S916B - Galaxy S23+ - BIT-A\nSM-S918U - Galaxy S23 Ultra - BIT-8\nSM-S918U1 - Galaxy S23 Ultra - BIT-8\nSM-S918W - Galaxy S23 Ultra - BIT-8\nOther Changes\nExpanded model compatibility\nImproved overall speed and stability",
+      "downloads": 0,
+      "folderId": "f_mqdrga34_wfiqp3gsz",
+      "isLink": false,
+      "lastModified": 1787190826657,
+      "link": "https://drive.google.com/file/d/1Ir-hOPmjHHryX41Sq3Y0ej-kYm4TPyFM/view?pli=1",
+      "links": [
+        {
+          "label": "MRST Pro v1.3.1 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1Ir-hOPmjHHryX41Sq3Y0ej-kYm4TPyFM/view?pli=1"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MRST Pro v1.3.1 Free",
+      "password": "",
+      "publishUrl": "mrst-pro-v131-free",
+      "published": true,
+      "size": "1841mb",
       "unrarPassword": ""
     }
   },
@@ -46121,6 +46161,1136 @@
       "title": "XIAOMI MI 10i 5G ISP PINOUT",
       "url": "https://blogger.googleusercontent.com/img/a/AVvXsEizP91uHMRfXFg_yZXb9X-ai0MvcGQdb_Jxq9FqJzjVgTBeypjW5fXnn0zhXNpHGVXFS-t7W7y4eS0eRCy_B1IPKvzIjQS4f7M9qi-HvDJceDtziDmV-z__nDXDHV42khZ7B2fQ9I6cmcT6hlEcPoaoJPOZ0gqCOCIrTXL1GshIhfgxDpYdv4SmS_LIxn4=s1600",
       "youtubeUrl": ""
+    },
+    "f_mt0zgbmo_yf9s0vn82": {
+      "createdAt": 1787197845984,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787197845984,
+      "publishUrl": "samsung-sm-a9-pro-2016-a910-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A9 PRO 2016 A910 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjw7WV1G4xJ5TGjxxRWN6CTu3BWJ34Wk8ExAzMDIIKUtpxDwUyTyS7QY2rd99_ZEDl6U5IlK9kGhuJydwSur3ATdElm0u8IjYnsl8oU5pnWZPKuoph91aYPgicPREW4FfFxHO8DgP11-ptftCde4UPTHQIPhJ7W1PtOSnZ1vZwLidQUI7SahtmilRbNC64=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zh3jy_j5hap65r7": {
+      "createdAt": 1787197882174,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787197882174,
+      "publishUrl": "samsung-sm-a9-star-g8850-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A9 STAR G8850 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgzvbVkBIrFtd7uQS_Y_ZxQVKyyAU7erU3t4YItrsbzaqMpgJlIl8kyE_NvHrJ-dbV77c0JyC5T7mXQOnfc8DLB6v4mIYxDe4WhazmbAsegQnxNdwCxS9zVUh-PFzb8nBpfj7OxAZ2IHGcqcRYR6lDe6jfkHVadu5F3MBmsgkov6Vhr2uZ3ZyS8_ByUJHI=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zi2lg_33h85skvd": {
+      "createdAt": 1787197927588,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787197927588,
+      "publishUrl": "samsung-sm-a5-2016-a510-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A5 2016 A510 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhS4j3Xwt96jtWcpFW_Cropj3BKZCzMAtfZ4ygrtTNrcUBF1L8DC0m6DdNbufJGx65CkUhMFOjHso0LjZoY-Qe6Omc0UEhBMAuqOpEkb07fe2VL4U_gse-9803v5q4MBx7Y_2a1bxcVN_AeYewnsaqy2ds2iFxFmfTJgRlArz-lsxG6b-4Rb-P2N2FsBCA=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zj0x3_06nr42inv": {
+      "createdAt": 1787197972071,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787197972071,
+      "publishUrl": "samsung-sm-a6-plus-2018-a605-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A6 PLUS 2018 A605 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjXPPb3qmI7FpgjIuYOnefgg6p_37MmxPCXWBJJhaUHfPOJT33Tt1suK8AZZ0K2uA4QQQ-OiObYZPGyMSrl3F_Dsn15ywjRfycT5a-551a465xAxHnlwYTpYOBlQh6O2wome9uFwKwxdcB5umDjhk4zJfTvi1qZGBeTFGxfwnXUL4Jjwm3oUkNTO4EPzCM=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zjx8n_vawywh49r": {
+      "createdAt": 1787198013959,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198013959,
+      "publishUrl": "samsung-sm-a7-2016-a710-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A7 2016 A710 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgNp1_KNnuTYZOXIAc26FVT7xVNrEB52rZvKAZV5_NFI11Bs747p65kzPjiEPGyaC2Cns6-LI-Yh3QGpsd9ATWHuBHAcJ9v9IgYqqMiyqPdYqovlaToQdj0bdyBpvPjUvqF3V-jqKF2z85kW6_2uPNX0DfXEyV_elmdkljj2exdX8qXrj27fUWfzMkUcbQ=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zknub_82n46m7zf": {
+      "createdAt": 1787198048435,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198048435,
+      "publishUrl": "samsung-sm-a7-2016-a7100-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A7 2016 A7100 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEipLpDbxj0qIWMgw5Jz0Hch8oyNyZmELBHv23KKCwg0R7CzsJyiYmJ6i2JcfX6T_ZRJaDfp-FUqEgoYPq-wpBZkwmnCBE2iFlp6LlYEaLameP2HssszAT3RZhWPZT7CGXSEhURUAdnW9jKPlVU_BpDkRvsoSbtiDuWLGcg5pxiYbNPLpr0GhUuZt8-gWHU=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zlfmt_l3sjkvy7w": {
+      "createdAt": 1787198084453,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198084453,
+      "publishUrl": "samsung-sm-a8-2018-a530-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A8 2018 A530 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjmnMQO9nIroflLODTWYi6Z5hdwwmdsWAfB4MKgDFm5p_WrvA1w_4vc1qVH67BA7Jqx18R3fZPVK_tyHui8RhXQ6oFVVrChT1HC0OHX6dk4oYrE5Iye8LYmnwP_cZHDwFWGiKj9dCY2d9C7bM2sNEGijMdK5xXvHMf81TW6WO3HVcse8s3FGT5xYFuSYvo=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zm8nk_kugso7lp8": {
+      "createdAt": 1787198122064,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198122064,
+      "publishUrl": "samsung-sm-a8s-g887-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A8S G887 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhtx9rBWBm6kPrHaeQEIW6pP_wUBtjgeQrH5X8bME-hTwYAMe55RZi7mlOHcTbTIcVUN5MEn50bP3DPaA6-o-MSpwhQHUu_E0vdWfkbi_gdCtpdCD0AqlbINcU04y2XGYN1KhX2j6diA7ldvlJtBdDDBDoa5x7nXVtukL4C4ARTWc0bkHuQSVa5Jjg3Sfk=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zn1k4_594y3e5sm": {
+      "createdAt": 1787198159524,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198159524,
+      "publishUrl": "samsung-sm-a9-2018-a920-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A9 2018 A920 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjdhJlPDFwg5CJRyVLRvkvLw2CB5oT1PyDWurN0rtpXBhGHN_MiJNyqNTFRI90n99mdW4XZhLDYpDZxDRd0IvdNh2KspFBmK5N4N4d4HStcBZrSynkpDQG0S1CvA6vnXGeVuS94eJW7HREqnza20HUuCNVVzygKB9MKAiZ-fNvhG9WYe1gCWTBffuU_GPU=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zosgq_3rcdjkdgf": {
+      "createdAt": 1787198241050,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198241050,
+      "publishUrl": "samsung-sm-a32-5g-a326-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A32 5G A326 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiWofNy-BsiIpmUEl5yf6LUMPfplkm4sx6pclzAC5B3K0P5dELMWOCAv5eOAVmxGzoJTU0YuB3a71DAbKfLXQ8YDUfbtR1xUqmDMH6sSj3kPKtEiTQU3Nambg6FUvmtUetjcTkJYyfwgs2kXuZvL_Lagl5CbPMQW3ms6J8gW14LQOsq27QQ-Y9lKTVRW6s=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zpmhl_3byi383mu": {
+      "createdAt": 1787198279962,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198279962,
+      "publishUrl": "samsung-sm-a32-a325-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A32 A325 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgcy5zOVp6bS2un1-SP-UHBwAdlnu3rPy2fJGdTOTRmxFPZMMO_cNLtS5kQz23VD03AZA5CTFhpOjX-mJ5Y-pBuhj1Q5NA60Hdmslxq9rvGh4OLpXpHo-OuknzwfM1_cAZfiBs9Bf75o-pheZ47MlXZz-v0uRXrpYvgafwXiJuDvcvMZPfIHX6STO3Upa0=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zr94c_ixurje0xi": {
+      "createdAt": 1787198355948,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198355948,
+      "publishUrl": "samsung-sm-a34-5g-a346-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A34 5G A346 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiYgrJeExCPuo_aHJbmW1EBRWjyVdj2TC7Vq0gJMpZUzLD4ulvFS5ozxHNEssC2-Og2EBg8Go67Hpow8ahlwBBCAMmACPuADbKeP97XuN2f0duqlGFJ6T9cubRjwwf5PBENoHW6Xfd52iJPRrTZXWVcygq5w75NhkywMwFAykxTImFQbcjq2plZphguSzE=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zt2or_hr8ioiobp": {
+      "createdAt": 1787198440923,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198440923,
+      "publishUrl": "samsung-sm-a36-a366-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A36 A366 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgB4YWhuQiV9asbyMKBZ6DbJIK0vwUXz4cbDaVOoTaexSM2dvK4BwRwsOiE3dr4t7tGo0XlrxOq6oANVOUJrAJebSGZs1fxIJhUf1HSGqUCWPMijoJO4AMAhiadzp_aWErmcQJ8_vr7flAERXW7qbblX8Vb3bBn6-6WHNRPvE-7EwLt0u3dnDVByGq59kg=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0ztqnt_csdyxr3u8": {
+      "createdAt": 1787198471993,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198471993,
+      "publishUrl": "samsung-sm-a40s-a3050-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A40S A3050 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjGhgPAALWXIMpqGf_Lu_8Izp6_cE7vG4YTQCDq0IH8V7ynvRTs9HcnH7V2xH4Qr8s4fyOe-HQoMozSkrkLF4_I6ZcIl_TupxDG5JB-xEkwDcFQxo-z60P2ZB1e0NTuuCoyF9VafYfESUjcIXsoAVyucLjZb3-1xQS2Vyp6jvpi1fG6X8xNVMMjsQpC16s=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zuf3c_otqsdy95g": {
+      "createdAt": 1787198503656,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198503656,
+      "publishUrl": "samsung-sm-a41-a415-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A41 A415 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjZyFXAvfn1rkcCOGsKexY_yRN2YkPgRAdDnrjpT7WhXgpZc_nWAUbMdIlwagKNVMZmyJMQeeLS4mQMR7d_KCTw8FQ_UjSFygiAX1OcJyVDZG2ZRdfKpunqzvjwc3GBnQktVoqC3gc9kdtlr2l2wTqVnH2_6k7QCQwW2NB8CUnrHCDk11Xef_jPEyhhidk=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zv7yi_yayz3skza": {
+      "createdAt": 1787198541066,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198541066,
+      "publishUrl": "samsung-sm-a42-5g-a426-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A42 5G A426 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEivmXqRFXAA99mIQ7KtUuQhdZRryarsPiYeXrPnThAE3yRFqRdkTWdRhdaFcjDe38IUp-YIV7GA21tFRUouUTuKQ4b6Bm_fIBr8WtKjHU9dckLA3XGkzhZfVe8CJHMyL-nE_Pa-tQy-Pp_7Oodbi8uqWRNz8Nf7g8VMoyfRKj0il7btCI3KqigVDxSIhBQ=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zvvf0_dqavogxwr": {
+      "createdAt": 1787198571468,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198571468,
+      "publishUrl": "samsung-sm-a51-5ga516-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A51 5GA516 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhzfg4XWCWCK20U8wFJw9Q08oVfHt7ajfO64PI9XRkvqOHb6bTCWtj3CyPLdFrBQP37XEI4infHrkcTZHIdC8iN-3yIRTLfNbL8g8UKCVAl3a01pxCjmQs691fRn8Y2ofzD_KflLmGRWr0_QCI6H9nAhSQ4at5VtTxvkEZ-NxgxaExVo8xrnBrVN8OONpo=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zwm43_v5cmfh48f": {
+      "createdAt": 1787198606067,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198606067,
+      "publishUrl": "samsung-sm-a52-5g-a526-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A52 5G A526 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhCTXU6q_O9inZeVr3RGQTy8Vz9l6J31GZ8zk3TpafP31BPs186Ok9THX_JGJWphWZmk9K0PuaHaFJN_fXpPPRkbjzB2F3QXbtzzv_OMeYwuvshaWioZ9mXVeRTUtxVrqDqgJgc-6Vsbdy4L7bz-7l5os7b_-r6IYS-4elsldLM7rDFkRt1jd23I2OOrsc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zxjun_qrol61von": {
+      "createdAt": 1787198649791,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198649791,
+      "publishUrl": "samsung-sm-a52s-a528-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A52S A528 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgifjL6_CFEHuWcE08KgYWLJt6duzQB3YvBSv5dvy2ICxfPLKXp2oS1ssvOCsebZaq0RX8L0yF6Xb0bwwLVOjcGevGh8gHdzy9U9PXW-5gq_jjWmj3IMYJpTQku2MHXEhfGvKWsm_v-Ymjv15DajE2AIQ-EbCgqszm1b_uJVaFGn-evfxquj32LxXUcuoo=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt0zygo9_9bsjblapg": {
+      "createdAt": 1787198692329,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198692329,
+      "publishUrl": "samsung-sm-a53-5g-a536-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A53 5G A536 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgV42sTsQtEVwVsBk2izTD9dVr4fJYJ5hIs1SwxZ56OT4cpx7AG68KfouwUXGKid9QScKqrgHam6u1brt9W4XjlAmz5hO2_yZFaDi5AihmDqJxjZR6itdHRYNG7mRjMV3JlbcuLxNfXk96OH0o45Nf4IbTEJf3AvJZGCb76hz3lbMirrQGYZ2Z77j5TqXM=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt104mf1_hrmacnla1": {
+      "createdAt": 1787198979709,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787198979709,
+      "publishUrl": "samsung-sm-a54-a546-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A54 A546 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi9wsb7lgHPLzKQ2-spy-aDvj5I78xwS0Go_-r5C7rgXBLAGHanNVgyzXru7qWxAM9Ikd8nq6xYG6v2a_pe4HpjqwL55WCf_qJQhqk6uCcZAAfdLEWnIrew8L7gsUwNwa0uBY5p-4dfefJ3gb0fcUUbIo-ttIE_0vx6c9mp1txo_J2KT_-FGrkBfrh1JSA=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt105e7i_zneo06kjn": {
+      "createdAt": 1787199015726,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199015726,
+      "publishUrl": "samsung-sm-a56-a566-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A56 A566 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEirzvQRGAGBbNni-PDNYSZMJ0f9Y9J1fkwXK235oEbQ4jt7JT6kdGOGPfIQyETMs1yzMVjJKGwiLEdhAe_POK5zon79LHUcjjjC0RYngHygDhorxVsN88PHjr-zVeG8mBTG2sleD0lTAaNQw8J1vggt77HdKS416CK9-tSZbnJoQfes1RdPrQj62kZlTiM=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt1067jx_ic64bcn0p": {
+      "createdAt": 1787199053757,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199053757,
+      "publishUrl": "samsung-sm-a71-5g-a7160-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A71 5G A7160 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhvuVKHKfr4Isyo5dwbMZhxikSI69BxGEmSSBuDpbgIxjh-E_wiblQjyhb8fQfWBt9IzXM0JfRikevchnFWyZDKjincjFpt_pZGd3Gr9BfzoYgK1l89M22CMyIwDnAPvRUuTjUPpdu0y3CAtM4Tv8whFjSoJoJBzP_mtYWetHzYbtXy538mw4VLmuugL-4=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt106wzw_h9iztj4nc": {
+      "createdAt": 1787199086732,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199086732,
+      "publishUrl": "samsung-sm-a71-a715-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A71 A715 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEis-CXU3t9m61qNEOosqQlTJqDsmSRpdE28k03NEKiPzQ5svxVkLBCQG7Q5b3MH_Fjc6vD9oswM1O3jqkf630SsQ5xMRATsTOYMVZIpkP2SMXavCQYIRZ7AXbkINOlFNS9gp8w8uTzYruZIS4vTJdOlXHHRwBUkxxTLeAFHra2UdM9Uw93_6ql9F4E3Cy4=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt107l2c_cawb1y2tx": {
+      "createdAt": 1787199117924,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199117924,
+      "publishUrl": "samsung-sm-a72-a725-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A72 A725 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiuTlt3FRAJEB0e6whoF_IA99C8P-FmK2O2GN0H7GKpMY2wA6w1mqLgoqvfHMFGDRVkSp8-1A_01o-ISAqDhhPyWmrV6QakDcehlLAJyq0PCOX6zDAt1Eeq-aWhmq8LiSMNVYcLUQYiTtL91vH7NzUalC2Vpu14-0RcAp-p7Fx7UrmnMQx78lfb66R_kM0=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt108axo_epdgojbn4": {
+      "createdAt": 1787199151452,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199151452,
+      "publishUrl": "samsung-sm-a73-5g-a736-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A73 5G A736 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgAh9s5SKezU4MS1grDssD_IfF6OooWzyO2xrU0c7AOVTsu4nRnNU2chqcoHI3rVMoeYAQEcsbgmQCawEB7iW-nbiCar6A2d1ZajMEx6aMv2AyU-O2o5W1wzsJc_DLowSB2iencVZvWBneuQvUbPCeCLRJKSZM0Z84jmQhRqlo3bMlM7KQUTl6_-3ueDOI=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt108x4e_ob7wd47jk": {
+      "createdAt": 1787199180206,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199180206,
+      "publishUrl": "samsung-sm-a5-a500-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A5 A500 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjiZwowsFwOy4PXt86qnuokd-FrlpU4FsgOwC0QrA-BcMS7OGQB8u416CR4pT-P7GkpNLkV0bCrxeYQqTEt6WlzIoYyk9OvTsh5bNesp4XA345mm5ISGwsceRDshd80YkCF21hR33REKhdcPoORoI0ujVKsch42OYGz_wHEZvQNtiE7zSguLnRQUwNBKe8=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt109mi4_qaj0j3hg1": {
+      "createdAt": 1787199213100,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199213100,
+      "publishUrl": "samsung-sm-a6-2016-a600-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A6 2016 A600 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhhqsrxncizs8H3qrtrGDDAFu0VOVIiWLDcgrd3Fxbzl5PlTPXez9sh_D2WYBIaQFl9-DvX2FZuO7PMfKR8C9dUeDuJB1ZIhZ-MtTQo6E_TbiYo4uD_VoIeaNZnBv_VALzCZv7qsaKODiGbae0Y2wfz6lkz58hB6B7zlLU_2zKR3hy3FDLWc_MDmV-Z6n8=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10a5oc_7l9rvnppo": {
+      "createdAt": 1787199237948,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199237948,
+      "publishUrl": "samsung-sm-a7-2018-a750-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A7 2018 A750 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgz1hIwHNX4udlm-gMpUkSUIRYxq0G-_xfU0tgawnw2MuvmVD-sFF2BfOQTSwYEUk-a8You_lqhzIgppUjfukSJyZ5hpGs4iOD-jSPcVM7nb2QOi0Qb3EWgIeLexLAUHQzQyivYZBXiqA8e4br3IddSkyo0ByFa0btHBjZE6x-2I3TYn9UUGYyOJZfxRHw=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10au9q_1ec6cemlv": {
+      "createdAt": 1787199269822,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199269822,
+      "publishUrl": "samsung-sm-a30-a305-isp-pinout-by-gsm-sanjoy",
+      "published": true,
+      "title": "SAMSUNG SM-A30 A305 ISP PINOUT BY GSM SANJOY",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhOjGIOGKbrQE1EI2XUGEafE2TAAfBjKdRPl_nM7UVwriPifUP3tL5Ph4xirWlTpsVBpCOWyE7QyZ2QxwUBWEkelFK2AIs-izFoTbMlVNNgFuQbf1xdNN6BdyL0Jg-EMw8vM6TkNjTvCbB-CpBKatBysOZbcqOaWVa13vdpgiqdXKx7E-GXZyu_MhQ9oJA=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10el45_n3x71etzs": {
+      "createdAt": 1787199444581,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199444581,
+      "publishUrl": "samsung-sm-a35-a356b-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A35 A356B ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhbW7WkU7-toKTDFb_OXxlW_q2TQ-wunm7nwV_TC2KmGQLU26mrhaTsWLTdYI0XgePpXp0igoYB-3HPE8BaFwiLG-Lrz_T1qcW02xpBu15jG6EJjxueOOmtrQd_4uVQTm4jnfbKFGq9gzgFe549_PNjD5h9yFlGjyklfeYmo-8ljosY35xrcIJBrABgThI=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10fa2k_04apvzwa6": {
+      "createdAt": 1787199476924,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199476924,
+      "publishUrl": "samsung-sm-a40-a405-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A40 A405 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEilslp1X3dS6Usb0hLoAjrxS_ITTwNiRCZKCnbbZyJvJ6kOyvU9pa6Zs1agiUUlaW1UeMJChdig9T0hX61nuCowEqsoKFxg3RBSZDFzPD1bYjRUyt0qoqQbKbMnw51wae5lZPPUQzpRFlkq_DBt9uP4H7BhO8-ifTqomd0QweF--s46eec3fxZIR1UAL28=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10ggjm_lgpy7qzlu": {
+      "createdAt": 1787199531970,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199531970,
+      "publishUrl": "samsung-sm-a51-a515-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A51 A515 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhnI6V0MPHnvtDWoiM4HjT3LdfzpOTTPtScNbOyDtIVjG_8waM1IrWToHU3oZ96EqS3HytGRrN2SStM9Ozr3HRLRi7aOHzCpMNRKk2lusOMO6paMasw8vt5faWd03PSb6ScOhAjDzAPbzoQGER8uwbAnstzDCwPtHedY74J6fNmTN-JQwcDXTkpQpXhigs=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10hr6q_d68c2pytz": {
+      "createdAt": 1787199592418,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199592418,
+      "publishUrl": "samsung-sm-a52-a525-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A52 A525 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj5t8ttFxTpV5MvAQ0YkzIXeLBQWhJLe5W94Vmc0h-Q1b5UNsZpyEBtrQK02qLSoMBDa4ZRlhc3kklEcA5BF0hReT4sAru26tvgeJy-Y44-za1nGeYVFwCZpgqN8S3xIrg-36UoWbZvvfmxgFvYpkwBXNA6WId5pGVv9iZGEGf9cKfCQbk-IP_RkkFWgxc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10jj55_b5o9uofcs": {
+      "createdAt": 1787199675305,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199675305,
+      "publishUrl": "samsung-sm-a55-a556-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-A55 A556 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjDxaLpmpMvBgsGFfNNtvnHI-o7xXtsV57tJzILTv0R_0eMLwlOQWAFriEqFEc3yNzGDouhJ6SfICMIhUuSd91gzl2G80nrhevQgbyEByrlytli1slhAz5SZOxzR8t3Y_ybP37fhfDedGaxBCvvQrBnWElN3f_Q-Y7JxQ93ap73HInY-Zm0kW-VbffR3YA=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10kpvk_kzgtmtbeb": {
+      "createdAt": 1787199730688,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199730688,
+      "publishUrl": "samsung-sm-c5-c5000-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-C5 C5000 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhZQ-U2oe2vD3kBJKxD9Onj5e4TiFIVQwk77oSmu7D7P4AHCDgBvY7EHkbrtzR_1gT3Co4kceBKfj0ac-BIieH-uKiEQCBMlPTb8y_KdTtC_wfu1sNSqCbPnVdMWzxMYckKnMuIW0kn_MnkjV4PEH1xSsYNMmtViocqNPCwdN4uH2qiHt-kk2-ugAzvuy8=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10ldg3_uzjg8019q": {
+      "createdAt": 1787199761235,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199761235,
+      "publishUrl": "samsung-sm-c9-pro-c900f-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-C9 PRO C900F ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjgEyfzTPlN5bYvND9Ql5-u0Zv2_ssXgZUWoRILjonkOEJ_pqCv9n2_G_XhhFZsyCtaANbiIQQTTc5Hqw905_m14yaq4BQU9dOxtlnSQGg_qE_LGfTL11Wku1JzyuUGBhgQ5Fo-BfzF1Nycb49Glysix2Zbi9vNGQOdizgipWT5CSDRZYORZqyRqkwIr38=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10o6gx_1uxx3pxio": {
+      "createdAt": 1787199892161,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199892161,
+      "publishUrl": "samsung-sm-c7-c7000-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-C7 C7000 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhbJDt8OnEZN9dI4qN7O1_9aYYug69H67odW_8RW3UZLgkGxP2hOveRgX2A3Z_hdE4JrbbSrd_cqL9monAp3X90ovCSfcqfwLIZPQr5k3TPrNEo_my2aCCp8sGOxFJKnbSsZhenvYNMZNhuzNw4DDp75WYWPuOyhPHQ-p5vm1wjsMRsbcrMK9IqvQhgpsk=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10ozmf_5k8t51hj4": {
+      "createdAt": 1787199929943,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199929943,
+      "publishUrl": "samsung-sm-c9-pro-c9000-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-C9 PRO C9000 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgO1a4rChnlhcADwvsxhuQZYDl4g9W6YHBX1rMVIUYcqOc1Y6123gGrUkJgTom7GVb1anfDIR-S1iqxFiNfFzQVtzriuPjAnOXt82jrkXUdr065RpqjDZFfDgzUcALvN_riyNUb9sqJ8XRUY9cAAcxD8RCY3-u_qc8Zpk8SDKqnpS8hgwztTw0arr239OQ=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10pq87_chy1i8pnz": {
+      "createdAt": 1787199964423,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199964423,
+      "publishUrl": "samsung-sm-core-ii-g355-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-CORE II G355 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhsEFK9KUhINSNWADo4azIa89Kqf-GPkIdg_LhXMX6HtKU3rNyqJQBM9Xzwq-9-F84otG86OQQaT3ksy2uFEmB_0Za13iJyvCLym96elDnnXIYTNV7I2FfEC57ny7Nq4oijVTcr9iLn0KxrycjwSuoNpwxnOKTsayqXhHUfSXJsK2Aglmzd5OBnnOlXSBg=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10qanj_9fupqayqh": {
+      "createdAt": 1787199990895,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787199990895,
+      "publishUrl": "samsung-sm-core-prime-g3603-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG sm-core prime g3603 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiDa12BACEbzVm5h73BYcLLoTJcDcLWIlEdJpSmfDElMuYFT_S8HFi_QPV-PQwlwa9_7voZVr5_3DRjA_hxE3UIKjXykTpmswkZgcY3_qwCFYQHPc8jyIi4x3DscvxOC-pgcYBXKTN6bGj_TVJEoBopkScgoT9N6csFRNcjNQi9DWhwFVf_pQPby2QqXCw=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10r9wh_uuy5z7uw8": {
+      "createdAt": 1787200036577,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200036577,
+      "publishUrl": "samsung-sm-e5-e500-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-E5 E500 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhdxgiey3fcTWTZ_OineV8-nnX0kaV4FBLCN-S-OLGJghrDKO3Ez2P3Al_4zqxcTFEyvkGq5Nsi1DdxJ5driVLbqRuToj-TjADTdshndgsBCsFC1IRwjIcTrFKmMTqZPXCRknIqnAolnhoRwA9oz9Do1yIbBcGuGCqgzA3G4KAwKN5LQoRHN18YVje3p1Y=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10smi6_ekdwmuaal": {
+      "createdAt": 1787200099566,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200099566,
+      "publishUrl": "samsung-sm-f17-e176b-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-F17 E176B ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi0B39K8E_M9e9NUa1Cf_vFNAk5zocTizxTxbV6WAn-DitJwm_WLQDiK-TAJ0YLp22WqHTZYce98oLN5KqcClLRXbl87AiZS2whiJ9bOdG2BkxfFfQTvO5Me99lBRQnMQsWO9Y6PaohTkZjzGV3-zyFZbPoBva1goGI6znubUYzADFxz2LNAhYobBpwGqM=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10tilj_xqxyr39gm": {
+      "createdAt": 1787200141159,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200141159,
+      "publishUrl": "samsung-sm-f23-5g-e236-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-F23 5G E236 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj7FwqvKZELqr_su4lXHvNwaXWVScQVRK3SPIJrus5XbDop3ScccySmw_iNcRx8VvMPqFE0j89EcTcPWiGGY-kjZSzWJnbS21n6xmIG7yJKIRK26wUfZfTGjh9q_rak2NfgfdP5hYoo--hMEHAkGIRVYTZDuEmfjoVGc7BizFSxQnMcIEQo_YejssiPmYc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10u7hh_5t5sc0fxw": {
+      "createdAt": 1787200173413,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200173413,
+      "publishUrl": "samsung-sm-f12-f127-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-F12 F127 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhSW2e-QhvsnSvOVvO6iCFLdxBiijVH46OVOzGzARvA3YHL0nSF3yIJEuOYvrbIWNQJPXPGozlx7jsLJIJ36dreQbmwX1mqhVkxp0NPNI-MOuiYxmPU_1KQtobTwlXJPY8NFVp5wOSj_DDAL9GJdtLUykYVMSCpBRBUw67JyfLEE9qWtd2hDBrO_MFw_GE=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10uyd1_ee6ntal7f": {
+      "createdAt": 1787200208245,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200208245,
+      "publishUrl": "samsung-sm-f13-e135-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-F13 E135 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjx9UmLYdZaS1TID6Q5faBDGm7v7ZNzczLetSL7bv4kVAs0AZcMkiB4Pylb_prAcmYRJ0TjCqy5LFb3ol_XSmx1EZT6c-KjvZ7zau2NC_cJUbvjV8rv0uBiLdWD8_cWgnXPbDOH38WG_md8plQEWzH-_gXk39P-NbochDXgdl6mkz-kkbdYwtEGbl89dIY=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10vn0n_06qx6yl3v": {
+      "createdAt": 1787200240199,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200240199,
+      "publishUrl": "samsung-sm-f14-e146-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-F14 E146 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiakvWzEnn--MKAD-6EZx8t6V99U_055GrEh5G239Ro2ptoS0o-8A3Xfhy-gRe-OI1lnH75-fsArvBKJVMjzZwjBPSkHCWtHDUoeoBRt5K9_ukZg8FRBNeos1HjfqWbCPltPigNGZImFYCvGLk5TZoBs1uqA4eFCr-rHuE4A2jKu6cKGZ4Lu0rblsse1hc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10wqs6_yqc5e796q": {
+      "createdAt": 1787200291734,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200291734,
+      "publishUrl": "samsung-sm-f22-e225-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-F22 E225 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjb599szLXiBFWaPyMS3pieqtAh6d5gwQ8wvj-R5_ETOz78rJL30jj1F9Gx_qaTWiNmXDqgKGq1F7Vy6OjaujxAu1Zj7fGCYqoOkj4OFkq6CwlDKrF5MVMHIbUCZSoMx4LBkJKr5oz9U8LbsJDsGCiiyxYEwLbAt_zYifRhRNjvFrtdf_pewH3dYtQn86o=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10xdge_deqyg2dos": {
+      "createdAt": 1787200321118,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200321118,
+      "publishUrl": "samsung-sm-f32-e325-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-F32 E325 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjre5GAzYUAg7qJT59yOmPqRzziUG-pSx8RXNwh-24Fa-50nKhe3U8n6xmhwHVNhhcyT6Hx4IfHHGIVFBjMhv6utOQyd93dUUJ0ZxiY2bev54Udr6zIni6g2JDD-GWdj_Rc6YU8aSudEmiwhyMij80ztHpKmwApVZJ9RYWQbjD8w1KORZRUSa8IPk3ec80=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10y2oc_pcw8s2b8a": {
+      "createdAt": 1787200353804,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200353804,
+      "publishUrl": "samsung-sm-f34-e346-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-F34 E346 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgvPJjKJNjPJCA1swfy2nwN6zsJQ_fSSumcHAXN24P7S-IsDMGENWdhdDybESo8I_XF6uzj4PDsyWgqVKnu5nBJIGXiZk8vDog5Vnrejh4W-oQNol6u5hAP4S-0UglFobarBCcWtCr9KgAg8FCvz2gAGI7Y-jCA2SWs_3ofGyUvX2tVrCcCPikMhhOc2XI=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt10z9e4_92xmtkh92": {
+      "createdAt": 1787200409164,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200409164,
+      "publishUrl": "samsung-sm-grande-i9082-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-GRANDE i9082 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjuAiLGeE8_pDygy8mquT81aK0JmAQ9LO3dK5XbHxn3txXdI1-szLRY_zTHGEARDU7QgZrvkxPARDXgyoRZJng35xPOX1qEK1rOKEEitokJm2OIvSNEsDe2TPSm3a3Z_rSWwtWw6NtmlOCHsRiKnJMFUDlbv-6TV9i7tWSGpu3h4LmRaDA9cGARl8fBb1U=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt1101cc_0o84vg6lx": {
+      "createdAt": 1787200445388,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200445388,
+      "publishUrl": "samsung-sm-grand-primeg530-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-GRAND PRIMEG530 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh0PLlyBGAHqkMv8ct2haE9gGC34I5amlpUBSFnb7wFguOjYMnWERITcaH5xV1a2qhDvPLBjdJoDl0bw-osXCizxiKJ03XYgVj_jvRS1ZbrGuzAgT-7aeFKg40fnBZyfKpU5u89g815mMqZvWe-HOsUwmmiYjqP17S_v4KyX9AH9ffUpWKMygY7BGNe1-s=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt110wzh_1w1tuaub1": {
+      "createdAt": 1787200486397,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200486397,
+      "publishUrl": "samsung-sm-j1-j100-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J1 J100 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgtWpcACsKLshusde2NcM51laLvTxLo6HEFrqTT2U6XBdqr3uqbTCRhr0RbUxzI8zwDhKI8W9JFk3W0go6fowpqFvuTnyIYYgrgrYhcuzp-qAlBnJRKHROgDSGIvnCL2HSKYaVgWzGqcXdYXa8rYloTLlAC5ZHSoaSYlVoXPLHQBtcpAqikMuDiWsPb71E=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt112105_lw67iup3y": {
+      "createdAt": 1787200538261,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200538261,
+      "publishUrl": "samsung-sm-j1-nxt-singel-j105-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J1 NXT SINGEL J105 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgB6v5fEkGTj_WlHSdP_iBt3tdOLumVGdZjYUY1AfvkqJA6ur36xOiMHYAAqCVYHteJz7mDzMV1yxopqkIUNPX2d4JPTNIo8sxPoO1f-U1Q_ejFHpNW8hb7zQtOcG6s34FD275Dm7rIJxNGmcJpJa3VYOhCjR0mpz0YJQRB624c-mGo8bTolog3YB3SMio=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt112on7_hytei1c14": {
+      "createdAt": 1787200568899,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200568899,
+      "publishUrl": "samsung-sm-j2-2016-j210f-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J2 2016 J210F ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi0NpdQBLfapa9oVv5j0U-AGlN0S7dFiPUuCWTpK2IYxv8jEnz1WbEPJs092oJly_qgwkIosAH33TW-qdftmKRMMUa7F1SL_7KrrbC3D1su8ey-uvgBkeV2z2g04WjFTeE1WctP6_lGcyq1cNUxiqjnaKPeMVbeL6mVJ0mO4Z-RbAAAVx_eZ3hRUNRqNBA=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt113d6b_3lpw9d688": {
+      "createdAt": 1787200600691,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200600691,
+      "publishUrl": "samsung-sm-j2-j200-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J2 J200 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgS9LdAmrJA95h8arBlybbg3_p_wh4cFYG1DNAn05rOV53bSe61u64O05EuUdYzKnAwRNi8NdKSgkp_5P8Btfrix2IVArvQvzFLqSZHdPRdrKZ0bc581x3PPsZYFRk6D-hNohl6GS32GQCWlIMQDrRLuRRw2n6dRXizbF2azNcYFS57WOYqTk988Wr4pMc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt1141h8_yl449p4cu": {
+      "createdAt": 1787200632188,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200632188,
+      "publishUrl": "samsung-sm-j2-prime-g532-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J2 PRIME G532 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiOR3Lp4IP1jUJRf3KbTFC0ecJxl7wO-LnDJf3fHVvtvtDB8j89gV3xIz7b21DSJn1D1KKxKsxreU5WYX2SxSMcacZzFF5X_G8dRkmDmOwf5_3-2bhEgckHl9dTEfhnSPG7y6rLndi7hBiuRZgs6A0a3IBNVDU2qQkL2Dx7YsYSsb_CBg3w4O699rcApb0=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt114oo2_l2yn6jkla": {
+      "createdAt": 1787200662242,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200662242,
+      "publishUrl": "samsung-sm-j3-2017-j330-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J3 2017 J330 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiSsP07aR5df8BP_mnCjVUQ5qE3Ljk9mL9571UPM5mTFePYtv5axMlmNffhX0iIo_I6NSRgaesx8h222u7Y_aGprFKAS8DZTCIPm49zH20-PT2xYJeWS0gqvxCQ0Y-bzX1a_KtRGVhsI2FJ8-MgCPcZ5wyioEVCJDr3RxaLNPP1l3pRhUtzB_SWA0165lc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt115bln_djswifde0": {
+      "createdAt": 1787200691963,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200691963,
+      "publishUrl": "samsung-sm-j3-pro-j3119-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J3 PRO J3119 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgaDHWXE8oq1cUS_lpfO1ktC5Sbgntmtbu9sCrxf7pXdj9UIcRjwWbFASkiS1D4BbdRhZ7AjVHTpJpRgnOBLkgEbwpSzXk7Z1hxMn6MTYhbhdlhLMgpRQ45Nk5WCSLLxmxTJjm39HuGrAR-sgGdKuJ4Ef78NtruF9uby-Y2iI6njZF5QlJ2FsopLtaa_G4=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt115x6i_m8utdx35b": {
+      "createdAt": 1787200719930,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200719930,
+      "publishUrl": "samsung-sm-j4-core-j410f-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J4 CORE J410F ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj1A2B0nDBRZgXkmpB0iOMNTmXrEEPuMVfGb6Kmdmy9bTCVrKPk2viExxfUcUoWw6zVYuRtFwdI_z88uZRx1BLBXC-24NHSYbQDU3otcQMVYMOazl8ysWSq8N9d9NKJlPO7J8JcBJx-BNXBXkzlDvrDq_KiHRKs1T5cmxUcXfvRCmwdpq1iEtvqecaxQGA=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt1175rl_4h60v3we5": {
+      "createdAt": 1787200777713,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200777713,
+      "publishUrl": "samsung-sm-j5-2017-j530-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J5 2017 J530 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj9jG0XFpgzVQoejxrME_lWNCQa6txsGVjTPEThuxc8PiChzT5vhOegq_Rn0uB81ScYMwhyGTzyKBrlNcG25u-N2yEVEiTu2eyJVamvdEVMNJfHGLpsx8B0iwjO-YWC8q_7xUwa8qPxV78jywO5hwnYGusROHGhhwsAtHisM1-4IMYakzi5EnL3sDOBzdU=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11884p_qqyyg55rb": {
+      "createdAt": 1787200827433,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200827433,
+      "publishUrl": "samsung-sm-j5-j500-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J5 J500 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgoTyQiAoJyjnu6PC2kBc_T6LNALP__sa3n8p0xeF5wY9IKsazAojte9BHUbNV_AZ8xymJQpz7L2v_vb4GXNB6PIAXH7cvV-tzlv4zNCy_Mvp5JZQnWSXJtHxtqGBzSc_uSUnoLQZ2Jfc15SzPcY8cWxNT23MwMjEeisqAiZQLjABsbQ_LdDXBQta2s_3w=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt1194nv_9wbcnl3ya": {
+      "createdAt": 1787200869595,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200869595,
+      "publishUrl": "samsung-sm-j5-prime-g570-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J5 PRIME G570  ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjerXyHjwco2E1xpXoJQ0tBvAoiJlS0rDQ6y0QaakEQbJAEzyiuBEzwr3S_yM6xNIgJAwVygmoRS4O4yk5LaiMzvbPiWrPAsWS_sCVPy0QuDGkr3-bktbYEK2QC4TrfndlnkcCAZ3lfxz7wmwf0chwPvA_SvL-kMD_Otkq08YO-anlFfSdr6U-Xl2jMd0o=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11a5mw_tfsvm3e9q": {
+      "createdAt": 1787200917512,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200917512,
+      "publishUrl": "samsung-sm-j6-j600-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J6 J600 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEibTq4fMsvcbZX6xt0ik3KxDb-xQL4cMLN9qVqPbP3zgXgmEW5GrVIvbK32VIDGxR_Xa6jwautTKe5MBAz8RcoUEh4mMLJJ78sp7pWtzutPW0OFw5Z0YJkWeMh16a3T_2403cKa0lPRjaWDkLEHSkaXicQOk7Q334Q84AYw63J9Y7bljBmCG2_NAZWZ4ME=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11ar4w_g7i03ycnt": {
+      "createdAt": 1787200945376,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200945376,
+      "publishUrl": "samsung-sm-j7-2016-j710-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J7 2016 J710 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhwairgMb92w-3zAWEK9qM6NrbEeVuJqOdwhxS06g1jaFyDhI8hpdPSw35wDy65iTZ8dOe5HijQUYOx_2462e4_KXSdNRW9iE9gwQ5yemlrmewmDmHG9coLkmi_Nt3P_qBC2iERYQmBqSt9btv_m70idzCBjsYqSqlGN003sPunvB9DpSg1mBsrf-r6_QI=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11bhya_hjskj3q7b": {
+      "createdAt": 1787200980130,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787200980130,
+      "publishUrl": "samsung-sm-j7-max-g615-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J7 MAX G615 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiwVtaulRlboevxDy4fQDc-2vcDFjl44os6bw3y3cdwYfzmlLj9PT9n7eJQj6-Ps1puspl6mZ2n-_pbYzm3q9UZjK2ZZq-WFspqXRjNmwExCnILKhpq8TtLAHqRIcj39kaew9qCWay6aTjdceEbQIgD-cve-bGSNY-sYndqU9i9TjVi43sjHxx8hrelCFg=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11c7vs_34r46tcgp": {
+      "createdAt": 1787201013736,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201013736,
+      "publishUrl": "samsung-sm-j7-max-g615ng-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J7 MAX G615NG ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi0Wfx12tsu3vBaZ-APxesKDHuVKAifbaE-ZKQiKjDzTKicC36GxKCE8Pyb-6P6PlnBiYnATMmAWV9FyuwvoJ1ZujoH3Ds2QPCeLC4XCScMrTIsMOsRdgIORljpCch7Qqj4VHL8M-JkIyZaMNKDZwpLzN7yahPGgpqi76Q37L2GA8ExuFUKDfaANDFTGnY=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11cytb_c9uro8l41": {
+      "createdAt": 1787201048640,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201048640,
+      "publishUrl": "samsung-sm-j1-ace-j111f-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J1 ACE J111F ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjklmmPyaNUxOHdPiIli601zlpmHMUn67hmFnfuNno8boTVRdeDAr4ZX6_fB3UGW9VlEu5BY9pYAfqBWOlet7WuQJEDANZQRAQrOduKsaCMdBFk5aK2SBMbf8_5YZCh0TN_OAPDfc61jUi08J7LdmNsunQeYtyeikmwj_HdcL0JpEZvHrPPyoDLnQT5Pnc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11dptb_7gdlapybd": {
+      "createdAt": 1787201083631,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201083631,
+      "publishUrl": "samsung-sm-j1-nxt-dual-j105-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J1 NXT DUAL J105 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiaLXAViPfgke9hyUvfzC6Xt0fCMCNGl5Q9RmJCWokoEMpPdXYZ1uE6q-Wn0mZ7RQyUHnPKo_9Z7WLelecs3K-gpkm4owpOL0ikQ7MwRk6ztukygMway9MgYgPS3n3kZJEcSFLXy7GApJEeKBMgOSlg2vJGpy489_clDUGTcjTKI8UV0AsMHIz03HJ_fnk=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11ed1r_vpjuz2f4u": {
+      "createdAt": 1787201113743,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201113743,
+      "publishUrl": "samsung-sm-j4-j400-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J4 J400 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhFA8Wd9EDGXyEkFIKbKnWyiYpg0iebmbrJ5afn4CRiCrpe-d-TOshoN4UhxaKvVngx4HFIS3gme7-ZvBA1wbNDxnkfRU7Ufs9WxG0wZKVZMBYznwduvwKd8TsuBlCSYf7jjLrHbOvY5gzJTEwyzdnLwTkE5oaHQI9DYiAgk0QG35zlHpz0tLSYSQoY5c4=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11f47b_nmb55pkhf": {
+      "createdAt": 1787201148935,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201148935,
+      "publishUrl": "samsung-sm-j6-plus-j610-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J6 PLUS J610 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiCLYeUFCkolJmqSB6utdGE7gqQxV4TSdpSqA3csEoqMs02-iMUsEup3f9phPB6x_Q9kwNtRYxICIv2zB0s2o_dGSwg2kcmWw1ynQ4BPMsAOfm0jTifMif8qdQxJFICldUWXcFeWj8LVEmA31IAezizXWhM33ljW9A_vXceU8Bw5jguedkfmuJid1_sYhg=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11fouq_pzznwnr7g": {
+      "createdAt": 1787201175698,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201175698,
+      "publishUrl": "samsung-sm-j7-j700-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-J7 J700 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgIrKCrHYOGU4XazjTcjr1JlfEJK69o5PdWbQ0CglZevAo_ghZmm16BE4zPhpoHThaoeHDlN9EMU99nF48ehJeyju7RBNFt4b85K-cTgkHPd5UXZswX2OmYqZm6A_lSlDbzsCDgSiH7IBQ0fv-00vRMt9ICSFweQFpzMd3UjXk86AhBCDW0r3uGoLLAcW0=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11guf2_7777gv5n8": {
+      "createdAt": 1787201229566,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201229566,
+      "publishUrl": "samsung-sm-m11-m115-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M11 M115 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgBGwjJl1M6tvYxFIMrboOPOdh5klhQl1NQfkR7nDiBAPRXAG8tfF7-AuGQ58bO_3y7eguNFa8z6ezqedZbmiPJzX_JLkhCchNBnDX14ZQ8paFzCXJS2KQfLDHb1fIrCWQnKt8gA8e1WqeIAGdMBb48PKClRpaYNCLSGv_NF4M-aPuYosc2tGZIi5OJBrg=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11iy5i_bqmcxv04w": {
+      "createdAt": 1787201327718,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201327718,
+      "publishUrl": "samsung-sm-m12-m125-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M12 M125 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjUzvZo55032vChiLzAMY_c_GSsZJHNuPhD0LZs1g63nSnR4Ea7lSVG8ZK5KF8615M4O3VIbsIJCaSuYUFc9mc3NMd2vR-l0tIf2GDCEXnma2lPgPnyXocK_A9PKPW6116YDk_UxVsfGsZCtEYiIO0fG99GaI38941jX2PztXHlKAdH93pTWLuoVfMctk8=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11knx3_2b2bgtvgz": {
+      "createdAt": 1787201407767,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201407767,
+      "publishUrl": "samsung-sm-m12-m127-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M12 M127 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh16-VP5yWMJ22gfGh_5jN61_BlyU_kz3OHw7YmtzzQ_XRLAdxMZnH_zdJjw3QTJdu2EKN9AsdiRVIpjtfvfX6rYgmG5ekRQIxKrK8MV0Zl3NSgWFQo1FSLFpxqyrqBIO_4oLiU5Guj7xFyDa1Gxlhcv5keMyHYTY0GvQjhteXc5VH9TmGo27fm_LaQRAc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11ldfx_vvf9wwfhe": {
+      "createdAt": 1787201440845,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201440845,
+      "publishUrl": "samsung-sm-m13-m135-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M13 M135 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgYOWHq1qE9v11k6xlBvUXbPcDJcYzR3SI5WT0biu6fycqEnVglzuHUfi3b5qZSwVB_sh8ch0P-eoVAV6Bh29cIyesKcygZH-hehWUe9kFme3b0DbtptQMnGHPkJrxp1K2HItMI3d1E70WaWR4xF0wbVOZ781EMvoU2O03tKT3y18S2LroRnmpymrWj6f0=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11mham_s4467aeeq": {
+      "createdAt": 1787201492494,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201492494,
+      "publishUrl": "samsung-sm-m14-5g-m146b-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M14 5G M146B ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjtf0wh7Yq9OVULZlV4_VITx57lPKwj2ekXkabmG68ihAr6QM2BwVahu0IjJFVFweh4Dcr7aViGe4eVgHHI08q00bjRh6vEyw82uTlT8MG_VUvbIJ09PO6d5B3uL51nxR_B7-0kfU9klS1ozE6YedLglG1OK06AeVBx0ekzNb5xjoRDmkQWfX4oU1-YnJk=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11nb19_dkmmjmh26": {
+      "createdAt": 1787201531037,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201531037,
+      "publishUrl": "samsung-sm-m17-m176b-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M17 M176B ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEib1nxSEgrO5RTC7rCjTSBlcSNQCLRYEXHrvOdKr0CZ1uyKMIhzKVhnqYtPLOXytDyARgpUbuQTBbjWXIt2lUwJObQFRBtExmB37vjQY7oYkLf6D1OyLT0rRkNaNk_v6rRUXhsKW0ADQkna4SbjCPlb-USzVFco83AXIRMV3qDAE9T9CvLyaRwuDdpNrrY=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11nxwn_0sufefj93": {
+      "createdAt": 1787201560679,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201560679,
+      "publishUrl": "samsung-sm-m22-m225-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M22 M225 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjQgMqxgTyO1gu7HFXW3tuzcLLa5Tm-YqYG7UJOpiDLke3h-QDyPLReZch43T3YYrADzWNEVC1WVOwUn7AhspsgQvaCShsiTI07MABgETqXgnX8z3PVp7EuhK0OmC2yLcml8n0SMiV7xXpAlReTtmZcs_R0_LKQeggO78qnuggeLg0Is6CZxj_YjTvB_VM=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11ooww_3no37c5y7": {
+      "createdAt": 1787201595680,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201595680,
+      "publishUrl": "samsung-sm-m30-m305-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M30 M305 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhmnzAtj0Kp6dPWwfsXj6FppX4yhapHCRWhdgW7j_U3gPK1amhnXCUp7otmwbbBXoVwAHN16wV7F9BOu-0xHFkPOZIt73SjTfzavsHQXB8gmaCr_rW6Jwlj28scWuLJjwRGgRB_hNGsJKFvT6rmaCBjNxMq-WkipbytxjIyY41waO81N50lQ_QMhBwDQHg=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11pged_n76n3f9ao": {
+      "createdAt": 1787201631301,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201631301,
+      "publishUrl": "samsung-sm-m32-m325-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M32 M325 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhKSIK0uCD3f3yHygbc7M9Q7NBLgmJ_ug-qYAvnDWIfjgcelDXAErguH3djI_ZSKPSnMELLtu1g-48NxYEYJLrze4da1X1FOzN7wrHOQjbzkQr8UqRaEnAECA7flEKBpDY_VsUxgzxBJpt3M9xBUMjBQAml91CqePGYZXfHHnX5D1jIHM4BooERNuETwpg=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11q8w5_hwdr1efty": {
+      "createdAt": 1787201668229,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201668229,
+      "publishUrl": "samsung-sm-m33-m336-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M33 M336 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj8H9DJZ1AWwDNDFe7_QINy3eeZWQZVTIEOeRfqNiNqVWqe4QjKyZPc6VePmdlOsUjB4pBoz2DAKix4XGLZOtwbGuBWtpQKLc9FchtKQzkD5aWn3Eqj0ojs0v0iKtGH_a6uFqtGV5IB6GV5j-8OXWX8qFo1ZtVj92DiPKiP6XSJKSYWcdSytv0gDOepD0o=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11r2km_g90wnvoa2": {
+      "createdAt": 1787201706694,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201706694,
+      "publishUrl": "samsung-sm-m01m015-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M01M015 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhXH2lIyoWQhT4ZwIv5uIob-PxMOu1HE_xkUr8COBOGcOnc-Qhx_covDF-yx0iuKNYRfRsrMzPhStisJnP1kAdLAjHD_6RRZB-hzlrbvoimtJCSBP8Da1czx9FISp76Yg5qBQ85CNA-P-lzp8A2ZibsYzHmnfH9u8zrZq4W6HLhZo0BFiaKXKvOtHuFKz8=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11rwby_jbww41kki": {
+      "createdAt": 1787201745262,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201745262,
+      "publishUrl": "samsung-sm-m02-m022-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M02 M022 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiCpF2dRRd6jU1DU8YUZ16ccy-kMoAIw9RgKTWpD3MWl8j1Mt2Tvz5L4D0ulOAIw-6ynGMnmnicGBdAGKKM8ZV3XLNWJ3pkySg85X6c_N1b7Bi8OK1TOSvV5osenz5yu1w0tZ4BG3716sk8lKP-CcyAfPBgfYSW-OiCVbysrzZG4VQRuDNO_YPIqxoCFsY=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11sq8r_ox64e5en2": {
+      "createdAt": 1787201784027,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201784027,
+      "publishUrl": "samsung-sm-m21-m215-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M21 M215 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh40ukc9stIyes4YtUiJPQHymIzpDonsTME-90u3YelTy2GX8Z3rWrzHTx5hUnsmAaYOS3nBEr-zHKq2e93gumjjZmREeGIPvnNAI5wGqgyEp9tKs2m3YVg28WVUBNA5d-TflO8Sr5xtlAnEQ4JRCL0HjQ-dgIGSMTxakJKF-4lDRlZpV7-u9NuPNWlGvA=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11ttks_iwt8elrxv": {
+      "createdAt": 1787201835004,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201835004,
+      "publishUrl": "samsung-sm-m21-m215f-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M21 M215F ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEisnJ0ewwMDbuDD4XY779fRmnveRETOkW7KwREFlWukSLUc0wvBkyIKGQ4jcEnB5DVkEiCzOiqc33VxS4LC03Q7xckRNDrGPxYnyxnivJJmxItVgcm9UP6mCPqXVAG-r3cZpwpTEabFnbgWmzHX8zueVS_GFW_K46_-QuVEOYZ2ErxDbsnH5VHgqkHgskc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11ups2_eyde5cq72": {
+      "createdAt": 1787201876738,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201876738,
+      "publishUrl": "samsung-sm-m23-5g-m236-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M23 5G M236 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj6FKVib4vy03yrLHpUyN6mK6IzDPT2BEXO6nY2_kCzhO1ZSVIqYll3ZSS3kzF_arrBZCNG1DDy6x0OZkGJZ9-Stwwlk6RqCfnIaMzdfA3JI-lALUQ7PQBDYBpDZcaZ-5biDS_qnIobqZjgLTXh3ITBJMypRwH-dc0ANVgTTHQIkXAy63r89YzPaJEqtVA=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11ve36_t68t5rddt": {
+      "createdAt": 1787201908242,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201908242,
+      "publishUrl": "samsung-sm-m30s-m307-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M30S M307 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEivAw8smAarXPXSm82bgMuWVaaW2lE0etGJ-ED6-HG5TD1eNvOtYMiCgQg9JWaijBdo9rPsIqaatlTHi7DU8h-OBivDrTK5WZpJdpzwKb2EGO3D4l0hKniaxAsm02oxDah5c6Fs1ZOwZTDcPZN6MeL7WAp3zl3_mH2ARlCFBJ5zmQ2z7JWChQ5yX_gbOqo=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11w0pp_f42za0c8k": {
+      "createdAt": 1787201937565,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201937565,
+      "publishUrl": "samsung-sm-m31-m315-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M31 M315 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgPQAL9XO_g9EWiOSFyFhFwAWKQVqnQLquR0di-II8wVdKzxRusSpPLsBjauw4d4jWSB8erjBDGgdOXAk0pnTYTXmo38ssLA-IPWpDX8lmtEGLpPkSHU4hfJFx2f8v9ZPqLjU0vF4-mwM2MhIJxN9cdxJAg4oMseXtmdNPnh6TbJ13I_eLpER_ephsi3CQ=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11wn30_jpc9c33s0": {
+      "createdAt": 1787201966556,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787201966556,
+      "publishUrl": "samsung-sm-m31s-m317-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M31S M317 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEikyEJueHqB_57vSKflx49QvR2hDpsv_Jx2wCgc5gOXVTsZAzMhrMkohwJJq9Wo-gm_Up11GVyvqLkNe375wvItVmwmaYJJ6obwRUDmPGxxAowlIzK6LOSY57m3xkGzQupm2g105SwkHGtU_ptgMQ9ObjWLTBQL23NGUT9d-QpYdnLo9At-jKLUZ-gdiq4=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11xlbt_8rmlqon46": {
+      "createdAt": 1787202010937,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202010937,
+      "publishUrl": "samsung-sm-m34-m346-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M34 M346 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhR6JKOYEX1f0cYc133m_rteiDs4EeVW97RohOokg0AsyjJL-Wvib3pnTEjS8OfuWCRCocd0W9cXqsuZzKZ8gTAo1UhbCZq8M3lEVcoKifhibyvM-CwVdeikRkXMXK7bvkxNzBjFaDGs_msfOq_FVq_5ZrYEPAW1fq3OiGRbmGtm97whdm_tkUvjTpE2J4=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11yeq9_byqc2berp": {
+      "createdAt": 1787202049041,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202049041,
+      "publishUrl": "samsung-sm-m51-m515-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M51 M515 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhnODiuFkxALj1c5pS4P8FyOqZsYfp94uRIfeiU0MhMFMLqxSo8ptKBVMkcQ1EQaYZgGgI1Iye_jSly8bjXRWdN5Vtrzt9PBt-6eWUn31Yh6uyWzAzoVDo4d9E3UM-jqxDayuxuuh-ZLLVc3yshxFZsVZP3wd63CAtHKkGa55zq9aSgRkSyrR1UENYdtkM=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11z1at_0jgqm50j1": {
+      "createdAt": 1787202078293,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202078293,
+      "publishUrl": "samsung-sm-m52-5g-m526-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M52 5G M526 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgJ_HelrhE_Xp4_QqatV1rr4tNVkU4YRf3BDx-cWioIjxetxwmvXvasVkWCXXGggI10iNQ9oY7Rf62Hhbkq6xgaRJ5cpTk_8-FATOqdYF3WF_0UYxr20o2PsrUznDXwZyBLWN-Tb76adtDPHIeYYZyA4f7uHHRa-_DL8hofwePGFjv2Hp_4cp1WNvzw6nk=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt11zs4r_fcmwf7hwi": {
+      "createdAt": 1787202113067,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202113067,
+      "publishUrl": "samsung-sm-m53-m536b-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M53 M536B ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiux8d7h68tFZreiET-ZeCmVd-jgBpnFqBn8kibdPqzAqcD_vM4luZziTwqz8OIlM-Hzq7E5esr8HanCTPcOKvkKRgGM1MpIKpbelsPyu_BwoCgN0ZBqg7zvPqn9whCGmzyb-VRzdpN4QdCt6yzBjidOxXmShuWMVeVSPglUIM8iRhH1F1wPOX3mL1Mf7I=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt120gow_q22l8mo64": {
+      "createdAt": 1787202144896,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202144896,
+      "publishUrl": "samsung-sm-m54-m546b-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M54 M546B ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhUFpM5kJAOdcDg3eMgSOQW3qOo3fquRfTnL5Q6W_pQVvHaZYL1p7QGaqQ2D6e8Qeut9YcSch80NX1hmQ-7jS44zRhcOOUgmXS1Bzc3XTKkthP_izMpXpH7_FLiHYIXmFcQ22CvXryzJdesFtpzFyWwS9sAtpU0BU6pS-7_jIeHRsRAvKhUm4v-8tDMEdA=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt121fe0_51ialmyxd": {
+      "createdAt": 1787202189864,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202189864,
+      "publishUrl": "samsung-sm-m10-m105-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-M10 M105 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjn0nPumxAoGpsos8eMwa2O0cuDMx8ElUpqUQ0351aGAQ9JlBI_-8f4w0uos0LV-wSF7YWU0IZTZ-mzpNpI-0vz2KgNwuUMzdgIHkLrq3j-ECF__Moe2DfaYie53IT2XVJg4wOlpUDsQXj7EVXjrdDNiV5eWXsiTSHikhTLDCnw3wBXp9OaMnlHqdo0w0Y=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt1245w9_zhn4g1hca": {
+      "createdAt": 1787202317529,
+      "folderId": "f_mt122z89_l3uw1a2wc",
+      "lastModified": 1787202317529,
+      "publishUrl": "micromax-canvas-beat-a114r-isp-pinout",
+      "published": true,
+      "title": "MICROMAX CANVAS BEAT A114R ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiwijmQeuTLw37G17g_Kx_XwdZQ-uYclNGjbc34aZDYny7WLHMq6jBKDohEXD8_zja3k6h07GvuMwXeF3X4E4S3fRvbIU6wZgS9HPRsCAt6BlvWmGu1ilpwJIZQOO82L96Pr7hXplma-VTLMK-EpYjaq8qv2bIhd-SuIq7hnjFuiTlH0RloXed7nLPKIng=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt124rw9_81qch3oop": {
+      "createdAt": 1787202346041,
+      "folderId": "f_mt122z89_l3uw1a2wc",
+      "lastModified": 1787202346041,
+      "publishUrl": "micromax-canvas-doodle-a111-isp-pinout",
+      "published": true,
+      "title": "MICROMAX CANVAS DOODLE A111 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjohErs6ZuTorBJMNqy6MJowYRNzarOOWFXiBFuumQDDaewpNfbQrJmG7QMG2m3CVyjOR2lTJUbPRPBk6y5yelzkEM4R9d6FtxNib5hcFS5Vn9ah_9fBtXsc8_HbYbdeKHjxL3nUoo2YYw8FUuxEIvzA-Jf7wHS7ZlFBvrCOwdOIeOJCP4xvik8qxTbst0=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt126lrb_tmgh86tog": {
+      "createdAt": 1787202431399,
+      "folderId": "f_mt122z89_l3uw1a2wc",
+      "lastModified": 1787202431399,
+      "publishUrl": "micromax-canvas-elanza-2-a121-isp-pinout",
+      "published": true,
+      "title": "MICROMAX CANVAS ELANZA 2 A121 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgV7wtcPXurRzcqHBZBK3TOJdd2msGbarFQvLd4uP17qQbSBdp6765V2Dy4MdQq6int1iX3JJMlf_iBhThjYc3iMR9o1PlZRxq2FgZT2Xr2Gs5tizde7J13VDwzDr9k3_OuMMAA7vYfwZxjyiS40P6sB9pCpoNsXNxCij7NQPOSbZgwb_lqFl5JISjjNqs=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12789a_6axp1svee": {
+      "createdAt": 1787202460558,
+      "folderId": "f_mt122z89_l3uw1a2wc",
+      "lastModified": 1787202460558,
+      "publishUrl": "micromax-canvas-win-w121-isp-pinout",
+      "published": true,
+      "title": "MICROMAX CANVAS WIN W121 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjG9qesg-rvOml5DchqIU7s_jqNpRj6YRlHnhIIpEugdo8SgC5_Y-lapfYv_vgBLSi-a0362Yc1TwbcNDnRln2UZdNnXFnqjZx0PoZiWR5hFM3syxLbKuyUZOgkZHfvEQrED5pu6k_Q6MfeRYxZxr2AmvGi1rWWZBj3EavYHiocfasHdCC7NP3bMywNLOg=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt128267_kheu8xlh9": {
+      "createdAt": 1787202499327,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202499327,
+      "publishUrl": "samsung-sm-note-10-plus-5g-n976-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 10 PLUS 5G N976 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjvx1mAst9KxXauU0xnyuHFTPfvC4jo6aiZ5TwF4rTQdqMZHmhG6K53ppqSmhbrF4GUcR8LforDxihQIRHYVVaAtOSftborvZwRWs-HSEd7OCGB0SN3psO0zAaffncBfjvzTnb7oaPZ4hdev9NMBHyj71gHSwVAWQvVGcNwL4au9HdIvz4IcpTwphO0PFo=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt128oy1_1t30ky0vs": {
+      "createdAt": 1787202528841,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202528841,
+      "publishUrl": "samsung-sm-note-20-5g-n981u-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 20 5G N981U ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhhgkmgeA-6GbIZC9kPphS-Fqc4rwDLQbd5pRDs1LapoFnNgYkCWFepOVeDviszOVJ1I1DxkbC6au2DVY1MMG_YtCLC2c517On2XIaonihu1U60EzuQzusxHh_7oVBV6jM7UJmolbtkmxZGJPoI_K0krzE-Cuky2LQhujh0AXzUVD_W2FKVN6PaLCw_7hI=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt129ccn_pilos0xvm": {
+      "createdAt": 1787202559175,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202559175,
+      "publishUrl": "samsung-sm-note-8-n950f-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 8 N950F ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhtNCPg7SJT13c5S0C_rd-RH0_RveTgZUEcBK7icE-j7ODMtm21pfaB4vBGslfvQgONpdwiYH6wFngLbiRV7adOpU1jL0SQzgLLe7qS8NzNOg5Wx025I07FXYDHuFQLHIhRIynkoy_q18QnJ4wKbXHWk0-0WBNJk7MJhGrh3Nuw2ZUEWZVn8M5m4yduVlc=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12a0f0_d1wj7bhiy": {
+      "createdAt": 1787202590364,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202590364,
+      "publishUrl": "samsung-sm-note-8-n950n-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 8 N950N ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj17yZhDDEmcrvqq6VsZoVFEP3BFc_5c98Hvx3_wOhSQ_sJ_krw0CIsCu-N1fsu63qgVI2fklb7E8ZZybYuLWdpil0BAg4q7e1kXSVTzQWhfMSb9QEf4T4HaSIiqvAffrtXtiOI9vCaHegNPjyKgY7XCiXOAJkASugHbVjtt923kCfqblgu8X-s6LxuKSI=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12amzz_zboqgr6wh": {
+      "createdAt": 1787202619631,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202619631,
+      "publishUrl": "samsung-sm-note-10-5g-n971-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 10 5G N971 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiSIMEVyYJYNY439tDSHoZUYPPKgjomApAgRiyIb6UC5zjnAL_MZrMv4m1w3nqdtgrfj_iGP86BW9m4vUwnyGJ8UZ3XaJqLAufL7XcArTOp6btYwrlOLSKGl99XrjZquaPvoPe_YK4oP_xTCBtLrb3YFMoHIM_49gk6vlqh5490Tcgd9kzq-k52W94MBOg=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12bbag_myv15duul": {
+      "createdAt": 1787202651112,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202651112,
+      "publishUrl": "samsung-sm-note-10-lite-n770-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 10 LITE N770 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiowt8xPIlyh7TtXeGhzvwBAE21BA6JZZYlNzxu30CJOzIQYNucBdLGjSmCFujEX4VyPqFD13y9Y5IcqUnyHaP2COJQXENTPrFkpNAMUFE7fE7HFDOfslOmrNsqmjSC4htQ_QvzorQjwkzZ26_1ksd77LE68a7F1zAVkdZBIVjoAf40Ezux9ERl-oLVUJI=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12bxs4_najjgf6yd": {
+      "createdAt": 1787202680260,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202680260,
+      "publishUrl": "samsung-sm-note-10-n970-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 10 N970 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh1nln7JWgY3ZEQHiZCUlaFUwWFWmjB3nGos-2-gpVu_XLnW2Tv3oWXFkylentzVpjEAP9A69tvsATbl5yQtjFQBAvU1nSKo10QBZBEKR26wu1frnVA2-2vH4SdeqVZxDzvlRljWMjmbNcEwqV-k4nU1BNx9K28aOVD9R4D_CbLFydh3XrDKFFsFnQHRBk=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12clkl_j8d6lup7o": {
+      "createdAt": 1787202711093,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202711093,
+      "publishUrl": "samsung-sm-note-10-plus-n975-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 10 PLUS N975 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgy-ImG5xEr08jzn7V-GPGn6d2nam8vQYWkcn41brCHF-fehoczxmejvpUzpff8cnBSNqPqLecg8hxjt93jGXTQnPyd35GTE3nE7tYs-SFwPwRyAWF9yi2VC3uXjVKvUpk9HAppkIA0WyqHERHSTIeiK8hBXj6V-tkun2ZTicOlDr9MvJR_j999HCXi_4Q=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12dbto_0zzld59lp": {
+      "createdAt": 1787202745116,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202745116,
+      "publishUrl": "samsung-sm-note-20-5g-n981b-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 20 5G N981B ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi4iXEmaIADqXp_9ykvG8aFtAHxX28X8i-aCs3fEfBlvb5Mf1dUlVFuwY4gYDuT_0hDJH6v3a-Vuu-NKSY8OSdmcrmGJ2OHWTDVTvBIRyj4XyYDkM8VYglpSwBo5JPrLEPttnhnwbwrkNPbgMRwfR18eh-vI2HJjor1Zoj90Au3FzjymDyfhUzvRwfPMf4=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12dw88_q3cqgb3gc": {
+      "createdAt": 1787202771560,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202771560,
+      "publishUrl": "samsung-sm-note-20-ultra-5g-n986-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-NOTE 20 ULTRA 5G N986 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgotZs52UsN07UysLWQNVrN1kKlL05QMWLBXgqGKnNntp2LCS_n9NB01Ubl1oh5P-gVEvIAt9mNXBx7OY_mSqJOkKrhEm3UeH1jQPyvSGNjgSnQVycM7SEPe92MpGNbpo5M5iuuFLj8cNtBcGT8BuxVzAkxqhFoEyhwdi1EnlSl16V1wd4Y-k4PwkpXKEo=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12eqsv_fjob0ey3o": {
+      "createdAt": 1787202811183,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202811183,
+      "publishUrl": "samsung-sm-on-7-g600-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-ON 7 G600 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEizpGlfyOdy0f_T4z45JbofWlNYiCFIs_a2t0qvZiMVS6zFMwhZKhWT-FzCysNYBR_zaQQPnZxLvQLen4XQP1g5OAwXPdPGzyKzSL_NBFp43GJUi991bqHIQ9QUGLmhY0BEIuKN9rDGisfNt3l1hN0RAQfAAnlK8ryXWbJ8cJZJQewo0cZgtCySV9Bv90w=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12feys_2lgaerzxq": {
+      "createdAt": 1787202842500,
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787202842500,
+      "publishUrl": "samsung-sm-on-7-2016-g610l-isp-pinout",
+      "published": true,
+      "title": "SAMSUNG SM-ON 7 2016 G610L ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiJ8vsokoA1isn46E_O4CmjciU0xPvK2rd1syLdLAHML5FGfnBu5enHtvnzURviV5SMqFij7yYnVJfGf9HcnnwQZhgBUc69bhPboI9mMRNoZc6q8CMrB6Xd5DCptKGZgxX8bhQPIowIza2PMRGn1PZAA0k5nOoV7SaFnz_MuqIUIzYCdUfYGa0rJWCPUJU=s1600",
+      "youtubeUrl": ""
+    },
+    "f_mt12gdmk_1l3mcfs2w": {
+      "title": "SAMSUNG SM-ON 5 G5500 ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjbKM6IJ2oJTTSZ5ptpowsB2K7BhuYM3IeyC1yswnckZV1OtpWewpAe06XmM2skdn_N5eMCMyievRUejgU4ExAVj1m-sq_ocaVTh5iEbD2iqoVDA_hpwfzGmwX9xVU9vJyBarZ8Cd1tqUTapqs_7pdm58q_SYtZ_i8ZBdIDv9oHq5MmA4JidGQBNygpzO8=s1600",
+      "youtubeUrl": "",
+      "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "publishUrl": "samsung-sm-on-5-g5500-isp-pinout",
+      "published": true,
+      "createdAt": 1787202887420,
+      "lastModified": 1787202887420
     }
   },
   "onlineTools": {
@@ -46930,7 +48100,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-19T13:20:01.360Z",
+    "createdAt": "2026-08-20T05:15:14.611Z",
     "version": "2.0",
     "sections": 4
   }
