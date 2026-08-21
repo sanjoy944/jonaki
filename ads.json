@@ -1948,7 +1948,7 @@
       ],
       "createdAt": 1779683505411,
       "description": "",
-      "downloads": 2,
+      "downloads": 20,
       "folderId": "f_mpjnbru1_u9b3mvn2y",
       "isLink": false,
       "lastModified": 1779707175414,
@@ -35426,7 +35426,7 @@
       ],
       "createdAt": 1782535939192,
       "description": "",
-      "downloads": 0,
+      "downloads": 7,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1782535939192,
@@ -38019,7 +38019,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 36,
+      "downloads": 38,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -38683,7 +38683,7 @@
       ],
       "createdAt": 1787052038448,
       "description": "Passcode Eraser v1.0 A12-A13 Free BR Team A12-A13 Passcode Eraser v1.0 Free Download BR Team A12-A13 Passcode Eraser v1.0 Free Download\nBR Team A12-A13 Passcode Eraser is a free offline tool made for supported A12 and A13 Apple devices. The tool is designed to erase data from supported passcode locked devices and return them back to the Hello screen. This is the v1.0 release build of the BR Team A12-A13 Erase Tool. According to the provided information, it works with supported devices in DFU mode and requires a PWNED DFU setup using RP2350. One important requirement is RP2350-USB-A. The tool also requires Windows 10.BR Team A12-A13 Erase Tool Information\nSoftware Name\tBR Team A12-A13 Passcode Eraser\nVersion\tv1.0 Release Build\nDeveloper\tBR Team\nLicense\t100% Free\nSupported OS\tWindows 10\nSupported Devices\tSelected A12 and A13 devices listed below\n\nMain Requirements\nPWNED DFU using RP2350\nRP2350-USB-A is required\nWindows 10\nThese requirements are important for using the tool. RP2350-USB-A is specifically mentioned as a required item.\n\nSupported DevicesThe current supported device list provided for BR Team A12-A13 Passcode Eraser v1.0 includes the following models:\n\niPhone XS\niPhone XS Max\niPhone XR\niPhone 11\niPhone 11 Pro\niPhone 11 Pro Max\niPhone SE (2nd generation)\niPad mini 5\niPad Air 3\niPad (8th generation)\nNo other devices are included here because no additional supported models were provided.",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1787052038448,
@@ -38801,7 +38801,7 @@
       ],
       "createdAt": 1787278057660,
       "description": "Alien Tool Cr@cked FREE Alien Tool Motorola Infinix MediaTek and Unisoc Free Download 2026  How to install it?\nRight-click AlienTool_Setup.rar on the desktop.\nSelect Extract to \"AlienTool_Setup\\\\\".\nOpen the extracted AlienTool_Setup folder.\nDouble-click AlienTool.exe.\nIn the setup window, click Next >.\nEnter the installation password: gsmyogesh.com.\nClick Next >.\nKeep the default destination folder and click Next >.\nCheck Create a desktop icon and click Next >.\nClick Install and wait for the installation to finish.\nClick Finish and close the folder window.\nRight-click Alien_Tool_Loader_GSMYOGESH.exe from the desktop.\nSelect Run as administrator.\nIf the Windows Defender Firewall popup appears, click Allow access.\nOn the Alien Tool login screen, enter gsmyogesh in the USERNAME field.\nEnter the password in the PASSWORD same GSMYOGESH field.\nCheck the Auto login option.\nClick ACCESS ALIEN TOOL.\nIn ADB MODE, click ENABLE QR to display the QR code popup, then close it.\nUse the left-hand menu to open MOTOROLA, FLASH FILE, INFINIX, META MODE, and UNISOC sections.",
-      "downloads": 0,
+      "downloads": 5,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787282173629,
@@ -38811,20 +38811,20 @@
           "label": "Alien Tool Cr@cked FREE",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1KdZqXue3tk9VKae-CPedkBka2dHvntyk/view?usp=sharing",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1KdZqXue3tk9VKae-CPedkBka2dHvntyk/view?usp=sharing"
             },
             {
-              "url": "https://drive.proton.me/urls/2BEE10ND4M#jE25gXb3Uf1I",
-              "password": ""
+              "password": "",
+              "url": "https://drive.proton.me/urls/2BEE10ND4M#jE25gXb3Uf1I"
             },
             {
-              "url": "https://1024terabox.com/s/1HwqoB1JxghwmraO7o0RRIA",
-              "password": "gsmyogesh.com"
+              "password": "gsmyogesh.com",
+              "url": "https://1024terabox.com/s/1HwqoB1JxghwmraO7o0RRIA"
             },
             {
-              "url": "https://mega.nz/file/I7djmSbb#L6jsyhMQPoJEwkEAgZLbG0TC13uHAgH7l_uM4TYL_Qw",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/I7djmSbb#L6jsyhMQPoJEwkEAgZLbG0TC13uHAgH7l_uM4TYL_Qw"
             }
           ]
         }
@@ -49025,11 +49025,22 @@
       "published": true,
       "sourceType": "url",
       "url": "https://adulttvhub.blogspot.com/"
+    },
+    "f_mt2i9a1n_70r9odo97": {
+      "createdAt": 1787289896219,
+      "folderId": "f_mq0e5z2i_7v35jc6a7",
+      "htmlSource": "",
+      "lastModified": 1787289904037,
+      "name": "🖼️ WebP JPG Converter",
+      "publishUrl": "webp-jpg-converter",
+      "published": true,
+      "sourceType": "url",
+      "url": "https://webp-jpg.blogspot.com/"
     }
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-21T03:18:11.528Z",
+    "createdAt": "2026-08-21T05:28:53.921Z",
     "version": "2.0",
     "sections": 4
   }
