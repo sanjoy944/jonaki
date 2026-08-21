@@ -25007,7 +25007,7 @@
       ],
       "createdAt": 1781583161675,
       "description": "",
-      "downloads": 334,
+      "downloads": 354,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1781583161675,
@@ -38019,7 +38019,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 35,
+      "downloads": 36,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -38089,7 +38089,7 @@
       ],
       "createdAt": 1786707757847,
       "description": "SAM SKIP TOOL v46\nChangelog\nPFG Tool\nMTK support added for:\nMT6781\nMT6789\nMT6855\nMT6886\nMT6895\nMT6983\nInstallation Note\nOpen the Setup file to start the installation.\nClick Install to continue.\n\nSAM SKIP TOOL v44 Changelog\nNew Features\nAdded device model detection in Xiaomi Sideload Mode.\nRemoved Omega Tool company app.\nUpdates\nOmega Tool (Knox Protection Bypass)\nUpdated commands for Knox Protection bypass.\nUpdated commands for MDM protection.\nImproved execution engine for better compatibility with the latest Android security updates.\nImproved stability and reliability during the bypass process.\nPFG Tool\nUpdated the FRP New Security supported device list.\nAdded support for additional devices.\nFixes\nSamsung MTP\nImproved Read Info support in Samsung MTP Mode.\nFixed an issue where device information could not be read on some Samsung models.\nArabic Language\nFixed Arabic language translation issues.\nFixed the missing theme display problem.\nImportantRun the Setup file before using the tool.\nClick Install to complete the installation process.",
-      "downloads": 4,
+      "downloads": 5,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1786707757847,
@@ -38527,7 +38527,7 @@
       ],
       "createdAt": 1786793273407,
       "description": "iOS Toolkit Apple Device Tools  Dashboard – Check Connected Apple Device\nThe Dashboard is the main place to start after connecting an Apple device. A connected device appears in the device selection area, and the toolkit can show detailed information about it.\n\nThere is also a Rescan Hardware button. This can be useful when you connect a device after the toolkit has already been opened.\n\nThe information area includes several fields, including:\n\nDevice Name – Shows the name of the connected device.\nModel Name – Displays the detected model.\nProduct Type – Shows the device product identifier.\niOS / Build – Displays the available iOS and build information.\nSerial Number – Shows the device serial number.\nUDID – Displays the device UDID.\nIMEI – Shows the available IMEI information.\nMEID – Displays the available MEID information.\nWi-Fi MAC – Shows the Wi-Fi address.\nBluetooth MAC – Shows the Bluetooth address.\nCPU Arch – Displays the CPU architecture information.\nHW Model – Shows the hardware model.\nSIM Status – Displays the available SIM status.\nLock Screen – Shows the available lock screen status.\nBattery and storage are also shown separately on the Dashboard using progress indicators.",
-      "downloads": 15,
+      "downloads": 16,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1786793273407,
@@ -38683,7 +38683,7 @@
       ],
       "createdAt": 1787052038448,
       "description": "Passcode Eraser v1.0 A12-A13 Free BR Team A12-A13 Passcode Eraser v1.0 Free Download BR Team A12-A13 Passcode Eraser v1.0 Free Download\nBR Team A12-A13 Passcode Eraser is a free offline tool made for supported A12 and A13 Apple devices. The tool is designed to erase data from supported passcode locked devices and return them back to the Hello screen. This is the v1.0 release build of the BR Team A12-A13 Erase Tool. According to the provided information, it works with supported devices in DFU mode and requires a PWNED DFU setup using RP2350. One important requirement is RP2350-USB-A. The tool also requires Windows 10.BR Team A12-A13 Erase Tool Information\nSoftware Name\tBR Team A12-A13 Passcode Eraser\nVersion\tv1.0 Release Build\nDeveloper\tBR Team\nLicense\t100% Free\nSupported OS\tWindows 10\nSupported Devices\tSelected A12 and A13 devices listed below\n\nMain Requirements\nPWNED DFU using RP2350\nRP2350-USB-A is required\nWindows 10\nThese requirements are important for using the tool. RP2350-USB-A is specifically mentioned as a required item.\n\nSupported DevicesThe current supported device list provided for BR Team A12-A13 Passcode Eraser v1.0 includes the following models:\n\niPhone XS\niPhone XS Max\niPhone XR\niPhone 11\niPhone 11 Pro\niPhone 11 Pro Max\niPhone SE (2nd generation)\niPad mini 5\niPad Air 3\niPad (8th generation)\nNo other devices are included here because no additional supported models were provided.",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1787052038448,
@@ -38788,6 +38788,47 @@
       "published": true,
       "size": "1841mb",
       "unrarPassword": ""
+    },
+    "f_mt2b7jcs_9jrqkh1vw": {
+      "name": "Alien Tool Cr@cked FREE",
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "size": "112mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyzBdnmonPsK9rMnor-tQDWumOJZIYCBnFCNaQClMGfW-zHAx5AbeJvfQ9Y-W947sW6MC9iCyqna3VZNN6OI2SlJcAWkUkLRF8UTizmp954o5W3p7zJRYQZdEopH9n_nHSAyySJLp8OySdRDGkTM7HTd1YF9qZ0jBPKjyY5YRStZJ55_d3QHNxZJYqA48P/s1600/Alien%20Tool%20Cr@cked%20FREE.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyzBdnmonPsK9rMnor-tQDWumOJZIYCBnFCNaQClMGfW-zHAx5AbeJvfQ9Y-W947sW6MC9iCyqna3VZNN6OI2SlJcAWkUkLRF8UTizmp954o5W3p7zJRYQZdEopH9n_nHSAyySJLp8OySdRDGkTM7HTd1YF9qZ0jBPKjyY5YRStZJ55_d3QHNxZJYqA48P/s1600/Alien%20Tool%20Cr@cked%20FREE.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyiQrWqOkUmen81sFsrwin9GfDByBXLs3lQ5abx9KtxxhS0Qg9vDO3goao9KcLJU0A7-TH-RCUBryU6xIu-71ZJzffi-Schy7wA2bxT_h5FAWPqdxyhG2v-BwXJrhGl7IUVAyrmLpEcUWbRvZkuC3WezVP3poh5EJU1cAu4O1xSLtP0EFZ8IOQahtukOb/s1800/2026-08-20_193149.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimzkFpGRuqlSMusz-R7mf8jWhQZBxtVAmuvmT-PgUDQN3jm8_Nuc9OMwfqGQBletyJBQaK-1fO7T-QnJvU2ez3SD5xONs1C9giEBrlVBMEseSYhkmEASL9m_z4eVuLQoT8kqaS6CiOfnm-6AMNe0Ul87xhu9La_ahlDzvINrbg2u6Ryb5_8fewUIpprUer/w640-h380-rw/2026-08-20_193158.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhimlj0tyfEyEWB9aTg1F8ueZoiZvXMTyuiLumMtX_-E4GoCLpPtqZy9TEVxTyaxap7-3mUzKG6Bxo3LpCW8b_sFTt8J2UroXIjoQsljYsIU6jqig2Y-ZbYwXb2cAGLMOqp513_yV-TxoLsHZG8IOXPEFe1-eXPbnOpeHXcXmI4gSV1n2JL2CS8cMlzKyFq/w640-h380-rw/2026-08-20_193202.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO8C1ZxotrKUOr7tpfc6oLPvDhAArNiuf7PVhy-HJBJ0TJA8pVKYLT1cUniJodNVex8DWy_QUpd0k98rD_h7iJNFzyM9alkJgQs0ANv4x-1rIZsL_e3UvpLIKJH03EZSfT7Pkr15oEfyN7CpHIfQFs3kXSFehLnv9cW2gqLf4t0rzyQEA2ln4_yQvq9xE_/w640-h380-rw/2026-08-20_193206.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5hlLLHAY5lHZdfNKJHs6Y9gkpT8Ige67S1o6rpyu1mZieSMX0FeP3GgIVr580JPl3HZLKY8JvqwQG2JCI4x9qozbuexD4C3I6KpMTznxdbrt6ANQGwliFNP7al-HogOoygyFne0GLwJyouJrbfVOofZvxBZ6gDJU-ZRxPwSnVCljZh16SZz05ZQqy2Db6/w640-h380-rw/2026-08-20_193210.png"
+      ],
+      "password": "",
+      "unrarPassword": "gsmyogesh.com",
+      "loginUsername": "gsmyogesh",
+      "loginPassword": "gsmyogesh",
+      "publishUrl": "alien-tool-crcked-free",
+      "description": "Alien Tool Cr@cked FREE Alien Tool Motorola Infinix MediaTek and Unisoc Free Download 2026  How to install it?\nRight-click AlienTool_Setup.rar on the desktop.\nSelect Extract to \"AlienTool_Setup\\\\\".\nOpen the extracted AlienTool_Setup folder.\nDouble-click AlienTool.exe.\nIn the setup window, click Next >.\nEnter the installation password: gsmyogesh.com.\nClick Next >.\nKeep the default destination folder and click Next >.\nCheck Create a desktop icon and click Next >.\nClick Install and wait for the installation to finish.\nClick Finish and close the folder window.\nRight-click Alien_Tool_Loader_GSMYOGESH.exe from the desktop.\nSelect Run as administrator.\nIf the Windows Defender Firewall popup appears, click Allow access.\nOn the Alien Tool login screen, enter gsmyogesh in the USERNAME field.\nEnter the password in the PASSWORD same GSMYOGESH field.\nCheck the Auto login option.\nClick ACCESS ALIEN TOOL.\nIn ADB MODE, click ENABLE QR to display the QR code popup, then close it.\nUse the left-hand menu to open MOTOROLA, FLASH FILE, INFINIX, META MODE, and UNISOC sections.",
+      "downloads": 0,
+      "link": "https://drive.google.com/file/d/1KdZqXue3tk9VKae-CPedkBka2dHvntyk/view?usp=sharing",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "Alien Tool Cr@cked FREE",
+          "urls": [
+            {
+              "url": "https://drive.google.com/file/d/1KdZqXue3tk9VKae-CPedkBka2dHvntyk/view?usp=sharing",
+              "password": "gsmyogesh.com"
+            },
+            {
+              "url": "https://drive.proton.me/urls/2BEE10ND4M#jE25gXb3Uf1I",
+              "password": "gsmyogesh.com"
+            }
+          ]
+        }
+      ],
+      "createdAt": 1787278057660,
+      "lastModified": 1787278057660
     }
   },
   "images": {
@@ -48163,14 +48204,14 @@
       "youtubeUrl": ""
     },
     "f_mt1kp7mk_ce6squo7r": {
-      "title": "SAMSUNG SM-Z FOLD 6 5G F956B ISP PINOUT",
-      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEicJC70bZ3JegK5jbOwGAvGebK0j3QTDL4Ri-0JCk43bgfWDCesvw0nqz8j1d_tke6VW-1A7RX8zjQtENw-SMs4U9VJR5PkFwluVwsFxZ5jMJPB7m--2K0U9Ncvtbfs1D3CMu8jFD4Vj3uqY8-EsDUNV8bQozUBjVNXo3P6fSE-wTZhj21hgear8tMalVY=s1600",
-      "youtubeUrl": "",
+      "createdAt": 1787233532636,
       "folderId": "f_mrvj3ltv_ncmx4t0r7",
+      "lastModified": 1787233532636,
       "publishUrl": "samsung-sm-z-fold-6-5g-f956b-isp-pinout",
       "published": true,
-      "createdAt": 1787233532636,
-      "lastModified": 1787233532636
+      "title": "SAMSUNG SM-Z FOLD 6 5G F956B ISP PINOUT",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEicJC70bZ3JegK5jbOwGAvGebK0j3QTDL4Ri-0JCk43bgfWDCesvw0nqz8j1d_tke6VW-1A7RX8zjQtENw-SMs4U9VJR5PkFwluVwsFxZ5jMJPB7m--2K0U9Ncvtbfs1D3CMu8jFD4Vj3uqY8-EsDUNV8bQozUBjVNXo3P6fSE-wTZhj21hgear8tMalVY=s1600",
+      "youtubeUrl": ""
     }
   },
   "onlineTools": {
@@ -48980,7 +49021,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-20T13:45:38.016Z",
+    "createdAt": "2026-08-21T02:07:46.830Z",
     "version": "2.0",
     "sections": 4
   }
