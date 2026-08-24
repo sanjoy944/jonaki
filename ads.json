@@ -1104,7 +1104,7 @@
       ],
       "createdAt": 1779184648016,
       "description": "Main Features of TFT Unlock Tool\nFRP Remove\nFactory Reset\nBootloader Unlock and Relock\nSamsung KG and Knox Disable\nMTK and Qualcomm Support\nADB Functions\nFastboot Functions\nMTP and Meta Mode Support\nRead Device Information\nReset Passcode\nMiCloud Reset Functions\nSupport for Samsung, Xiaomi, Vivo, Oppo, Huawei, Realme, Tecno, Infinix, and many more brands",
-      "downloads": 135,
+      "downloads": 136,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1779618122482,
@@ -1948,7 +1948,7 @@
       ],
       "createdAt": 1779683505411,
       "description": "",
-      "downloads": 320,
+      "downloads": 323,
       "folderId": "f_mpjnbru1_u9b3mvn2y",
       "isLink": false,
       "lastModified": 1779707175414,
@@ -37741,7 +37741,7 @@
       ],
       "createdAt": 1785560504050,
       "description": "UnlockTool Latest Version Download Free No Login Required\n\nHow to Install\nDownload the UnlockTool package and extract all files to a new folder.\nTemporarily disable Windows Defender or any antivirus if it blocks the launcher files.\nRun the RE_GURU launcher as Administrator.\n\nClick Activate with a Code.\nOpen the official RE_GURU Telegram bot from the launcher.\nPress Start in the bot and generate a new activation code.\nCopy the generated 6-digit code.\nPaste the code into the activation window and click Activate.\nSave the generated User ID and Password shown by the launcher.\nClick Run UnlockTool.\nOpen Windows Task Manager and locate UnlockTool.exe.\nGo to Details and change the process priority to High.\nReturn to the launcher and click Login.\nAccept the disclaimer window.\nWait until all modules finish loading.\nSelect your device brand and start using the software.",
-      "downloads": 203,
+      "downloads": 205,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1786449366050,
@@ -37871,7 +37871,7 @@
       ],
       "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 415,
+      "downloads": 418,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1786246123501,
@@ -37911,7 +37911,7 @@
       ],
       "createdAt": 1786449130990,
       "description": "GSM PROF Auth Tool Features I Found\nMediate MTK Auth section\nPreloader-related options\nBROM connection options\nAuthorization-related functions\nAuto reboot option\nMTK FRP-related operation\nQualcomm flashing options\nCustom and automatic loader options\nPartition backup and erase options\nPartition Manager\nEFS backup, restore and wipe options\nToken Generate section\nXiaomi Mi Assistant functions\nFast boot device information\nConsole log for showing device communication",
-      "downloads": 25,
+      "downloads": 28,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786449130990,
@@ -38019,7 +38019,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 39,
+      "downloads": 41,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -38603,7 +38603,7 @@
       ],
       "createdAt": 1786935236461,
       "description": "Xiaomi Firmware Assistant toolsFeatures Xiaomi Firmware Assistant OTA Tool\nCheck Device: Connects with the Xiaomi phone and checks whether the device is available in the required mode.\nRead Device: Reads details such as the device name, installed software version, serial, Android information, build, language, region and zone.\nOTA Firmware Verification: Checks the selected firmware using the phone information before installation.\nServer Validation: The firmware check uses the Xiaomi update service and requires an internet connection.\nGenerate Sign: Prepares the selected firmware for the installation stage after the validation check is completed.\nInstall Firmware: Installs the selected and validated firmware package through the supported Xiaomi sideload process.\nProgress Bar: Shows the installation progress while the firmware is being transferred.\nErase Data: Removes personal data from the connected phone. The tool warns that photos, apps and other files may be deleted. \nRestart: Sends a restart command to the connected Xiaomi phone.\nOTA Version Check Workflow: The installed software version can be checked first, then a matching OTA version higher than the installed build can be selected for verification.\nWhat's New (Changelog)\nFirmware validation is included before the installation process.\nCurrent Xiaomi device information can be read before selecting firmware.\nOTA firmware can be selected directly from the firmware section.\nServer-based firmware validation is used before installation.\nFirmware installation includes a progress indicator.\nSeparate options are available for Erase Data and Restart.\nHow to Install Xiaomi Firmware Assistant\nDownload the Xiaomi Firmware Assistant package from the download section below.\nExtract the downloaded ZIP file if it is provided as an archive.\nOpen the extracted folder and start the tool.\nConnect the Xiaomi phone in the required sideload mode.\nUse Check Device and then Read Device to check the current phone information.\nNote the software version currently installed on the phone.\nSelect a matching OTA firmware package that is higher than the installed version.\nClick Generate Sign and wait for the Xiaomi server verification to finish.\nIf the firmware is accepted, continue with Install Firmware.\nKeep the USB cable connected while the firmware is being installed.\nWait until the progress reaches 100% and the tool reports that installation is finished.\nRestart the phone and check the software version again after it boots.\nDownload Xiaomi Firmware Assistant Latest Version",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1786935236461,
@@ -38683,7 +38683,7 @@
       ],
       "createdAt": 1787052038448,
       "description": "Passcode Eraser v1.0 A12-A13 Free BR Team A12-A13 Passcode Eraser v1.0 Free Download BR Team A12-A13 Passcode Eraser v1.0 Free Download\nBR Team A12-A13 Passcode Eraser is a free offline tool made for supported A12 and A13 Apple devices. The tool is designed to erase data from supported passcode locked devices and return them back to the Hello screen. This is the v1.0 release build of the BR Team A12-A13 Erase Tool. According to the provided information, it works with supported devices in DFU mode and requires a PWNED DFU setup using RP2350. One important requirement is RP2350-USB-A. The tool also requires Windows 10.BR Team A12-A13 Erase Tool Information\nSoftware Name\tBR Team A12-A13 Passcode Eraser\nVersion\tv1.0 Release Build\nDeveloper\tBR Team\nLicense\t100% Free\nSupported OS\tWindows 10\nSupported Devices\tSelected A12 and A13 devices listed below\n\nMain Requirements\nPWNED DFU using RP2350\nRP2350-USB-A is required\nWindows 10\nThese requirements are important for using the tool. RP2350-USB-A is specifically mentioned as a required item.\n\nSupported DevicesThe current supported device list provided for BR Team A12-A13 Passcode Eraser v1.0 includes the following models:\n\niPhone XS\niPhone XS Max\niPhone XR\niPhone 11\niPhone 11 Pro\niPhone 11 Pro Max\niPhone SE (2nd generation)\niPad mini 5\niPad Air 3\niPad (8th generation)\nNo other devices are included here because no additional supported models were provided.",
-      "downloads": 5,
+      "downloads": 8,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1787052038448,
@@ -38717,24 +38717,33 @@
       "unrarPassword": ""
     },
     "f_mszjb3gk_u0bdwiq4c": {
-      "coverUrl": "https://scontent.fdac198-2.fna.fbcdn.net/v/t39.30808-6/778916109_122115371493317950_9213437927417417109_n.jpg?stp=dst-jpg_tt6&cstp=mx1460x963&ctp=p180x540&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Vb6njovXm-AQ7kNvwEhq39H&_nc_oc=AdrZruoV6G44cS_UsrcuxT32VjRCPtEgG9tbNd6ZXafOhG_jLKFWhmIw2QEDLoxyyGShELzGOheCTRSiqhnF80t-&_nc_zt=23&_nc_ht=scontent.fdac198-2.fna&_nc_gid=ZRswq0N18m_XoZ8UjoT-Vw&_nc_ss=7b2a8&oh=00_AQGsRVmpdLSfTp7BIsDGXdoiYQtZ9c47enHgxB5PKGy_9g&oe=6A8AFC99",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG5izO4yTyPlLlG34cFjaXDKRM-_akW36Td6I4UJHqwxBui7PKqZtDW2NZbHdu4zeuAist7ai01UI3BjJxP5jJrjgt-rNT0mPu_Oy0Q4JJFQBzmOyptGNvA6tZ5SNW7TltyEn4nXfDXzBTVjrbaEXL95cnrTJEcmYpoUnbeDHUmQJpHxK5vXbR1pKJ1jtS/s1600/HM%20Testpoint%20HW%20Tool%20v8.5%20Free%20(2).jpg",
       "covers": [
-        "https://scontent.fdac198-2.fna.fbcdn.net/v/t39.30808-6/778916109_122115371493317950_9213437927417417109_n.jpg?stp=dst-jpg_tt6&cstp=mx1460x963&ctp=p180x540&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Vb6njovXm-AQ7kNvwEhq39H&_nc_oc=AdrZruoV6G44cS_UsrcuxT32VjRCPtEgG9tbNd6ZXafOhG_jLKFWhmIw2QEDLoxyyGShELzGOheCTRSiqhnF80t-&_nc_zt=23&_nc_ht=scontent.fdac198-2.fna&_nc_gid=ZRswq0N18m_XoZ8UjoT-Vw&_nc_ss=7b2a8&oh=00_AQGsRVmpdLSfTp7BIsDGXdoiYQtZ9c47enHgxB5PKGy_9g&oe=6A8AFC99"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG5izO4yTyPlLlG34cFjaXDKRM-_akW36Td6I4UJHqwxBui7PKqZtDW2NZbHdu4zeuAist7ai01UI3BjJxP5jJrjgt-rNT0mPu_Oy0Q4JJFQBzmOyptGNvA6tZ5SNW7TltyEn4nXfDXzBTVjrbaEXL95cnrTJEcmYpoUnbeDHUmQJpHxK5vXbR1pKJ1jtS/s1600/HM%20Testpoint%20HW%20Tool%20v8.5%20Free%20(2).jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfhGEQ9BYogEU7Yy3dm0MTBytW4J2ii1rE34RKw1oDYef7vKFvVZMI5WDs08v3-KviZefKSu-FKq4I2LSqBFD0O1sRrl6VGvK7frin47_r2ePmh1ouTtXhI6MA7wZ0OtN78QKfq1QzlLOUQ9BfeBY6tUDpIzN6cr-7878oRcPZLM20rtagYD9_qPkvwU-J/w640-h532/HM%20Testpoint%20HW%20Tool%20v8.5%20Free.jpg"
       ],
       "createdAt": 1787110262084,
-      "description": "HM TESTPOINT OFFLINE",
+      "description": "HM Testpoint HW Tool v8.5 Free HM TESTPOINT OFFLINE Features\nLarge offline smartphone motherboard database\n1964+ test points from supported models\nHigh-definition EDL test point images\nDirect eMMC and UFS ISP pinouts\nHardware circuit ways and track diagrams\nModified boot cable schematics\nUniversal search for brands, models and pinout types\nReal-time search filtering\nImage viewer with smooth drag and pan support\nZoom support up to 500%\nRotate board diagrams by 90 degrees\nAuto-fit images to the screen\nCopy circuit diagrams to the Windows clipboard\nOpen the original diagram folder directly\nOpen diagrams in the default Windows image viewer\nFull-screen mode support\nKeyboard shortcuts for faster navigation\nDesktop shortcut integration\nStart Menu shortcut integrationHM Testpoint & Hardware Tool v8.5 includes a large collection of hardware information for different smartphone brands. The database covers test points, ISP pinouts and other supported hardware details for many models.\n\nXiaomi: 322+ models\nSamsung: 227+ models\nHuawei: 348+ models\nOPPO: 228+ models\nVivo: 263+ models\nRealme: 223+ models\nHonor: 197+ models\nOnePlus: 71+ models\nMotorola: 47+ models\nNokia: 75+ models\nLG: 28+ models\nLenovo: 102+ models\nASUS: 52+ models\nZTE: 39+ models\nInfinix: 77+ models\nTecno: 72+ models\nitel: 30+ models\nVsmart: 17+ models\nMeizu: 37+ models\nSmartisan: 9+ models\nAdditional Hardware Modules\nModified boot cable diagrams\nUniversal EDL boot cable schematics\nHuawei Harmony boot cable information\nSamsung 300K and EDL cable diagrams\nSPD/Unisoc auto-boot cable information\n4.7kΩ and 47kΩ resistor diagrams where supported\n187 direct ISP pinouts\nCMD, CLK, DAT0, VCC, VCCQ and GND points\nUniversal TX/RX hardware lines\nMediaTek supported hardware information\nQualcomm supported hardware information\nUnisoc supported hardware information\nSamsung Exynos related pinout information\nNetwork and RF hardware circuit ways\nCharging and sub-board track diagrams\n\nKeyboard Shortcuts\nCtrl + / Ctrl - / Ctrl =: Zoom in and out\nF: Fit the diagram to the screen\nR: Rotate the diagram by 90 degrees\nCtrl + C: Copy the diagram image\nF11: Enable or disable full-screen mode\nEsc: Exit full-screen mode\nWhat's New (Changelog)\nUpdated to HM Testpoint & Hardware Tool v8.5\nIncludes a large offline database of 1964+ test points\nSupports test point information for many popular smartphone brands\nIncludes 187 direct ISP pinouts\nAdded high-resolution board and hardware diagrams\nIncludes modified boot cable schematics\nImproved search and navigation for brands and models\nBuilt-in zoom, rotate, fit and full-screen controls for diagrams\nWeb activation system using the machine HWID\nCreates a local license.key file after successful activationHow to Install and Activate\nDownload the HM Testpoint & Hardware Tool v8.5 package.\nExtract the downloaded ZIP or archive file.\nRun HM_Testpoint.exe as Administrator.\nThe Device Registration & Activation window will show your Hardware ID.\nClick Copy HWID to copy your machine HWID.\nOpen the activation page: HM Testpoint Hardware Tool Activation.\nPaste your copied HWID into the activation page.\nClick the Generate button to create your activation key.\nCopy the generated license key.\nReturn to the HM Testpoint PRO registration window.\nPaste the key into the registration or license key field.\nClick ACTIVATE SOFTWARE.\nAfter successful activation, the tool creates the local license.key file.\nThe software is now ready to use.",
       "downloads": 0,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
-      "lastModified": 1787110262084,
-      "link": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F12lHV5KzHGvJoex7P1NiSV_z0jM9RrMgA%2Fview%3Fusp%3Dsharing%26fbclid%3DIwcGRvZgFleHRuA2FlbQIxMABicmlkETFnRTBXMWdJdHJCMlpNOTBhc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkr9FDbuyPG7NjPKdwezOSRsl1Sny4tMfhkpAPOelxzJZLXXv3HxFtaNOv3l_aem_7tWhgBhf7CVF8zv2S8iYSQ&h=AUCXKydeAWJ70J-wOHqgXlvf4u5qRa16rZhjGhnnuAfWyXts4sWXwsjbdTq_N4_Dm38nSklYr4VNfzJfgs55TwQQoNICkuoJLL3Op4CvHJ1IHWguiOaZAaqGBMJ37PeHdy2byHNi1u2DhPdmhuh7G8WY1AcsZhWD&__tn__=-UK-R&c[0]=AUD1whQyTnGCieyg-CagHTJrb_AQToDetqn9JZN6aohTFJAcvWXHwRQFJGnQtFBBzkEsrMRnBqmdV9qK88zmgun-NvnkP_tOBUoA9AMO4LPU0sa4WheRK_0p_FE-zne2xzr_5qr7fLW8Kn3ytKPpstmrbZvyH35EZGV1gX34fs5Rifa3hrQ",
+      "lastModified": 1787538124413,
+      "link": "https://mega.nz/file/li9AzBZb#4IgCukx-PKhie3fqTbAtxOQfZ3UgfbCSH4xB5LICtXM",
       "links": [
         {
           "label": "HM TESTPOINT OFFLINE",
           "urls": [
             {
-              "password": "",
-              "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F12lHV5KzHGvJoex7P1NiSV_z0jM9RrMgA%2Fview%3Fusp%3Dsharing%26fbclid%3DIwcGRvZgFleHRuA2FlbQIxMABicmlkETFnRTBXMWdJdHJCMlpNOTBhc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkr9FDbuyPG7NjPKdwezOSRsl1Sny4tMfhkpAPOelxzJZLXXv3HxFtaNOv3l_aem_7tWhgBhf7CVF8zv2S8iYSQ&h=AUCXKydeAWJ70J-wOHqgXlvf4u5qRa16rZhjGhnnuAfWyXts4sWXwsjbdTq_N4_Dm38nSklYr4VNfzJfgs55TwQQoNICkuoJLL3Op4CvHJ1IHWguiOaZAaqGBMJ37PeHdy2byHNi1u2DhPdmhuh7G8WY1AcsZhWD&__tn__=-UK-R&c[0]=AUD1whQyTnGCieyg-CagHTJrb_AQToDetqn9JZN6aohTFJAcvWXHwRQFJGnQtFBBzkEsrMRnBqmdV9qK88zmgun-NvnkP_tOBUoA9AMO4LPU0sa4WheRK_0p_FE-zne2xzr_5qr7fLW8Kn3ytKPpstmrbZvyH35EZGV1gX34fs5Rifa3hrQ"
+              "url": "https://mega.nz/file/li9AzBZb#4IgCukx-PKhie3fqTbAtxOQfZ3UgfbCSH4xB5LICtXM",
+              "password": ""
+            },
+            {
+              "url": "https://drive.google.com/file/d/12lHV5KzHGvJoex7P1NiSV_z0jM9RrMgA/view",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/19ZTIrtjGLJQYIQYKj6UvEQ",
+              "password": ""
             }
           ]
         },
@@ -38742,15 +38751,15 @@
           "label": "HWID ACTIVE LINK",
           "urls": [
             {
-              "password": "",
-              "url": "https://www.facebook.com/groups/1322066452120780/user/61589538510935"
+              "url": "https://gsmyogesh.com/hm-testpoint-hardware-tool-v8-5-free-download-instant-generate-key/",
+              "password": ""
             }
           ]
         }
       ],
       "loginPassword": "",
       "loginUsername": "",
-      "name": "HM TESTPOINT OFFLINE",
+      "name": "HM TESTPOINT v8.5 OFFLINE",
       "password": "",
       "publishUrl": "hm-testpoint-offline",
       "published": true,
@@ -38846,7 +38855,7 @@
       ],
       "createdAt": 1787310473453,
       "description": "CMD ADB Tuner Tool V2.2.1.1 FreeMain Screen and Status Area\nThe provided feature list shows the title as CMD Tool 2026 (ADB Tuner). The top area displays connection and service information. A device can show as connected through ADB, while another status can show when no device is detected.\n\nThe screen also gives a message asking the user to connect a phone in ADB or Fastboot mode before starting. A Gmail register area displays the logged-in email, and the service status can show states such as ADB device ready or waiting for ADB and Fastboot.\n\nOther visible controls include an operations counter, session timer, window controls, and a Take Screenshot button. At the bottom, the provided list shows a progress bar, Translate, Chat Logs, Save HTML, Save Logs, and Traktir Kopi controls.\n\nDashboard and Device Connection Options\nThe Dashboard contains several quick actions. The Connect Device menu gives different connection modes, including ADB, Fastboot, Sideload, and Fastboot Huawei.\n\nConnect ADB\nConnect Fastboot\nConnect Sideload\nConnect Fastboot Huawei\nThe Dashboard also has direct options for MTK Device, Qualcomm Device, UNISOC Device, and Driver Device. These are listed as service or device request actions in the provided information.Health Device Options\nThe Health Device dropdown contains three visible choices.\n\neMMC - UFS / Non Root\neMMC Root\nUFS Root\nFlash Device Options\nThe Flash Device menu contains different flashing methods. The available choices shown in the feature list are:\n\nADB Dumper\nFastboot Flash\nGSI Flash\nSideload / TWRP\nSAM Flash / Odin\nReboot Options\nThe reboot menu is divided into ADB, Fastboot, Sideload, and TWRP sections. Each section contains its own reboot commands.\n\nADB Reboot\nReboot System\nReboot Recovery\nReboot Bootloader / Fastboot\nReboot FastbootD\nReboot Sideload\nReboot EDL/EDL Mode / Samsung\nPower Off\nFastboot Reboot\nReboot System\nReboot Fastboot / Bootloader\nReboot FastbootD\nReboot EDL / TestPoint\nReboot Recovery\nSideload Reboot\nReboot System\nReboot Recovery\nReboot Sideload\nReboot Power Off\nTWRP Reboot\nReboot System\nReboot Recovery\nReboot Sideload\nReboot Power Off\nService Menu\nThe Service menu is divided into ADB Service and Fastboot Service. The following options were included in the provided feature details.\n\nADB Service\nSecurity Checker\nDisable Screen Saver(OOD)\nGlobal All Killer\nBypass Play Protect\nSAMSUNG One UI lock/Not Installed/Please\nDownload Click\nFastboot Service\nDm-Verfy Fix\nSet Slot A\nSet Slot B\nDM-verfy Corruption Poco/M6/A\nDM-verfy Corruption Poco/M6/B\nSystem Has Been Destroyed Fix\nAnti Rollback (ARB)\nRelock Bootloader\nRecent Sessions and Activity Log\nThe main workspace includes a Recent Sessions table. According to the provided information, the table contains columns for Date Time, Device, Model, Operation, and Status.\n\nAn Activity Log is also available for command feedback and diagnostic messages. The ARB Guard section can show device connection verification, brand detection, safety guard status, and session information in the log and recent sessions area.",
-      "downloads": 26,
+      "downloads": 34,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1787310473453,
@@ -38890,7 +38899,7 @@
       ],
       "createdAt": 1787399908924,
       "description": "Mi Unlock Tool V7.6.727.43 Free Download Mi Unlock Tool 7.6.727.43 Download and Xiaomi / Redmi / POCO Bootloader Unlocking Guide\nMi Unlock Tool is used for unlocking the bootloader on supported Xiaomi, Redmi, and POCO devices running MIUI. In this post, I am sharing the update file for Mi Unlock Tool version 7.6.727.43 also with the bootloader unlocking steps provided below. When I downloaded Mi Unlock Tool from the official site, I got the old miflash_unlock-en-6.5.224.28.zip file. I extracted it and opened the tool. Then an update popup appeared. It was showing 6.5.224.28 as the current version and 7.6.727.43 as the new version.\n\nMi Unlock Tool Update Download Problem\nThe update button was available inside the old version of Mi Unlock Tool. I clicked it to download the new update, but the download page did not work for me.\n\nInstead of downloading the file, the browser showed an Access Denied message. The page clearly said that permission was not available to access the Mi Unlock Tool update file on that server.\n\nThe update is showing inside the old tool, but when I tried to get version 7.6.727.43, the download page showed an Access Denied error. So the update was available in the tool, but the file could not be downloaded from that page.\n\nI faced this situation myself, so I searched Chinese forums for the update file. After finding the version shown by the Mi Unlock update window, I am providing the full update below through a Google Drive link so it can be downloaded without depending on the update URL that showed the Access Denied message.\n\nMi Unlock Tool 7.6.727.43\nSoftware Name\tMi Unlock Tool\nOld Version Shown\t6.5.224.28\nNew Version Shown\t7.6.727.43\nThe Mi Unlock Tool interface and the successful completion screen. The successful screen displays the message Unlocked successfully with a Reboot phone button.",
-      "downloads": 20,
+      "downloads": 23,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1787399908924,
@@ -38931,7 +38940,7 @@
       ],
       "createdAt": 1787461136360,
       "description": "Samsung Odin Flasher V1.0 by GSM-X-TEAM Samsung Odin Flasher V1.0 by GSM_X_TEAM Download\nIf you work on Samsung phones, you may already know the normal Odin tool. Samsung Odin Flasher V1.0 is another flashing tool made by S KUMAR XTM, who is mentioned as an official reseller of GSM_X_TEAM. The tool is also shared on the GSMXTEAM Blogspot.Samsung Odin Flasher V1.0 Information\nSoftware Name\tSamsung Odin Flasher\nVersion\tV1.0\nDeveloper\tS KUMAR XTM\nRelated Team\tGSM_X_TEAM\nProper credit for this tool goes to S KUMAR XTM and the GSM_X_TEAM mentioned in the provided information.\n\nWhat Can Samsung Odin Flasher V1.0 Do?How to Use Samsung Odin Flasher V1.0\nStep 1: Run the Tool as Administrator\nFind the XTM ODIN.exe file. Right-click on it and select Run as administrator.\n\nStep 2: Select a Theme if You WantThis step is optional. Go to the top-right corner of the tool and open SKIN / THEME. Select the color or style you prefer.\n\nStep 3: Connect the Samsung Phone\nPut the Samsung phone into Download Mode and connect it to the computer using a good USB cable.\n\nStep 4: Check the Device Connection\nLook at the DEVICE box at the top left of the tool. The Samsung COM port should appear after the phone is connected.\n\nIf the port is not showing, use the Refresh option mentioned in the instructions and check the connection again.\n\nStep 5: Add the Firmware Files\nUse the Browse button next to each slot and select the required firmware files.\n\nBL: Select the file starting with BL_\nAP: Select the file starting with AP_\nCP: Select the file starting with CP_\nCSC: Select the file starting with CSC_ or HOME_CSC_\nUSERDATA: Add it if your flashing job requires it\nPIT: Add it if needed for the flashing job\nAfter selecting the files, you can use the TAR MEMBERS section to check the files inside the firmware packages.\n\nStep 6: Select the Flash OptionThe instructions mention an Auto Reboot option. Tick it if you want the phone to restart automatically after the flashing process.\n\nStep 7: Start Flashing\nAfter checking the selected files and options, click the Start Flash button at the bottom right.\n\nKeep an eye on the ACTIVITY LOG box while the process is running. Wait until the tool shows the finish message and keep the phone connected until the process is fully complete.\n\nFeatures Included in Samsung Odin Flasher V1.0\nSamsung stock ROM flashing\nSupport for loading BL, AP, CP, CSC, USERDATA, and PIT files\nTAR MEMBERS option to check files inside firmware packages\nPIT table dump option\nPIT file flashing option\nPhone information reading in MTP Mode\nPhone information reading in Download Mode\nReboot command for Download Mode\nReboot command for Recovery Mode\nAutomatic Samsung USB COM port detection\nRefresh option for checking the device connection\nAuto Reboot option\nWindows theme\nDark theme\nSky theme\nRuby Graphite theme\nOther screen styles mentioned through the SKIN / THEME option",
-      "downloads": 0,
+      "downloads": 7,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1787461136360,
@@ -49166,7 +49175,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-23T04:59:12.798Z",
+    "createdAt": "2026-08-24T02:22:43.355Z",
     "version": "2.0",
     "sections": 4
   }
