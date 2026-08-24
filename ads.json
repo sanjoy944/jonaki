@@ -1948,7 +1948,7 @@
       ],
       "createdAt": 1779683505411,
       "description": "",
-      "downloads": 323,
+      "downloads": 326,
       "folderId": "f_mpjnbru1_u9b3mvn2y",
       "isLink": false,
       "lastModified": 1779707175414,
@@ -38724,7 +38724,7 @@
       ],
       "createdAt": 1787110262084,
       "description": "HM Testpoint HW Tool v8.5 Free HM TESTPOINT OFFLINE Features\nLarge offline smartphone motherboard database\n1964+ test points from supported models\nHigh-definition EDL test point images\nDirect eMMC and UFS ISP pinouts\nHardware circuit ways and track diagrams\nModified boot cable schematics\nUniversal search for brands, models and pinout types\nReal-time search filtering\nImage viewer with smooth drag and pan support\nZoom support up to 500%\nRotate board diagrams by 90 degrees\nAuto-fit images to the screen\nCopy circuit diagrams to the Windows clipboard\nOpen the original diagram folder directly\nOpen diagrams in the default Windows image viewer\nFull-screen mode support\nKeyboard shortcuts for faster navigation\nDesktop shortcut integration\nStart Menu shortcut integrationHM Testpoint & Hardware Tool v8.5 includes a large collection of hardware information for different smartphone brands. The database covers test points, ISP pinouts and other supported hardware details for many models.\n\nXiaomi: 322+ models\nSamsung: 227+ models\nHuawei: 348+ models\nOPPO: 228+ models\nVivo: 263+ models\nRealme: 223+ models\nHonor: 197+ models\nOnePlus: 71+ models\nMotorola: 47+ models\nNokia: 75+ models\nLG: 28+ models\nLenovo: 102+ models\nASUS: 52+ models\nZTE: 39+ models\nInfinix: 77+ models\nTecno: 72+ models\nitel: 30+ models\nVsmart: 17+ models\nMeizu: 37+ models\nSmartisan: 9+ models\nAdditional Hardware Modules\nModified boot cable diagrams\nUniversal EDL boot cable schematics\nHuawei Harmony boot cable information\nSamsung 300K and EDL cable diagrams\nSPD/Unisoc auto-boot cable information\n4.7kΩ and 47kΩ resistor diagrams where supported\n187 direct ISP pinouts\nCMD, CLK, DAT0, VCC, VCCQ and GND points\nUniversal TX/RX hardware lines\nMediaTek supported hardware information\nQualcomm supported hardware information\nUnisoc supported hardware information\nSamsung Exynos related pinout information\nNetwork and RF hardware circuit ways\nCharging and sub-board track diagrams\n\nKeyboard Shortcuts\nCtrl + / Ctrl - / Ctrl =: Zoom in and out\nF: Fit the diagram to the screen\nR: Rotate the diagram by 90 degrees\nCtrl + C: Copy the diagram image\nF11: Enable or disable full-screen mode\nEsc: Exit full-screen mode\nWhat's New (Changelog)\nUpdated to HM Testpoint & Hardware Tool v8.5\nIncludes a large offline database of 1964+ test points\nSupports test point information for many popular smartphone brands\nIncludes 187 direct ISP pinouts\nAdded high-resolution board and hardware diagrams\nIncludes modified boot cable schematics\nImproved search and navigation for brands and models\nBuilt-in zoom, rotate, fit and full-screen controls for diagrams\nWeb activation system using the machine HWID\nCreates a local license.key file after successful activationHow to Install and Activate\nDownload the HM Testpoint & Hardware Tool v8.5 package.\nExtract the downloaded ZIP or archive file.\nRun HM_Testpoint.exe as Administrator.\nThe Device Registration & Activation window will show your Hardware ID.\nClick Copy HWID to copy your machine HWID.\nOpen the activation page: HM Testpoint Hardware Tool Activation.\nPaste your copied HWID into the activation page.\nClick the Generate button to create your activation key.\nCopy the generated license key.\nReturn to the HM Testpoint PRO registration window.\nPaste the key into the registration or license key field.\nClick ACTIVATE SOFTWARE.\nAfter successful activation, the tool creates the local license.key file.\nThe software is now ready to use.",
-      "downloads": 0,
+      "downloads": 6,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787538124413,
@@ -38734,16 +38734,16 @@
           "label": "HM TESTPOINT OFFLINE",
           "urls": [
             {
-              "url": "https://mega.nz/file/li9AzBZb#4IgCukx-PKhie3fqTbAtxOQfZ3UgfbCSH4xB5LICtXM",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/li9AzBZb#4IgCukx-PKhie3fqTbAtxOQfZ3UgfbCSH4xB5LICtXM"
             },
             {
-              "url": "https://drive.google.com/file/d/12lHV5KzHGvJoex7P1NiSV_z0jM9RrMgA/view",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/12lHV5KzHGvJoex7P1NiSV_z0jM9RrMgA/view"
             },
             {
-              "url": "https://1024terabox.com/s/19ZTIrtjGLJQYIQYKj6UvEQ",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/19ZTIrtjGLJQYIQYKj6UvEQ"
             }
           ]
         },
@@ -38751,8 +38751,8 @@
           "label": "HWID ACTIVE LINK",
           "urls": [
             {
-              "url": "https://gsmyogesh.com/hm-testpoint-hardware-tool-v8-5-free-download-instant-generate-key/",
-              "password": ""
+              "password": "",
+              "url": "https://gsmyogesh.com/hm-testpoint-hardware-tool-v8-5-free-download-instant-generate-key/"
             }
           ]
         }
@@ -38972,6 +38972,46 @@
       "published": true,
       "size": "7mb",
       "unrarPassword": ""
+    },
+    "f_mt6sf18c_9g4ozbl9k": {
+      "name": "AMProFixWA Tool V1.6 Free",
+      "folderId": "f_mpzhn51z_ka1g9srm4",
+      "size": "233mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE_CVQt4MsXid0rjauEjykbQis9lh6lOM0HP_nN77M3J7GpLlad4ptAIDC4quvv8IE81gVuHYQFp7ILgalQAFKTwwjdTs_Wj6RJqKAwHQ7JCe9IvfIE9g-eTIWxeFaYrJwz8MpF8uJcJGcMiJGvL4GsM5S0epz11IBnDWXKHCtoOY6BIsiWJMC5UCymeZe/w640-h426/AMProFixWA%20Tool%20V1.6%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE_CVQt4MsXid0rjauEjykbQis9lh6lOM0HP_nN77M3J7GpLlad4ptAIDC4quvv8IE81gVuHYQFp7ILgalQAFKTwwjdTs_Wj6RJqKAwHQ7JCe9IvfIE9g-eTIWxeFaYrJwz8MpF8uJcJGcMiJGvL4GsM5S0epz11IBnDWXKHCtoOY6BIsiWJMC5UCymeZe/w640-h426/AMProFixWA%20Tool%20V1.6%20Free.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "amprofixwa-tool-v16-free",
+      "description": "AMProFixWA Tool V1.6 Free Download. Other available options include Repair Media 2 and Install Any App. There are also shortcuts and controls for opening WhatsApp App Info, enabling WhatsApp permissions, force stopping the app, and clearing WhatsApp data.\n\nDelete WhatsApp\nDelete WhatsApp but Keep Data\nInstall Old WhatsApp\nInstall Old WhatsApp 14\nBackup WhatsApp Data\nRestore WhatsApp Data\nDownload Official WhatsApp\nUpdate WhatsApp\nRepair Media 2\nInstall Any App\nOpen WhatsApp App Info\nEnable WhatsApp Permissions\nForce Stop WhatsApp\nClear WhatsApp Data\nModified WhatsApp Download Section\nThe tool has a download section that lists different WhatsApp packages. The available names include AMWhatsApp, WhatsApp Green, WhatsApp Gold, WhatsApp Red, WhatsApp Blue, and several others.\n\nAMWhatsApp\nWhatsApp Green\nWhatsApp Gold\nWhatsApp Red\nWhatsApp Blue\nWhatsApp Black\nWhatsApp Abo Arab\nABWhatsApp\nOBWhatsApp\nMARWhatsApp\nWhatsApp Omar OB\nWhatsApp Marwan\nGBWhatsApp\nWhatsApp Business 2\nWhatsApp Business 3\nAppeal and Request Options\nAMProFixWA Tool V1.6 also includes options related to WhatsApp account review and appeal requests. The provided details mention automated appeal request submissions and different request categories.\n\nThere are options for severe violation appeals, modified version-related bans, explicit content review requests, privacy violation handling, and spam message restriction appeals. The tool also includes options to update, view, or delete requests.\n\nAutomated Ban Appeal Request Submissions\nSevere Violation Appeal Processing\nModified Versions Ban Removal\nExplicit Content Ban Review Form\nWhatsApp Privacy Violation Handling\nSpam Messages Restriction Appeals\nUpdate Requests\nView Requests\nDelete Requests\nIntegrated Notification Dispatch System\nRoot and System Tools\nFor users working with system-level Android settings, the tool includes several root-related options. These include Magisk installation, dependency library installation, custom libraries, and an option to send libraries to the phone.A Google Play Integrity Checker is also listed. Other options include clearing Google Apps data and a fix for School Device Enterprise Profile.\n\nInstall Magisk\nInstall Dependency Library\nInstall Custom Libraries\nSend Libraries to Phone\nGoogle Play Integrity Checker\nClear Google Apps Data\nSchool Device Enterprise Profile Fix\nDevice Connection and Android Utilities\nThe program can show the mobile screen in real time. This can be useful when you want to see the connected phone screen from the computer while working with the device.\n\nWireless ADB connection is also available through the ADB WiFi option. For older devices, the feature list also mentions a dependency issue fix for Android 6 and Android 7.\n\nShow Mobile Screen\nWireless Connection via ADB WiFi\nLegacy Android 6/7 Dependency Issue Fix\nLanguage and Interface Settings\nAMProFixWA Tool V1.6 supports both Arabic and English. You can choose the preferred language from the available settings. Theme options are also included, with Default, Light, and Dark choices mentioned in the provided details.\n\nThe tool also lists Smart Mode automation, sound effect settings, server status monitoring, and license expiry status monitoring.\n\nArabic and English Language Switcher\nDefault Theme\nLight Theme\nDark Theme\nSmart Mode Automation Toggle\nSound Effects Settings\nReal-Time Server Status Monitor\nLicense Expiry Status Monitor\nHow to Install AMProFixWA Tool V1.6\nThe installation process starts with the AMProTool.rar archive file.\n\nDownload the AMProTool.rar file.\nFind the downloaded archive on your computer.\nRight-click the file and choose Extract Here or Extract to AMProTool.\nOpen the extracted folder.\nRight-click on AMProTool.exe and select Run as administrator.\nWhen the setup opens, click Next on the Welcome screen.\nChoose the folder where you want to install the software. The provided default location is C:\\Program Files (x86)\\AMProFixWhatsApp.\nClick Next and select Create a desktop icon if you want a shortcut on the desktop.\nClick Install and wait for the installation to finish.\nClick Finish after the setup is complete.\nRight-click the AMProTool desktop icon and run it as administrator.\nWait for the loader to check the license status and server connection.\nChoose your preferred language and theme on the login screen.\nClick Log In.\nEnable USB Debugging on the Android device.\nConnect the device to the computer with a USB cable.\nHow to Connect an Android Device\nAccording to the provided usage steps, USB Debugging needs to be enabled before connecting the Android phone through a USB cable. Once the device is connected, you can use the available options inside the tool.\n\nThe feature list also includes ADB WiFi for wireless connection and an option to show the mobile screen in real time.\n\nDownload AMProFixWA Tool V1.6\nYou can download AMProFixWA Tool V1.6 from the link below.\n\nBefore using options that delete or clear WhatsApp data, check what the selected option will do and keep your important data safe.",
+      "downloads": 0,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQA2S467iWbARZfOclvJbQ9QAVHQRoq2MuCk02KJUOQVjIE?e=aw00Vh",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "AMProFixWA Tool V1.6 Free",
+          "urls": [
+            {
+              "url": "https://1drv.ms/u/c/362938347b225930/IQA2S467iWbARZfOclvJbQ9QAVHQRoq2MuCk02KJUOQVjIE?e=aw00Vh",
+              "password": ""
+            },
+            {
+              "url": "https://mega.nz/file/Ar9miShJ#mJS2kRYXMnuOoyU583jERkT9l_vqX59oE3mG2Q8QhO8",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1FN0v041mKIV3pjgDgZnhxQ",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1787548825596,
+      "lastModified": 1787548825596
     }
   },
   "images": {
@@ -49175,7 +49215,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-24T02:22:43.355Z",
+    "createdAt": "2026-08-24T05:21:15.978Z",
     "version": "2.0",
     "sections": 4
   }
