@@ -1948,7 +1948,7 @@
       ],
       "createdAt": 1779683505411,
       "description": "",
-      "downloads": 326,
+      "downloads": 335,
       "folderId": "f_mpjnbru1_u9b3mvn2y",
       "isLink": false,
       "lastModified": 1779707175414,
@@ -35426,7 +35426,7 @@
       ],
       "createdAt": 1782535939192,
       "description": "",
-      "downloads": 77,
+      "downloads": 90,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1782535939192,
@@ -36129,7 +36129,7 @@
       ],
       "createdAt": 1783336104270,
       "description": "",
-      "downloads": 112,
+      "downloads": 113,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1783336104270,
@@ -36202,7 +36202,7 @@
       ],
       "createdAt": 1783743280555,
       "description": "",
-      "downloads": 104,
+      "downloads": 106,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1783743280555,
@@ -37871,7 +37871,7 @@
       ],
       "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 418,
+      "downloads": 421,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1786246123501,
@@ -38088,32 +38088,49 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI-dmOflUnvwK4bwHdIh7HAFAv32Ln72SiTb0A6DDBYTx9xbflxkqoYvxGcVNjK8pX-WCCCPZ2nmueOqjYOvobAZi5Xu-9DR-4_n8dn7_d-6RqbjYMdMLVlLo5eNcSUnXSg4nB0qLHWfU4iLIvmg_t-jLEq2QYyA4lmrbB9aWxLN8_a9lSwfYpUgm2wVMv/w640-h432/SAM%20SKIP%20TOOL%20v46%20Omega%20Box%20Free.jpg"
       ],
       "createdAt": 1786707757847,
-      "description": "SAM SKIP TOOL v46\nChangelog\nPFG Tool\nMTK support added for:\nMT6781\nMT6789\nMT6855\nMT6886\nMT6895\nMT6983\nInstallation Note\nOpen the Setup file to start the installation.\nClick Install to continue.\n\nSAM SKIP TOOL v44 Changelog\nNew Features\nAdded device model detection in Xiaomi Sideload Mode.\nRemoved Omega Tool company app.\nUpdates\nOmega Tool (Knox Protection Bypass)\nUpdated commands for Knox Protection bypass.\nUpdated commands for MDM protection.\nImproved execution engine for better compatibility with the latest Android security updates.\nImproved stability and reliability during the bypass process.\nPFG Tool\nUpdated the FRP New Security supported device list.\nAdded support for additional devices.\nFixes\nSamsung MTP\nImproved Read Info support in Samsung MTP Mode.\nFixed an issue where device information could not be read on some Samsung models.\nArabic Language\nFixed Arabic language translation issues.\nFixed the missing theme display problem.\nImportantRun the Setup file before using the tool.\nClick Install to complete the installation process.",
+      "description": "SAM SKIP TOOL v47\nChangelog\nPFG Tool\nMTK support added for:\nMT6781\nMT6789\nMT6855\nMT6886\nMT6895\nMT6983\nInstallation Note\nOpen the Setup file to start the installation.\nClick Install to continue.\n\nSAM SKIP TOOL v44 Changelog\nNew Features\nAdded device model detection in Xiaomi Sideload Mode.\nRemoved Omega Tool company app.\nUpdates\nOmega Tool (Knox Protection Bypass)\nUpdated commands for Knox Protection bypass.\nUpdated commands for MDM protection.\nImproved execution engine for better compatibility with the latest Android security updates.\nImproved stability and reliability during the bypass process.\nPFG Tool\nUpdated the FRP New Security supported device list.\nAdded support for additional devices.\nFixes\nSamsung MTP\nImproved Read Info support in Samsung MTP Mode.\nFixed an issue where device information could not be read on some Samsung models.\nArabic Language\nFixed Arabic language translation issues.\nFixed the missing theme display problem.\nImportantRun the Setup file before using the tool.\nClick Install to complete the installation process.",
       "downloads": 8,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
-      "lastModified": 1786707757847,
-      "link": "https://1drv.ms/u/c/362938347b225930/IQCDBPffdkEDTb3oan1_E5apAQrNxxeq_MDGffi1LPkkRbg?e=ycyfVB",
+      "lastModified": 1787658112068,
+      "link": "https://mega.nz/file/UJc2ESwD#cqM8tn4CnUEmt9KjY_oM7dqJvgMnZ4sht1z_yjCEn1k",
       "links": [
+        {
+          "label": "SAM SKIP TOOL v47",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/UJc2ESwD#cqM8tn4CnUEmt9KjY_oM7dqJvgMnZ4sht1z_yjCEn1k",
+              "password": "SAM123"
+            },
+            {
+              "url": "https://mega.nz/file/YjlzlBZY#qnh6ksXgBQnIN17Jr8YJLvVhEUR00ziSWCjnXOXa9z4",
+              "password": "SAM123"
+            },
+            {
+              "url": "https://1024terabox.com/s/1JK_gdDQyawR5fCz3VD19SQ",
+              "password": "SAM123"
+            }
+          ]
+        },
         {
           "label": "SAM SKIP TOOL v46 Omega Box Free",
           "urls": [
             {
-              "password": "MTK123",
-              "url": "https://1drv.ms/u/c/362938347b225930/IQCDBPffdkEDTb3oan1_E5apAQrNxxeq_MDGffi1LPkkRbg?e=ycyfVB"
+              "url": "https://1drv.ms/u/c/362938347b225930/IQCDBPffdkEDTb3oan1_E5apAQrNxxeq_MDGffi1LPkkRbg?e=ycyfVB",
+              "password": "MTK123"
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/1dFtQpOD6QLz60tMF-6AisQ"
+              "url": "https://1024terabox.com/s/1dFtQpOD6QLz60tMF-6AisQ",
+              "password": ""
             }
           ]
         }
       ],
       "loginPassword": "",
       "loginUsername": "",
-      "name": "SAM SKIP TOOL v46 Omega Box Free",
+      "name": "SAM SKIP TOOL v47 Omega Box Free",
       "password": "",
-      "publishUrl": "sam-skip-tool-v46-omega-box-free",
+      "publishUrl": "sam-skip-tool-omega-box-free",
       "published": true,
       "size": "141mb",
       "unrarPassword": ""
@@ -38724,7 +38741,7 @@
       ],
       "createdAt": 1787110262084,
       "description": "HM Testpoint HW Tool v8.5 Free HM TESTPOINT OFFLINE Features\nLarge offline smartphone motherboard database\n1964+ test points from supported models\nHigh-definition EDL test point images\nDirect eMMC and UFS ISP pinouts\nHardware circuit ways and track diagrams\nModified boot cable schematics\nUniversal search for brands, models and pinout types\nReal-time search filtering\nImage viewer with smooth drag and pan support\nZoom support up to 500%\nRotate board diagrams by 90 degrees\nAuto-fit images to the screen\nCopy circuit diagrams to the Windows clipboard\nOpen the original diagram folder directly\nOpen diagrams in the default Windows image viewer\nFull-screen mode support\nKeyboard shortcuts for faster navigation\nDesktop shortcut integration\nStart Menu shortcut integrationHM Testpoint & Hardware Tool v8.5 includes a large collection of hardware information for different smartphone brands. The database covers test points, ISP pinouts and other supported hardware details for many models.\n\nXiaomi: 322+ models\nSamsung: 227+ models\nHuawei: 348+ models\nOPPO: 228+ models\nVivo: 263+ models\nRealme: 223+ models\nHonor: 197+ models\nOnePlus: 71+ models\nMotorola: 47+ models\nNokia: 75+ models\nLG: 28+ models\nLenovo: 102+ models\nASUS: 52+ models\nZTE: 39+ models\nInfinix: 77+ models\nTecno: 72+ models\nitel: 30+ models\nVsmart: 17+ models\nMeizu: 37+ models\nSmartisan: 9+ models\nAdditional Hardware Modules\nModified boot cable diagrams\nUniversal EDL boot cable schematics\nHuawei Harmony boot cable information\nSamsung 300K and EDL cable diagrams\nSPD/Unisoc auto-boot cable information\n4.7kΩ and 47kΩ resistor diagrams where supported\n187 direct ISP pinouts\nCMD, CLK, DAT0, VCC, VCCQ and GND points\nUniversal TX/RX hardware lines\nMediaTek supported hardware information\nQualcomm supported hardware information\nUnisoc supported hardware information\nSamsung Exynos related pinout information\nNetwork and RF hardware circuit ways\nCharging and sub-board track diagrams\n\nKeyboard Shortcuts\nCtrl + / Ctrl - / Ctrl =: Zoom in and out\nF: Fit the diagram to the screen\nR: Rotate the diagram by 90 degrees\nCtrl + C: Copy the diagram image\nF11: Enable or disable full-screen mode\nEsc: Exit full-screen mode\nWhat's New (Changelog)\nUpdated to HM Testpoint & Hardware Tool v8.5\nIncludes a large offline database of 1964+ test points\nSupports test point information for many popular smartphone brands\nIncludes 187 direct ISP pinouts\nAdded high-resolution board and hardware diagrams\nIncludes modified boot cable schematics\nImproved search and navigation for brands and models\nBuilt-in zoom, rotate, fit and full-screen controls for diagrams\nWeb activation system using the machine HWID\nCreates a local license.key file after successful activationHow to Install and Activate\nDownload the HM Testpoint & Hardware Tool v8.5 package.\nExtract the downloaded ZIP or archive file.\nRun HM_Testpoint.exe as Administrator.\nThe Device Registration & Activation window will show your Hardware ID.\nClick Copy HWID to copy your machine HWID.\nOpen the activation page: HM Testpoint Hardware Tool Activation.\nPaste your copied HWID into the activation page.\nClick the Generate button to create your activation key.\nCopy the generated license key.\nReturn to the HM Testpoint PRO registration window.\nPaste the key into the registration or license key field.\nClick ACTIVATE SOFTWARE.\nAfter successful activation, the tool creates the local license.key file.\nThe software is now ready to use.",
-      "downloads": 6,
+      "downloads": 18,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787538124413,
@@ -38810,7 +38827,7 @@
       ],
       "createdAt": 1787278057660,
       "description": "Alien Tool Cr@cked FREE Alien Tool Motorola Infinix MediaTek and Unisoc Free Download 2026  How to install it?\nRight-click AlienTool_Setup.rar on the desktop.\nSelect Extract to \"AlienTool_Setup\\\\\".\nOpen the extracted AlienTool_Setup folder.\nDouble-click AlienTool.exe.\nIn the setup window, click Next >.\nEnter the installation password: gsmyogesh.com.\nClick Next >.\nKeep the default destination folder and click Next >.\nCheck Create a desktop icon and click Next >.\nClick Install and wait for the installation to finish.\nClick Finish and close the folder window.\nRight-click Alien_Tool_Loader_GSMYOGESH.exe from the desktop.\nSelect Run as administrator.\nIf the Windows Defender Firewall popup appears, click Allow access.\nOn the Alien Tool login screen, enter gsmyogesh in the USERNAME field.\nEnter the password in the PASSWORD same GSMYOGESH field.\nCheck the Auto login option.\nClick ACCESS ALIEN TOOL.\nIn ADB MODE, click ENABLE QR to display the QR code popup, then close it.\nUse the left-hand menu to open MOTOROLA, FLASH FILE, INFINIX, META MODE, and UNISOC sections.",
-      "downloads": 13,
+      "downloads": 15,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787282173629,
@@ -38855,7 +38872,7 @@
       ],
       "createdAt": 1787310473453,
       "description": "CMD ADB Tuner Tool V2.2.1.1 FreeMain Screen and Status Area\nThe provided feature list shows the title as CMD Tool 2026 (ADB Tuner). The top area displays connection and service information. A device can show as connected through ADB, while another status can show when no device is detected.\n\nThe screen also gives a message asking the user to connect a phone in ADB or Fastboot mode before starting. A Gmail register area displays the logged-in email, and the service status can show states such as ADB device ready or waiting for ADB and Fastboot.\n\nOther visible controls include an operations counter, session timer, window controls, and a Take Screenshot button. At the bottom, the provided list shows a progress bar, Translate, Chat Logs, Save HTML, Save Logs, and Traktir Kopi controls.\n\nDashboard and Device Connection Options\nThe Dashboard contains several quick actions. The Connect Device menu gives different connection modes, including ADB, Fastboot, Sideload, and Fastboot Huawei.\n\nConnect ADB\nConnect Fastboot\nConnect Sideload\nConnect Fastboot Huawei\nThe Dashboard also has direct options for MTK Device, Qualcomm Device, UNISOC Device, and Driver Device. These are listed as service or device request actions in the provided information.Health Device Options\nThe Health Device dropdown contains three visible choices.\n\neMMC - UFS / Non Root\neMMC Root\nUFS Root\nFlash Device Options\nThe Flash Device menu contains different flashing methods. The available choices shown in the feature list are:\n\nADB Dumper\nFastboot Flash\nGSI Flash\nSideload / TWRP\nSAM Flash / Odin\nReboot Options\nThe reboot menu is divided into ADB, Fastboot, Sideload, and TWRP sections. Each section contains its own reboot commands.\n\nADB Reboot\nReboot System\nReboot Recovery\nReboot Bootloader / Fastboot\nReboot FastbootD\nReboot Sideload\nReboot EDL/EDL Mode / Samsung\nPower Off\nFastboot Reboot\nReboot System\nReboot Fastboot / Bootloader\nReboot FastbootD\nReboot EDL / TestPoint\nReboot Recovery\nSideload Reboot\nReboot System\nReboot Recovery\nReboot Sideload\nReboot Power Off\nTWRP Reboot\nReboot System\nReboot Recovery\nReboot Sideload\nReboot Power Off\nService Menu\nThe Service menu is divided into ADB Service and Fastboot Service. The following options were included in the provided feature details.\n\nADB Service\nSecurity Checker\nDisable Screen Saver(OOD)\nGlobal All Killer\nBypass Play Protect\nSAMSUNG One UI lock/Not Installed/Please\nDownload Click\nFastboot Service\nDm-Verfy Fix\nSet Slot A\nSet Slot B\nDM-verfy Corruption Poco/M6/A\nDM-verfy Corruption Poco/M6/B\nSystem Has Been Destroyed Fix\nAnti Rollback (ARB)\nRelock Bootloader\nRecent Sessions and Activity Log\nThe main workspace includes a Recent Sessions table. According to the provided information, the table contains columns for Date Time, Device, Model, Operation, and Status.\n\nAn Activity Log is also available for command feedback and diagnostic messages. The ARB Guard section can show device connection verification, brand detection, safety guard status, and session information in the log and recent sessions area.",
-      "downloads": 34,
+      "downloads": 35,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1787310473453,
@@ -38899,7 +38916,7 @@
       ],
       "createdAt": 1787399908924,
       "description": "Mi Unlock Tool V7.6.727.43 Free Download Mi Unlock Tool 7.6.727.43 Download and Xiaomi / Redmi / POCO Bootloader Unlocking Guide\nMi Unlock Tool is used for unlocking the bootloader on supported Xiaomi, Redmi, and POCO devices running MIUI. In this post, I am sharing the update file for Mi Unlock Tool version 7.6.727.43 also with the bootloader unlocking steps provided below. When I downloaded Mi Unlock Tool from the official site, I got the old miflash_unlock-en-6.5.224.28.zip file. I extracted it and opened the tool. Then an update popup appeared. It was showing 6.5.224.28 as the current version and 7.6.727.43 as the new version.\n\nMi Unlock Tool Update Download Problem\nThe update button was available inside the old version of Mi Unlock Tool. I clicked it to download the new update, but the download page did not work for me.\n\nInstead of downloading the file, the browser showed an Access Denied message. The page clearly said that permission was not available to access the Mi Unlock Tool update file on that server.\n\nThe update is showing inside the old tool, but when I tried to get version 7.6.727.43, the download page showed an Access Denied error. So the update was available in the tool, but the file could not be downloaded from that page.\n\nI faced this situation myself, so I searched Chinese forums for the update file. After finding the version shown by the Mi Unlock update window, I am providing the full update below through a Google Drive link so it can be downloaded without depending on the update URL that showed the Access Denied message.\n\nMi Unlock Tool 7.6.727.43\nSoftware Name\tMi Unlock Tool\nOld Version Shown\t6.5.224.28\nNew Version Shown\t7.6.727.43\nThe Mi Unlock Tool interface and the successful completion screen. The successful screen displays the message Unlocked successfully with a Reboot phone button.",
-      "downloads": 23,
+      "downloads": 24,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1787399908924,
@@ -38974,44 +38991,120 @@
       "unrarPassword": ""
     },
     "f_mt6sf18c_9g4ozbl9k": {
-      "name": "AMProFixWA Tool V1.6 Free",
-      "folderId": "f_mpzhn51z_ka1g9srm4",
-      "size": "233mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE_CVQt4MsXid0rjauEjykbQis9lh6lOM0HP_nN77M3J7GpLlad4ptAIDC4quvv8IE81gVuHYQFp7ILgalQAFKTwwjdTs_Wj6RJqKAwHQ7JCe9IvfIE9g-eTIWxeFaYrJwz8MpF8uJcJGcMiJGvL4GsM5S0epz11IBnDWXKHCtoOY6BIsiWJMC5UCymeZe/w640-h426/AMProFixWA%20Tool%20V1.6%20Free.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE_CVQt4MsXid0rjauEjykbQis9lh6lOM0HP_nN77M3J7GpLlad4ptAIDC4quvv8IE81gVuHYQFp7ILgalQAFKTwwjdTs_Wj6RJqKAwHQ7JCe9IvfIE9g-eTIWxeFaYrJwz8MpF8uJcJGcMiJGvL4GsM5S0epz11IBnDWXKHCtoOY6BIsiWJMC5UCymeZe/w640-h426/AMProFixWA%20Tool%20V1.6%20Free.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "amprofixwa-tool-v16-free",
+      "createdAt": 1787548825596,
       "description": "AMProFixWA Tool V1.6 Free Download. Other available options include Repair Media 2 and Install Any App. There are also shortcuts and controls for opening WhatsApp App Info, enabling WhatsApp permissions, force stopping the app, and clearing WhatsApp data.\n\nDelete WhatsApp\nDelete WhatsApp but Keep Data\nInstall Old WhatsApp\nInstall Old WhatsApp 14\nBackup WhatsApp Data\nRestore WhatsApp Data\nDownload Official WhatsApp\nUpdate WhatsApp\nRepair Media 2\nInstall Any App\nOpen WhatsApp App Info\nEnable WhatsApp Permissions\nForce Stop WhatsApp\nClear WhatsApp Data\nModified WhatsApp Download Section\nThe tool has a download section that lists different WhatsApp packages. The available names include AMWhatsApp, WhatsApp Green, WhatsApp Gold, WhatsApp Red, WhatsApp Blue, and several others.\n\nAMWhatsApp\nWhatsApp Green\nWhatsApp Gold\nWhatsApp Red\nWhatsApp Blue\nWhatsApp Black\nWhatsApp Abo Arab\nABWhatsApp\nOBWhatsApp\nMARWhatsApp\nWhatsApp Omar OB\nWhatsApp Marwan\nGBWhatsApp\nWhatsApp Business 2\nWhatsApp Business 3\nAppeal and Request Options\nAMProFixWA Tool V1.6 also includes options related to WhatsApp account review and appeal requests. The provided details mention automated appeal request submissions and different request categories.\n\nThere are options for severe violation appeals, modified version-related bans, explicit content review requests, privacy violation handling, and spam message restriction appeals. The tool also includes options to update, view, or delete requests.\n\nAutomated Ban Appeal Request Submissions\nSevere Violation Appeal Processing\nModified Versions Ban Removal\nExplicit Content Ban Review Form\nWhatsApp Privacy Violation Handling\nSpam Messages Restriction Appeals\nUpdate Requests\nView Requests\nDelete Requests\nIntegrated Notification Dispatch System\nRoot and System Tools\nFor users working with system-level Android settings, the tool includes several root-related options. These include Magisk installation, dependency library installation, custom libraries, and an option to send libraries to the phone.A Google Play Integrity Checker is also listed. Other options include clearing Google Apps data and a fix for School Device Enterprise Profile.\n\nInstall Magisk\nInstall Dependency Library\nInstall Custom Libraries\nSend Libraries to Phone\nGoogle Play Integrity Checker\nClear Google Apps Data\nSchool Device Enterprise Profile Fix\nDevice Connection and Android Utilities\nThe program can show the mobile screen in real time. This can be useful when you want to see the connected phone screen from the computer while working with the device.\n\nWireless ADB connection is also available through the ADB WiFi option. For older devices, the feature list also mentions a dependency issue fix for Android 6 and Android 7.\n\nShow Mobile Screen\nWireless Connection via ADB WiFi\nLegacy Android 6/7 Dependency Issue Fix\nLanguage and Interface Settings\nAMProFixWA Tool V1.6 supports both Arabic and English. You can choose the preferred language from the available settings. Theme options are also included, with Default, Light, and Dark choices mentioned in the provided details.\n\nThe tool also lists Smart Mode automation, sound effect settings, server status monitoring, and license expiry status monitoring.\n\nArabic and English Language Switcher\nDefault Theme\nLight Theme\nDark Theme\nSmart Mode Automation Toggle\nSound Effects Settings\nReal-Time Server Status Monitor\nLicense Expiry Status Monitor\nHow to Install AMProFixWA Tool V1.6\nThe installation process starts with the AMProTool.rar archive file.\n\nDownload the AMProTool.rar file.\nFind the downloaded archive on your computer.\nRight-click the file and choose Extract Here or Extract to AMProTool.\nOpen the extracted folder.\nRight-click on AMProTool.exe and select Run as administrator.\nWhen the setup opens, click Next on the Welcome screen.\nChoose the folder where you want to install the software. The provided default location is C:\\Program Files (x86)\\AMProFixWhatsApp.\nClick Next and select Create a desktop icon if you want a shortcut on the desktop.\nClick Install and wait for the installation to finish.\nClick Finish after the setup is complete.\nRight-click the AMProTool desktop icon and run it as administrator.\nWait for the loader to check the license status and server connection.\nChoose your preferred language and theme on the login screen.\nClick Log In.\nEnable USB Debugging on the Android device.\nConnect the device to the computer with a USB cable.\nHow to Connect an Android Device\nAccording to the provided usage steps, USB Debugging needs to be enabled before connecting the Android phone through a USB cable. Once the device is connected, you can use the available options inside the tool.\n\nThe feature list also includes ADB WiFi for wireless connection and an option to show the mobile screen in real time.\n\nDownload AMProFixWA Tool V1.6\nYou can download AMProFixWA Tool V1.6 from the link below.\n\nBefore using options that delete or clear WhatsApp data, check what the selected option will do and keep your important data safe.",
-      "downloads": 0,
-      "link": "https://1drv.ms/u/c/362938347b225930/IQA2S467iWbARZfOclvJbQ9QAVHQRoq2MuCk02KJUOQVjIE?e=aw00Vh",
+      "downloads": 5,
+      "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
-      "published": true,
+      "lastModified": 1787548825596,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQA2S467iWbARZfOclvJbQ9QAVHQRoq2MuCk02KJUOQVjIE?e=aw00Vh",
       "links": [
         {
           "label": "AMProFixWA Tool V1.6 Free",
           "urls": [
             {
-              "url": "https://1drv.ms/u/c/362938347b225930/IQA2S467iWbARZfOclvJbQ9QAVHQRoq2MuCk02KJUOQVjIE?e=aw00Vh",
-              "password": ""
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQA2S467iWbARZfOclvJbQ9QAVHQRoq2MuCk02KJUOQVjIE?e=aw00Vh"
             },
             {
-              "url": "https://mega.nz/file/Ar9miShJ#mJS2kRYXMnuOoyU583jERkT9l_vqX59oE3mG2Q8QhO8",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/Ar9miShJ#mJS2kRYXMnuOoyU583jERkT9l_vqX59oE3mG2Q8QhO8"
             },
             {
-              "url": "https://1024terabox.com/s/1FN0v041mKIV3pjgDgZnhxQ",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1FN0v041mKIV3pjgDgZnhxQ"
             }
           ]
         }
       ],
-      "createdAt": 1787548825596,
-      "lastModified": 1787548825596
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "AMProFixWA Tool V1.6 Free",
+      "password": "",
+      "publishUrl": "amprofixwa-tool-v16-free",
+      "published": true,
+      "size": "233mb",
+      "unrarPassword": ""
+    },
+    "f_mt8ipcbv_m3yy8podj": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O37nOPSMWmPy2UZbfzTfz1cRlQ71xM8QAzY9mNAFZVdiUL_tZNicGTvptfNeLkshmNN_pQUVaIwCrsrdEw16kyKqdShajxH93CHN9V1im-Ouow2cWcMPb58b62SOoNDauOBaitSIszOmTOpUrWWUgKsxIDoTCJcP1emaEO322OsaEl1ZsqJpcjHLBDec/w640-h358/Aftersales%20Tool%20Box%20V4%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O37nOPSMWmPy2UZbfzTfz1cRlQ71xM8QAzY9mNAFZVdiUL_tZNicGTvptfNeLkshmNN_pQUVaIwCrsrdEw16kyKqdShajxH93CHN9V1im-Ouow2cWcMPb58b62SOoNDauOBaitSIszOmTOpUrWWUgKsxIDoTCJcP1emaEO322OsaEl1ZsqJpcjHLBDec/w640-h358/Aftersales%20Tool%20Box%20V4%20Free%20Download.jpg"
+      ],
+      "createdAt": 1787653442731,
+      "description": "Aftersales Tool Box V4 Free How to Set Up Aftersales Tool Box V4\nExtract the files: Unzip the software package and prepare the files on your Windows PC.\nInstall the drivers: Install the MTK and SPD drivers included with the package so the phone can be detected by the computer.\nLog in: Open the tool and enter your login details to activate the account.\nUpdate the tools: Open the Tools Manager and update the modules you plan to use.\nSelect the phone: Choose the brand and then select the correct model.\nDownload firmware: Search for the required firmware and download the available files.\nConnect the phone: Turn off the phone, use the required boot key such as Volume Up or Volume Down, connect the USB cable, and start the selected service operation.\n\nDownload Information\nSoftware Name\tAftersales Tool Box\nVersion\tV4 2025\nSupported Devices\tTecno, Infinix, Itel\nSupported Chipsets\tMediaTek, Spreadtrum (SPD), Qualcomm",
+      "downloads": 0,
+      "folderId": "f_mp6sihua_qn9c5cpoh",
+      "isLink": false,
+      "lastModified": 1787653442731,
+      "link": "https://mega.nz/file/F3cTHBoR#HoPs5WIA2vam3GCrq-6p5skTgQ4Aihz-jfDn5oxZeiE",
+      "links": [
+        {
+          "label": "Aftersales Tool Box V4 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/F3cTHBoR#HoPs5WIA2vam3GCrq-6p5skTgQ4Aihz-jfDn5oxZeiE"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1FtBoRnpSHx8mlGbH1NTvug"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Aftersales Tool Box V4 Free",
+      "password": "",
+      "publishUrl": "aftersales-tool-box-v4-free",
+      "published": true,
+      "size": "0.9GB",
+      "unrarPassword": ""
+    },
+    "f_mt8lah1y_sla05ja2s": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgb7-LmHjbh-TQ-kcOLTsry7P4O63xahIrmLOZQIyHy1EwnpFaf6LmjpHmKrylBoa0FetoZNnZZ1leuMjpAILKoYiBu4T5YU2yW0pW0zCNTPLEtm6LLdWPaHnCRW45bQjW9uaUVUfteobZQ40EmUzoDLkyIquGO40jTR5gdy9LOEehyphenhyphenroNpBXJFfAmqQ10/w640-h358/HBG%20VoLTE%20IMS%20Fixer%20Tool.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgb7-LmHjbh-TQ-kcOLTsry7P4O63xahIrmLOZQIyHy1EwnpFaf6LmjpHmKrylBoa0FetoZNnZZ1leuMjpAILKoYiBu4T5YU2yW0pW0zCNTPLEtm6LLdWPaHnCRW45bQjW9uaUVUfteobZQ40EmUzoDLkyIquGO40jTR5gdy9LOEehyphenhyphenroNpBXJFfAmqQ10/w640-h358/HBG%20VoLTE%20IMS%20Fixer%20Tool.jpg"
+      ],
+      "createdAt": 1787657787862,
+      "description": "HBG VoLTE IMS Fixer Tool What You Can See in the Software\nDevice Model — Shows the connected Android device model.\nAndroid Version — Shows the Android version detected from the phone.\nManufacturer — Displays the phone manufacturer.\nSIM Carrier — Shows the available SIM carrier information.\nVoLTE Status — Displays the current VoLTE status shown by the tool.\n1-Click VoLTE Fix — Runs the automatic VoLTE activation option.\nShizuku & Pixel IMS — Provides the option for installing the Shizuku and Pixel IMS app set.\nStatus Messages — Shows messages related to the current process.\n\nDownload Information\nSoftware Name\tHBG VoLTE & IMS Fixer\nDeveloper\tHBG\nSupported OS\tWindows\nSupported Devices\tAndroid devices supported by the tool",
+      "downloads": 0,
+      "folderId": "f_mpzhn51z_ka1g9srm4",
+      "isLink": false,
+      "lastModified": 1787657787862,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQD2rmpTZlzgQL81AbEfUlYKAfIzv6Ci7OoZeXeCwxO-ANI?e=3XoibR",
+      "links": [
+        {
+          "label": "HBG VoLTE IMS Fixer Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQD2rmpTZlzgQL81AbEfUlYKAfIzv6Ci7OoZeXeCwxO-ANI?e=3XoibR"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/NzdmTCLL#h4f-PsEzKdwrEOysr46xCamh504YFd12w19RqeIMUr8"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/12Dt9xNnYRWz_MIXhc5Quvw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "HBG VoLTE IMS Fixer Tool",
+      "password": "",
+      "publishUrl": "hbg-volte-ims-fixer-tool",
+      "published": true,
+      "size": "48mb",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -49215,7 +49308,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-24T05:21:15.978Z",
+    "createdAt": "2026-08-25T11:42:01.017Z",
     "version": "2.0",
     "sections": 4
   }
