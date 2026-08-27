@@ -1948,7 +1948,7 @@
       ],
       "createdAt": 1779683505411,
       "description": "",
-      "downloads": 335,
+      "downloads": 336,
       "folderId": "f_mpjnbru1_u9b3mvn2y",
       "isLink": false,
       "lastModified": 1779707175414,
@@ -25007,7 +25007,7 @@
       ],
       "createdAt": 1781583161675,
       "description": "",
-      "downloads": 354,
+      "downloads": 355,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1781583161675,
@@ -26125,7 +26125,7 @@
       ],
       "createdAt": 1781698918392,
       "description": "How to Installation and Setup \nStep 1: Extract the Package\nLocate the downloaded archive file named MH_Unlocker_MTK_FREE.rar.\n\nRight-click the file and choose Extract Here or Extract to MH_Unlocker_MTK_FREE.\n\nWhen the extraction password is requested, enter: \nsoftwarecrackguru\n\nStep 2: Launch the Loader\nOpen the extracted folder.\n\nFind Loader_Run_As_Admin.exe, right-click it, and select Run as administrator.\n\nRunning with administrator permission helps avoid permission or connection-related issues.\n\nStep 3: Copy Hardware ID\nAfter the loader opens, click the Copy Hardware ID button.\n\nYour unique HWID will automatically be copied to the clipboard.\n\nStep 4: Generate Activation Key\nClick Get Activation Key.\n\nYour browser will open the registration page automatically.\n\nScroll to the key generator section and paste your 16-character HWID.\n\nClick GENERATE KEY NOW.\n\nA new activation key will be generated. Copy the complete key.\n\nStep 5: Activate the Tool\nReturn to the loader window.\n\nPaste the generated key into the activation field.\n\nNow click ACTIVATE MH MTK TOOL.\n\nIf activation is successful, the status section will change to green.\n\nStep 6: Start Server",
-      "downloads": 86,
+      "downloads": 89,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1781698918392,
@@ -27716,7 +27716,7 @@
       ],
       "createdAt": 1781870272656,
       "description": "MH Unlocker Pro SPD Module V2.0\n🔧General Service\nRead Information\nFactory Reset\nFRP Reset\nAdvanced Reset Methods\nRead Security Backup\nWrite Security Backup\nDM-Verity Error Fix\n🔓 Bootloader\nUnlock Bootloader\nRelock Bootloader\n📱 SIM Lock & Network Lock\nSIM Unlock\nNetwork Unlock\nPermanent Network Lock Removal\nFlash Mode Unlock Support\n💾 RPMB Functions\nRead RPMB\nWrite RPMB\n📥 Read Functions\nRead Firmware\nRead GPT\nRead Partitions\n📤 Write Functions\nWrite Firmware\nWrite PAC Firmware\nWrite Partitions\n📦 Firmware Support\nPAC Firmware Support\nInternal Loaders\nHybrid Loaders\nManual Loaders\nFlash Mode Support\n⚙️ Security Operations\nSecurity Backup & Restore\nDM-Verity Fix\nAdvanced Diagnostics\nSupported CPUs in MH Unlocker Pro SPD Module V2.0\nOne of the strongest points of MH Unlocker Pro SPD Module V2.0 is its wide range of supported Spreadtrum and Unisoc processors. Here is the complete list:\n\nSC7731E SC9832E SC9863A SC9863A 64-Bit Tiger T310 Tiger T606 Tiger T610 Tiger T612 Tiger T616 Tiger T700 Tiger T760 Series",
-      "downloads": 22,
+      "downloads": 23,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1781870629428,
@@ -35426,7 +35426,7 @@
       ],
       "createdAt": 1782535939192,
       "description": "",
-      "downloads": 95,
+      "downloads": 119,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1782535939192,
@@ -36202,7 +36202,7 @@
       ],
       "createdAt": 1783743280555,
       "description": "",
-      "downloads": 106,
+      "downloads": 117,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1783743280555,
@@ -37741,7 +37741,7 @@
       ],
       "createdAt": 1785560504050,
       "description": "UnlockTool Latest Version Download Free No Login Required\n\nHow to Install\nDownload the UnlockTool package and extract all files to a new folder.\nTemporarily disable Windows Defender or any antivirus if it blocks the launcher files.\nRun the RE_GURU launcher as Administrator.\n\nClick Activate with a Code.\nOpen the official RE_GURU Telegram bot from the launcher.\nPress Start in the bot and generate a new activation code.\nCopy the generated 6-digit code.\nPaste the code into the activation window and click Activate.\nSave the generated User ID and Password shown by the launcher.\nClick Run UnlockTool.\nOpen Windows Task Manager and locate UnlockTool.exe.\nGo to Details and change the process priority to High.\nReturn to the launcher and click Login.\nAccept the disclaimer window.\nWait until all modules finish loading.\nSelect your device brand and start using the software.",
-      "downloads": 205,
+      "downloads": 208,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787665020454,
@@ -37751,8 +37751,8 @@
           "label": "UnlockTool Download Official",
           "urls": [
             {
-              "url": "https://file.unlocktool.net/",
-              "password": ""
+              "password": "",
+              "url": "https://file.unlocktool.net/"
             }
           ]
         },
@@ -37760,8 +37760,8 @@
           "label": "UNLOCK TOOL GCT PACK with Loader PAID",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/pr2ycn8106ldb88/UnlockTool-2026-08-16-0_GCT_Team.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/pr2ycn8106ldb88/UnlockTool-2026-08-16-0_GCT_Team.rar/file"
             }
           ]
         },
@@ -37769,8 +37769,8 @@
           "label": "Loader V2 Link",
           "urls": [
             {
-              "url": "https://re-guru.com/",
-              "password": ""
+              "password": "",
+              "url": "https://re-guru.com/"
             }
           ]
         },
@@ -37778,16 +37778,16 @@
           "label": "Loader Link",
           "urls": [
             {
-              "url": "https://mega.nz/file/el4wnBAI#XaxP-RRh8m7IdoYJarPGwv-vX3LMRntBVDIboo0ma4o",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/el4wnBAI#XaxP-RRh8m7IdoYJarPGwv-vX3LMRntBVDIboo0ma4o"
             },
             {
-              "url": "https://1drv.ms/u/c/60278a53f75dbc69/IQAMsiDdLlPhRqgTolvXm9e0AWUJIwUCTF72r1mh5zDFBSc?e=V4NILW",
-              "password": ""
+              "password": "",
+              "url": "https://1drv.ms/u/c/60278a53f75dbc69/IQAMsiDdLlPhRqgTolvXm9e0AWUJIwUCTF72r1mh5zDFBSc?e=V4NILW"
             },
             {
-              "url": "https://1024terabox.com/s/1mC1FBFcHUKRB8_3tiOF6dA",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1mC1FBFcHUKRB8_3tiOF6dA"
             }
           ]
         }
@@ -38028,7 +38028,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 41,
+      "downloads": 45,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -38553,7 +38553,7 @@
       ],
       "createdAt": 1786793273407,
       "description": "iOS Toolkit Apple Device Tools  Dashboard – Check Connected Apple Device\nThe Dashboard is the main place to start after connecting an Apple device. A connected device appears in the device selection area, and the toolkit can show detailed information about it.\n\nThere is also a Rescan Hardware button. This can be useful when you connect a device after the toolkit has already been opened.\n\nThe information area includes several fields, including:\n\nDevice Name – Shows the name of the connected device.\nModel Name – Displays the detected model.\nProduct Type – Shows the device product identifier.\niOS / Build – Displays the available iOS and build information.\nSerial Number – Shows the device serial number.\nUDID – Displays the device UDID.\nIMEI – Shows the available IMEI information.\nMEID – Displays the available MEID information.\nWi-Fi MAC – Shows the Wi-Fi address.\nBluetooth MAC – Shows the Bluetooth address.\nCPU Arch – Displays the CPU architecture information.\nHW Model – Shows the hardware model.\nSIM Status – Displays the available SIM status.\nLock Screen – Shows the available lock screen status.\nBattery and storage are also shown separately on the Dashboard using progress indicators.",
-      "downloads": 17,
+      "downloads": 24,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1786793273407,
@@ -38669,7 +38669,7 @@
       ],
       "createdAt": 1786935521593,
       "description": "Xiaomi DIAG Tool v2.1 Free Features Xiaomi DIAG Mode Enable Tool\nAutomatic Xiaomi Device Detection: The tool keeps checking for a connected Xiaomi phone and shows the detected model and Android version when the device is available. \nADB Connection Check: The phone needs to be connected with ADB enabled before the main DIAG process can start.\nDevice Information: The tool can read the Xiaomi model, brand, Android version and available MIUI or HyperOS information from the connected device. \nAutomatic DIAG APK Handling: If the required diagnostic package is not already installed, the tool tries to install it automatically. \nManual APK Installation: If automatic installation does not work, the tool copies the required package to the phone and asks the user to install it manually from the Download folder. \nDIAG Mode Start: After the required package is ready, the tool starts the diagnostic mode on the Xiaomi phone. \nDIAG Driver Detection: After starting DIAG mode, the tool waits for the Windows DIAG driver and shows the detected driver when available.\nProgress Status: The main window shows stages such as Checking, Installing, Starting DIAG, Detecting and Success while the process is running.\nManual Installation Verification: When the APK has to be installed manually, the tool can check again whether the package is installed before continuing with DIAG mode.\nDark Interface: The tool uses a dark interface with a simple device status area, progress bar and main action button.\nWhat's New\nCurrent release version is v2.1. \nAutomatic device monitoring is included in the main window.\nThe tool can show the connected Xiaomi model and Android version.\nAutomatic installation of the required Xiaomi diagnostic package is supported.\nA manual installation fallback is available when automatic installation fails.\nThe tool checks for the DIAG driver after starting diagnostic mode.\nA separate verification step is available after manual APK installation. How to Install Xiaomi DIAG Tool\nDownload Xiaomi DIAG Tool v2.1 from the download section below.\nExtract the downloaded package if it comes as a ZIP archive.\nKeep the required Xiaomi diagnostic APK in the same tool folder if it is included separately.\nMake sure ADB is available and the Xiaomi phone is connected with ADB enabled.\nRun the Xiaomi DIAG Tool.\nWait for the tool to detect the connected Xiaomi phone.\nCheck the displayed model and Android information.\nClick ENABLE DIAG to start the process.\nIf the diagnostic package is already installed, the tool continues automatically.\nIf automatic installation is not possible, follow the on-screen instruction and install the APK from Internal Storage > Download.\nClick CONTINUE after the manual installation is completed.\nThe tool will check the installation, start DIAG mode and wait for the Windows DIAG driver.\nWhen the driver is detected, the tool shows the DIAG process as successful.",
-      "downloads": 3,
+      "downloads": 7,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1786935521593,
@@ -38750,7 +38750,7 @@
       ],
       "createdAt": 1787110262084,
       "description": "HM Testpoint HW Tool v8.5 Free HM TESTPOINT OFFLINE Features\nLarge offline smartphone motherboard database\n1964+ test points from supported models\nHigh-definition EDL test point images\nDirect eMMC and UFS ISP pinouts\nHardware circuit ways and track diagrams\nModified boot cable schematics\nUniversal search for brands, models and pinout types\nReal-time search filtering\nImage viewer with smooth drag and pan support\nZoom support up to 500%\nRotate board diagrams by 90 degrees\nAuto-fit images to the screen\nCopy circuit diagrams to the Windows clipboard\nOpen the original diagram folder directly\nOpen diagrams in the default Windows image viewer\nFull-screen mode support\nKeyboard shortcuts for faster navigation\nDesktop shortcut integration\nStart Menu shortcut integrationHM Testpoint & Hardware Tool v8.5 includes a large collection of hardware information for different smartphone brands. The database covers test points, ISP pinouts and other supported hardware details for many models.\n\nXiaomi: 322+ models\nSamsung: 227+ models\nHuawei: 348+ models\nOPPO: 228+ models\nVivo: 263+ models\nRealme: 223+ models\nHonor: 197+ models\nOnePlus: 71+ models\nMotorola: 47+ models\nNokia: 75+ models\nLG: 28+ models\nLenovo: 102+ models\nASUS: 52+ models\nZTE: 39+ models\nInfinix: 77+ models\nTecno: 72+ models\nitel: 30+ models\nVsmart: 17+ models\nMeizu: 37+ models\nSmartisan: 9+ models\nAdditional Hardware Modules\nModified boot cable diagrams\nUniversal EDL boot cable schematics\nHuawei Harmony boot cable information\nSamsung 300K and EDL cable diagrams\nSPD/Unisoc auto-boot cable information\n4.7kΩ and 47kΩ resistor diagrams where supported\n187 direct ISP pinouts\nCMD, CLK, DAT0, VCC, VCCQ and GND points\nUniversal TX/RX hardware lines\nMediaTek supported hardware information\nQualcomm supported hardware information\nUnisoc supported hardware information\nSamsung Exynos related pinout information\nNetwork and RF hardware circuit ways\nCharging and sub-board track diagrams\n\nKeyboard Shortcuts\nCtrl + / Ctrl - / Ctrl =: Zoom in and out\nF: Fit the diagram to the screen\nR: Rotate the diagram by 90 degrees\nCtrl + C: Copy the diagram image\nF11: Enable or disable full-screen mode\nEsc: Exit full-screen mode\nWhat's New (Changelog)\nUpdated to HM Testpoint & Hardware Tool v8.5\nIncludes a large offline database of 1964+ test points\nSupports test point information for many popular smartphone brands\nIncludes 187 direct ISP pinouts\nAdded high-resolution board and hardware diagrams\nIncludes modified boot cable schematics\nImproved search and navigation for brands and models\nBuilt-in zoom, rotate, fit and full-screen controls for diagrams\nWeb activation system using the machine HWID\nCreates a local license.key file after successful activationHow to Install and Activate\nDownload the HM Testpoint & Hardware Tool v8.5 package.\nExtract the downloaded ZIP or archive file.\nRun HM_Testpoint.exe as Administrator.\nThe Device Registration & Activation window will show your Hardware ID.\nClick Copy HWID to copy your machine HWID.\nOpen the activation page: HM Testpoint Hardware Tool Activation.\nPaste your copied HWID into the activation page.\nClick the Generate button to create your activation key.\nCopy the generated license key.\nReturn to the HM Testpoint PRO registration window.\nPaste the key into the registration or license key field.\nClick ACTIVATE SOFTWARE.\nAfter successful activation, the tool creates the local license.key file.\nThe software is now ready to use.",
-      "downloads": 19,
+      "downloads": 26,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787538124413,
@@ -38881,7 +38881,7 @@
       ],
       "createdAt": 1787310473453,
       "description": "CMD ADB Tuner Tool V2.2.1.1 FreeMain Screen and Status Area\nThe provided feature list shows the title as CMD Tool 2026 (ADB Tuner). The top area displays connection and service information. A device can show as connected through ADB, while another status can show when no device is detected.\n\nThe screen also gives a message asking the user to connect a phone in ADB or Fastboot mode before starting. A Gmail register area displays the logged-in email, and the service status can show states such as ADB device ready or waiting for ADB and Fastboot.\n\nOther visible controls include an operations counter, session timer, window controls, and a Take Screenshot button. At the bottom, the provided list shows a progress bar, Translate, Chat Logs, Save HTML, Save Logs, and Traktir Kopi controls.\n\nDashboard and Device Connection Options\nThe Dashboard contains several quick actions. The Connect Device menu gives different connection modes, including ADB, Fastboot, Sideload, and Fastboot Huawei.\n\nConnect ADB\nConnect Fastboot\nConnect Sideload\nConnect Fastboot Huawei\nThe Dashboard also has direct options for MTK Device, Qualcomm Device, UNISOC Device, and Driver Device. These are listed as service or device request actions in the provided information.Health Device Options\nThe Health Device dropdown contains three visible choices.\n\neMMC - UFS / Non Root\neMMC Root\nUFS Root\nFlash Device Options\nThe Flash Device menu contains different flashing methods. The available choices shown in the feature list are:\n\nADB Dumper\nFastboot Flash\nGSI Flash\nSideload / TWRP\nSAM Flash / Odin\nReboot Options\nThe reboot menu is divided into ADB, Fastboot, Sideload, and TWRP sections. Each section contains its own reboot commands.\n\nADB Reboot\nReboot System\nReboot Recovery\nReboot Bootloader / Fastboot\nReboot FastbootD\nReboot Sideload\nReboot EDL/EDL Mode / Samsung\nPower Off\nFastboot Reboot\nReboot System\nReboot Fastboot / Bootloader\nReboot FastbootD\nReboot EDL / TestPoint\nReboot Recovery\nSideload Reboot\nReboot System\nReboot Recovery\nReboot Sideload\nReboot Power Off\nTWRP Reboot\nReboot System\nReboot Recovery\nReboot Sideload\nReboot Power Off\nService Menu\nThe Service menu is divided into ADB Service and Fastboot Service. The following options were included in the provided feature details.\n\nADB Service\nSecurity Checker\nDisable Screen Saver(OOD)\nGlobal All Killer\nBypass Play Protect\nSAMSUNG One UI lock/Not Installed/Please\nDownload Click\nFastboot Service\nDm-Verfy Fix\nSet Slot A\nSet Slot B\nDM-verfy Corruption Poco/M6/A\nDM-verfy Corruption Poco/M6/B\nSystem Has Been Destroyed Fix\nAnti Rollback (ARB)\nRelock Bootloader\nRecent Sessions and Activity Log\nThe main workspace includes a Recent Sessions table. According to the provided information, the table contains columns for Date Time, Device, Model, Operation, and Status.\n\nAn Activity Log is also available for command feedback and diagnostic messages. The ARB Guard section can show device connection verification, brand detection, safety guard status, and session information in the log and recent sessions area.",
-      "downloads": 35,
+      "downloads": 72,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1787310473453,
@@ -38925,7 +38925,7 @@
       ],
       "createdAt": 1787399908924,
       "description": "Mi Unlock Tool V7.6.727.43 Free Download Mi Unlock Tool 7.6.727.43 Download and Xiaomi / Redmi / POCO Bootloader Unlocking Guide\nMi Unlock Tool is used for unlocking the bootloader on supported Xiaomi, Redmi, and POCO devices running MIUI. In this post, I am sharing the update file for Mi Unlock Tool version 7.6.727.43 also with the bootloader unlocking steps provided below. When I downloaded Mi Unlock Tool from the official site, I got the old miflash_unlock-en-6.5.224.28.zip file. I extracted it and opened the tool. Then an update popup appeared. It was showing 6.5.224.28 as the current version and 7.6.727.43 as the new version.\n\nMi Unlock Tool Update Download Problem\nThe update button was available inside the old version of Mi Unlock Tool. I clicked it to download the new update, but the download page did not work for me.\n\nInstead of downloading the file, the browser showed an Access Denied message. The page clearly said that permission was not available to access the Mi Unlock Tool update file on that server.\n\nThe update is showing inside the old tool, but when I tried to get version 7.6.727.43, the download page showed an Access Denied error. So the update was available in the tool, but the file could not be downloaded from that page.\n\nI faced this situation myself, so I searched Chinese forums for the update file. After finding the version shown by the Mi Unlock update window, I am providing the full update below through a Google Drive link so it can be downloaded without depending on the update URL that showed the Access Denied message.\n\nMi Unlock Tool 7.6.727.43\nSoftware Name\tMi Unlock Tool\nOld Version Shown\t6.5.224.28\nNew Version Shown\t7.6.727.43\nThe Mi Unlock Tool interface and the successful completion screen. The successful screen displays the message Unlocked successfully with a Reboot phone button.",
-      "downloads": 24,
+      "downloads": 32,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1787399908924,
@@ -39006,7 +39006,7 @@
       ],
       "createdAt": 1787548825596,
       "description": "AMProFixWA Tool V1.6 Free Download. Other available options include Repair Media 2 and Install Any App. There are also shortcuts and controls for opening WhatsApp App Info, enabling WhatsApp permissions, force stopping the app, and clearing WhatsApp data.\n\nDelete WhatsApp\nDelete WhatsApp but Keep Data\nInstall Old WhatsApp\nInstall Old WhatsApp 14\nBackup WhatsApp Data\nRestore WhatsApp Data\nDownload Official WhatsApp\nUpdate WhatsApp\nRepair Media 2\nInstall Any App\nOpen WhatsApp App Info\nEnable WhatsApp Permissions\nForce Stop WhatsApp\nClear WhatsApp Data\nModified WhatsApp Download Section\nThe tool has a download section that lists different WhatsApp packages. The available names include AMWhatsApp, WhatsApp Green, WhatsApp Gold, WhatsApp Red, WhatsApp Blue, and several others.\n\nAMWhatsApp\nWhatsApp Green\nWhatsApp Gold\nWhatsApp Red\nWhatsApp Blue\nWhatsApp Black\nWhatsApp Abo Arab\nABWhatsApp\nOBWhatsApp\nMARWhatsApp\nWhatsApp Omar OB\nWhatsApp Marwan\nGBWhatsApp\nWhatsApp Business 2\nWhatsApp Business 3\nAppeal and Request Options\nAMProFixWA Tool V1.6 also includes options related to WhatsApp account review and appeal requests. The provided details mention automated appeal request submissions and different request categories.\n\nThere are options for severe violation appeals, modified version-related bans, explicit content review requests, privacy violation handling, and spam message restriction appeals. The tool also includes options to update, view, or delete requests.\n\nAutomated Ban Appeal Request Submissions\nSevere Violation Appeal Processing\nModified Versions Ban Removal\nExplicit Content Ban Review Form\nWhatsApp Privacy Violation Handling\nSpam Messages Restriction Appeals\nUpdate Requests\nView Requests\nDelete Requests\nIntegrated Notification Dispatch System\nRoot and System Tools\nFor users working with system-level Android settings, the tool includes several root-related options. These include Magisk installation, dependency library installation, custom libraries, and an option to send libraries to the phone.A Google Play Integrity Checker is also listed. Other options include clearing Google Apps data and a fix for School Device Enterprise Profile.\n\nInstall Magisk\nInstall Dependency Library\nInstall Custom Libraries\nSend Libraries to Phone\nGoogle Play Integrity Checker\nClear Google Apps Data\nSchool Device Enterprise Profile Fix\nDevice Connection and Android Utilities\nThe program can show the mobile screen in real time. This can be useful when you want to see the connected phone screen from the computer while working with the device.\n\nWireless ADB connection is also available through the ADB WiFi option. For older devices, the feature list also mentions a dependency issue fix for Android 6 and Android 7.\n\nShow Mobile Screen\nWireless Connection via ADB WiFi\nLegacy Android 6/7 Dependency Issue Fix\nLanguage and Interface Settings\nAMProFixWA Tool V1.6 supports both Arabic and English. You can choose the preferred language from the available settings. Theme options are also included, with Default, Light, and Dark choices mentioned in the provided details.\n\nThe tool also lists Smart Mode automation, sound effect settings, server status monitoring, and license expiry status monitoring.\n\nArabic and English Language Switcher\nDefault Theme\nLight Theme\nDark Theme\nSmart Mode Automation Toggle\nSound Effects Settings\nReal-Time Server Status Monitor\nLicense Expiry Status Monitor\nHow to Install AMProFixWA Tool V1.6\nThe installation process starts with the AMProTool.rar archive file.\n\nDownload the AMProTool.rar file.\nFind the downloaded archive on your computer.\nRight-click the file and choose Extract Here or Extract to AMProTool.\nOpen the extracted folder.\nRight-click on AMProTool.exe and select Run as administrator.\nWhen the setup opens, click Next on the Welcome screen.\nChoose the folder where you want to install the software. The provided default location is C:\\Program Files (x86)\\AMProFixWhatsApp.\nClick Next and select Create a desktop icon if you want a shortcut on the desktop.\nClick Install and wait for the installation to finish.\nClick Finish after the setup is complete.\nRight-click the AMProTool desktop icon and run it as administrator.\nWait for the loader to check the license status and server connection.\nChoose your preferred language and theme on the login screen.\nClick Log In.\nEnable USB Debugging on the Android device.\nConnect the device to the computer with a USB cable.\nHow to Connect an Android Device\nAccording to the provided usage steps, USB Debugging needs to be enabled before connecting the Android phone through a USB cable. Once the device is connected, you can use the available options inside the tool.\n\nThe feature list also includes ADB WiFi for wireless connection and an option to show the mobile screen in real time.\n\nDownload AMProFixWA Tool V1.6\nYou can download AMProFixWA Tool V1.6 from the link below.\n\nBefore using options that delete or clear WhatsApp data, check what the selected option will do and keep your important data safe.",
-      "downloads": 5,
+      "downloads": 9,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787548825596,
@@ -39046,7 +39046,7 @@
       ],
       "createdAt": 1787653442731,
       "description": "Aftersales Tool Box V4 Free How to Set Up Aftersales Tool Box V4\nExtract the files: Unzip the software package and prepare the files on your Windows PC.\nInstall the drivers: Install the MTK and SPD drivers included with the package so the phone can be detected by the computer.\nLog in: Open the tool and enter your login details to activate the account.\nUpdate the tools: Open the Tools Manager and update the modules you plan to use.\nSelect the phone: Choose the brand and then select the correct model.\nDownload firmware: Search for the required firmware and download the available files.\nConnect the phone: Turn off the phone, use the required boot key such as Volume Up or Volume Down, connect the USB cable, and start the selected service operation.\n\nDownload Information\nSoftware Name\tAftersales Tool Box\nVersion\tV4 2025\nSupported Devices\tTecno, Infinix, Itel\nSupported Chipsets\tMediaTek, Spreadtrum (SPD), Qualcomm",
-      "downloads": 10,
+      "downloads": 21,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1787653442731,
@@ -39082,7 +39082,7 @@
       ],
       "createdAt": 1787657787862,
       "description": "HBG VoLTE IMS Fixer Tool What You Can See in the Software\nDevice Model — Shows the connected Android device model.\nAndroid Version — Shows the Android version detected from the phone.\nManufacturer — Displays the phone manufacturer.\nSIM Carrier — Shows the available SIM carrier information.\nVoLTE Status — Displays the current VoLTE status shown by the tool.\n1-Click VoLTE Fix — Runs the automatic VoLTE activation option.\nShizuku & Pixel IMS — Provides the option for installing the Shizuku and Pixel IMS app set.\nStatus Messages — Shows messages related to the current process.\n\nDownload Information\nSoftware Name\tHBG VoLTE & IMS Fixer\nDeveloper\tHBG\nSupported OS\tWindows\nSupported Devices\tAndroid devices supported by the tool",
-      "downloads": 0,
+      "downloads": 8,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787657787862,
@@ -39114,6 +39114,50 @@
       "published": true,
       "size": "48mb",
       "unrarPassword": ""
+    },
+    "f_mtb32arp_o8rxl4v3s": {
+      "name": "BL Tool Limited Device Tool Free",
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "size": "83mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL9VYHAP9Y6vC2ZBleDthTKNR27s7kV-6H1wTvCkZMt4NZfzWnDZ6wArhZpCIdq9ky6YS0opFLZTLQx-RM5fzPdQwJVTRrTaFJuf2_SIqhyphenhyphenlqOhfs-rANSNoSr07snTRtdFKrad86vkhsztraqpEIeHRO63YBdnAbcDZ6impxyUx2GjhVH1Kzji-E_vt8L/s1600/BL%20Tool%20Limited%20Device%20Tool%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL9VYHAP9Y6vC2ZBleDthTKNR27s7kV-6H1wTvCkZMt4NZfzWnDZ6wArhZpCIdq9ky6YS0opFLZTLQx-RM5fzPdQwJVTRrTaFJuf2_SIqhyphenhyphenlqOhfs-rANSNoSr07snTRtdFKrad86vkhsztraqpEIeHRO63YBdnAbcDZ6impxyUx2GjhVH1Kzji-E_vt8L/s1600/BL%20Tool%20Limited%20Device%20Tool%20Free.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "gsmyogesh",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "bl-tool-limited-device-tool-free",
+      "description": "BL Tool Limited Device Tool Free  Features\nBootloader Unlock operation for Xiaomi Redmi Turbo 4 Pro.\nShows Redmi Turbo 4 Pro as the target device.\nDisplays Snapdragon 8 Gen 4 chipset information.\nChecks for a connected USB device before starting.\nShows a message if no device is connected.\nRequires USB Debugging according to the displayed error message.\nDisplays operation logs during the process.\nShows success, error, warning, and information messages.\nIncludes a progress bar with percentage display.\nShows elapsed time during the operation.\nIncludes Start and Stop buttons.\nAsks for confirmation before starting the operation.\nChecks the unlock status during the process.\nShows instructions after the operation is completed.\nHow to Install\nDownload the tool files.\nExtract the downloaded zip file if the tool is provided in an archive.\nMake sure the required files used by the program are available.\nOpen the BL Tool Limited Device by GSMYOGESH.\nConnect the Xiaomi Redmi Turbo 4 Pro device.\nEnable USB Debugging as required by the message shown in the tool.\nClick the Start button and confirm the operation when asked.",
+      "downloads": 0,
+      "link": "https://drive.google.com/file/d/1yD35vY0a1GWnCzT27pMZMY0XwXI30dpS/view?usp=sharing",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "BL Tool Limited Device Tool Free",
+          "urls": [
+            {
+              "url": "https://drive.google.com/file/d/1yD35vY0a1GWnCzT27pMZMY0XwXI30dpS/view?usp=sharing",
+              "password": ""
+            },
+            {
+              "url": "https://drive.proton.me/urls/5T8YB0KT4G#PVYmj09FUszz",
+              "password": ""
+            },
+            {
+              "url": "https://mega.nz/file/A79Q2bpC#3ahdY7vaKXvtIfiB7GcrMQzi-OtHhtoL19xYmttKfZQ",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1Od87ISBUk9S0GpkcSFxQRA",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1787808571909,
+      "lastModified": 1787808571909
     }
   },
   "images": {
@@ -49317,7 +49361,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-25T13:37:09.234Z",
+    "createdAt": "2026-08-27T05:30:37.731Z",
     "version": "2.0",
     "sections": 4
   }
