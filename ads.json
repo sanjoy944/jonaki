@@ -39207,7 +39207,7 @@
       ],
       "createdAt": 1787832568674,
       "description": "VNboards v1.2.63 Free Download Features\nNew users can install the software using VNboards_Setup.exe.\nThe installer allows you to choose the installation location.\nA Desktop shortcut is created during installation.\nThe app opens automatically after installation is completed.\nExisting users can update directly from the app using the Update button.\nVNboards_Update.zip is handled internally by the self-update system.\nImproved protection for board data.\nThe software can identify devices using multiple hardware signals.What's New (Changelog)\nUpdated VNboards to version v1.2.63.\nAdded stronger protection for board data.\nThe software can now identify a device using multiple hardware signals.\nThis helps prevent intentional attempts to download large amounts of board data again by using another account.\nThe protection does not affect normal software use.\nNo personal information is collected for this protection.\nOnly some hardware identifiers are used after one-way encryption.\n\nHow to Install\nDownload VNboards_Setup.exe if you are installing VNboards for the first time.\nRun the downloaded installer file.\nChoose the installation location when the installer asks.\nComplete the installation process.\nA Desktop shortcut will be created.\nThe application opens automatically after installation.\nIf VNboards is already installed, open the app and click Update instead of downloading the installer again.",
-      "downloads": 80,
+      "downloads": 81,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1787919064988,
@@ -39485,40 +39485,93 @@
       "unrarPassword": ""
     },
     "f_mtdvhcdt_6eqtl1q81": {
-      "name": "VIVO S7E Diagrams",
-      "folderId": "f_mq0spfvh_7m2oilgl0",
-      "size": "1.8GB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtVYakNhTzSY49jzxNcvTa2BU7DUhrdBClRf8D6UvgaMDP77xSEoktLk0nqHGG6ujs2EaqT05LXOMRpI9QXcpr6L1ORJYLmJtGLnpFhfUY3aYjzDddcJbz48G5z2PRRsQ_X9hkjLv5f2mVjCHY_OFAn5BSQECLS-gj7Uklrl-Ul8EhwZnUYn6GOYMjtFMW/w640-h366/VIVO%20S7E.png",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtVYakNhTzSY49jzxNcvTa2BU7DUhrdBClRf8D6UvgaMDP77xSEoktLk0nqHGG6ujs2EaqT05LXOMRpI9QXcpr6L1ORJYLmJtGLnpFhfUY3aYjzDddcJbz48G5z2PRRsQ_X9hkjLv5f2mVjCHY_OFAn5BSQECLS-gj7Uklrl-Ul8EhwZnUYn6GOYMjtFMW/w640-h366/VIVO%20S7E.png"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "vivo-s7e-diagrams",
+      "createdAt": 1787977235441,
       "description": "VIVO S7E Free Diagrams",
       "downloads": 0,
-      "link": "https://drive.google.com/drive/folders/1Mbw2_6_GexHT6JXgzY5dLAKynyEu345n?usp=sharing",
+      "folderId": "f_mq0spfvh_7m2oilgl0",
       "isLink": false,
-      "published": true,
+      "lastModified": 1787977235441,
+      "link": "https://drive.google.com/drive/folders/1Mbw2_6_GexHT6JXgzY5dLAKynyEu345n?usp=sharing",
       "links": [
         {
           "label": "VIVO S7E",
           "urls": [
             {
-              "url": "https://drive.google.com/drive/folders/1Mbw2_6_GexHT6JXgzY5dLAKynyEu345n?usp=sharing",
+              "password": "",
+              "url": "https://drive.google.com/drive/folders/1Mbw2_6_GexHT6JXgzY5dLAKynyEu345n?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1DsYpOwwYNpo_v-tDxn4efg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "VIVO S7E Diagrams",
+      "password": "",
+      "publishUrl": "vivo-s7e-diagrams",
+      "published": true,
+      "size": "1.8GB",
+      "unrarPassword": ""
+    },
+    "f_mtdxtmvy_jn424oebd": {
+      "name": "At Om Sabri v2.0 FRP Tool",
+      "folderId": "f_mp6slktt_m1jmxog5l",
+      "size": "40MB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigKhBoPB3AeW7cMNITkEmWRNQb6Af2fAYYZf8fl-3OZ7YgHCzxrKYGsy0-WgVc7buSLYmJD5dgbWNX7nvkaS8PjK_ocW6ESRhbwa6eqOv4cWtFTXVv0eG6_Euwc6FxdWoYVVmGbBQfnE-2afd9BQMs9AdpTcIkhO0x2ULITnAo-1x-n55Kji9xwihjsuEg/s1600/At%20Om%20Sabri%20v2.0%20FRP%20Tool.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigKhBoPB3AeW7cMNITkEmWRNQb6Af2fAYYZf8fl-3OZ7YgHCzxrKYGsy0-WgVc7buSLYmJD5dgbWNX7nvkaS8PjK_ocW6ESRhbwa6eqOv4cWtFTXVv0eG6_Euwc6FxdWoYVVmGbBQfnE-2afd9BQMs9AdpTcIkhO0x2ULITnAo-1x-n55Kji9xwihjsuEg/s1600/At%20Om%20Sabri%20v2.0%20FRP%20Tool.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "at-om-sabri-v20-frp-tool",
+      "description": "At Om Sabri v2.0 FRP Tool Free Download Features\nFRP Removal\nNormal FRP Remove\nRoot FRP Remove\nLEASIA device support\nSupport for all LEASIA devices as mentioned by the developer\nADB support\nAdvanced ADB commands\nAndroid device management through ADB\nAndroid Console\nDevice detection\nSerial number display\nBROM status display\nOTA update control\nDisable OTA updates\nEnable OTA updates\nControl automatic system updates\nOutput console for showing tool activity\nClear console option\nCopy console output option\nStop option during FRP operation\nDevice list shown inside the program\nYoung 1 support\nYoung 2 support\nYoung 3 support\nYoung 6 support\nYoung 9 support\nBRIGHT 3 support\nPad 10 V1 support\nPad 10 V2 support\nFree to use\nNo license required\nNo activation required\nNo waiting time\nPortable EXE program\nNo installation required\nDaily updates\nRegular new features and improvements\n\nMy Experience With The File\nI tried it on Windows 11 first, but Chrome was not letting me download the EXE and was showing a virus message. Later I used the same file on Windows 10 with Chrome, and it downloaded normally without showing that warning. I also opened the tool there and it started without any virus message. So in my case, Windows 10 worked better for downloading and opening this file. Installation Guide\nThere is no proper installation needed for At Om Sabri Tool.\n\nDownload the At Om Sabri EXE file.\nSave the file somewhere on your Windows PC.\nIf Windows or Chrome shows a security warning, do not ignore it blindly. Scan the file first.\nAfter checking the file, run the EXE as administrator if required.\nThe program should open directly without a setup wizard.\nConnect your supported Android device to the PC.\nInstall the required USB/ADB drivers if your PC does not detect the phone.\nCheck the device information and connection status in the tool.\nSelect the section you need, such as FRP Removal or Android Tools.\nChoose the required operation and follow the messages shown in the output console.",
+      "downloads": 0,
+      "link": "https://drive.google.com/file/d/168s0mKZ6rKMnmdI0CcstT1FX7oawJU7F/view?usp=sharing",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "At Om Sabri v2.0 FRP Tool",
+          "urls": [
+            {
+              "url": "https://drive.google.com/file/d/168s0mKZ6rKMnmdI0CcstT1FX7oawJU7F/view?usp=sharing",
               "password": ""
             },
             {
-              "url": "https://1024terabox.com/s/1DsYpOwwYNpo_v-tDxn4efg",
+              "url": "https://mega.nz/file/wt9ClQyR#5UB7IAiXTeqLKYz4yjn35zioeOEOBZX8PrWHDlndZX4",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1AMOBlGnWY6ogZW-qSxRw2A",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "Official Link",
+          "urls": [
+            {
+              "url": "https://saidanimelek26.github.io/AT_om_sabri/",
+              "password": ""
+            },
+            {
+              "url": "https://github.com/saidanimelek26/AT_om_sabri/releases/download/omsabria/atomsabri.exe",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1787977235441,
-      "lastModified": 1787977235441
+      "createdAt": 1787981168158,
+      "lastModified": 1787981168158
     }
   },
   "images": {
@@ -49722,7 +49775,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-08-29T04:20:39.480Z",
+    "createdAt": "2026-08-29T05:26:14.177Z",
     "version": "2.0",
     "sections": 4
   }
