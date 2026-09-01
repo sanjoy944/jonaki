@@ -37880,7 +37880,7 @@
       ],
       "createdAt": 1786245553521,
       "description": "Features Data Unlocker Tool\nSupports offline operation without requiring the original online server.\nNo internet connection required after installation.\nNo activation or yearly renewal needed for the offline edition.\nSupports Samsung, Xiaomi, Huawei, Motorola, LG, Oppo, Vivo, Infinix, Realme and other supported Android devices.\nCompatible with MediaTek, Qualcomm and Unisoc chipsets.\nBuilt-in Unlock module for supported devices.\nRead device information before starting any repair operation.\nDirect Unlock function for supported phone models.\nRepair IMEI option for supported devices.\nRead security or unlock codes.\nRead device certificates.\nWrite certificates back to supported devices.\nRestore security data after supported repair procedures.\nRepair boot-related problems on supported phones.\nCalculate Motorola unlock codes using IMEI.\nChange Samsung CSC.\nChange LG CSC.\nConvert CSC for supported Samsung and LG devices.\nRemove Samsung FRP through MTP Mode.\nWrite EmToken using ADB.\nSupports EmToken V1, V2, V3 and V4.\nMediaTek Custom DA selection.\nSupports manual Preloader loading.\nSupports manual EMI file loading.\nRemove FRP through BROM Mode.\nRemove Xiaomi Mi Account on supported MTK devices.\nRemove Demo Mode from supported Oppo devices.\nRemove Demo Mode from supported Vivo devices.\nRemove Huawei ID on supported models.\nRemove Realme ID on supported devices.\nSafe Factory Reset option.\nRemove Samsung KG Lock.\nRemove Samsung Knox protection.\nRemove Infinix MDM.\nUnlock bootloader on supported MTK devices.\nRepair Boot using BROM Mode.\nPartition Manager with Read function.\nPartition Manager with Erase function.\nPartition Manager with Write function.\nBackup Security partitions.\nCrash Preloader function.\nBuilt-in Scatter firmware flasher.\nFlash Dump files.\nQualcomm support by Model.\nQualcomm support using Firehose loader.\nManual Firehose loader selection.\nSamsung Qualcomm servicing.\nRemove Qualcomm FRP Lock.\nRemove Xiaomi Mi Account (A-R).\nRemove Xiaomi Mi Account M2.\nRemove Samsung Knox.\nRemove Samsung KG Lock.\nFast Knox and KG removal method.\nRemove Huawei ID.\nReset modem configuration.\nBackup EFS partition.\nFactory Reset using EXT4.\nQualcomm Loader Manager.\nQualcomm Partition Manager.\nQualcomm firmware flashing support.\nUnisoc and Spreadtrum device support.\nRemove FRP Lock on supported Unisoc phones.\nRemove MDM (Beta).\nFactory Reset for supported devices.\nNetwork Unlock function.\nRead IMEI 1.\nWrite IMEI 1.\nRead IMEI 2.\nWrite IMEI 2.\nRead partitions.\nErase partitions.\nWrite partitions.\nFlash PAC firmware files.\nSamsung DM Mode flashing.\nLG DM Mode flashing.\nMotorola Fastboot flashing.\nRead connected device information.\nStart firmware flashing.\nKDZ firmware flashing support.\nXML firmware flashing support.\nDump file flashing support.\nConvert supported devices to CDMA.\nEnable VoLTE directly.\nRead Carrier Policy.\nWrite Carrier Policy.\nRepair Baseband.\nWrite 3G Settings.\nPatch Sprint SIM.\nInstall 4G Settings.\nDisable supported network bands.\nEnable supported network bands.\nRepair 4G network problems.\nRepair Replace SIM issues.\nRemove Policyman.\nWrite Motorola 3G settings.\nWrite QCN backup.\nOpen SPD Engineer Menu.\nOpen SPD Operator Settings.\nOpen SPD GCF Settings.\nOpen IMS Menu for ZTE devices.\nOpen IMS Menu for LG devices.\nOpen MediaTek Engineer Mode.\nOpen MediaTek Operator Selection Menu.\nOpen MediaTek MiscConfig Menu.\nOpen Xiaomi MBN Config Editor.\nOpen Qualcomm MBN Test Menu.\nEnable VoLTE on rooted MTK devices.\nSamsung KG Removal Method 1.\nSamsung KG Removal Method 2.\nSamsung KG Removal Method New 5.\nStart KG Removal process.\nRepair Call Not Sent problem.\nOpen LG Diag Menu.\nOpen LG APN Menu.\nOpen LG Enable Bands Menu.\nOpen LG NOA Test Settings.\nOpen LG MCFG Edit Menu.\nOpen Samsung SPC Menu.\nOpen Samsung USB Menu.\nOpen Samsung Hidden Services.\nOpen Samsung Change CSC Menu.\nOpen Universal Network Menu.\nEnable Diag Mode for supported devices.\nOpen ZTE General Diag Menu.\nSupports manual DA, EMI and Firehose loading after server shutdown.\nWorks completely offline with locally stored firmware files.\nDesigned for Windows 7, Windows 8, Windows 10 and Windows 11.\nSimple login with pre-configured offline credentials.\nDark modern user interface with organized service tabs.\nWhat's New in Data Unlocker Tool V1.7.4\nAdded Direct Unlock support for Samsung Galaxy SM-A136U (ATT/CHA) Bit 9 to A.\nAdded Direct Unlock support for SM-A136U1 (ATT/CHA) Bit 9 to A.\nAdded Direct Unlock support for SM-A136W (All Carriers) Bit 9 to A.\nAdded Direct Unlock support for SM-A136B (All Carriers) Bit 7 to 8.\nAdded Direct Unlock support for SM-A136M (All Carriers) Bit 8 to 9.\nAdded Direct Unlock support for SM-A136S (All Carriers) Bit 6 to 7.\nAdded Direct Unlock support for SM-A326U (ATT/CHA) Bit E to F.\nAdded Direct Unlock support for SM-A326U1 (ATT/CHA) Bit E to F.\nAdded Direct Unlock support for SM-A326W (All Carriers) Bit E to F.\nAdded Direct Unlock support for SM-A326B (All Carriers) Bit B to C.\nAdded Direct Unlock support for SM-A326BR (All Carriers) Bit B to C.\nAdded Direct Unlock support for SM-A326K (All Carriers) Bit 5 to 6.\nAdded Direct Unlock support for SM-T227U (ATT/CHA) Bit 9 to A.\nSome supported Samsung models now require a Test Point during the unlocking process.\nAdded Direct Unlock support for Dialn Nova.\nAdded Direct Unlock support for Dialn X62.\nAdded Direct Unlock support for Dialn X65.\nAdded Direct Unlock support for Dialn Neo.\nAdded support for the new Unisoc Tiger T310_64 CPU.\nAdded more supported models for Annual License users.\nGeneral improvements for stability and compatibility.\nFixed various reported bugs.\n\n\nHow to Install Data Unlocker Tool V1.7.4\nDownload the ZIP package from the download section below.\nExtract the archive using WinRAR or 7-Zip.\n\nWhen prompted, enter the extraction password: gsmyogesh.\nOpen the extracted Data Unlock Tool folder.\nRun Data Unlock Tool.exe as Administrator.\nThe username and password are already filled in. Do not modify them.\nClick the Login button.\nAfter the Login Successful message appears, click OK.\n\n\nThe software will open and is ready for offline use.\nIf a repair or flashing operation requires a DA, EMI or Firehose file, browse to your own local files because the original server is no longer available.\nDownload Data Unlocker Tool V1.7.4",
-      "downloads": 12,
+      "downloads": 15,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786245553521,
@@ -39118,7 +39118,7 @@
       ],
       "createdAt": 1787657787862,
       "description": "HBG VoLTE IMS Fixer Tool What You Can See in the Software\nDevice Model — Shows the connected Android device model.\nAndroid Version — Shows the Android version detected from the phone.\nManufacturer — Displays the phone manufacturer.\nSIM Carrier — Shows the available SIM carrier information.\nVoLTE Status — Displays the current VoLTE status shown by the tool.\n1-Click VoLTE Fix — Runs the automatic VoLTE activation option.\nShizuku & Pixel IMS — Provides the option for installing the Shizuku and Pixel IMS app set.\nStatus Messages — Shows messages related to the current process.\n\nDownload Information\nSoftware Name\tHBG VoLTE & IMS Fixer\nDeveloper\tHBG\nSupported OS\tWindows\nSupported Devices\tAndroid devices supported by the tool",
-      "downloads": 58,
+      "downloads": 60,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787657787862,
@@ -39202,7 +39202,7 @@
       ],
       "createdAt": 1787832568674,
       "description": "VNboards v1.2.63 Free Download Features\nNew users can install the software using VNboards_Setup.exe.\nThe installer allows you to choose the installation location.\nA Desktop shortcut is created during installation.\nThe app opens automatically after installation is completed.\nExisting users can update directly from the app using the Update button.\nVNboards_Update.zip is handled internally by the self-update system.\nImproved protection for board data.\nThe software can identify devices using multiple hardware signals.What's New (Changelog)\nUpdated VNboards to version v1.2.63.\nAdded stronger protection for board data.\nThe software can now identify a device using multiple hardware signals.\nThis helps prevent intentional attempts to download large amounts of board data again by using another account.\nThe protection does not affect normal software use.\nNo personal information is collected for this protection.\nOnly some hardware identifiers are used after one-way encryption.\n\nHow to Install\nDownload VNboards_Setup.exe if you are installing VNboards for the first time.\nRun the downloaded installer file.\nChoose the installation location when the installer asks.\nComplete the installation process.\nA Desktop shortcut will be created.\nThe application opens automatically after installation.\nIf VNboards is already installed, open the app and click Update instead of downloading the installer again.",
-      "downloads": 222,
+      "downloads": 250,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1787919064988,
@@ -39522,7 +39522,7 @@
       ],
       "createdAt": 1787981168158,
       "description": "At Om Sabri v2.0 FRP Tool Free Download Features\nFRP Removal\nNormal FRP Remove\nRoot FRP Remove\nLEASIA device support\nSupport for all LEASIA devices as mentioned by the developer\nADB support\nAdvanced ADB commands\nAndroid device management through ADB\nAndroid Console\nDevice detection\nSerial number display\nBROM status display\nOTA update control\nDisable OTA updates\nEnable OTA updates\nControl automatic system updates\nOutput console for showing tool activity\nClear console option\nCopy console output option\nStop option during FRP operation\nDevice list shown inside the program\nYoung 1 support\nYoung 2 support\nYoung 3 support\nYoung 6 support\nYoung 9 support\nBRIGHT 3 support\nPad 10 V1 support\nPad 10 V2 support\nFree to use\nNo license required\nNo activation required\nNo waiting time\nPortable EXE program\nNo installation required\nDaily updates\nRegular new features and improvements\n\nMy Experience With The File\nI tried it on Windows 11 first, but Chrome was not letting me download the EXE and was showing a virus message. Later I used the same file on Windows 10 with Chrome, and it downloaded normally without showing that warning. I also opened the tool there and it started without any virus message. So in my case, Windows 10 worked better for downloading and opening this file. Installation Guide\nThere is no proper installation needed for At Om Sabri Tool.\n\nDownload the At Om Sabri EXE file.\nSave the file somewhere on your Windows PC.\nIf Windows or Chrome shows a security warning, do not ignore it blindly. Scan the file first.\nAfter checking the file, run the EXE as administrator if required.\nThe program should open directly without a setup wizard.\nConnect your supported Android device to the PC.\nInstall the required USB/ADB drivers if your PC does not detect the phone.\nCheck the device information and connection status in the tool.\nSelect the section you need, such as FRP Removal or Android Tools.\nChoose the required operation and follow the messages shown in the output console.",
-      "downloads": 29,
+      "downloads": 33,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1787981168158,
@@ -39631,7 +39631,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "UnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 1654,
+      "downloads": 1800,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788151134599,
@@ -39718,7 +39718,7 @@
       ],
       "createdAt": 1788084222018,
       "description": "Spreadtrum PAC Repack Tool v1.0.3 Free Download  Features Spreadtrum - Unisoc PAC Firmware Repack Tool\nLoad PAC File: Select a PAC firmware file directly from the tool.\nRead SysInfo: The tool includes a Read SysInfo option when loading a PAC file.\nUnpack PAC: Extract the files from a PAC package into a selected directory.\nRepack to PAC: Create a PAC file again from the files in an unpacked directory.\nFile Information: The tool can show file, build.prop, and anticrack state information when loading a PAC file.\n\nHow to Use\nOpen Spreadtrum / Unisoc PAC Firmware Repack Tool.\nClick Select Pac and choose the PAC firmware file.\nUse the Read SysInfo option if you want to read the available system information.\nClick Unpack Pac to extract the PAC contents into a folder.\nAfter working with the unpacked files, use Repack To PAC file to create a PAC package again.",
-      "downloads": 21,
+      "downloads": 25,
       "folderId": "f_mq907z24_lahwuzvyt",
       "isLink": false,
       "lastModified": 1788084222018,
@@ -39755,35 +39755,45 @@
       "size": "3.3MB",
       "unrarPassword": ""
     },
-    "f_mti38e4n_h3zpnwhph": {
-      "name": "notifty system text",
-      "folderId": "f_mp6sdi6s_ikugxspq5",
-      "size": "20mb",
-      "coverUrl": "",
-      "covers": [],
+    "f_mtimsuat_99c8glvzv": {
+      "name": "VoLTE VoIP Wi-Fi Tool Free",
+      "folderId": "f_mp6sjxdd_c186cvizt",
+      "size": "13.2mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRAxYLYeK580ZKQO4Zuv7SZlXKL860HUqQUPraJLuOx2PBHRNhToTzjXHvDn5PEtLv85FnXAzXZjTkbJHnuzETVUOo8hEukGvgGx1GFsJJ8cohlV-qjGvQxrpEPzIJT2Zy2vDILmKBc_z6EeVMvo7KFGC3meee1Sez4NMG_sGodLH7QWWXOMTF50NeqFf/w640-h358/VoLTE%20VoIP%20Wi-Fi%20Tool%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRAxYLYeK580ZKQO4Zuv7SZlXKL860HUqQUPraJLuOx2PBHRNhToTzjXHvDn5PEtLv85FnXAzXZjTkbJHnuzETVUOo8hEukGvgGx1GFsJJ8cohlV-qjGvQxrpEPzIJT2Zy2vDILmKBc_z6EeVMvo7KFGC3meee1Sez4NMG_sGodLH7QWWXOMTF50NeqFf/w640-h358/VoLTE%20VoIP%20Wi-Fi%20Tool%20Free.jpg"
+      ],
       "password": "",
       "unrarPassword": "",
       "loginUsername": "",
       "loginPassword": "",
-      "publishUrl": "notifty-system-text",
-      "description": "notifty system text",
+      "publishUrl": "volte-voip-wi-fi-tool-free",
+      "description": "VoLTE VoIP Wi-Fi Tool Free Download Features VoLTE + VoIP Wi-Fi Tool\nTurn VoLTE + VoIP Wi-Fi on or off with one click\nScan for ADB devices to connect your phone\nInstall Pixel IMS and Shizuku directly from the tool\nCheck IMS status on your connected device\nApply settings based on your phone brand (Samsung, Xiaomi, Oppo, Google)\nView activity logs showing what the tool is doing\nHow to Install\nDownload the file from the link provided below.\nExtract the downloaded files using 7-Zip or WinRAR.\nOpen the extracted folder and find the file named \"volte.exe\".\nRun the \"volte.exe\" file to launch the software.\nNo activation or sign-in is needed. The main interface opens instantly.\nConnect your Android device in ADB mode.\nThe tool is now ready to use.",
       "downloads": 0,
-      "link": "https://gdfd.com",
+      "link": "https://mega.nz/file/vhYDiYAR#Y1ZQrpQahsvb9o11aPl51kte4wdawtnpLzOtS3giams",
       "isLink": false,
       "published": true,
       "links": [
         {
-          "label": "notifty system text",
+          "label": "VoLTE VoIP Wi-Fi Tool Free",
           "urls": [
             {
-              "url": "https://gdfd.com",
+              "url": "https://mega.nz/file/vhYDiYAR#Y1ZQrpQahsvb9o11aPl51kte4wdawtnpLzOtS3giams",
+              "password": ""
+            },
+            {
+              "url": "https://mega.nz/file/k1FnAJIZ#1SBOnWREalaVQN6c0Cvi-X72rYjjjwKgTZnWy4ijRkc",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1rwiedev95DYs566xJk1pRw",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1788232119431,
-      "lastModified": 1788232119431
+      "createdAt": 1788264986213,
+      "lastModified": 1788264986213
     }
   },
   "images": {
@@ -49987,7 +49997,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-01T03:08:46.081Z",
+    "createdAt": "2026-09-01T12:19:09.986Z",
     "version": "2.0",
     "sections": 4
   }
