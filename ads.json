@@ -1105,7 +1105,7 @@
       ],
       "createdAt": 1779184648016,
       "description": "Main Features of TFT Unlock Tool\nFRP Remove\nFactory Reset\nBootloader Unlock and Relock\nSamsung KG and Knox Disable\nMTK and Qualcomm Support\nADB Functions\nFastboot Functions\nMTP and Meta Mode Support\nRead Device Information\nReset Passcode\nMiCloud Reset Functions\nSupport for Samsung, Xiaomi, Vivo, Oppo, Huawei, Realme, Tecno, Infinix, and many more brands",
-      "downloads": 138,
+      "downloads": 140,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1779618122482,
@@ -2707,7 +2707,7 @@
       "coverUrl": "",
       "createdAt": 1779715579224,
       "description": "Nice Unlocker MDM Tool 3.5 Free By GCT Team",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mpl8jx22_ghntv5g57",
       "isLink": false,
       "lastModified": 1788169716825,
@@ -23788,7 +23788,7 @@
       ],
       "createdAt": 1781527715760,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1788156515077,
@@ -25456,7 +25456,7 @@
       ],
       "createdAt": 1781585158676,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1781585158676,
@@ -29572,7 +29572,7 @@
       ],
       "createdAt": 1782040314903,
       "description": "",
-      "downloads": 3,
+      "downloads": 5,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788157414567,
@@ -30436,7 +30436,7 @@
       ],
       "createdAt": 1782043079024,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mq90y5hx_pgeh8l0ya",
       "isLink": false,
       "lastModified": 1782043079024,
@@ -37310,7 +37310,7 @@
       "coverUrl": "",
       "createdAt": 1784292663680,
       "description": "",
-      "downloads": 0,
+      "downloads": 10,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1784292663680,
@@ -39118,7 +39118,7 @@
       ],
       "createdAt": 1787657787862,
       "description": "HBG VoLTE IMS Fixer Tool What You Can See in the Software\nDevice Model — Shows the connected Android device model.\nAndroid Version — Shows the Android version detected from the phone.\nManufacturer — Displays the phone manufacturer.\nSIM Carrier — Shows the available SIM carrier information.\nVoLTE Status — Displays the current VoLTE status shown by the tool.\n1-Click VoLTE Fix — Runs the automatic VoLTE activation option.\nShizuku & Pixel IMS — Provides the option for installing the Shizuku and Pixel IMS app set.\nStatus Messages — Shows messages related to the current process.\n\nDownload Information\nSoftware Name\tHBG VoLTE & IMS Fixer\nDeveloper\tHBG\nSupported OS\tWindows\nSupported Devices\tAndroid devices supported by the tool",
-      "downloads": 60,
+      "downloads": 63,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787657787862,
@@ -39202,22 +39202,31 @@
       ],
       "createdAt": 1787832568674,
       "description": "VNboards v1.2.63 Free Download Features\nNew users can install the software using VNboards_Setup.exe.\nThe installer allows you to choose the installation location.\nA Desktop shortcut is created during installation.\nThe app opens automatically after installation is completed.\nExisting users can update directly from the app using the Update button.\nVNboards_Update.zip is handled internally by the self-update system.\nImproved protection for board data.\nThe software can identify devices using multiple hardware signals.What's New (Changelog)\nUpdated VNboards to version v1.2.63.\nAdded stronger protection for board data.\nThe software can now identify a device using multiple hardware signals.\nThis helps prevent intentional attempts to download large amounts of board data again by using another account.\nThe protection does not affect normal software use.\nNo personal information is collected for this protection.\nOnly some hardware identifiers are used after one-way encryption.\n\nHow to Install\nDownload VNboards_Setup.exe if you are installing VNboards for the first time.\nRun the downloaded installer file.\nChoose the installation location when the installer asks.\nComplete the installation process.\nA Desktop shortcut will be created.\nThe application opens automatically after installation.\nIf VNboards is already installed, open the app and click Update instead of downloading the installer again.",
-      "downloads": 250,
+      "downloads": 289,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
-      "lastModified": 1787919064988,
+      "lastModified": 1788316325946,
       "link": "https://mega.nz/file/d3tF2DQK#ftZWXIJXWeX2kuXqGfsurlXm7-EE9eu9tlp-p0osy2o",
       "links": [
         {
           "label": "VNboards v1.2.63 Free Download",
           "urls": [
             {
-              "password": "",
-              "url": "https://mega.nz/file/d3tF2DQK#ftZWXIJXWeX2kuXqGfsurlXm7-EE9eu9tlp-p0osy2o"
+              "url": "https://mega.nz/file/d3tF2DQK#ftZWXIJXWeX2kuXqGfsurlXm7-EE9eu9tlp-p0osy2o",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/1UWRJfnFN-DBYVfJhfmV8Ug"
+              "url": "https://1024terabox.com/s/1UWRJfnFN-DBYVfJhfmV8Ug",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "Official Website",
+          "urls": [
+            {
+              "url": "https://github.com/Henrybi9/conmat-viewer-data/releases/",
+              "password": ""
             }
           ]
         }
@@ -39239,7 +39248,7 @@
       ],
       "createdAt": 1787840407838,
       "description": "Haafedk iCloud A12+ V15 Free CRACK Download (No Login Required)\nHaafedk iCloud A12+ V15 Features\nDevice Information\nBefore using other options, the tool includes a Read Device function. According to the provided feature list, it can show several device details.\n\nRead Device: Reads the connected device information.\nSerial Number: Displays the device serial number.\nECID: Shows the ECID information.\nIMEI: Displays the IMEI.\nUDID: Shows the UDID.\nMode: Displays the current device mode.\niOS Version: Shows the installed iOS version.\nProduct Type: Displays the device product type.\nBuild: Shows the build information.\nJailbreak Status: Displays the jailbreak status.\nActivation Status: Shows the activation status.\nRegion: Displays the device region.\nBypass Options\nThe V15 feature list includes several Hello Bypass and MDM bypass options. The requirements mentioned with each option should be checked before trying to use them.\n\nHello Bypass A12/A13: Listed for A12 and A13 devices.\nHello Bypass 4S – 17 Pro Max: This option is listed as requiring WiFi.\nHello Bypass iPhone – iPad: Listed with a jailbreak requirement.\nHello Bypass iOS 12 – 14: Also listed as requiring jailbreak access.\nBypass MDM Old: An option for the old MDM bypass method.\nBypass MDM New: An option for the new MDM bypass method.\nDevice Operations\nA few device-related operations are also included in the provided list.Read Device: Used to read device details.\nFix Drivers: An option related to drivers.\nWin Test Mode: A Windows Test Mode option.\nPatcher Settings\nThe patcher section includes three listed options.\n\nAdd MobileGestalt: An option for adding MobileGestalt.\nSupported Devices: Lets you check the listed supported devices section.\nChange Serial: An option related to changing the serial.\nOther Bypass Settings\nThere are also a few toggle-style options in the feature list.\n\nBlock OTA: An option related to blocking OTA.\nSkip Setup: An option for skipping setup.\nDisable Factory Reset: An option related to disabling factory reset.\nIncluded Tools\nThe software also lists two extra tools.\n\nDevice Manager: Opens the Device Manager tool.\nWinRa1n Jailbreak Tool: The WinRa1n Jailbreak Tool is included in the listed tools section.\niCloud Tools\nTwo iCloud-related options are mentioned in the V15 feature list.\n\nFix iCloud Login: An option related to fixing iCloud login.\nEnable Factory Reset: An option for enabling factory reset.\nInstallation Steps\nExtract the downloaded setup archive to a folder on your computer.\nOpen the extracted folder and run the setup file, such as HAAFEDK_A12_SETUP.exe.\nIf Windows Defender SmartScreen stops the application from opening, select More info and then choose Run anyway.\nContinue through the setup wizard and select the installation folder. The provided instructions mention C:\\Haafedk-iCloud-a12 as the usual default location.\nIf you want a shortcut on your desktop, select the option for creating one.\nClick Install and wait for the setup process to finish.\nWindows Defender may flag the software during installation. The provided instructions say that installation can be interrupted in this situation.\nIf you choose to change Windows Security settings, do so carefully. Temporarily disabling protections can create security risks, so this should only be considered when you fully trust the software source.\nAfter installation is complete, close the setup wizard.\nOpen the installation folder or use the desktop shortcut to start Haafedk A12.exe.\nThe provided instructions mention a cracked login button at the login screen for bypassing the credentials and opening the main dashboard.\nDownload Haafedk iCloud A12+ V15\nThe available information identifies this version as V15. Before downloading or installing any software, make sure you trust the source and understand the security risks mentioned in the installation instructions.",
-      "downloads": 59,
+      "downloads": 74,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787881365705,
@@ -39325,7 +39334,7 @@
       ],
       "createdAt": 1787918379886,
       "description": "UST Tool v7.0.0 Free Activation  Read Info for Hardware SoC information, MEID, SOCID, security status, and GPT details.\nReset FRP / Bypass FRP.\nFactory Reset + FRP for wiping Userdata, Metadata, and Cache.\nReboot MediaTek device to normal mode.\nUnlock Bootloader using the listed seccfg partition method.\nRelock Bootloader and restore the listed lock state and verification checksums.\nBypass Auth (SLA / DAA) using the listed BROM and payload process.\nRead Partition and save selected partition data as a BIN file.\nWrite / Flash Partition using an image file.\nErase selected partition blocks.\nDump Preloader and save the active preloader binary.\nDump Bootrom memory area.\nXiaomi\nFlash\nFlash Firmware.\nFormat Data.\nBrowse Scatter Firmware.\nService\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nFastboot\nRead CSSD.\nFormat Data.\nReboot Device.\nMi Assistant\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nEFS\n\nHow to Install UST Tool v7.0.0\nDownload the UST Tool package and save it on your computer.\nExtract the downloaded archive to a folder.\nOpen the extracted USTTOOL folder.\nDouble-click USTTOOL.exe to start the software.\nWhen the CONTROL MODULE window appears, click Copy Hardware ID Key.\nOpen the provided activation page and find the Generate 10 Days Free Activation Key section.\nPaste the copied Hardware ID into the ENTER YOUR 16-CHAR HWID box.\nClick GENERATE KEY NOW and copy the complete generated license key.\nReturn to the UST Tool Control Module.\nPaste the key into Paste Activation License Token Here.\nClick REGISTER LICENSE.\nAccording to the provided process, a green Success message appears after successful registration.\n\nWait for the tool loading process to complete.\nComplete the login screen as required by the software.\nAfter opening the main interface, the tool is ready for the supported functions listed above.",
-      "downloads": 71,
+      "downloads": 72,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787918379886,
@@ -39522,7 +39531,7 @@
       ],
       "createdAt": 1787981168158,
       "description": "At Om Sabri v2.0 FRP Tool Free Download Features\nFRP Removal\nNormal FRP Remove\nRoot FRP Remove\nLEASIA device support\nSupport for all LEASIA devices as mentioned by the developer\nADB support\nAdvanced ADB commands\nAndroid device management through ADB\nAndroid Console\nDevice detection\nSerial number display\nBROM status display\nOTA update control\nDisable OTA updates\nEnable OTA updates\nControl automatic system updates\nOutput console for showing tool activity\nClear console option\nCopy console output option\nStop option during FRP operation\nDevice list shown inside the program\nYoung 1 support\nYoung 2 support\nYoung 3 support\nYoung 6 support\nYoung 9 support\nBRIGHT 3 support\nPad 10 V1 support\nPad 10 V2 support\nFree to use\nNo license required\nNo activation required\nNo waiting time\nPortable EXE program\nNo installation required\nDaily updates\nRegular new features and improvements\n\nMy Experience With The File\nI tried it on Windows 11 first, but Chrome was not letting me download the EXE and was showing a virus message. Later I used the same file on Windows 10 with Chrome, and it downloaded normally without showing that warning. I also opened the tool there and it started without any virus message. So in my case, Windows 10 worked better for downloading and opening this file. Installation Guide\nThere is no proper installation needed for At Om Sabri Tool.\n\nDownload the At Om Sabri EXE file.\nSave the file somewhere on your Windows PC.\nIf Windows or Chrome shows a security warning, do not ignore it blindly. Scan the file first.\nAfter checking the file, run the EXE as administrator if required.\nThe program should open directly without a setup wizard.\nConnect your supported Android device to the PC.\nInstall the required USB/ADB drivers if your PC does not detect the phone.\nCheck the device information and connection status in the tool.\nSelect the section you need, such as FRP Removal or Android Tools.\nChoose the required operation and follow the messages shown in the output console.",
-      "downloads": 33,
+      "downloads": 37,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1787981168158,
@@ -39631,7 +39640,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "UnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 1800,
+      "downloads": 1855,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788151134599,
@@ -39718,7 +39727,7 @@
       ],
       "createdAt": 1788084222018,
       "description": "Spreadtrum PAC Repack Tool v1.0.3 Free Download  Features Spreadtrum - Unisoc PAC Firmware Repack Tool\nLoad PAC File: Select a PAC firmware file directly from the tool.\nRead SysInfo: The tool includes a Read SysInfo option when loading a PAC file.\nUnpack PAC: Extract the files from a PAC package into a selected directory.\nRepack to PAC: Create a PAC file again from the files in an unpacked directory.\nFile Information: The tool can show file, build.prop, and anticrack state information when loading a PAC file.\n\nHow to Use\nOpen Spreadtrum / Unisoc PAC Firmware Repack Tool.\nClick Select Pac and choose the PAC firmware file.\nUse the Read SysInfo option if you want to read the available system information.\nClick Unpack Pac to extract the PAC contents into a folder.\nAfter working with the unpacked files, use Repack To PAC file to create a PAC package again.",
-      "downloads": 25,
+      "downloads": 29,
       "folderId": "f_mq907z24_lahwuzvyt",
       "isLink": false,
       "lastModified": 1788084222018,
@@ -39756,44 +39765,88 @@
       "unrarPassword": ""
     },
     "f_mtimsuat_99c8glvzv": {
-      "name": "VoLTE VoIP Wi-Fi Tool Free",
-      "folderId": "f_mp6sjxdd_c186cvizt",
-      "size": "13.2mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRAxYLYeK580ZKQO4Zuv7SZlXKL860HUqQUPraJLuOx2PBHRNhToTzjXHvDn5PEtLv85FnXAzXZjTkbJHnuzETVUOo8hEukGvgGx1GFsJJ8cohlV-qjGvQxrpEPzIJT2Zy2vDILmKBc_z6EeVMvo7KFGC3meee1Sez4NMG_sGodLH7QWWXOMTF50NeqFf/w640-h358/VoLTE%20VoIP%20Wi-Fi%20Tool%20Free.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRAxYLYeK580ZKQO4Zuv7SZlXKL860HUqQUPraJLuOx2PBHRNhToTzjXHvDn5PEtLv85FnXAzXZjTkbJHnuzETVUOo8hEukGvgGx1GFsJJ8cohlV-qjGvQxrpEPzIJT2Zy2vDILmKBc_z6EeVMvo7KFGC3meee1Sez4NMG_sGodLH7QWWXOMTF50NeqFf/w640-h358/VoLTE%20VoIP%20Wi-Fi%20Tool%20Free.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "volte-voip-wi-fi-tool-free",
+      "createdAt": 1788264986213,
       "description": "VoLTE VoIP Wi-Fi Tool Free Download Features VoLTE + VoIP Wi-Fi Tool\nTurn VoLTE + VoIP Wi-Fi on or off with one click\nScan for ADB devices to connect your phone\nInstall Pixel IMS and Shizuku directly from the tool\nCheck IMS status on your connected device\nApply settings based on your phone brand (Samsung, Xiaomi, Oppo, Google)\nView activity logs showing what the tool is doing\nHow to Install\nDownload the file from the link provided below.\nExtract the downloaded files using 7-Zip or WinRAR.\nOpen the extracted folder and find the file named \"volte.exe\".\nRun the \"volte.exe\" file to launch the software.\nNo activation or sign-in is needed. The main interface opens instantly.\nConnect your Android device in ADB mode.\nThe tool is now ready to use.",
-      "downloads": 0,
-      "link": "https://mega.nz/file/vhYDiYAR#Y1ZQrpQahsvb9o11aPl51kte4wdawtnpLzOtS3giams",
+      "downloads": 42,
+      "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
-      "published": true,
+      "lastModified": 1788264986213,
+      "link": "https://mega.nz/file/vhYDiYAR#Y1ZQrpQahsvb9o11aPl51kte4wdawtnpLzOtS3giams",
       "links": [
         {
           "label": "VoLTE VoIP Wi-Fi Tool Free",
           "urls": [
             {
-              "url": "https://mega.nz/file/vhYDiYAR#Y1ZQrpQahsvb9o11aPl51kte4wdawtnpLzOtS3giams",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/vhYDiYAR#Y1ZQrpQahsvb9o11aPl51kte4wdawtnpLzOtS3giams"
             },
             {
-              "url": "https://mega.nz/file/k1FnAJIZ#1SBOnWREalaVQN6c0Cvi-X72rYjjjwKgTZnWy4ijRkc",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/k1FnAJIZ#1SBOnWREalaVQN6c0Cvi-X72rYjjjwKgTZnWy4ijRkc"
             },
             {
-              "url": "https://1024terabox.com/s/1rwiedev95DYs566xJk1pRw",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1rwiedev95DYs566xJk1pRw"
             }
           ]
         }
       ],
-      "createdAt": 1788264986213,
-      "lastModified": 1788264986213
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "VoLTE VoIP Wi-Fi Tool Free",
+      "password": "",
+      "publishUrl": "volte-voip-wi-fi-tool-free",
+      "published": true,
+      "size": "13.2mb",
+      "unrarPassword": ""
+    },
+    "f_mtjh7pkd_ztdrttq68": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDYr-_FZHFX5Tnw2w_j5I4mznHfFAl3VwF2IrYcaOsb4-AjodhzaxMW2rAi_irwiqsQDAho3mKLL1WMZ9JZqSPwL1TM812wE0hThbML4fS0DOUN7NoAeddmiXeXpd6ss_-wqAnnunE1SSeqsZIRBTJLiMMtEcNrosTwdaZLCDhGSb0XpO3XenR-Jdh9x-K/w640-h358/FixHexa%20Tool%20CraQk%20365%20days%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDYr-_FZHFX5Tnw2w_j5I4mznHfFAl3VwF2IrYcaOsb4-AjodhzaxMW2rAi_irwiqsQDAho3mKLL1WMZ9JZqSPwL1TM812wE0hThbML4fS0DOUN7NoAeddmiXeXpd6ss_-wqAnnunE1SSeqsZIRBTJLiMMtEcNrosTwdaZLCDhGSb0XpO3XenR-Jdh9x-K/w640-h358/FixHexa%20Tool%20CraQk%20365%20days%20Free.jpg"
+      ],
+      "createdAt": 1788316068397,
+      "description": "FixHexa Tool CraQk 365 days Free Download . FixHexa Tool Features\nMoto Flasher: Flash Motorola stock firmware using XML files.\nClean Flash: Option available in the Motorola flashing section.\nSafe Flash: Flash option available for supported Motorola firmware work.\nFix CID Dead: Motorola Moto Flasher option.\nReboot After Flash: Automatically reboot after the flashing process.\nFlash Log: View the flashing log and related information.\nPartition Info: Display partition information in the Moto Flasher section.\nMTK FRP: Remove FRP lock on MTK devices.\nMTK Bootloader Unlock: Unlock the bootloader on MTK devices.\nADB to Fastboot: Convert an ADB-connected device to Fastboot mode.\nSlot Switching: Set Slot A or Slot B.\nRead Info: Read available device information.\nGet Unlock Data: Get unlock data from supported devices.\nErase FRP: Erase FRP when the bootloader is open.\nOEM Relock: Relock the OEM bootloader option.\nBL Relock: Relock the bootloader.\nXiaomi Fastboot Flasher: Flash Xiaomi fastboot ROM using flash_all.bat.\nXiaomi Slot Options: Set Slot A or Slot B during supported operations.\nSkip modem_a/b: Skip the modem partitions when using the Xiaomi flasher.\nSkip CUST: Skip the CUST partition.\nSkip opcust: Skip the opcust partition.\nXiaomi Erase FRP: Erase FRP from the available Fastboot Flasher options.\nACC Menu: Xiaomi Account Tools with Android 14, 15, and 16 support listed.\nPartition Tools: Options for Persist, Cust, Opcust, and Modem.\nADB Commands: Reboot to Fastboot, Recovery, restart device, disable OTA update, and list ADB devices.\nFastboot Commands: Read device info, reboot device, reboot to Fastboot, erase FRP, DM-Verity Fix, and slot switching.\nAndroid Info Extract: Load partition or tag files for Samsung, Oppo / Realme, Vivo, and Moto.\nPreloader EMI: Load MediaTek preloader.bin to check compatible memory chips.\nChip Info: Search eMMC and UFS chip specifications.\nENG ROM Search: Search engineering ROMs by file name.\nFind ISP: Search ISP pinouts using Fastboot mode or model search.\nFind Dump: Search and locate dump files.\nDownloader: Download files through the built-in download manager.What's New in the Latest ISP Data Update\nThe latest FixHexa update adds fresh ISP data for a number of device models. The new entries use different methods depending on the model, including Layer Scratch, CPU Drill, and No CPU Drill.\n\nvivo V40 Pro / T3 Ultra: New Layer Scratch ISP data added.\nvivo X300 Pro: New Layer Scratch ISP data added.\nF33: New No CPU Drill ISP data added.\nRedmi 15A: New CPU Drill ISP data added.\nSamsung SM7150: New CPU Drill ISP data added.\nSamsung SM7435: New CPU Drill ISP data added.\nvivo T4 Ultra: New Layer Scratch ISP data added.\nPOCO X6 Pro 5G: New Layer Scratch ISP data added.\nSamsung Galaxy S26+: New No CPU Drill ISP data added.\nMore ISP data: The update also mentions many more newly added solutions.\n\nNew ISP Solutions in FixHexa\nThe new update is mainly focused on ISP data. Several models now have a listed ISP method that can be checked from the FixHexa Tool.\n\nFor some models, the new data is marked as Layer Scratch. Other entries use CPU Drill or No CPU Drill. The method depends on the device model listed in the updated data.\n\nThe update covers devices from different brands, including vivo, Samsung, Redmi, POCO, and F33. It also includes data for the Samsung Galaxy S26+ and vivo X300 Pro.How to Install FixHexa Tool\nStep 1: Extract the Tool\nFirst, download the FixHexa Tool archive named FixhexaTool_Free_GSMYOGESH.rar. Right-click the downloaded RAR file and select the extract option.\n\nYou can use 7-Zip or WinRAR to extract the file. When the password window appears, enter gsmyogesh and click OK.\n\nStep 2: Open Loader.exe\nAfter extraction, open the newly created FixHexa folder. Find Loader.exe, right-click it, and select Run as administrator.\n\nStep 3: Get the Free Activation Key\nWhen the FIXHEXA TOOL popup appears, click the GET FREE ACTIVATION KEY button. This will open the activation page in your web browser.\n\nScroll down until you find the Generate 10 Days Free Activation Key section. The tool provides a hardware ID that can be copied into the HWID field.\n\nStep 4: Generate the LicenseRight-click inside the ENTER YOUR 16-CHAR HWID box and select Paste. The copied hardware ID will be entered into the field.\n\nNow click GENERATE KEY NOW. Once the key is generated, select and copy the license key shown above the button.\n\nStep 5: Register the License\nReturn to the FIXHEXA TOOL popup. Find the Paste License Token field and paste the license key into it.\n\nClick REGISTER LICENSE. Click OK or wait for the process to finish until the tool shows Activated Successfully!\n\nStep 6: Login to FixHexa\nAfter activation, the main FixHexa login window will appear. Enter gsmyogesh in the USERNAME / EMAIL field and use the same value in the PASSWORD field.Click LOGIN. If the tool asks you to join Telegram, click Later to continue.",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1788316068397,
+      "link": "https://mega.nz/file/Clg2lZpb#SY6xynSyfy0xPyoIpPpjaei3i4viFjW6vApfwEX5Yec%20",
+      "links": [
+        {
+          "label": "FixHexa Tool",
+          "urls": [
+            {
+              "password": "gsmyogesh",
+              "url": "https://mega.nz/file/Clg2lZpb#SY6xynSyfy0xPyoIpPpjaei3i4viFjW6vApfwEX5Yec%20"
+            },
+            {
+              "password": "gsmyogesh",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQAv2-gI_m2cQpmNMNSkD5sRAXXxtay6cuGjkdI1JBf7lf0?e=BpgWSm"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/UocAyTrI#XOiAKUdadJFhU68-_Za5NWd0UNta470Jz7FhktcSCFY"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1nW9TPHU9w-i-mFe2lDyT8A"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "FixHexa Tool CraQk 365 days Free",
+      "password": "",
+      "publishUrl": "fixhexa-tool-craqk-365-days-free",
+      "published": true,
+      "size": "33mb",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -49997,7 +50050,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-01T12:19:09.986Z",
+    "createdAt": "2026-09-02T02:32:10.834Z",
     "version": "2.0",
     "sections": 4
   }
