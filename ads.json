@@ -17850,7 +17850,7 @@
       ],
       "createdAt": 1781084565000,
       "description": "⭐ UnlockToolPRO Features\nGeneral Operations\nRead Device Information\nFactory Reset\nFormat User Data\nSafe Format (Keep Data)\nFlash Firmware\nRoot Device Access\nUnlocking Features\nErase FRP (Google Account)\nReset Screen Lock (PIN, Pattern, Password)\nUnlock / Relock Bootloader\nReset Mi Account / Mi Cloud\nRemove Huawei ID\nRemove Samsung Knox\nRemove Demo Mode\nCarrier / Network Unlock\nRepair & Advanced\nRepair IMEI\nRead / Write NVRAM & NVDATA\nBackup & Restore QCN\nPatch Certificate\nMediaTek Auth Bypass\nFix DM-Verity\nReset EFS\n\n📝 How to Register Free Account\nVisit: unlocktoolpro.com/register.php\nCreate account using Username, Email, and Password\nNo email verification required\nOpen UnlockToolPRO software\nLogin with your account\nConnect device and start using the tool for free",
-      "downloads": 3,
+      "downloads": 4,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1781084643413,
@@ -36165,7 +36165,7 @@
       ],
       "createdAt": 1783336104270,
       "description": "",
-      "downloads": 113,
+      "downloads": 114,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1783336104270,
@@ -37916,7 +37916,7 @@
       ],
       "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 431,
+      "downloads": 438,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1786246123501,
@@ -39082,7 +39082,7 @@
       ],
       "createdAt": 1787653442731,
       "description": "Aftersales Tool Box V4 Free How to Set Up Aftersales Tool Box V4\nExtract the files: Unzip the software package and prepare the files on your Windows PC.\nInstall the drivers: Install the MTK and SPD drivers included with the package so the phone can be detected by the computer.\nLog in: Open the tool and enter your login details to activate the account.\nUpdate the tools: Open the Tools Manager and update the modules you plan to use.\nSelect the phone: Choose the brand and then select the correct model.\nDownload firmware: Search for the required firmware and download the available files.\nConnect the phone: Turn off the phone, use the required boot key such as Volume Up or Volume Down, connect the USB cable, and start the selected service operation.\n\nDownload Information\nSoftware Name\tAftersales Tool Box\nVersion\tV4 2025\nSupported Devices\tTecno, Infinix, Itel\nSupported Chipsets\tMediaTek, Spreadtrum (SPD), Qualcomm",
-      "downloads": 41,
+      "downloads": 42,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1787653442731,
@@ -39118,7 +39118,7 @@
       ],
       "createdAt": 1787657787862,
       "description": "HBG VoLTE IMS Fixer Tool What You Can See in the Software\nDevice Model — Shows the connected Android device model.\nAndroid Version — Shows the Android version detected from the phone.\nManufacturer — Displays the phone manufacturer.\nSIM Carrier — Shows the available SIM carrier information.\nVoLTE Status — Displays the current VoLTE status shown by the tool.\n1-Click VoLTE Fix — Runs the automatic VoLTE activation option.\nShizuku & Pixel IMS — Provides the option for installing the Shizuku and Pixel IMS app set.\nStatus Messages — Shows messages related to the current process.\n\nDownload Information\nSoftware Name\tHBG VoLTE & IMS Fixer\nDeveloper\tHBG\nSupported OS\tWindows\nSupported Devices\tAndroid devices supported by the tool",
-      "downloads": 70,
+      "downloads": 87,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787657787862,
@@ -39202,7 +39202,7 @@
       ],
       "createdAt": 1787832568674,
       "description": "VNboards v1.2.63 Free Download Features\nNew users can install the software using VNboards_Setup.exe.\nThe installer allows you to choose the installation location.\nA Desktop shortcut is created during installation.\nThe app opens automatically after installation is completed.\nExisting users can update directly from the app using the Update button.\nVNboards_Update.zip is handled internally by the self-update system.\nImproved protection for board data.\nThe software can identify devices using multiple hardware signals.What's New (Changelog)\nUpdated VNboards to version v1.2.63.\nAdded stronger protection for board data.\nThe software can now identify a device using multiple hardware signals.\nThis helps prevent intentional attempts to download large amounts of board data again by using another account.\nThe protection does not affect normal software use.\nNo personal information is collected for this protection.\nOnly some hardware identifiers are used after one-way encryption.\n\nHow to Install\nDownload VNboards_Setup.exe if you are installing VNboards for the first time.\nRun the downloaded installer file.\nChoose the installation location when the installer asks.\nComplete the installation process.\nA Desktop shortcut will be created.\nThe application opens automatically after installation.\nIf VNboards is already installed, open the app and click Update instead of downloading the installer again.",
-      "downloads": 316,
+      "downloads": 321,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1788316325946,
@@ -39284,7 +39284,7 @@
       ],
       "createdAt": 1787888256260,
       "description": "VoLTE PRO V1.6 Enable ADB Tool ADB VoLTE Tool – A Simple Desktop Utility to Enable VoLTE on AndroidHow to Use the Tool\nStep 1: Download and Extract\nDownload the tool from the link below. It comes as a compressed archive. Extract it to a folder on your computer using WinRAR or 7-Zip.\n\nStep 2: Run as Administrator\nRight-click on the main executable file and select “Run as administrator”. This is important because the tool needs high-level permissions to send ADB commands to your phone.\n\nStep 3: Enable USB Debugging\nOn your Android phone, go to Settings. Find About Phone and tap on Build Number seven times. This enables Developer Options.\n\nThen go to Developer Options and enable USB Debugging. Connect your phone to the computer using a USB cable.\n\nStep 4: Check Connection\nOnce connected, the tool should detect your phone. The device information fields should show your phone’s model, Android version, IMS status, and VoLTE status.\n\nIf the fields show dashes, try reconnecting your phone or checking the USB Debugging setting.\n\nStep 5: Enable VoLTE\nClick the “Bật VoLTE (Chung)” button to start the activation process. The tool will send ADB commands to your phone. You can watch the status bar to see the progress.\n\nIf you have a Vivo phone and the general method does not work, try the “BẬT VoLTE VIVO” button instead.\n\nStep 6: Reboot Your Phone\nAfter enabling VoLTE, click the “REBOOT” button to restart your phone. This makes sure the changes take effect properly.\n\nAfter reboot, your phone should have VoLTE enabled. You can check your phone’s status bar for the VoLTE icon.\n\nWho Should Use This Tool\nThis software is for Android users who want to enable VoLTE on their phone but do not want to deal with complex command-line tools.\n\nIf your phone supports 4G but drops to 3G during calls, this tool can help. It works with most Android devices, including Xiaomi, Vivo, Samsung, and other brands.\n\nYou do not need to be a technical expert to use it. The interface is simple and the buttons are clearly labeled. The only tricky part is enabling USB Debugging, but that is a one-time setup.\n\nThe tool is especially useful for Vivo phone users who often have trouble enabling VoLTE through normal settings.\n\nWhat I Like About This Tool\nLooking at the interface, I appreciate how clean and straightforward it is. Everything is laid out in one window. You do not have to navigate through multiple menus to find what you need.\n\nThe device information display is helpful because it gives you a clear picture of your phone’s state. You can see at a glance whether VoLTE is already enabled or not.\n\nThe separate button for Vivo devices is a nice touch. Vivo phones often have different configurations, so having a dedicated button shows the developer understands the specific needs of different phone brands.\n\nThe screen mirroring feature is also useful. It lets you see your phone’s display on your computer monitor. This makes it easier to check settings without having to pick up your phone repeatedly.\n\nThe status bar at the bottom keeps you informed about what is happening. It shows “Ready” when the tool is idle and updates when you perform actions.\n\nTechnical Details\nThe tool uses ADB (Android Debug Bridge) to communicate with your phone. ADB is a standard protocol provided by Google for developers. It is safe and widely used.\n\nThe tool also uses scrcpy for screen mirroring. Scrcpy is a popular open-source tool for displaying Android screens on a computer.\n\nHere is a quick summary of the technical aspects:\n\nCommunication Protocol\tADB (Android Debug Bridge)\nScreen Mirroring\tscrcpy\nSupported OS\tWindows\nSupported Devices\tAll Android (including Xiaomi, Vivo, Samsung, Pixel)",
-      "downloads": 21,
+      "downloads": 22,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1787888256260,
@@ -39334,7 +39334,7 @@
       ],
       "createdAt": 1787918379886,
       "description": "UST Tool v7.0.0 Free Activation  Read Info for Hardware SoC information, MEID, SOCID, security status, and GPT details.\nReset FRP / Bypass FRP.\nFactory Reset + FRP for wiping Userdata, Metadata, and Cache.\nReboot MediaTek device to normal mode.\nUnlock Bootloader using the listed seccfg partition method.\nRelock Bootloader and restore the listed lock state and verification checksums.\nBypass Auth (SLA / DAA) using the listed BROM and payload process.\nRead Partition and save selected partition data as a BIN file.\nWrite / Flash Partition using an image file.\nErase selected partition blocks.\nDump Preloader and save the active preloader binary.\nDump Bootrom memory area.\nXiaomi\nFlash\nFlash Firmware.\nFormat Data.\nBrowse Scatter Firmware.\nService\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nFastboot\nRead CSSD.\nFormat Data.\nReboot Device.\nMi Assistant\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nEFS\n\nHow to Install UST Tool v7.0.0\nDownload the UST Tool package and save it on your computer.\nExtract the downloaded archive to a folder.\nOpen the extracted USTTOOL folder.\nDouble-click USTTOOL.exe to start the software.\nWhen the CONTROL MODULE window appears, click Copy Hardware ID Key.\nOpen the provided activation page and find the Generate 10 Days Free Activation Key section.\nPaste the copied Hardware ID into the ENTER YOUR 16-CHAR HWID box.\nClick GENERATE KEY NOW and copy the complete generated license key.\nReturn to the UST Tool Control Module.\nPaste the key into Paste Activation License Token Here.\nClick REGISTER LICENSE.\nAccording to the provided process, a green Success message appears after successful registration.\n\nWait for the tool loading process to complete.\nComplete the login screen as required by the software.\nAfter opening the main interface, the tool is ready for the supported functions listed above.",
-      "downloads": 80,
+      "downloads": 82,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787918379886,
@@ -39531,7 +39531,7 @@
       ],
       "createdAt": 1787981168158,
       "description": "At Om Sabri v2.0 FRP Tool Free Download Features\nFRP Removal\nNormal FRP Remove\nRoot FRP Remove\nLEASIA device support\nSupport for all LEASIA devices as mentioned by the developer\nADB support\nAdvanced ADB commands\nAndroid device management through ADB\nAndroid Console\nDevice detection\nSerial number display\nBROM status display\nOTA update control\nDisable OTA updates\nEnable OTA updates\nControl automatic system updates\nOutput console for showing tool activity\nClear console option\nCopy console output option\nStop option during FRP operation\nDevice list shown inside the program\nYoung 1 support\nYoung 2 support\nYoung 3 support\nYoung 6 support\nYoung 9 support\nBRIGHT 3 support\nPad 10 V1 support\nPad 10 V2 support\nFree to use\nNo license required\nNo activation required\nNo waiting time\nPortable EXE program\nNo installation required\nDaily updates\nRegular new features and improvements\n\nMy Experience With The File\nI tried it on Windows 11 first, but Chrome was not letting me download the EXE and was showing a virus message. Later I used the same file on Windows 10 with Chrome, and it downloaded normally without showing that warning. I also opened the tool there and it started without any virus message. So in my case, Windows 10 worked better for downloading and opening this file. Installation Guide\nThere is no proper installation needed for At Om Sabri Tool.\n\nDownload the At Om Sabri EXE file.\nSave the file somewhere on your Windows PC.\nIf Windows or Chrome shows a security warning, do not ignore it blindly. Scan the file first.\nAfter checking the file, run the EXE as administrator if required.\nThe program should open directly without a setup wizard.\nConnect your supported Android device to the PC.\nInstall the required USB/ADB drivers if your PC does not detect the phone.\nCheck the device information and connection status in the tool.\nSelect the section you need, such as FRP Removal or Android Tools.\nChoose the required operation and follow the messages shown in the output console.",
-      "downloads": 49,
+      "downloads": 65,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1787981168158,
@@ -39641,7 +39641,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2013,
+      "downloads": 2123,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -39651,16 +39651,16 @@
           "label": "UnlockTool_Loader_by_Amiiz_V2_02.09.2026.zip (Setup+loader)",
           "urls": [
             {
-              "url": "https://www.up-4ever.net/7mybeo6dhga9",
-              "password": ""
+              "password": "",
+              "url": "https://www.up-4ever.net/7mybeo6dhga9"
             },
             {
-              "url": "https://androidfilehost.com/?fid=17900174959292976764",
-              "password": ""
+              "password": "",
+              "url": "https://androidfilehost.com/?fid=17900174959292976764"
             },
             {
-              "url": "https://1024terabox.com/s/1_eOPqLQOHR-2ng9_WPyOzA",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1_eOPqLQOHR-2ng9_WPyOzA"
             }
           ]
         },
@@ -39668,16 +39668,16 @@
           "label": "UnlockTool_Loader_by_Amiiz_V2_02.09.2026.zip (ONLY Loader)",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1DFKz_8X5ysMnL6I-efoTjuxcYhGVCI7v/view?usp=sharing",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1DFKz_8X5ysMnL6I-efoTjuxcYhGVCI7v/view?usp=sharing"
             },
             {
-              "url": "https://1024terabox.com/s/1Psm3HgmezmCMauPHRmZOyQ",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1Psm3HgmezmCMauPHRmZOyQ"
             },
             {
-              "url": "https://mega.nz/file/JgUGjRKJ#GJc4euExUjV5JjOCFhsUBZj3dCR7gDAMYCHOJA_O2zA",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/JgUGjRKJ#GJc4euExUjV5JjOCFhsUBZj3dCR7gDAMYCHOJA_O2zA"
             }
           ]
         },
@@ -39685,20 +39685,20 @@
           "label": "UnlockTool_Loader_by_Amiiz_30.08.2026.zip (Setup+loader)",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1pliC35nUtHOg4Ii02o1MCRFa0z5I_GoW/view?usp=sharing",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1pliC35nUtHOg4Ii02o1MCRFa0z5I_GoW/view?usp=sharing"
             },
             {
-              "url": "https://www.up-4ever.net/18hbpv83kcc5",
-              "password": ""
+              "password": "",
+              "url": "https://www.up-4ever.net/18hbpv83kcc5"
             },
             {
-              "url": "https://1024terabox.com/s/1DbTwXcdS_iNTKJkV1OtOpQ",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1DbTwXcdS_iNTKJkV1OtOpQ"
             },
             {
-              "url": "https://mega.nz/file/hoUCTZTR#CSpA834d72mao947frXrorSTgsQeLn8ZhjsNTRgQnmY",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/hoUCTZTR#CSpA834d72mao947frXrorSTgsQeLn8ZhjsNTRgQnmY"
             }
           ]
         },
@@ -39706,16 +39706,16 @@
           "label": "UnlockTool_Loader_by_Amiiz 30.08.2026.zip (ONLY LOADER)",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1PLll1JomC3mnGlbARdOMI7UyqYGn4E7m/view?usp=sharing",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1PLll1JomC3mnGlbARdOMI7UyqYGn4E7m/view?usp=sharing"
             },
             {
-              "url": "https://mega.nz/file/kwkXBKTB#SQ1yB36IpsUY3sCBHFdpQsDlQyZHKUCk9GMWZUBUwk4",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/kwkXBKTB#SQ1yB36IpsUY3sCBHFdpQsDlQyZHKUCk9GMWZUBUwk4"
             },
             {
-              "url": "https://1024terabox.com/s/1hsXpGxhzCiEqBBcp5m9lIA",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1hsXpGxhzCiEqBBcp5m9lIA"
             }
           ]
         },
@@ -39723,12 +39723,12 @@
           "label": "Unlocktool Setup+Loader By Amiiz  29.08.2026 (Setup+loader)",
           "urls": [
             {
-              "url": "https://mega.nz/file/dtFlmbCY#d8PJotpELTzZSed8d8JozjwKwCFSm3oxBwoP2w1a5_k",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/dtFlmbCY#d8PJotpELTzZSed8d8JozjwKwCFSm3oxBwoP2w1a5_k"
             },
             {
-              "url": "https://1024terabox.com/s/192K8nV681rPQ3I7KK4phJQ",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/192K8nV681rPQ3I7KK4phJQ"
             }
           ]
         },
@@ -39736,8 +39736,8 @@
           "label": "Official Website",
           "urls": [
             {
-              "url": "https://telemirrorpro.com/devhub/unlocktool/#top",
-              "password": ""
+              "password": "",
+              "url": "https://telemirrorpro.com/devhub/unlocktool/#top"
             }
           ]
         }
@@ -39758,7 +39758,7 @@
       ],
       "createdAt": 1788084222018,
       "description": "Spreadtrum PAC Repack Tool v1.0.3 Free Download  Features Spreadtrum - Unisoc PAC Firmware Repack Tool\nLoad PAC File: Select a PAC firmware file directly from the tool.\nRead SysInfo: The tool includes a Read SysInfo option when loading a PAC file.\nUnpack PAC: Extract the files from a PAC package into a selected directory.\nRepack to PAC: Create a PAC file again from the files in an unpacked directory.\nFile Information: The tool can show file, build.prop, and anticrack state information when loading a PAC file.\n\nHow to Use\nOpen Spreadtrum / Unisoc PAC Firmware Repack Tool.\nClick Select Pac and choose the PAC firmware file.\nUse the Read SysInfo option if you want to read the available system information.\nClick Unpack Pac to extract the PAC contents into a folder.\nAfter working with the unpacked files, use Repack To PAC file to create a PAC package again.",
-      "downloads": 36,
+      "downloads": 38,
       "folderId": "f_mq907z24_lahwuzvyt",
       "isLink": false,
       "lastModified": 1788084222018,
@@ -39802,7 +39802,7 @@
       ],
       "createdAt": 1788264986213,
       "description": "VoLTE VoIP Wi-Fi Tool Free Download Features VoLTE + VoIP Wi-Fi Tool\nTurn VoLTE + VoIP Wi-Fi on or off with one click\nScan for ADB devices to connect your phone\nInstall Pixel IMS and Shizuku directly from the tool\nCheck IMS status on your connected device\nApply settings based on your phone brand (Samsung, Xiaomi, Oppo, Google)\nView activity logs showing what the tool is doing\nHow to Install\nDownload the file from the link provided below.\nExtract the downloaded files using 7-Zip or WinRAR.\nOpen the extracted folder and find the file named \"volte.exe\".\nRun the \"volte.exe\" file to launch the software.\nNo activation or sign-in is needed. The main interface opens instantly.\nConnect your Android device in ADB mode.\nThe tool is now ready to use.",
-      "downloads": 49,
+      "downloads": 54,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1788264986213,
@@ -39842,7 +39842,7 @@
       ],
       "createdAt": 1788316068397,
       "description": "FixHexa Tool CraQk 365 days Free Download . FixHexa Tool Features\nMoto Flasher: Flash Motorola stock firmware using XML files.\nClean Flash: Option available in the Motorola flashing section.\nSafe Flash: Flash option available for supported Motorola firmware work.\nFix CID Dead: Motorola Moto Flasher option.\nReboot After Flash: Automatically reboot after the flashing process.\nFlash Log: View the flashing log and related information.\nPartition Info: Display partition information in the Moto Flasher section.\nMTK FRP: Remove FRP lock on MTK devices.\nMTK Bootloader Unlock: Unlock the bootloader on MTK devices.\nADB to Fastboot: Convert an ADB-connected device to Fastboot mode.\nSlot Switching: Set Slot A or Slot B.\nRead Info: Read available device information.\nGet Unlock Data: Get unlock data from supported devices.\nErase FRP: Erase FRP when the bootloader is open.\nOEM Relock: Relock the OEM bootloader option.\nBL Relock: Relock the bootloader.\nXiaomi Fastboot Flasher: Flash Xiaomi fastboot ROM using flash_all.bat.\nXiaomi Slot Options: Set Slot A or Slot B during supported operations.\nSkip modem_a/b: Skip the modem partitions when using the Xiaomi flasher.\nSkip CUST: Skip the CUST partition.\nSkip opcust: Skip the opcust partition.\nXiaomi Erase FRP: Erase FRP from the available Fastboot Flasher options.\nACC Menu: Xiaomi Account Tools with Android 14, 15, and 16 support listed.\nPartition Tools: Options for Persist, Cust, Opcust, and Modem.\nADB Commands: Reboot to Fastboot, Recovery, restart device, disable OTA update, and list ADB devices.\nFastboot Commands: Read device info, reboot device, reboot to Fastboot, erase FRP, DM-Verity Fix, and slot switching.\nAndroid Info Extract: Load partition or tag files for Samsung, Oppo / Realme, Vivo, and Moto.\nPreloader EMI: Load MediaTek preloader.bin to check compatible memory chips.\nChip Info: Search eMMC and UFS chip specifications.\nENG ROM Search: Search engineering ROMs by file name.\nFind ISP: Search ISP pinouts using Fastboot mode or model search.\nFind Dump: Search and locate dump files.\nDownloader: Download files through the built-in download manager.What's New in the Latest ISP Data Update\nThe latest FixHexa update adds fresh ISP data for a number of device models. The new entries use different methods depending on the model, including Layer Scratch, CPU Drill, and No CPU Drill.\n\nvivo V40 Pro / T3 Ultra: New Layer Scratch ISP data added.\nvivo X300 Pro: New Layer Scratch ISP data added.\nF33: New No CPU Drill ISP data added.\nRedmi 15A: New CPU Drill ISP data added.\nSamsung SM7150: New CPU Drill ISP data added.\nSamsung SM7435: New CPU Drill ISP data added.\nvivo T4 Ultra: New Layer Scratch ISP data added.\nPOCO X6 Pro 5G: New Layer Scratch ISP data added.\nSamsung Galaxy S26+: New No CPU Drill ISP data added.\nMore ISP data: The update also mentions many more newly added solutions.\n\nNew ISP Solutions in FixHexa\nThe new update is mainly focused on ISP data. Several models now have a listed ISP method that can be checked from the FixHexa Tool.\n\nFor some models, the new data is marked as Layer Scratch. Other entries use CPU Drill or No CPU Drill. The method depends on the device model listed in the updated data.\n\nThe update covers devices from different brands, including vivo, Samsung, Redmi, POCO, and F33. It also includes data for the Samsung Galaxy S26+ and vivo X300 Pro.How to Install FixHexa Tool\nStep 1: Extract the Tool\nFirst, download the FixHexa Tool archive named FixhexaTool_Free_GSMYOGESH.rar. Right-click the downloaded RAR file and select the extract option.\n\nYou can use 7-Zip or WinRAR to extract the file. When the password window appears, enter gsmyogesh and click OK.\n\nStep 2: Open Loader.exe\nAfter extraction, open the newly created FixHexa folder. Find Loader.exe, right-click it, and select Run as administrator.\n\nStep 3: Get the Free Activation Key\nWhen the FIXHEXA TOOL popup appears, click the GET FREE ACTIVATION KEY button. This will open the activation page in your web browser.\n\nScroll down until you find the Generate 10 Days Free Activation Key section. The tool provides a hardware ID that can be copied into the HWID field.\n\nStep 4: Generate the LicenseRight-click inside the ENTER YOUR 16-CHAR HWID box and select Paste. The copied hardware ID will be entered into the field.\n\nNow click GENERATE KEY NOW. Once the key is generated, select and copy the license key shown above the button.\n\nStep 5: Register the License\nReturn to the FIXHEXA TOOL popup. Find the Paste License Token field and paste the license key into it.\n\nClick REGISTER LICENSE. Click OK or wait for the process to finish until the tool shows Activated Successfully!\n\nStep 6: Login to FixHexa\nAfter activation, the main FixHexa login window will appear. Enter gsmyogesh in the USERNAME / EMAIL field and use the same value in the PASSWORD field.Click LOGIN. If the tool asks you to join Telegram, click Later to continue.",
-      "downloads": 97,
+      "downloads": 123,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788316068397,
@@ -39878,6 +39878,46 @@
       "published": true,
       "size": "33mb",
       "unrarPassword": ""
+    },
+    "f_mtmtpjva_b7zub7nqo": {
+      "name": "GSM SRINU TOOL v1.0.5 Cra#ck Free",
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "size": "99mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Tyg8UXDwRjgtNYe_V65UuduX24a69NZBm_irax-nAxmR6Dr_QqeaGF8dmqrm410YWYhK5RFLRRkL1Kp7aC3iGx8s1NV7idH1Q3ngcUQZF9jC_1fJYil8hjSl94A1E20CRQCZ3IM5qx6sZ-uwfv0oCeeo-8ZtW5LY2DdJ4hMLO0EQLi0j7VMs6ztU5jmY/w640-h358/GSM%20SRINU%20TOOL%20v1.0.5%20Cra%23ck%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Tyg8UXDwRjgtNYe_V65UuduX24a69NZBm_irax-nAxmR6Dr_QqeaGF8dmqrm410YWYhK5RFLRRkL1Kp7aC3iGx8s1NV7idH1Q3ngcUQZF9jC_1fJYil8hjSl94A1E20CRQCZ3IM5qx6sZ-uwfv0oCeeo-8ZtW5LY2DdJ4hMLO0EQLi0j7VMs6ztU5jmY/w640-h358/GSM%20SRINU%20TOOL%20v1.0.5%20Cra%23ck%20Free.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "gsm-srinu-tool-v105-crack-free",
+      "description": "GSM SRINU TOOL v1.0.5 Cra#ck Free Download How to Start GSM SRINU TOOL\nOpen the GSM SRINU TOOL folder on your computer.\nFind Loader.exe and run it. If required, run the loader as Administrator.\nA small CONTROL MODULE window will appear.\nWait while the control module performs the launch check, version check, server connection check, and API response check.\nAfter initialization, the main login window will open.\nEnter your username and login credentials.\nYou can select Remember if you want the login details to be remembered.\nClick Login and wait for the authentication process.\nThe program will show messages such as Authenticating with the server and then Login successful. Redirecting.\nAfter successful login, the main dashboard will load.\nSelect the required communication port and use the available category options.\nKG Samsung (ADB)\nThe KG Samsung (ADB) section contains several Samsung-related options. There are MTP information, KG status, ADB, and different Android version methods. The program lists separate methods for Android 14, Android 13, and different patches.\n\nMTP Read Info – Reads information through MTP.\nKG Android 14 New Method 1 – Android 14 KG method.\nKG Android 14 New Method 2 – Another Android 14 KG method.\nKG Android 14 New Method 3 – Third Android 14 KG method.\nKG Android 14 (All Patch) – KG option listed for Android 14 patches.\nSet To KG Active 01 (IMEI) – KG option using IMEI.\nKG Status Check – Checks the KG status.\nADB Live Screen – Provides an ADB live screen option.\nEnable ADB (05-23) – Enables ADB using the listed method.\nKG Android 13 (New Patch) – KG option for the new Android 13 patch.\nKG Android 13 (03-24) – Android 13 method listed for the 03-24 patch.\nKG Android 13 (07-23) – Android 13 method listed for the 07-23 patch.\nIT Admin Tools for Different Brands\nThe IT Admin (All Brands) section contains options for different Android versions, brands, and device management methods. It includes separate entries for Android 15, Hyper OS, VIVO, Samsung, and Tecno, Infinix, and Itel devices.\n\nIT Admin Android 15 – IT Admin option for Android 15.\nIT Admin Universal – Universal IT Admin option.\nIT Admin Hyper OS (Android 15) – IT Admin option for Hyper OS on Android 15.\nRedmi MDM (All In One) – Redmi MDM option in one section.\nIT Admin VIVO (New Security) – VIVO option for the listed new security.\nDisable Framework – Includes a framework disable option.\nSamsung Knox Disable – Samsung Knox disable option.\nSamsung Payjoy (New) – A new Samsung Payjoy option listed in the tool.\nIT Admin (Tecno, Infinix, Itel) – IT Admin option for Tecno, Infinix, and Itel.\nSamsung MDM (All Patch) – Samsung MDM option for the listed patches.\nIT Admin (Work profile) – Work profile option.\nIT Admin (Hyper OS) – IT Admin option for Hyper OS.\nService Tool Section\nThe Service Tool section contains several service and device-related options. It includes Pixel SIM unlock, factory reset methods, Samsung account removal through ADB, FRP through ADB, Samsung driver installation, and OTA controls.\n\nSim Unlock (Pixel) – SIM unlock option for Pixel.\nDisable Factory Reset Method 1 – First listed factory reset disable method.\nDisable Factory Reset Method 2 – Second listed factory reset disable method.\nSam. Account Remove (ADB) – Samsung account removal option through ADB.\nFactory Reset – Factory reset option.\nDeveloper Option Hide – Option to hide Developer Options.\nFRP (ADB) – FRP option using ADB.\nInstall Samsung Driver – Samsung driver installation option.\nService Provide Update Fix. – Includes the listed service provider update fix.\nEnable OTA – Enables OTA.\nDisable OTA – Disables OTA.\nQR Code Scan Tools\nThe QR Code Scan section contains different QR-based options for ADB and Hyper OS. The tool lists separate Android 14 and Android 13 methods, along with Hyper OS QR methods. It also includes an ADB information option and an Oplus demo removal option.ADB Enable QR 14 Method 1 – First Android 14 QR method for ADB.\nADB Enable QR 14 Method 2 – Second Android 14 QR method for ADB.\nADB Enable QR 13 – Android 13 QR option for ADB.\nHyper OS QR 1 – First listed Hyper OS QR method.\nHyper OS QR 2 – Second listed Hyper OS QR method.\nADB Read Info – Reads device information through ADB.\nOplus Demo Remove – Oplus demo removal option.\nMDM Section\nThe tool also has a separate MDM section. It contains an option named MDM Remove (All Brands), which is listed for MDM removal across the supported brands mentioned by the program.\n\nFeatures at a Glance\nNew design in GSM SRINU TOOL v1.0.5\nCONTROL MODULE initialization\nLaunch check\nVersion check\nServer connection check\nAPI response check\nLogin system\nCommunication port selection\nKG Samsung ADB tools\nAndroid 14 and Android 13 KG methods\nIT Admin tools\nHyper OS options\nRedmi MDM option\nVIVO IT Admin option\nSamsung Knox option\nSamsung MDM option\nTecno, Infinix, and Itel IT Admin option\nService Tool section\nPixel SIM unlock option\nSamsung account removal through ADB\nFactory reset options\nFRP ADB option\nSamsung driver installation\nOTA enable and disable options\nAndroid 14, Android 13, and Hyper OS QR methods\nADB information reading\nOplus demo removal option\nMDM Remove (All Brands)\nLogin and Dashboard\nThe login process is handled after the CONTROL MODULE finishes its checks. The user enters the username and login credentials and then clicks the Login button. The tool displays the authentication status while connecting to the server.\n\nAfter a successful login, the program redirects to the dashboard. The dashboard contains the communication port selection and the different categories used to access the available functions.",
+      "downloads": 0,
+      "link": "https://mega.nz/file/ahhRRCoY#3PdZOTHeed9AXNrITcOfz2qeRbzlG6RnpgsInbmXpbc",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "GSM SRINU TOOL v1.0.5 Link",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/ahhRRCoY#3PdZOTHeed9AXNrITcOfz2qeRbzlG6RnpgsInbmXpbc",
+              "password": ""
+            },
+            {
+              "url": "https://drive.google.com/file/d/1WDvzRtzjhrUWeZoXx1xYLOf7i9is_4jE/view?usp=sharing",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/16gj6r_xEYnI4omlXkOZJOw",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1788518454743,
+      "lastModified": 1788518454743
     }
   },
   "images": {
@@ -50081,7 +50121,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-03T05:06:51.563Z",
+    "createdAt": "2026-09-04T10:41:07.067Z",
     "version": "2.0",
     "sections": 4
   }
