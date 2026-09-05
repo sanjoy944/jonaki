@@ -15957,7 +15957,7 @@
       ],
       "createdAt": 1780757027303,
       "description": "Key Features of iRFT Pro Tool V1.6\nThis tool brings advanced capabilities, including support for a wide range of Apple devices:\n\nSupport for iPhone/iPad models with advanced proxy FMI Off\nBypass GSM Signal for iOS 12-14.5.1 and signal-free bypass for iOS 12-14.8\nMDM bypass for all models, including iOS versions 7-17.4\nSupports passcode jailbreak, RAMDisk bypass, and hello screen bypass on iOS 15-17.x\nCompatible with Intel processors and optimized for checkm8BOT access on A7-A11 devices\nLifetime unlimited FMI Off, and verified support for iOS 10 through iOS 15",
-      "downloads": 0,
+      "downloads": 3,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1780757027303,
@@ -22493,7 +22493,7 @@
       ],
       "createdAt": 1781502019968,
       "description": "GSM TOOL PACK GPT V1.0  INFORMATION\nDFT PRO v4.2.1 \n\nPremium Version \n\nMCTDaukHyweeTool V1.0.08 Not Online Free Versions\n\nMCT DAUK HYWEE TOOL PRO 2.0.5\n\nMCT DH Toolbox 4.2\n\nMCT DAUKHYWEETOOL PRO 2.0.5 Tera Tool v1.0.2.7\n\nMiracle Box 2.89\n\nTFM MTK 1.3.22\n\nTFM SPD B16\n\nTFM Main Module v2.7.4\n\nE-GSM Tool 2.5.1\n\nE-GSM Tool v1.5.5\n\nMRT Dongle 3.95\n\nCSTool Chinese SmartPhone Tool v1.60\n\nCSTool S-Module\n\nUAT FRP v5.01\n\nAvengerMain v1 8\n\nDFT PRO v4.2.1 \n\nPremium Version MCTDaukHyweeTool V1.0.08 Not Online Free Versions\n\nMCT DAUK HYWEE TOOL PRO 2.0.5 MCT DH Toolbox 4.2\n\nMCT DAUKHYWEETOOL PRO 2.0.5 Tera Tool v1.0.2.7\n\nMiracle Box 2.89\n\nE-GSM Tool v1.5.5\n\nMRT Dongle 3.95\n\nCSTool Chinese SmartPhoneTool v1.60\n\nCSTool S-Module\n\nUAT FRP v5.01\n\nAvengerMain v1.8\n\nNCK MTK Dongle 2.5.6.2\n\nAndroidMTK Avengers 0.3.0\n\nOSSClient 8.6\n\nQualcomm Flash Loader 2.0\n\nSecret Tool Pro v1.2\n\nUFT Tool v1.0\n\nZ3X Samsung Tool PRO 29.5\n\nSamfirm Aio v2.1\n\nVG Tool Premium v5.1\n\nNCK Dongle Generic MTK\n\nGPG Dragon v3.53C\n\nBMB Tool Pro v7.0\n\nAladdin Key loader\n\nNokia Best Tool v3.09\n\nNokia Infinity Best v2.29\n\nMiFlash Prime Edition\n\nAndroidUtility PRO v170 [Unlimited] AndroidUtility.v186.00.8016 No Card\n\nRyzTool\n\nIMEIWriteTool V7.20250106\n\nAll in One Samsung Flash Odin Tool\n\nAll In One SPD Factory Tool All In One SPD Research Tool All In One SPD Upgrade Tool MiFlash_Pro_v7.3.706.21_EN QPST 2.7.496 SP Flash Tool v5 Keyboard Mobile Flash Tool MMO Tool 1.2 Asus Flash Tool\n\nLenovo Downloader\n\nZenfone Flash Tool\n\nMTK Client GUI Tool 2.0\n\nMinimal ADB and Fastboot\n\n3uTools\n\niTunes\n\nSamsung Odin Flash Mode 350K\n\nf64 ultra Emmc UFX Repair Tool Modem M\n\nETA ver 10.2044.0.02 TMT MediaTek Universal v2 QST Tools Pro v4.0\n\nPreinstalled All Software\n\n7-Zip 24.03 (x64)\n\nahsProtector\n\nBlackBerry Desktop Software 4.7.\n\nEverything 1.4.1.1024 (64)\n\nHisuite\n\nFile Name: GSM Tool Pack V1.0  ( GTP V1.0) Free .ISO\n\nFile Size: 8.3GB",
-      "downloads": 3,
+      "downloads": 10,
       "folderId": "f_mp6sf7er_yrsiah0rt",
       "isLink": false,
       "lastModified": 1781502019968,
@@ -38064,7 +38064,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 52,
+      "downloads": 62,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -39042,7 +39042,7 @@
       ],
       "createdAt": 1787548825596,
       "description": "AMProFixWA Tool V1.6 Free Download. Other available options include Repair Media 2 and Install Any App. There are also shortcuts and controls for opening WhatsApp App Info, enabling WhatsApp permissions, force stopping the app, and clearing WhatsApp data.\n\nDelete WhatsApp\nDelete WhatsApp but Keep Data\nInstall Old WhatsApp\nInstall Old WhatsApp 14\nBackup WhatsApp Data\nRestore WhatsApp Data\nDownload Official WhatsApp\nUpdate WhatsApp\nRepair Media 2\nInstall Any App\nOpen WhatsApp App Info\nEnable WhatsApp Permissions\nForce Stop WhatsApp\nClear WhatsApp Data\nModified WhatsApp Download Section\nThe tool has a download section that lists different WhatsApp packages. The available names include AMWhatsApp, WhatsApp Green, WhatsApp Gold, WhatsApp Red, WhatsApp Blue, and several others.\n\nAMWhatsApp\nWhatsApp Green\nWhatsApp Gold\nWhatsApp Red\nWhatsApp Blue\nWhatsApp Black\nWhatsApp Abo Arab\nABWhatsApp\nOBWhatsApp\nMARWhatsApp\nWhatsApp Omar OB\nWhatsApp Marwan\nGBWhatsApp\nWhatsApp Business 2\nWhatsApp Business 3\nAppeal and Request Options\nAMProFixWA Tool V1.6 also includes options related to WhatsApp account review and appeal requests. The provided details mention automated appeal request submissions and different request categories.\n\nThere are options for severe violation appeals, modified version-related bans, explicit content review requests, privacy violation handling, and spam message restriction appeals. The tool also includes options to update, view, or delete requests.\n\nAutomated Ban Appeal Request Submissions\nSevere Violation Appeal Processing\nModified Versions Ban Removal\nExplicit Content Ban Review Form\nWhatsApp Privacy Violation Handling\nSpam Messages Restriction Appeals\nUpdate Requests\nView Requests\nDelete Requests\nIntegrated Notification Dispatch System\nRoot and System Tools\nFor users working with system-level Android settings, the tool includes several root-related options. These include Magisk installation, dependency library installation, custom libraries, and an option to send libraries to the phone.A Google Play Integrity Checker is also listed. Other options include clearing Google Apps data and a fix for School Device Enterprise Profile.\n\nInstall Magisk\nInstall Dependency Library\nInstall Custom Libraries\nSend Libraries to Phone\nGoogle Play Integrity Checker\nClear Google Apps Data\nSchool Device Enterprise Profile Fix\nDevice Connection and Android Utilities\nThe program can show the mobile screen in real time. This can be useful when you want to see the connected phone screen from the computer while working with the device.\n\nWireless ADB connection is also available through the ADB WiFi option. For older devices, the feature list also mentions a dependency issue fix for Android 6 and Android 7.\n\nShow Mobile Screen\nWireless Connection via ADB WiFi\nLegacy Android 6/7 Dependency Issue Fix\nLanguage and Interface Settings\nAMProFixWA Tool V1.6 supports both Arabic and English. You can choose the preferred language from the available settings. Theme options are also included, with Default, Light, and Dark choices mentioned in the provided details.\n\nThe tool also lists Smart Mode automation, sound effect settings, server status monitoring, and license expiry status monitoring.\n\nArabic and English Language Switcher\nDefault Theme\nLight Theme\nDark Theme\nSmart Mode Automation Toggle\nSound Effects Settings\nReal-Time Server Status Monitor\nLicense Expiry Status Monitor\nHow to Install AMProFixWA Tool V1.6\nThe installation process starts with the AMProTool.rar archive file.\n\nDownload the AMProTool.rar file.\nFind the downloaded archive on your computer.\nRight-click the file and choose Extract Here or Extract to AMProTool.\nOpen the extracted folder.\nRight-click on AMProTool.exe and select Run as administrator.\nWhen the setup opens, click Next on the Welcome screen.\nChoose the folder where you want to install the software. The provided default location is C:\\Program Files (x86)\\AMProFixWhatsApp.\nClick Next and select Create a desktop icon if you want a shortcut on the desktop.\nClick Install and wait for the installation to finish.\nClick Finish after the setup is complete.\nRight-click the AMProTool desktop icon and run it as administrator.\nWait for the loader to check the license status and server connection.\nChoose your preferred language and theme on the login screen.\nClick Log In.\nEnable USB Debugging on the Android device.\nConnect the device to the computer with a USB cable.\nHow to Connect an Android Device\nAccording to the provided usage steps, USB Debugging needs to be enabled before connecting the Android phone through a USB cable. Once the device is connected, you can use the available options inside the tool.\n\nThe feature list also includes ADB WiFi for wireless connection and an option to show the mobile screen in real time.\n\nDownload AMProFixWA Tool V1.6\nYou can download AMProFixWA Tool V1.6 from the link below.\n\nBefore using options that delete or clear WhatsApp data, check what the selected option will do and keep your important data safe.",
-      "downloads": 13,
+      "downloads": 14,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787548825596,
@@ -39082,7 +39082,7 @@
       ],
       "createdAt": 1787653442731,
       "description": "Aftersales Tool Box V4 Free How to Set Up Aftersales Tool Box V4\nExtract the files: Unzip the software package and prepare the files on your Windows PC.\nInstall the drivers: Install the MTK and SPD drivers included with the package so the phone can be detected by the computer.\nLog in: Open the tool and enter your login details to activate the account.\nUpdate the tools: Open the Tools Manager and update the modules you plan to use.\nSelect the phone: Choose the brand and then select the correct model.\nDownload firmware: Search for the required firmware and download the available files.\nConnect the phone: Turn off the phone, use the required boot key such as Volume Up or Volume Down, connect the USB cable, and start the selected service operation.\n\nDownload Information\nSoftware Name\tAftersales Tool Box\nVersion\tV4 2025\nSupported Devices\tTecno, Infinix, Itel\nSupported Chipsets\tMediaTek, Spreadtrum (SPD), Qualcomm",
-      "downloads": 42,
+      "downloads": 43,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1787653442731,
@@ -39202,7 +39202,7 @@
       ],
       "createdAt": 1787832568674,
       "description": "VNboards v1.2.63 Free Download Features\nNew users can install the software using VNboards_Setup.exe.\nThe installer allows you to choose the installation location.\nA Desktop shortcut is created during installation.\nThe app opens automatically after installation is completed.\nExisting users can update directly from the app using the Update button.\nVNboards_Update.zip is handled internally by the self-update system.\nImproved protection for board data.\nThe software can identify devices using multiple hardware signals.What's New (Changelog)\nUpdated VNboards to version v1.2.63.\nAdded stronger protection for board data.\nThe software can now identify a device using multiple hardware signals.\nThis helps prevent intentional attempts to download large amounts of board data again by using another account.\nThe protection does not affect normal software use.\nNo personal information is collected for this protection.\nOnly some hardware identifiers are used after one-way encryption.\n\nHow to Install\nDownload VNboards_Setup.exe if you are installing VNboards for the first time.\nRun the downloaded installer file.\nChoose the installation location when the installer asks.\nComplete the installation process.\nA Desktop shortcut will be created.\nThe application opens automatically after installation.\nIf VNboards is already installed, open the app and click Update instead of downloading the installer again.",
-      "downloads": 321,
+      "downloads": 326,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1788316325946,
@@ -39248,7 +39248,7 @@
       ],
       "createdAt": 1787840407838,
       "description": "Haafedk iCloud A12+ V15 Free CRACK Download (No Login Required)\nHaafedk iCloud A12+ V15 Features\nDevice Information\nBefore using other options, the tool includes a Read Device function. According to the provided feature list, it can show several device details.\n\nRead Device: Reads the connected device information.\nSerial Number: Displays the device serial number.\nECID: Shows the ECID information.\nIMEI: Displays the IMEI.\nUDID: Shows the UDID.\nMode: Displays the current device mode.\niOS Version: Shows the installed iOS version.\nProduct Type: Displays the device product type.\nBuild: Shows the build information.\nJailbreak Status: Displays the jailbreak status.\nActivation Status: Shows the activation status.\nRegion: Displays the device region.\nBypass Options\nThe V15 feature list includes several Hello Bypass and MDM bypass options. The requirements mentioned with each option should be checked before trying to use them.\n\nHello Bypass A12/A13: Listed for A12 and A13 devices.\nHello Bypass 4S – 17 Pro Max: This option is listed as requiring WiFi.\nHello Bypass iPhone – iPad: Listed with a jailbreak requirement.\nHello Bypass iOS 12 – 14: Also listed as requiring jailbreak access.\nBypass MDM Old: An option for the old MDM bypass method.\nBypass MDM New: An option for the new MDM bypass method.\nDevice Operations\nA few device-related operations are also included in the provided list.Read Device: Used to read device details.\nFix Drivers: An option related to drivers.\nWin Test Mode: A Windows Test Mode option.\nPatcher Settings\nThe patcher section includes three listed options.\n\nAdd MobileGestalt: An option for adding MobileGestalt.\nSupported Devices: Lets you check the listed supported devices section.\nChange Serial: An option related to changing the serial.\nOther Bypass Settings\nThere are also a few toggle-style options in the feature list.\n\nBlock OTA: An option related to blocking OTA.\nSkip Setup: An option for skipping setup.\nDisable Factory Reset: An option related to disabling factory reset.\nIncluded Tools\nThe software also lists two extra tools.\n\nDevice Manager: Opens the Device Manager tool.\nWinRa1n Jailbreak Tool: The WinRa1n Jailbreak Tool is included in the listed tools section.\niCloud Tools\nTwo iCloud-related options are mentioned in the V15 feature list.\n\nFix iCloud Login: An option related to fixing iCloud login.\nEnable Factory Reset: An option for enabling factory reset.\nInstallation Steps\nExtract the downloaded setup archive to a folder on your computer.\nOpen the extracted folder and run the setup file, such as HAAFEDK_A12_SETUP.exe.\nIf Windows Defender SmartScreen stops the application from opening, select More info and then choose Run anyway.\nContinue through the setup wizard and select the installation folder. The provided instructions mention C:\\Haafedk-iCloud-a12 as the usual default location.\nIf you want a shortcut on your desktop, select the option for creating one.\nClick Install and wait for the setup process to finish.\nWindows Defender may flag the software during installation. The provided instructions say that installation can be interrupted in this situation.\nIf you choose to change Windows Security settings, do so carefully. Temporarily disabling protections can create security risks, so this should only be considered when you fully trust the software source.\nAfter installation is complete, close the setup wizard.\nOpen the installation folder or use the desktop shortcut to start Haafedk A12.exe.\nThe provided instructions mention a cracked login button at the login screen for bypassing the credentials and opening the main dashboard.\nDownload Haafedk iCloud A12+ V15\nThe available information identifies this version as V15. Before downloading or installing any software, make sure you trust the source and understand the security risks mentioned in the installation instructions.",
-      "downloads": 92,
+      "downloads": 93,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787881365705,
@@ -39641,7 +39641,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2123,
+      "downloads": 2175,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -39802,7 +39802,7 @@
       ],
       "createdAt": 1788264986213,
       "description": "VoLTE VoIP Wi-Fi Tool Free Download Features VoLTE + VoIP Wi-Fi Tool\nTurn VoLTE + VoIP Wi-Fi on or off with one click\nScan for ADB devices to connect your phone\nInstall Pixel IMS and Shizuku directly from the tool\nCheck IMS status on your connected device\nApply settings based on your phone brand (Samsung, Xiaomi, Oppo, Google)\nView activity logs showing what the tool is doing\nHow to Install\nDownload the file from the link provided below.\nExtract the downloaded files using 7-Zip or WinRAR.\nOpen the extracted folder and find the file named \"volte.exe\".\nRun the \"volte.exe\" file to launch the software.\nNo activation or sign-in is needed. The main interface opens instantly.\nConnect your Android device in ADB mode.\nThe tool is now ready to use.",
-      "downloads": 54,
+      "downloads": 55,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1788264986213,
@@ -39842,7 +39842,7 @@
       ],
       "createdAt": 1788316068397,
       "description": "FixHexa Tool CraQk 365 days Free Download . FixHexa Tool Features\nMoto Flasher: Flash Motorola stock firmware using XML files.\nClean Flash: Option available in the Motorola flashing section.\nSafe Flash: Flash option available for supported Motorola firmware work.\nFix CID Dead: Motorola Moto Flasher option.\nReboot After Flash: Automatically reboot after the flashing process.\nFlash Log: View the flashing log and related information.\nPartition Info: Display partition information in the Moto Flasher section.\nMTK FRP: Remove FRP lock on MTK devices.\nMTK Bootloader Unlock: Unlock the bootloader on MTK devices.\nADB to Fastboot: Convert an ADB-connected device to Fastboot mode.\nSlot Switching: Set Slot A or Slot B.\nRead Info: Read available device information.\nGet Unlock Data: Get unlock data from supported devices.\nErase FRP: Erase FRP when the bootloader is open.\nOEM Relock: Relock the OEM bootloader option.\nBL Relock: Relock the bootloader.\nXiaomi Fastboot Flasher: Flash Xiaomi fastboot ROM using flash_all.bat.\nXiaomi Slot Options: Set Slot A or Slot B during supported operations.\nSkip modem_a/b: Skip the modem partitions when using the Xiaomi flasher.\nSkip CUST: Skip the CUST partition.\nSkip opcust: Skip the opcust partition.\nXiaomi Erase FRP: Erase FRP from the available Fastboot Flasher options.\nACC Menu: Xiaomi Account Tools with Android 14, 15, and 16 support listed.\nPartition Tools: Options for Persist, Cust, Opcust, and Modem.\nADB Commands: Reboot to Fastboot, Recovery, restart device, disable OTA update, and list ADB devices.\nFastboot Commands: Read device info, reboot device, reboot to Fastboot, erase FRP, DM-Verity Fix, and slot switching.\nAndroid Info Extract: Load partition or tag files for Samsung, Oppo / Realme, Vivo, and Moto.\nPreloader EMI: Load MediaTek preloader.bin to check compatible memory chips.\nChip Info: Search eMMC and UFS chip specifications.\nENG ROM Search: Search engineering ROMs by file name.\nFind ISP: Search ISP pinouts using Fastboot mode or model search.\nFind Dump: Search and locate dump files.\nDownloader: Download files through the built-in download manager.What's New in the Latest ISP Data Update\nThe latest FixHexa update adds fresh ISP data for a number of device models. The new entries use different methods depending on the model, including Layer Scratch, CPU Drill, and No CPU Drill.\n\nvivo V40 Pro / T3 Ultra: New Layer Scratch ISP data added.\nvivo X300 Pro: New Layer Scratch ISP data added.\nF33: New No CPU Drill ISP data added.\nRedmi 15A: New CPU Drill ISP data added.\nSamsung SM7150: New CPU Drill ISP data added.\nSamsung SM7435: New CPU Drill ISP data added.\nvivo T4 Ultra: New Layer Scratch ISP data added.\nPOCO X6 Pro 5G: New Layer Scratch ISP data added.\nSamsung Galaxy S26+: New No CPU Drill ISP data added.\nMore ISP data: The update also mentions many more newly added solutions.\n\nNew ISP Solutions in FixHexa\nThe new update is mainly focused on ISP data. Several models now have a listed ISP method that can be checked from the FixHexa Tool.\n\nFor some models, the new data is marked as Layer Scratch. Other entries use CPU Drill or No CPU Drill. The method depends on the device model listed in the updated data.\n\nThe update covers devices from different brands, including vivo, Samsung, Redmi, POCO, and F33. It also includes data for the Samsung Galaxy S26+ and vivo X300 Pro.How to Install FixHexa Tool\nStep 1: Extract the Tool\nFirst, download the FixHexa Tool archive named FixhexaTool_Free_GSMYOGESH.rar. Right-click the downloaded RAR file and select the extract option.\n\nYou can use 7-Zip or WinRAR to extract the file. When the password window appears, enter gsmyogesh and click OK.\n\nStep 2: Open Loader.exe\nAfter extraction, open the newly created FixHexa folder. Find Loader.exe, right-click it, and select Run as administrator.\n\nStep 3: Get the Free Activation Key\nWhen the FIXHEXA TOOL popup appears, click the GET FREE ACTIVATION KEY button. This will open the activation page in your web browser.\n\nScroll down until you find the Generate 10 Days Free Activation Key section. The tool provides a hardware ID that can be copied into the HWID field.\n\nStep 4: Generate the LicenseRight-click inside the ENTER YOUR 16-CHAR HWID box and select Paste. The copied hardware ID will be entered into the field.\n\nNow click GENERATE KEY NOW. Once the key is generated, select and copy the license key shown above the button.\n\nStep 5: Register the License\nReturn to the FIXHEXA TOOL popup. Find the Paste License Token field and paste the license key into it.\n\nClick REGISTER LICENSE. Click OK or wait for the process to finish until the tool shows Activated Successfully!\n\nStep 6: Login to FixHexa\nAfter activation, the main FixHexa login window will appear. Enter gsmyogesh in the USERNAME / EMAIL field and use the same value in the PASSWORD field.Click LOGIN. If the tool asks you to join Telegram, click Later to continue.",
-      "downloads": 123,
+      "downloads": 130,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788316068397,
@@ -39880,44 +39880,80 @@
       "unrarPassword": ""
     },
     "f_mtmtpjva_b7zub7nqo": {
-      "name": "GSM SRINU TOOL v1.0.5 Cra#ck Free",
-      "folderId": "f_mpajwfy2_5pvx4efm9",
-      "size": "99mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Tyg8UXDwRjgtNYe_V65UuduX24a69NZBm_irax-nAxmR6Dr_QqeaGF8dmqrm410YWYhK5RFLRRkL1Kp7aC3iGx8s1NV7idH1Q3ngcUQZF9jC_1fJYil8hjSl94A1E20CRQCZ3IM5qx6sZ-uwfv0oCeeo-8ZtW5LY2DdJ4hMLO0EQLi0j7VMs6ztU5jmY/w640-h358/GSM%20SRINU%20TOOL%20v1.0.5%20Cra%23ck%20Free.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Tyg8UXDwRjgtNYe_V65UuduX24a69NZBm_irax-nAxmR6Dr_QqeaGF8dmqrm410YWYhK5RFLRRkL1Kp7aC3iGx8s1NV7idH1Q3ngcUQZF9jC_1fJYil8hjSl94A1E20CRQCZ3IM5qx6sZ-uwfv0oCeeo-8ZtW5LY2DdJ4hMLO0EQLi0j7VMs6ztU5jmY/w640-h358/GSM%20SRINU%20TOOL%20v1.0.5%20Cra%23ck%20Free.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "gsm-srinu-tool-v105-crack-free",
+      "createdAt": 1788518454743,
       "description": "GSM SRINU TOOL v1.0.5 Cra#ck Free Download How to Start GSM SRINU TOOL\nOpen the GSM SRINU TOOL folder on your computer.\nFind Loader.exe and run it. If required, run the loader as Administrator.\nA small CONTROL MODULE window will appear.\nWait while the control module performs the launch check, version check, server connection check, and API response check.\nAfter initialization, the main login window will open.\nEnter your username and login credentials.\nYou can select Remember if you want the login details to be remembered.\nClick Login and wait for the authentication process.\nThe program will show messages such as Authenticating with the server and then Login successful. Redirecting.\nAfter successful login, the main dashboard will load.\nSelect the required communication port and use the available category options.\nKG Samsung (ADB)\nThe KG Samsung (ADB) section contains several Samsung-related options. There are MTP information, KG status, ADB, and different Android version methods. The program lists separate methods for Android 14, Android 13, and different patches.\n\nMTP Read Info – Reads information through MTP.\nKG Android 14 New Method 1 – Android 14 KG method.\nKG Android 14 New Method 2 – Another Android 14 KG method.\nKG Android 14 New Method 3 – Third Android 14 KG method.\nKG Android 14 (All Patch) – KG option listed for Android 14 patches.\nSet To KG Active 01 (IMEI) – KG option using IMEI.\nKG Status Check – Checks the KG status.\nADB Live Screen – Provides an ADB live screen option.\nEnable ADB (05-23) – Enables ADB using the listed method.\nKG Android 13 (New Patch) – KG option for the new Android 13 patch.\nKG Android 13 (03-24) – Android 13 method listed for the 03-24 patch.\nKG Android 13 (07-23) – Android 13 method listed for the 07-23 patch.\nIT Admin Tools for Different Brands\nThe IT Admin (All Brands) section contains options for different Android versions, brands, and device management methods. It includes separate entries for Android 15, Hyper OS, VIVO, Samsung, and Tecno, Infinix, and Itel devices.\n\nIT Admin Android 15 – IT Admin option for Android 15.\nIT Admin Universal – Universal IT Admin option.\nIT Admin Hyper OS (Android 15) – IT Admin option for Hyper OS on Android 15.\nRedmi MDM (All In One) – Redmi MDM option in one section.\nIT Admin VIVO (New Security) – VIVO option for the listed new security.\nDisable Framework – Includes a framework disable option.\nSamsung Knox Disable – Samsung Knox disable option.\nSamsung Payjoy (New) – A new Samsung Payjoy option listed in the tool.\nIT Admin (Tecno, Infinix, Itel) – IT Admin option for Tecno, Infinix, and Itel.\nSamsung MDM (All Patch) – Samsung MDM option for the listed patches.\nIT Admin (Work profile) – Work profile option.\nIT Admin (Hyper OS) – IT Admin option for Hyper OS.\nService Tool Section\nThe Service Tool section contains several service and device-related options. It includes Pixel SIM unlock, factory reset methods, Samsung account removal through ADB, FRP through ADB, Samsung driver installation, and OTA controls.\n\nSim Unlock (Pixel) – SIM unlock option for Pixel.\nDisable Factory Reset Method 1 – First listed factory reset disable method.\nDisable Factory Reset Method 2 – Second listed factory reset disable method.\nSam. Account Remove (ADB) – Samsung account removal option through ADB.\nFactory Reset – Factory reset option.\nDeveloper Option Hide – Option to hide Developer Options.\nFRP (ADB) – FRP option using ADB.\nInstall Samsung Driver – Samsung driver installation option.\nService Provide Update Fix. – Includes the listed service provider update fix.\nEnable OTA – Enables OTA.\nDisable OTA – Disables OTA.\nQR Code Scan Tools\nThe QR Code Scan section contains different QR-based options for ADB and Hyper OS. The tool lists separate Android 14 and Android 13 methods, along with Hyper OS QR methods. It also includes an ADB information option and an Oplus demo removal option.ADB Enable QR 14 Method 1 – First Android 14 QR method for ADB.\nADB Enable QR 14 Method 2 – Second Android 14 QR method for ADB.\nADB Enable QR 13 – Android 13 QR option for ADB.\nHyper OS QR 1 – First listed Hyper OS QR method.\nHyper OS QR 2 – Second listed Hyper OS QR method.\nADB Read Info – Reads device information through ADB.\nOplus Demo Remove – Oplus demo removal option.\nMDM Section\nThe tool also has a separate MDM section. It contains an option named MDM Remove (All Brands), which is listed for MDM removal across the supported brands mentioned by the program.\n\nFeatures at a Glance\nNew design in GSM SRINU TOOL v1.0.5\nCONTROL MODULE initialization\nLaunch check\nVersion check\nServer connection check\nAPI response check\nLogin system\nCommunication port selection\nKG Samsung ADB tools\nAndroid 14 and Android 13 KG methods\nIT Admin tools\nHyper OS options\nRedmi MDM option\nVIVO IT Admin option\nSamsung Knox option\nSamsung MDM option\nTecno, Infinix, and Itel IT Admin option\nService Tool section\nPixel SIM unlock option\nSamsung account removal through ADB\nFactory reset options\nFRP ADB option\nSamsung driver installation\nOTA enable and disable options\nAndroid 14, Android 13, and Hyper OS QR methods\nADB information reading\nOplus demo removal option\nMDM Remove (All Brands)\nLogin and Dashboard\nThe login process is handled after the CONTROL MODULE finishes its checks. The user enters the username and login credentials and then clicks the Login button. The tool displays the authentication status while connecting to the server.\n\nAfter a successful login, the program redirects to the dashboard. The dashboard contains the communication port selection and the different categories used to access the available functions.",
-      "downloads": 0,
-      "link": "https://mega.nz/file/ahhRRCoY#3PdZOTHeed9AXNrITcOfz2qeRbzlG6RnpgsInbmXpbc",
+      "downloads": 23,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "published": true,
+      "lastModified": 1788518454743,
+      "link": "https://mega.nz/file/ahhRRCoY#3PdZOTHeed9AXNrITcOfz2qeRbzlG6RnpgsInbmXpbc",
       "links": [
         {
           "label": "GSM SRINU TOOL v1.0.5 Link",
           "urls": [
             {
-              "url": "https://mega.nz/file/ahhRRCoY#3PdZOTHeed9AXNrITcOfz2qeRbzlG6RnpgsInbmXpbc",
+              "password": "",
+              "url": "https://mega.nz/file/ahhRRCoY#3PdZOTHeed9AXNrITcOfz2qeRbzlG6RnpgsInbmXpbc"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1WDvzRtzjhrUWeZoXx1xYLOf7i9is_4jE/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/16gj6r_xEYnI4omlXkOZJOw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "GSM SRINU TOOL v1.0.5 Cra#ck Free",
+      "password": "",
+      "publishUrl": "gsm-srinu-tool-v105-crack-free",
+      "published": true,
+      "size": "99mb",
+      "unrarPassword": ""
+    },
+    "f_mtnxxyf5_iktt92bc2": {
+      "name": "HSD AIO TOOL v1.0.4 Cr@cked",
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "size": "143mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqS8UpCtT2yJKgEkXb5WdtNfJa_E3Tbn0-h9H2HvhYWFlzbOOG9nCL8eOnzZw4NZ5jgjs0Z7fy8dad2Z9cWVAjPYD3UW0CjNZgnMAdfqLicGzHFBNtGsPWI-Is8CKbv5lSSRO450T90B2DGM9YVAhqjqlQ_IcW9rM0Kajmt3ORHePOxuo9Ger27vfo5-sm/s1600/HSD%20AIO%20TOOL%20v1.0.4%20Cr@cked.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqS8UpCtT2yJKgEkXb5WdtNfJa_E3Tbn0-h9H2HvhYWFlzbOOG9nCL8eOnzZw4NZ5jgjs0Z7fy8dad2Z9cWVAjPYD3UW0CjNZgnMAdfqLicGzHFBNtGsPWI-Is8CKbv5lSSRO450T90B2DGM9YVAhqjqlQ_IcW9rM0Kajmt3ORHePOxuo9Ger27vfo5-sm/s1600/HSD%20AIO%20TOOL%20v1.0.4%20Cr@cked.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "hsd-aio-tool-v104-crcked",
+      "description": "HSD AIO TOOL v1.0.4 Cr@ckedInstallation and First Setup\nTo install HSD AIO Tool, first locate HSD_AIO_TOOL.exe on the desktop. Right-click the file and choose the option to run it as Administrator. Continue through the installer prompts and enable the desktop shortcut option when it appears.\n\nContinue with the installation until the setup is complete. On the final screen, uncheck Launch HSD_AIO_TOOL and then click Finish.\n\nAfter installation, open the new desktop shortcut. The HSD LOGIN screen will appear. Click SIGN UP and enter the registration details requested by the program, including Name, Phone Number, Email, and Password. Then click CREATE ACCOUNT.\n\nA referral pop-up appears after account creation. Click CONTINUE TO LOGIN to continue to the main application.\n\nTesting Different Brand Sections\nDuring the provided test, several brand sections were opened and different operations were attempted. On Infinix, the SMART 7 HD (X6516) model was selected and the Factory Reset option was used.\n\nOn Motorola, the G85 5G (XT2427) model was selected and an Erase FRP operation was attempted. On Oppo, the A3s (CPH1853) model was selected and Read Info / Boot Device was attempted.\n\nRealme was also checked using the C17 (RMX2101) model. Read Info and Backup Security were attempted during the test.\n\nThese operations did not complete because the tool returned the same loader-related error across the tested brand operations.\n\nServer Loader Error\nThe main issue observed during the test was a server loader download failure. When operations were started on Infinix, Motorola, Oppo, and Realme, the tool attempted to prepare a loader but could not download it.\n\nThe displayed message was:\n\n>> LOADER DOWNLOAD FAILED :- NOT AVAILABLE ON SERVER\n\nThe tool then displayed:\n\nOperation Cancelled. Loader preparation failed.\n\nThis happened during Factory Reset, Erase FRP, and Read Info attempts. Based on the provided test, these operations could not be completed because the required loader was reported as unavailable on the server.",
+      "downloads": 0,
+      "link": "http://www.mediafire.com/file/xh4vaangnoi939r/HSD_AIO_TOOL.rar",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "HSD AIO TOOL v1.0.4 Cr@cked",
+          "urls": [
+            {
+              "url": "http://www.mediafire.com/file/xh4vaangnoi939r/HSD_AIO_TOOL.rar",
               "password": ""
             },
             {
-              "url": "https://drive.google.com/file/d/1WDvzRtzjhrUWeZoXx1xYLOf7i9is_4jE/view?usp=sharing",
-              "password": ""
-            },
-            {
-              "url": "https://1024terabox.com/s/16gj6r_xEYnI4omlXkOZJOw",
+              "url": "https://1024terabox.com/s/1-62KsmdxDbRGIj-A6CkAXg",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1788518454743,
-      "lastModified": 1788518454743
+      "createdAt": 1788586031489,
+      "lastModified": 1788586031489
     }
   },
   "images": {
@@ -50121,7 +50157,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-04T10:41:07.067Z",
+    "createdAt": "2026-09-05T05:27:19.503Z",
     "version": "2.0",
     "sections": 4
   }
