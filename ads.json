@@ -17060,20 +17060,38 @@
       "unrarPassword": ""
     },
     "f_mq7ewyem_fwvmuibtl": {
-      "coverUrl": "https://samfw.com/blog_images/samfw-frp-tool-1-0-remove-samsung-frp-one-click/CTDlPft.png",
+      "coverUrl": "https://samfw.com/blog_images/samfwtool/n3bnQyP.png",
       "covers": [
+        "https://samfw.com/blog_images/samfwtool/n3bnQyP.png",
         "https://samfw.com/blog_images/samfw-frp-tool-1-0-remove-samsung-frp-one-click/CTDlPft.png",
         "https://samfw.com/blog_images/samfw-frp-tool-1-0-remove-samsung-frp-one-click/CMU6s8N.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Ll23gIfjgG8rEIa934uuIxNl1Bjsq8p831yEtcHv8JyTRuClFrcm-4gPKYi36bD_rtRoxfgkm2S_txMQISEYP5oSsTukiPmwgfVMrwJYZcQ8y49lWavEML9Hu_1JU-_GjeQ_ZQESX6EupBDpKWOW4yg3rOD4cCqidzPvlAsBZP_sj3444Qa6J0ffajD1/w640-h414/SamFw%20FRP%20Tool%20V5.1%20Download.png"
       ],
       "createdAt": 1781056266286,
-      "description": "SamFw FRP Tool V5.8\nSamsung\nFRP\nRemove FRP Server 1 (Exynos CPU Only - Beta)\nRemove FRP Server 2 (Android 16)\nRemove FRP (Security Older Than August 2022)\nRemove FRP (August 2022 - December 2022 Security)\nRemove FRP (USA Models 2024)\n\n [SAMSUNG]\n [FRP] - Add Samsung Exynos FRP Beta\n - Fix the wrong serial number for Samsung Download mode\n - Fix some bugs\n\n\n\n🔧 SamFw Tool Features\nSamsung Functions\nTest Mode (#0#)\nRemove FRP (Old & New Security)\nFactory Reset\nDisable Knox\nDisable Factory Mode\nMTP Mode\nEnable Secret Code (Verizon)\nADB Mode\nChange CSC (Normal & Root)\nRemove Samsung Account\nEnable Mobile Data Toggle\nDownload / Exit Download Mode\nSoft Brick Fix\nFRP Android 5 / 6\nOdin Flash\nSave Recent Flash Files\nAuto Detect & Select Slots\nAuto Extract ZIP Files\nIgnore MD5 Checksum\nDriver Signature Enable / Disable\nInstall Samsung USB Driver\nInstall VC++ 2015\nXiaomi Functions\nADB / Fastboot\nBypass MiCloud (Android 8.1)\nEnable Diag (Root)\nRemove FRP\nSideload\nFactory Reset\nReset MiCloud\nQualcomm Anti-Relock MiCloud\nRead Offline MiCloud Info\nEDL 9008\nLG Functions\nMTP & Factory Reset\nEDL Support (G7, G8, G8X, V30, V40, V50, V60, etc.)\nRemove FRP\nLG UP\nFlash LG KDZ\nAndroid (Universal)\nADB\nBattery Information (OneUI 8+)\nDisable / Enable OTA Update\nSet Language\nFactory Reset\nHide Developer Options\nFRP & Open Browser (FRP)\nApp Manager\nRoot\nQualcomm\nEDL 9008 Partition Manager (Read / Write / Erase)\nReset FRP\nFactory Reset\nErase Userdata\n\n\n<p>📥 Download Links</p><div class=\"section\">\n<div class=\"links\">\n<a href=\"https://www.mediafire.com/file/fy3esfai3n7y0da/SamFwToolSetup_v5.1.zip/file\" target=\"_blank\">SamFw Tool v5.1 – MediaFire</a>\n<a href=\"https://drive.proton.me/urls/NGDHQTY4A4#ZoHUcLBxPcz4\" target=\"_blank\">SamFw Tool v5.1 – Mirror</a>\n<a href=\"https://transfer.it/t/2shjVDs1BBQD\" target=\"_blank\">SamFw Tool v5.1 – Direct Link 1</a>\n<a href=\"https://samfw.com/SamFwToolSetup_v5.1.zip\" target=\"_blank\">SamFw Tool v5.1 – Direct Link 2</a>\n<br />\n<a href=\"https://www.mediafire.com/file/id8m2j1dr0vmodo/SamFwToolSetup_v5.0.zip/file\" target=\"_blank\">SamFw Tool v5.0</a>\n<a href=\"https://drive.proton.me/urls/VZ2NC3P9ZR#N93K65NfSWMA\" target=\"_blank\">SamFw Tool v5.0 – Mirror</a>\n<br />\n<a href=\"https://www.jioaicloud.com/l/?u=06rq-kgNCObhO-pX55J9NcHMR2HbD19_pNZErb1R1BpqwwU-7JERIvS_Mm1_DAwY8BX\" target=\"_blank\">SamFw Tool v4.9</a>\n</div>\n</div>\n\n<div class=\"section\">\n<h2>🛠 Error Fix</h2>\n<p>.NET Framework Error Fix:</p>\n<a href=\"https://samfw.com/dotnet4.7.1_offline.exe\" target=\"_blank\">Download .NET Framework 4.7.1 Offline</a></div>",
+      "description": "SamFw FRP Tool V6.0\nSamFw FRP Tool V5.8\nSamsung\nFRP\nRemove FRP Server 1 (Exynos CPU Only - Beta)\nRemove FRP Server 2 (Android 16)\nRemove FRP (Security Older Than August 2022)\nRemove FRP (August 2022 - December 2022 Security)\nRemove FRP (USA Models 2024)\n\n [SAMSUNG]\n [FRP] - Add Samsung Exynos FRP Beta\n - Fix the wrong serial number for Samsung Download mode\n - Fix some bugs\n\n\n\n🔧 SamFw Tool Features\nSamsung Functions\nTest Mode (#0#)\nRemove FRP (Old & New Security)\nFactory Reset\nDisable Knox\nDisable Factory Mode\nMTP Mode\nEnable Secret Code (Verizon)\nADB Mode\nChange CSC (Normal & Root)\nRemove Samsung Account\nEnable Mobile Data Toggle\nDownload / Exit Download Mode\nSoft Brick Fix\nFRP Android 5 / 6\nOdin Flash\nSave Recent Flash Files\nAuto Detect & Select Slots\nAuto Extract ZIP Files\nIgnore MD5 Checksum\nDriver Signature Enable / Disable\nInstall Samsung USB Driver\nInstall VC++ 2015\nXiaomi Functions\nADB / Fastboot\nBypass MiCloud (Android 8.1)\nEnable Diag (Root)\nRemove FRP\nSideload\nFactory Reset\nReset MiCloud\nQualcomm Anti-Relock MiCloud\nRead Offline MiCloud Info\nEDL 9008\nLG Functions\nMTP & Factory Reset\nEDL Support (G7, G8, G8X, V30, V40, V50, V60, etc.)\nRemove FRP\nLG UP\nFlash LG KDZ\nAndroid (Universal)\nADB\nBattery Information (OneUI 8+)\nDisable / Enable OTA Update\nSet Language\nFactory Reset\nHide Developer Options\nFRP & Open Browser (FRP)\nApp Manager\nRoot\nQualcomm\nEDL 9008 Partition Manager (Read / Write / Erase)\nReset FRP\nFactory Reset\nErase Userdata\n\n\n<p>📥 Download Links</p><div class=\"section\">\n<div class=\"links\">\n<a href=\"https://www.mediafire.com/file/fy3esfai3n7y0da/SamFwToolSetup_v5.1.zip/file\" target=\"_blank\">SamFw Tool v5.1 – MediaFire</a>\n<a href=\"https://drive.proton.me/urls/NGDHQTY4A4#ZoHUcLBxPcz4\" target=\"_blank\">SamFw Tool v5.1 – Mirror</a>\n<a href=\"https://transfer.it/t/2shjVDs1BBQD\" target=\"_blank\">SamFw Tool v5.1 – Direct Link 1</a>\n<a href=\"https://samfw.com/SamFwToolSetup_v5.1.zip\" target=\"_blank\">SamFw Tool v5.1 – Direct Link 2</a>\n<br />\n<a href=\"https://www.mediafire.com/file/id8m2j1dr0vmodo/SamFwToolSetup_v5.0.zip/file\" target=\"_blank\">SamFw Tool v5.0</a>\n<a href=\"https://drive.proton.me/urls/VZ2NC3P9ZR#N93K65NfSWMA\" target=\"_blank\">SamFw Tool v5.0 – Mirror</a>\n<br />\n<a href=\"https://www.jioaicloud.com/l/?u=06rq-kgNCObhO-pX55J9NcHMR2HbD19_pNZErb1R1BpqwwU-7JERIvS_Mm1_DAwY8BX\" target=\"_blank\">SamFw Tool v4.9</a>\n</div>\n</div>\n\n<div class=\"section\">\n<h2>🛠 Error Fix</h2>\n<p>.NET Framework Error Fix:</p>\n<a href=\"https://samfw.com/dotnet4.7.1_offline.exe\" target=\"_blank\">Download .NET Framework 4.7.1 Offline</a></div>",
       "downloads": 1,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
-      "lastModified": 1784686304612,
-      "link": "https://mega.nz/file/0d0FXJiQ#ypg_-JmcBrQvDou-BG8Z2lSqFeMh6aJ7udYrLQ5FeZY",
+      "lastModified": 1788950123296,
+      "link": "https://www.androidfilehost.com/?fid=17900174959292977459",
       "links": [
+        {
+          "label": "SamFw FRP Tool V6.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.androidfilehost.com/?fid=17900174959292977459"
+            },
+            {
+              "password": "",
+              "url": "https://samfw.com/SamFwToolSetup_v6.0.zip"
+            },
+            {
+              "password": "",
+              "url": "https://transfer.it/t/uZvh9HtzEZ6J"
+            }
+          ]
+        },
         {
           "label": "SamFw FRP Tool V5.8",
           "urls": [
@@ -39139,7 +39157,7 @@
       ],
       "createdAt": 1787657787862,
       "description": "HBG VoLTE IMS Fixer Tool What You Can See in the Software\nDevice Model — Shows the connected Android device model.\nAndroid Version — Shows the Android version detected from the phone.\nManufacturer — Displays the phone manufacturer.\nSIM Carrier — Shows the available SIM carrier information.\nVoLTE Status — Displays the current VoLTE status shown by the tool.\n1-Click VoLTE Fix — Runs the automatic VoLTE activation option.\nShizuku & Pixel IMS — Provides the option for installing the Shizuku and Pixel IMS app set.\nStatus Messages — Shows messages related to the current process.\n\nDownload Information\nSoftware Name\tHBG VoLTE & IMS Fixer\nDeveloper\tHBG\nSupported OS\tWindows\nSupported Devices\tAndroid devices supported by the tool",
-      "downloads": 101,
+      "downloads": 106,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787657787862,
@@ -39223,7 +39241,7 @@
       ],
       "createdAt": 1787832568674,
       "description": "VNboards v1.2.63 Free Download Features\nNew users can install the software using VNboards_Setup.exe.\nThe installer allows you to choose the installation location.\nA Desktop shortcut is created during installation.\nThe app opens automatically after installation is completed.\nExisting users can update directly from the app using the Update button.\nVNboards_Update.zip is handled internally by the self-update system.\nImproved protection for board data.\nThe software can identify devices using multiple hardware signals.What's New (Changelog)\nUpdated VNboards to version v1.2.63.\nAdded stronger protection for board data.\nThe software can now identify a device using multiple hardware signals.\nThis helps prevent intentional attempts to download large amounts of board data again by using another account.\nThe protection does not affect normal software use.\nNo personal information is collected for this protection.\nOnly some hardware identifiers are used after one-way encryption.\n\nHow to Install\nDownload VNboards_Setup.exe if you are installing VNboards for the first time.\nRun the downloaded installer file.\nChoose the installation location when the installer asks.\nComplete the installation process.\nA Desktop shortcut will be created.\nThe application opens automatically after installation.\nIf VNboards is already installed, open the app and click Update instead of downloading the installer again.",
-      "downloads": 343,
+      "downloads": 346,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1788316325946,
@@ -39823,7 +39841,7 @@
       ],
       "createdAt": 1788264986213,
       "description": "VoLTE VoIP Wi-Fi Tool Free Download Features VoLTE + VoIP Wi-Fi Tool\nTurn VoLTE + VoIP Wi-Fi on or off with one click\nScan for ADB devices to connect your phone\nInstall Pixel IMS and Shizuku directly from the tool\nCheck IMS status on your connected device\nApply settings based on your phone brand (Samsung, Xiaomi, Oppo, Google)\nView activity logs showing what the tool is doing\nHow to Install\nDownload the file from the link provided below.\nExtract the downloaded files using 7-Zip or WinRAR.\nOpen the extracted folder and find the file named \"volte.exe\".\nRun the \"volte.exe\" file to launch the software.\nNo activation or sign-in is needed. The main interface opens instantly.\nConnect your Android device in ADB mode.\nThe tool is now ready to use.",
-      "downloads": 66,
+      "downloads": 70,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1788264986213,
@@ -39863,7 +39881,7 @@
       ],
       "createdAt": 1788316068397,
       "description": "FixHexa Tool CraQk 365 days Free Download . FixHexa Tool Features\nMoto Flasher: Flash Motorola stock firmware using XML files.\nClean Flash: Option available in the Motorola flashing section.\nSafe Flash: Flash option available for supported Motorola firmware work.\nFix CID Dead: Motorola Moto Flasher option.\nReboot After Flash: Automatically reboot after the flashing process.\nFlash Log: View the flashing log and related information.\nPartition Info: Display partition information in the Moto Flasher section.\nMTK FRP: Remove FRP lock on MTK devices.\nMTK Bootloader Unlock: Unlock the bootloader on MTK devices.\nADB to Fastboot: Convert an ADB-connected device to Fastboot mode.\nSlot Switching: Set Slot A or Slot B.\nRead Info: Read available device information.\nGet Unlock Data: Get unlock data from supported devices.\nErase FRP: Erase FRP when the bootloader is open.\nOEM Relock: Relock the OEM bootloader option.\nBL Relock: Relock the bootloader.\nXiaomi Fastboot Flasher: Flash Xiaomi fastboot ROM using flash_all.bat.\nXiaomi Slot Options: Set Slot A or Slot B during supported operations.\nSkip modem_a/b: Skip the modem partitions when using the Xiaomi flasher.\nSkip CUST: Skip the CUST partition.\nSkip opcust: Skip the opcust partition.\nXiaomi Erase FRP: Erase FRP from the available Fastboot Flasher options.\nACC Menu: Xiaomi Account Tools with Android 14, 15, and 16 support listed.\nPartition Tools: Options for Persist, Cust, Opcust, and Modem.\nADB Commands: Reboot to Fastboot, Recovery, restart device, disable OTA update, and list ADB devices.\nFastboot Commands: Read device info, reboot device, reboot to Fastboot, erase FRP, DM-Verity Fix, and slot switching.\nAndroid Info Extract: Load partition or tag files for Samsung, Oppo / Realme, Vivo, and Moto.\nPreloader EMI: Load MediaTek preloader.bin to check compatible memory chips.\nChip Info: Search eMMC and UFS chip specifications.\nENG ROM Search: Search engineering ROMs by file name.\nFind ISP: Search ISP pinouts using Fastboot mode or model search.\nFind Dump: Search and locate dump files.\nDownloader: Download files through the built-in download manager.What's New in the Latest ISP Data Update\nThe latest FixHexa update adds fresh ISP data for a number of device models. The new entries use different methods depending on the model, including Layer Scratch, CPU Drill, and No CPU Drill.\n\nvivo V40 Pro / T3 Ultra: New Layer Scratch ISP data added.\nvivo X300 Pro: New Layer Scratch ISP data added.\nF33: New No CPU Drill ISP data added.\nRedmi 15A: New CPU Drill ISP data added.\nSamsung SM7150: New CPU Drill ISP data added.\nSamsung SM7435: New CPU Drill ISP data added.\nvivo T4 Ultra: New Layer Scratch ISP data added.\nPOCO X6 Pro 5G: New Layer Scratch ISP data added.\nSamsung Galaxy S26+: New No CPU Drill ISP data added.\nMore ISP data: The update also mentions many more newly added solutions.\n\nNew ISP Solutions in FixHexa\nThe new update is mainly focused on ISP data. Several models now have a listed ISP method that can be checked from the FixHexa Tool.\n\nFor some models, the new data is marked as Layer Scratch. Other entries use CPU Drill or No CPU Drill. The method depends on the device model listed in the updated data.\n\nThe update covers devices from different brands, including vivo, Samsung, Redmi, POCO, and F33. It also includes data for the Samsung Galaxy S26+ and vivo X300 Pro.How to Install FixHexa Tool\nStep 1: Extract the Tool\nFirst, download the FixHexa Tool archive named FixhexaTool_Free_GSMYOGESH.rar. Right-click the downloaded RAR file and select the extract option.\n\nYou can use 7-Zip or WinRAR to extract the file. When the password window appears, enter gsmyogesh and click OK.\n\nStep 2: Open Loader.exe\nAfter extraction, open the newly created FixHexa folder. Find Loader.exe, right-click it, and select Run as administrator.\n\nStep 3: Get the Free Activation Key\nWhen the FIXHEXA TOOL popup appears, click the GET FREE ACTIVATION KEY button. This will open the activation page in your web browser.\n\nScroll down until you find the Generate 10 Days Free Activation Key section. The tool provides a hardware ID that can be copied into the HWID field.\n\nStep 4: Generate the LicenseRight-click inside the ENTER YOUR 16-CHAR HWID box and select Paste. The copied hardware ID will be entered into the field.\n\nNow click GENERATE KEY NOW. Once the key is generated, select and copy the license key shown above the button.\n\nStep 5: Register the License\nReturn to the FIXHEXA TOOL popup. Find the Paste License Token field and paste the license key into it.\n\nClick REGISTER LICENSE. Click OK or wait for the process to finish until the tool shows Activated Successfully!\n\nStep 6: Login to FixHexa\nAfter activation, the main FixHexa login window will appear. Enter gsmyogesh in the USERNAME / EMAIL field and use the same value in the PASSWORD field.Click LOGIN. If the tool asks you to join Telegram, click Later to continue.",
-      "downloads": 162,
+      "downloads": 164,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788316068397,
@@ -39983,7 +40001,7 @@
       ],
       "createdAt": 1788689398003,
       "description": "GSM Family Tool v1.1.8 Free Download Brand and Chipset Support\nGSM Family Tool has separate tabs for several mobile brands and platforms. Samsung includes universal support and a list of specific Galaxy models. Huawei has its own section with P, Mate, Nova, Y, and Honor devices. SPD/Unisoc support is listed by chipset, while Motorola also has its own service section.\n\nSamsung\nHuawei\nSPD / Unisoc\nMotorola\nXiaomi\nOppo\nVivo\nRealme\nInfinix\nTecno\nMediaTek\nSamsung Support\nThe Samsung section includes universal Samsung support along with specific Galaxy models. The listed models include Galaxy A03, A12, A13, A14, A15, A24, A34, A54, A71, A72, A21s, A31, A32, A51, A52s, S20, and S21.\n\nHuawei Support\nThe Huawei section includes universal Huawei support and several device families. The listed P series covers P20 to P40 Pro, while the Mate section covers Mate 20 to Mate 40 Pro. Nova 5T, Nova 7i, Nova 9, Y6 2019, Y7a, Y9 Prime, and Honor 8X are also listed.SPD / Unisoc Chipsets\nThe SPD / Unisoc section lists support for SC9863A, T606, T610, T612, T616, and T700 chipsets.\n\nMotorola Support\nThe Motorola section includes Universal Moto support and Motorola XT2503-4 support.\n\nSamsung Tools\nThe Samsung section contains general device operations and a service area. The general options include KG Remove ADB, Read Device Info, Activate ADB, and different reboot options.\n\nKG Remove ADB\nRead Device Info\nActivate ADB\nReboot System\nReboot Recovery\nReboot Download\nDNS Credit Service\nBuy Credit\nGenerate DNS\nHuawei Tools\nHuawei has options for reading device information through different connection modes. The flash section also includes a Firmware Flasher with slots for Base, Cust, and Preload files.\n\nRead Device Info via ADB\nRead Device Info via Fastboot\nRead Device Info via Huawei USB Update Mode\nFirmware Flasher\nBase partition file slot\nCust partition file slot\nPreload partition file slot\nRepartition option\nXiaomi Tools\nThe Xiaomi section includes two listed general operations. Smart Patch is available along with an ADB option for removing Mi.Smart Patch\nADB Remove Mi\nOppo Tools\nThe Oppo section contains ADB and Oplusreserve patch options. The listed functions include ADB Remove and patches for Oplusreserve2 and Oplusreserve3.\n\nADB Remove\nPatch Oplusreserve2\nPatch Oplusreserve3\nSPD / Unisoc Tools\nThe SPD / Unisoc section has several groups for general operations, flashing, backup and restore, diagnostics, and package management. The General section includes device detection, information reading, factory reset, safe format, GPT reading, NV backup, dump reading, bootloader options, and device disconnect.\n\nDetect Device\nRead Info\nFactory Reset\nSafe Format\nRead GPT\nBackup NV\nRead Dump\nFRP Remove\nUnlock Bootloader\nRelock Bootloader\nDisconnect Device\nSPD / Unisoc Flash\nThe flash section works with PAC files and automatically identifies the listed FDL1 and FDL2 partitions.\n\nFlash PAC Files\nAutomatic FDL1 Identification\nAutomatic FDL2 Identification\nBackup and Restore\nThe Backup / Restore section contains options to search, read, write, and erase specific partitions. The supplied information also mentions loading .bin image files for these operations.\n\nSearch Partition\nRead Partition\nWrite Partition\nErase Partition\nLoad .bin Image\nDiagnostic Tools\nThe Diagnostic section includes Super APK Remover. The supplied details describe an Android dynamic-partition/EROFS editor that can scan, patch misc data, and remove specific APKs.\n\nPackage Management\nThe Advanced section includes package management controls for APK files. These options cover installing, uninstalling, disabling, enabling, backing up, and restoring APKs.\n\nInstall APK\nUninstall APK\nDisable APK\nEnable APK\nBackup APK\nRestore APK\nMediaTek META Service\nThe MediaTek section is focused on META Mode operations. It includes options to enter META Mode, perform the listed META services, and exit META Mode when the operation is finished.\n\nMETA Factory Reset\nMETA Reset FRP\nMETA Patch\nBoot in META\nExit META Mode\nMotorola Tools\nThe Motorola section includes bootloader, patching, ADB, and flashing options. The Fastboot Flasher supports flashfile.xml, servicefile.xml, and individual .img partition files.\n\nBootloader Unlock\nPatch Misc\nPatch FRP\nADB Process\nADB Activate\nFastboot Flasher\nflashfile.xml Support\nservicefile.xml Support\nSingle .img Partition Support\nApplication Navigation\nThe main application navigation contains several sections for moving between different parts of the software. The listed top navigation items are Dashboard, Utilities, Solution & File, Profile, and Settings.\n\nDashboard\nUtilities\nSolution & File\nProfile\nSettings\nLive Status Panel\nThe interface also has a live status area on the right side. It contains a Log Console for application messages, connection information for USB or COM Port, CPU usage monitoring, license information, and a progress bar.\n\nReal-time Log Console\nUSB / COM Port Connection Status\nCPU Usage Monitor\nPremium License Type\nProgress Bar\nHow to Install GSM Family Tool v1.1.8\nThe supplied installation process starts with the GSM Family Tool RAR archive on the Windows desktop. The archive needs to be extracted before opening the program.\n\nFind the GSM Family Tool.rar archive on the desktop.\nRight-click the archive and select Extract to “GSM Family Tool”.\nWhen the password window appears, enter Royal123@ and click OK.\nAfter extraction finishes, open the newly created GSM Family Tool folder.\nInside the folder, find Loader.exe.\nRight-click Loader.exe and select Open.\nThe GSM Family Tool License Manager window will appear with the credentials already filled in.\nClick the purple LOGIN button to continue.\nIf Windows Security Alert appears, click Allow access to allow the application through the network.\nWait for the main GSM Family Tool dashboard to load.",
-      "downloads": 79,
+      "downloads": 80,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788689398003,
@@ -40531,10 +40549,10 @@
       ],
       "createdAt": 1788919533164,
       "description": "MTK AI Agent v2.0 Download Features MTK AI Agent\n58 intents covering the MTKClient CLI command set\n48 adapter methods with direct Python API calls\nNatural language support for English and Malayalam\n70+ Malayalam phrase mappings\nSafety confirmation for dangerous operations\nConversation memory with workflow tracking\nError analysis and device fingerprinting\nSingle-file architecture with mtk_ai_single.py\nPre-built PyInstaller EXE with bundled DLLs\nDevice detection and device information\nGPT and partition read/write operations\nFull flash and partition backup commands\nWipe and FRP commands\nDA mode tools\nMETA, payload and Stage commands\nRPMB read and write support\nMemory dump and BROM dump commands\nRepair workflows for dead, bootloop and unbrick issues\nBootloader unlock and lock commands\n\nWhat's New in MTK AI Agent v2.0.0\nAdded wipe\nAdded frp\nAdded log\nAdded peek\nAdded stage\nAdded plstage\nAdded rpmb_read\nAdded rpmb_write\nAdded memdump\nAdded dumpbrom\nAdded fs_mount\nAdded da_vbmeta\nAdded da_efuse\nAdded da_keyserver\nAdded nvitem\nAdded patchmodem\nAdded meta2\nAdded logdumpHow to Install\nDownload the MTK AI Agent files from the provided project source.\nIf you are using the source version, make sure Python 3.8 or newer is installed.\nInstall the required MTK USB drivers.\nIf you are using the pre-built EXE, Python is not required.\nRun MTK-AI-Agent.exe to start the tool.\nUse the available commands from the interactive mode.",
-      "downloads": 0,
+      "downloads": 12,
       "folderId": "f_mq90y5hx_pgeh8l0ya",
       "isLink": false,
-      "lastModified": 1788919533164,
+      "lastModified": 1788933084159,
       "link": "https://www.androidfilehost.com/?fid=17900174959292977248",
       "links": [
         {
@@ -40547,6 +40565,10 @@
             {
               "password": "",
               "url": "https://1024terabox.com/s/1IlkD7EaFyHPvinxDrqtc_Q"
+            },
+            {
+              "password": "",
+              "url": "https://www.up-4ever.net/731mv2exjy9a"
             }
           ]
         }
@@ -40561,40 +40583,80 @@
       "unrarPassword": ""
     },
     "f_mttgsl39_8u27esjyq": {
-      "name": "SaiduAllMe ADB Helper",
-      "folderId": "f_mp6sjxdd_c186cvizt",
-      "size": "23mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOjnjCDy9bQKoeZtQsmL3NDZeMjBSPLwC022H9X7iBHX-5IXHAb_ee1rJYnhWg6O94HndsXfxSccyQcoM2kbmQ9iRsLhgr0I0dgkBWUkf86LIkoY_oSlrwXIghg049tHbGOgDBA-GJZqeRFcyJ-iKizv7Xbc_UmaMqS3HAsReHGr2Wa3aQbCdrzLmNjvvb/w640-h358/SaiduAllMe%20ADB%20Helper%20DOwnload.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOjnjCDy9bQKoeZtQsmL3NDZeMjBSPLwC022H9X7iBHX-5IXHAb_ee1rJYnhWg6O94HndsXfxSccyQcoM2kbmQ9iRsLhgr0I0dgkBWUkf86LIkoY_oSlrwXIghg049tHbGOgDBA-GJZqeRFcyJ-iKizv7Xbc_UmaMqS3HAsReHGr2Wa3aQbCdrzLmNjvvb/w640-h358/SaiduAllMe%20ADB%20Helper%20DOwnload.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "saiduallme-adb-helper",
+      "createdAt": 1788920024517,
       "description": "SaiduAllMe ADB Helper DOwnload\nFeatures \nADB-based Samsung bloatware removal\nAutomatically installs Shizuku and Canta\nAllows Knox packages to be searched in Canta\nSupports selecting multiple packages for removal\nClean option removes Shizuku and Canta after the process\nDeletes temporary text files during the cleanup step\n\nHow to Use SaiduAllMe ADB Helper\nDisconnect the internet and make sure ADB is enabled on the Samsung phone.\nConnect the phone to the computer and open SaiduAllMe ADB Helper.\nOpen the Run tab and click Start.\nThe tool will automatically install Shizuku and Canta on the phone.\nWhen the tool asks you to start Shizuku through ADB, open Shizuku on the phone and start it.\nReturn to the computer and click Next.\nCanta will then open on the phone. Accept the initial disclaimer.\nUse the search bar in Canta and search for knox.\nSelect the Knox-related packages you want to remove. The provided example shows six related packages selected.\nTap the trash can icon at the bottom of Canta.\nWhen the permission request appears, select Allow all the time so Canta can access Shizuku.\nTap OK to confirm the deletion of the selected packages.Clean Up After Removing Bloatware\nAfter removing the selected packages, go back to the SaiduAllMe ADB Helper on the computer. Click the Clean button at the top of the program.A confirmation message will appear. Click Yes to continue. The tool will automatically uninstall Shizuku and Canta and remove its temporary text files from the phone.",
-      "downloads": 0,
-      "link": "https://www.androidfilehost.com/?fid=17900174959292977251",
+      "downloads": 3,
+      "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
-      "published": true,
+      "lastModified": 1788920024517,
+      "link": "https://www.androidfilehost.com/?fid=17900174959292977251",
       "links": [
         {
           "label": "SaiduAllMe ADB Helper DOwnload",
           "urls": [
             {
-              "url": "https://www.androidfilehost.com/?fid=17900174959292977251",
+              "password": "",
+              "url": "https://www.androidfilehost.com/?fid=17900174959292977251"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1fSSg9mivZz-X2NZFOaPsVQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "SaiduAllMe ADB Helper",
+      "password": "",
+      "publishUrl": "saiduallme-adb-helper",
+      "published": true,
+      "size": "23mb",
+      "unrarPassword": ""
+    },
+    "f_mttyn2yi_0q718aako": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinxNVgPihlvnOnvVwINn5m7vqlcKSqmOMHjBrdIIsT-3YQ9tORMAbmaRhwJJ2sxFpjgZjaL2idJhm4FBNv7zUvdL_auE7OOl0WXJCF2L-2RyuoW5p5IA7NGvP1ECA1i0ddfukELufA31kOGCUc_4d959Ukm9I08glb-jgpZa9TKt1VV9w6Ose-xr7-pPnP/w640-h320/XMAPort%20260817%20.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinxNVgPihlvnOnvVwINn5m7vqlcKSqmOMHjBrdIIsT-3YQ9tORMAbmaRhwJJ2sxFpjgZjaL2idJhm4FBNv7zUvdL_auE7OOl0WXJCF2L-2RyuoW5p5IA7NGvP1ECA1i0ddfukELufA31kOGCUc_4d959Ukm9I08glb-jgpZa9TKt1VV9w6Ose-xr7-pPnP/w640-h320/XMAPort%20260817%20.png"
+      ],
+      "createdAt": 1788950000826,
+      "description": "XMAPort 260817.Beta Features\nAutomatic HyperOS ROM porting from a source ROM to a target device.\nSupports Xiaomi and Redmi devices.\nSupports local mode and GitHub Actions mode.\nSupports automatic HWC patching for the Dimensity 8100 and 8200 series.\nSupports EROFS and EXT4 packing.\nIncludes an option to disable vbmeta verification.\nIncludes an option to add ADB debug properties while packing.\nSupports different compression options for EROFS packing.\nSupported DevicesThe project lists several Xiaomi and Redmi devices that have already been tested with different ROM ports. These include REDMI Note12R, REDMI Note12T Pro, and REDMI K100 Pro with the listed target devices.\n\nThe project also lists theoretical support for Xiaomi 11/12/13/14/15 series, REDMI K50/60/70/80/90 series, Note 12/13/14/15 series, and REDMI 12/13/14/15 series.\nImportant SettingsBefore starting the porting process, make sure the device_size is set to the correct size of your phone's super partition. The project warns that an incorrect value can cause a super space error.\n\nYou also need to set device_platform to the correct chip manufacturer for your device. The project warns that the wrong value can cause the phone not to boot.\n\nHow to Install and Run XMAPort\nMake sure Python is installed on your computer.\nOpen the config.ini file.\nAdd the full direct ROM link under the [source] section.\nAdd the full target ROM link under the [target] section.\nRun XMAport.py.\nSelect [1] Done Port HyperOS from the main menu.\nEnter the target device codename on the first run, such as sheng, fuxi, or sky.\nCheck the displayed parameters and confirm them.\nAfter the process finishes, the packed images will be available in workspace\\packed\\.XMAPort also has an automatic command-line mode. The project shows that you can run the tool with the target device specified using the --auto option.\n\npython XMAPort.py --auto --device sheng\n\nThe source and target ROM links can also be provided directly with --source and --target.Download XMAPort 260817.Beta\nDownload the latest XMAPort version from the link below. The project is available on GitHub and is developed by NorthStarK-Lvy.",
+      "downloads": 0,
+      "folderId": "f_mpzhn51z_ka1g9srm4",
+      "isLink": false,
+      "lastModified": 1788950478547,
+      "link": "https://github.com/NorthStarK-Lvy/XMAPort",
+      "links": [
+        {
+          "label": "XMAPort 260817 Beta",
+          "urls": [
+            {
+              "url": "https://github.com/NorthStarK-Lvy/XMAPort",
               "password": ""
             },
             {
-              "url": "https://1024terabox.com/s/1fSSg9mivZz-X2NZFOaPsVQ",
+              "url": "https://1024terabox.com/s/1bWRAvQX9oxk7MHsOnN4KZA",
+              "password": ""
+            },
+            {
+              "url": "https://transfer.it/t/mPw5UsthEBya",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1788920024517,
-      "lastModified": 1788920024517
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "XMAPort 260817 Beta",
+      "password": "",
+      "publishUrl": "xmaport-260817-beta",
+      "published": true,
+      "size": "35mb",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -50798,7 +50860,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-09T02:14:06.884Z",
+    "createdAt": "2026-09-09T10:41:45.466Z",
     "version": "2.0",
     "sections": 4
   }
