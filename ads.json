@@ -17068,22 +17068,35 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Ll23gIfjgG8rEIa934uuIxNl1Bjsq8p831yEtcHv8JyTRuClFrcm-4gPKYi36bD_rtRoxfgkm2S_txMQISEYP5oSsTukiPmwgfVMrwJYZcQ8y49lWavEML9Hu_1JU-_GjeQ_ZQESX6EupBDpKWOW4yg3rOD4cCqidzPvlAsBZP_sj3444Qa6J0ffajD1/w640-h414/SamFw%20FRP%20Tool%20V5.1%20Download.png"
       ],
       "createdAt": 1781056266286,
-      "description": "SamFw FRP Tool V6.0\nSamFw FRP Tool V5.8\nSamsung\nFRP\nRemove FRP Server 1 (Exynos CPU Only - Beta)\nRemove FRP Server 2 (Android 16)\nRemove FRP (Security Older Than August 2022)\nRemove FRP (August 2022 - December 2022 Security)\nRemove FRP (USA Models 2024)\n\n [SAMSUNG]\n [FRP] - Add Samsung Exynos FRP Beta\n - Fix the wrong serial number for Samsung Download mode\n - Fix some bugs\n\n\n\n🔧 SamFw Tool Features\nSamsung Functions\nTest Mode (#0#)\nRemove FRP (Old & New Security)\nFactory Reset\nDisable Knox\nDisable Factory Mode\nMTP Mode\nEnable Secret Code (Verizon)\nADB Mode\nChange CSC (Normal & Root)\nRemove Samsung Account\nEnable Mobile Data Toggle\nDownload / Exit Download Mode\nSoft Brick Fix\nFRP Android 5 / 6\nOdin Flash\nSave Recent Flash Files\nAuto Detect & Select Slots\nAuto Extract ZIP Files\nIgnore MD5 Checksum\nDriver Signature Enable / Disable\nInstall Samsung USB Driver\nInstall VC++ 2015\nXiaomi Functions\nADB / Fastboot\nBypass MiCloud (Android 8.1)\nEnable Diag (Root)\nRemove FRP\nSideload\nFactory Reset\nReset MiCloud\nQualcomm Anti-Relock MiCloud\nRead Offline MiCloud Info\nEDL 9008\nLG Functions\nMTP & Factory Reset\nEDL Support (G7, G8, G8X, V30, V40, V50, V60, etc.)\nRemove FRP\nLG UP\nFlash LG KDZ\nAndroid (Universal)\nADB\nBattery Information (OneUI 8+)\nDisable / Enable OTA Update\nSet Language\nFactory Reset\nHide Developer Options\nFRP & Open Browser (FRP)\nApp Manager\nRoot\nQualcomm\nEDL 9008 Partition Manager (Read / Write / Erase)\nReset FRP\nFactory Reset\nErase Userdata",
+      "description": "SamFw FRP Tool V6.1\nSamFw FRP Tool V6.0\nSamFw FRP Tool V5.8\nSamsung\nFRP\nRemove FRP Server 1 (Exynos CPU Only - Beta)\nRemove FRP Server 2 (Android 16)\nRemove FRP (Security Older Than August 2022)\nRemove FRP (August 2022 - December 2022 Security)\nRemove FRP (USA Models 2024)\n\n [SAMSUNG]\n [FRP] - Add Samsung Exynos FRP Beta\n - Fix the wrong serial number for Samsung Download mode\n - Fix some bugs\n\n\n\n🔧 SamFw Tool Features\nSamsung Functions\nTest Mode (#0#)\nRemove FRP (Old & New Security)\nFactory Reset\nDisable Knox\nDisable Factory Mode\nMTP Mode\nEnable Secret Code (Verizon)\nADB Mode\nChange CSC (Normal & Root)\nRemove Samsung Account\nEnable Mobile Data Toggle\nDownload / Exit Download Mode\nSoft Brick Fix\nFRP Android 5 / 6\nOdin Flash\nSave Recent Flash Files\nAuto Detect & Select Slots\nAuto Extract ZIP Files\nIgnore MD5 Checksum\nDriver Signature Enable / Disable\nInstall Samsung USB Driver\nInstall VC++ 2015\nXiaomi Functions\nADB / Fastboot\nBypass MiCloud (Android 8.1)\nEnable Diag (Root)\nRemove FRP\nSideload\nFactory Reset\nReset MiCloud\nQualcomm Anti-Relock MiCloud\nRead Offline MiCloud Info\nEDL 9008\nLG Functions\nMTP & Factory Reset\nEDL Support (G7, G8, G8X, V30, V40, V50, V60, etc.)\nRemove FRP\nLG UP\nFlash LG KDZ\nAndroid (Universal)\nADB\nBattery Information (OneUI 8+)\nDisable / Enable OTA Update\nSet Language\nFactory Reset\nHide Developer Options\nFRP & Open Browser (FRP)\nApp Manager\nRoot\nQualcomm\nEDL 9008 Partition Manager (Read / Write / Erase)\nReset FRP\nFactory Reset\nErase Userdata",
       "downloads": 1,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
-      "lastModified": 1788951025374,
-      "link": "https://www.androidfilehost.com/?fid=17900174959292977459",
+      "lastModified": 1789005578812,
+      "link": "https://transfer.it/t/uZvh9HtzEZ6J",
       "links": [
+        {
+          "label": "SamFw FRP Tool V6.1",
+          "urls": [
+            {
+              "url": "https://transfer.it/t/uZvh9HtzEZ6J",
+              "password": ""
+            },
+            {
+              "url": "https://samfw.com/SamFwToolSetup_v6.0.1.zip",
+              "password": ""
+            },
+            {
+              "url": "https://transfer.it/t/HAynFk93GbjD",
+              "password": ""
+            }
+          ]
+        },
         {
           "label": "SamFw FRP Tool V6.0",
           "urls": [
             {
               "url": "https://www.androidfilehost.com/?fid=17900174959292977459",
-              "password": ""
-            },
-            {
-              "url": "https://samfw.com/SamFwToolSetup_v6.0.zip",
               "password": ""
             },
             {
@@ -17102,10 +17115,6 @@
             {
               "url": "https://transfer.it/t/O9W8Ial3UBhJ",
               "password": ""
-            },
-            {
-              "url": "https://samfw.com/SamFwToolSetup_v5.8.zip",
-              "password": ""
             }
           ]
         },
@@ -17117,10 +17126,6 @@
               "password": ""
             },
             {
-              "url": "http://samfw.com/SamFwToolSetup_v5.7.zip",
-              "password": ""
-            },
-            {
               "url": "https://transfer.it/t/dt1MMfsDVbRS",
               "password": ""
             }
@@ -17129,10 +17134,6 @@
         {
           "label": "SamFwToolSetup_v5.5.1.zip",
           "urls": [
-            {
-              "url": "https://samfw.com/SamFwToolSetup_v5.5.1.zip",
-              "password": ""
-            },
             {
               "url": "https://transfer.it/t/tYkmxesRVJZK",
               "password": ""
@@ -17150,7 +17151,7 @@
       ],
       "loginPassword": "",
       "loginUsername": "",
-      "name": "SamFw FRP Tool",
+      "name": "SamFw FRP Tool V6.1",
       "password": "",
       "publishUrl": "samfw-frp-tool",
       "published": true,
@@ -37986,7 +37987,7 @@
       ],
       "createdAt": 1786449130990,
       "description": "GSM PROF Auth Tool Features I Found\nMediate MTK Auth section\nPreloader-related options\nBROM connection options\nAuthorization-related functions\nAuto reboot option\nMTK FRP-related operation\nQualcomm flashing options\nCustom and automatic loader options\nPartition backup and erase options\nPartition Manager\nEFS backup, restore and wipe options\nToken Generate section\nXiaomi Mi Assistant functions\nFast boot device information\nConsole log for showing device communication",
-      "downloads": 28,
+      "downloads": 29,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786449130990,
@@ -38094,7 +38095,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 63,
+      "downloads": 66,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -38784,7 +38785,7 @@
       ],
       "createdAt": 1787052038448,
       "description": "Passcode Eraser v1.0 A12-A13 Free BR Team A12-A13 Passcode Eraser v1.0 Free Download BR Team A12-A13 Passcode Eraser v1.0 Free Download\nBR Team A12-A13 Passcode Eraser is a free offline tool made for supported A12 and A13 Apple devices. The tool is designed to erase data from supported passcode locked devices and return them back to the Hello screen. This is the v1.0 release build of the BR Team A12-A13 Erase Tool. According to the provided information, it works with supported devices in DFU mode and requires a PWNED DFU setup using RP2350. One important requirement is RP2350-USB-A. The tool also requires Windows 10.BR Team A12-A13 Erase Tool Information\nSoftware Name\tBR Team A12-A13 Passcode Eraser\nVersion\tv1.0 Release Build\nDeveloper\tBR Team\nLicense\t100% Free\nSupported OS\tWindows 10\nSupported Devices\tSelected A12 and A13 devices listed below\n\nMain Requirements\nPWNED DFU using RP2350\nRP2350-USB-A is required\nWindows 10\nThese requirements are important for using the tool. RP2350-USB-A is specifically mentioned as a required item.\n\nSupported DevicesThe current supported device list provided for BR Team A12-A13 Passcode Eraser v1.0 includes the following models:\n\niPhone XS\niPhone XS Max\niPhone XR\niPhone 11\niPhone 11 Pro\niPhone 11 Pro Max\niPhone SE (2nd generation)\niPad mini 5\niPad Air 3\niPad (8th generation)\nNo other devices are included here because no additional supported models were provided.",
-      "downloads": 13,
+      "downloads": 17,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1787052038448,
@@ -39287,7 +39288,7 @@
       ],
       "createdAt": 1787840407838,
       "description": "Haafedk iCloud A12+ V15 Free CRACK Download (No Login Required)\nHaafedk iCloud A12+ V15 Features\nDevice Information\nBefore using other options, the tool includes a Read Device function. According to the provided feature list, it can show several device details.\n\nRead Device: Reads the connected device information.\nSerial Number: Displays the device serial number.\nECID: Shows the ECID information.\nIMEI: Displays the IMEI.\nUDID: Shows the UDID.\nMode: Displays the current device mode.\niOS Version: Shows the installed iOS version.\nProduct Type: Displays the device product type.\nBuild: Shows the build information.\nJailbreak Status: Displays the jailbreak status.\nActivation Status: Shows the activation status.\nRegion: Displays the device region.\nBypass Options\nThe V15 feature list includes several Hello Bypass and MDM bypass options. The requirements mentioned with each option should be checked before trying to use them.\n\nHello Bypass A12/A13: Listed for A12 and A13 devices.\nHello Bypass 4S – 17 Pro Max: This option is listed as requiring WiFi.\nHello Bypass iPhone – iPad: Listed with a jailbreak requirement.\nHello Bypass iOS 12 – 14: Also listed as requiring jailbreak access.\nBypass MDM Old: An option for the old MDM bypass method.\nBypass MDM New: An option for the new MDM bypass method.\nDevice Operations\nA few device-related operations are also included in the provided list.Read Device: Used to read device details.\nFix Drivers: An option related to drivers.\nWin Test Mode: A Windows Test Mode option.\nPatcher Settings\nThe patcher section includes three listed options.\n\nAdd MobileGestalt: An option for adding MobileGestalt.\nSupported Devices: Lets you check the listed supported devices section.\nChange Serial: An option related to changing the serial.\nOther Bypass Settings\nThere are also a few toggle-style options in the feature list.\n\nBlock OTA: An option related to blocking OTA.\nSkip Setup: An option for skipping setup.\nDisable Factory Reset: An option related to disabling factory reset.\nIncluded Tools\nThe software also lists two extra tools.\n\nDevice Manager: Opens the Device Manager tool.\nWinRa1n Jailbreak Tool: The WinRa1n Jailbreak Tool is included in the listed tools section.\niCloud Tools\nTwo iCloud-related options are mentioned in the V15 feature list.\n\nFix iCloud Login: An option related to fixing iCloud login.\nEnable Factory Reset: An option for enabling factory reset.\nInstallation Steps\nExtract the downloaded setup archive to a folder on your computer.\nOpen the extracted folder and run the setup file, such as HAAFEDK_A12_SETUP.exe.\nIf Windows Defender SmartScreen stops the application from opening, select More info and then choose Run anyway.\nContinue through the setup wizard and select the installation folder. The provided instructions mention C:\\Haafedk-iCloud-a12 as the usual default location.\nIf you want a shortcut on your desktop, select the option for creating one.\nClick Install and wait for the setup process to finish.\nWindows Defender may flag the software during installation. The provided instructions say that installation can be interrupted in this situation.\nIf you choose to change Windows Security settings, do so carefully. Temporarily disabling protections can create security risks, so this should only be considered when you fully trust the software source.\nAfter installation is complete, close the setup wizard.\nOpen the installation folder or use the desktop shortcut to start Haafedk A12.exe.\nThe provided instructions mention a cracked login button at the login screen for bypassing the credentials and opening the main dashboard.\nDownload Haafedk iCloud A12+ V15\nThe available information identifies this version as V15. Before downloading or installing any software, make sure you trust the source and understand the security risks mentioned in the installation instructions.",
-      "downloads": 101,
+      "downloads": 102,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787881365705,
@@ -39680,7 +39681,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2347,
+      "downloads": 2353,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -40001,7 +40002,7 @@
       ],
       "createdAt": 1788689398003,
       "description": "GSM Family Tool v1.1.8 Free Download Brand and Chipset Support\nGSM Family Tool has separate tabs for several mobile brands and platforms. Samsung includes universal support and a list of specific Galaxy models. Huawei has its own section with P, Mate, Nova, Y, and Honor devices. SPD/Unisoc support is listed by chipset, while Motorola also has its own service section.\n\nSamsung\nHuawei\nSPD / Unisoc\nMotorola\nXiaomi\nOppo\nVivo\nRealme\nInfinix\nTecno\nMediaTek\nSamsung Support\nThe Samsung section includes universal Samsung support along with specific Galaxy models. The listed models include Galaxy A03, A12, A13, A14, A15, A24, A34, A54, A71, A72, A21s, A31, A32, A51, A52s, S20, and S21.\n\nHuawei Support\nThe Huawei section includes universal Huawei support and several device families. The listed P series covers P20 to P40 Pro, while the Mate section covers Mate 20 to Mate 40 Pro. Nova 5T, Nova 7i, Nova 9, Y6 2019, Y7a, Y9 Prime, and Honor 8X are also listed.SPD / Unisoc Chipsets\nThe SPD / Unisoc section lists support for SC9863A, T606, T610, T612, T616, and T700 chipsets.\n\nMotorola Support\nThe Motorola section includes Universal Moto support and Motorola XT2503-4 support.\n\nSamsung Tools\nThe Samsung section contains general device operations and a service area. The general options include KG Remove ADB, Read Device Info, Activate ADB, and different reboot options.\n\nKG Remove ADB\nRead Device Info\nActivate ADB\nReboot System\nReboot Recovery\nReboot Download\nDNS Credit Service\nBuy Credit\nGenerate DNS\nHuawei Tools\nHuawei has options for reading device information through different connection modes. The flash section also includes a Firmware Flasher with slots for Base, Cust, and Preload files.\n\nRead Device Info via ADB\nRead Device Info via Fastboot\nRead Device Info via Huawei USB Update Mode\nFirmware Flasher\nBase partition file slot\nCust partition file slot\nPreload partition file slot\nRepartition option\nXiaomi Tools\nThe Xiaomi section includes two listed general operations. Smart Patch is available along with an ADB option for removing Mi.Smart Patch\nADB Remove Mi\nOppo Tools\nThe Oppo section contains ADB and Oplusreserve patch options. The listed functions include ADB Remove and patches for Oplusreserve2 and Oplusreserve3.\n\nADB Remove\nPatch Oplusreserve2\nPatch Oplusreserve3\nSPD / Unisoc Tools\nThe SPD / Unisoc section has several groups for general operations, flashing, backup and restore, diagnostics, and package management. The General section includes device detection, information reading, factory reset, safe format, GPT reading, NV backup, dump reading, bootloader options, and device disconnect.\n\nDetect Device\nRead Info\nFactory Reset\nSafe Format\nRead GPT\nBackup NV\nRead Dump\nFRP Remove\nUnlock Bootloader\nRelock Bootloader\nDisconnect Device\nSPD / Unisoc Flash\nThe flash section works with PAC files and automatically identifies the listed FDL1 and FDL2 partitions.\n\nFlash PAC Files\nAutomatic FDL1 Identification\nAutomatic FDL2 Identification\nBackup and Restore\nThe Backup / Restore section contains options to search, read, write, and erase specific partitions. The supplied information also mentions loading .bin image files for these operations.\n\nSearch Partition\nRead Partition\nWrite Partition\nErase Partition\nLoad .bin Image\nDiagnostic Tools\nThe Diagnostic section includes Super APK Remover. The supplied details describe an Android dynamic-partition/EROFS editor that can scan, patch misc data, and remove specific APKs.\n\nPackage Management\nThe Advanced section includes package management controls for APK files. These options cover installing, uninstalling, disabling, enabling, backing up, and restoring APKs.\n\nInstall APK\nUninstall APK\nDisable APK\nEnable APK\nBackup APK\nRestore APK\nMediaTek META Service\nThe MediaTek section is focused on META Mode operations. It includes options to enter META Mode, perform the listed META services, and exit META Mode when the operation is finished.\n\nMETA Factory Reset\nMETA Reset FRP\nMETA Patch\nBoot in META\nExit META Mode\nMotorola Tools\nThe Motorola section includes bootloader, patching, ADB, and flashing options. The Fastboot Flasher supports flashfile.xml, servicefile.xml, and individual .img partition files.\n\nBootloader Unlock\nPatch Misc\nPatch FRP\nADB Process\nADB Activate\nFastboot Flasher\nflashfile.xml Support\nservicefile.xml Support\nSingle .img Partition Support\nApplication Navigation\nThe main application navigation contains several sections for moving between different parts of the software. The listed top navigation items are Dashboard, Utilities, Solution & File, Profile, and Settings.\n\nDashboard\nUtilities\nSolution & File\nProfile\nSettings\nLive Status Panel\nThe interface also has a live status area on the right side. It contains a Log Console for application messages, connection information for USB or COM Port, CPU usage monitoring, license information, and a progress bar.\n\nReal-time Log Console\nUSB / COM Port Connection Status\nCPU Usage Monitor\nPremium License Type\nProgress Bar\nHow to Install GSM Family Tool v1.1.8\nThe supplied installation process starts with the GSM Family Tool RAR archive on the Windows desktop. The archive needs to be extracted before opening the program.\n\nFind the GSM Family Tool.rar archive on the desktop.\nRight-click the archive and select Extract to “GSM Family Tool”.\nWhen the password window appears, enter Royal123@ and click OK.\nAfter extraction finishes, open the newly created GSM Family Tool folder.\nInside the folder, find Loader.exe.\nRight-click Loader.exe and select Open.\nThe GSM Family Tool License Manager window will appear with the credentials already filled in.\nClick the purple LOGIN button to continue.\nIf Windows Security Alert appears, click Allow access to allow the application through the network.\nWait for the main GSM Family Tool dashboard to load.",
-      "downloads": 80,
+      "downloads": 81,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788689398003,
@@ -40549,7 +40550,7 @@
       ],
       "createdAt": 1788919533164,
       "description": "MTK AI Agent v2.0 Download Features MTK AI Agent\n58 intents covering the MTKClient CLI command set\n48 adapter methods with direct Python API calls\nNatural language support for English and Malayalam\n70+ Malayalam phrase mappings\nSafety confirmation for dangerous operations\nConversation memory with workflow tracking\nError analysis and device fingerprinting\nSingle-file architecture with mtk_ai_single.py\nPre-built PyInstaller EXE with bundled DLLs\nDevice detection and device information\nGPT and partition read/write operations\nFull flash and partition backup commands\nWipe and FRP commands\nDA mode tools\nMETA, payload and Stage commands\nRPMB read and write support\nMemory dump and BROM dump commands\nRepair workflows for dead, bootloop and unbrick issues\nBootloader unlock and lock commands\n\nWhat's New in MTK AI Agent v2.0.0\nAdded wipe\nAdded frp\nAdded log\nAdded peek\nAdded stage\nAdded plstage\nAdded rpmb_read\nAdded rpmb_write\nAdded memdump\nAdded dumpbrom\nAdded fs_mount\nAdded da_vbmeta\nAdded da_efuse\nAdded da_keyserver\nAdded nvitem\nAdded patchmodem\nAdded meta2\nAdded logdumpHow to Install\nDownload the MTK AI Agent files from the provided project source.\nIf you are using the source version, make sure Python 3.8 or newer is installed.\nInstall the required MTK USB drivers.\nIf you are using the pre-built EXE, Python is not required.\nRun MTK-AI-Agent.exe to start the tool.\nUse the available commands from the interactive mode.",
-      "downloads": 12,
+      "downloads": 25,
       "folderId": "f_mq90y5hx_pgeh8l0ya",
       "isLink": false,
       "lastModified": 1788933084159,
@@ -40589,7 +40590,7 @@
       ],
       "createdAt": 1788920024517,
       "description": "SaiduAllMe ADB Helper DOwnload\nFeatures \nADB-based Samsung bloatware removal\nAutomatically installs Shizuku and Canta\nAllows Knox packages to be searched in Canta\nSupports selecting multiple packages for removal\nClean option removes Shizuku and Canta after the process\nDeletes temporary text files during the cleanup step\n\nHow to Use SaiduAllMe ADB Helper\nDisconnect the internet and make sure ADB is enabled on the Samsung phone.\nConnect the phone to the computer and open SaiduAllMe ADB Helper.\nOpen the Run tab and click Start.\nThe tool will automatically install Shizuku and Canta on the phone.\nWhen the tool asks you to start Shizuku through ADB, open Shizuku on the phone and start it.\nReturn to the computer and click Next.\nCanta will then open on the phone. Accept the initial disclaimer.\nUse the search bar in Canta and search for knox.\nSelect the Knox-related packages you want to remove. The provided example shows six related packages selected.\nTap the trash can icon at the bottom of Canta.\nWhen the permission request appears, select Allow all the time so Canta can access Shizuku.\nTap OK to confirm the deletion of the selected packages.Clean Up After Removing Bloatware\nAfter removing the selected packages, go back to the SaiduAllMe ADB Helper on the computer. Click the Clean button at the top of the program.A confirmation message will appear. Click Yes to continue. The tool will automatically uninstall Shizuku and Canta and remove its temporary text files from the phone.",
-      "downloads": 3,
+      "downloads": 18,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1788920024517,
@@ -50860,7 +50861,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-09T10:50:30.437Z",
+    "createdAt": "2026-09-10T01:59:46.780Z",
     "version": "2.0",
     "sections": 4
   }
