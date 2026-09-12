@@ -967,6 +967,14 @@
       "name": "Google Pixel DUMP File",
       "order": 0,
       "parentId": "f_mqi1x47k_p0wpisk40"
+    },
+    "f_mtxsfjx5_5k5iu5vwm": {
+      "name": "ADB Enable CODE",
+      "parentId": "f_mp6sf7er_yrsiah0rt",
+      "icon": "fa-solid fa-chart-bar",
+      "order": 0,
+      "createdAt": 1789181436569,
+      "lastModified": 1789181436569
     }
   },
   "files": {
@@ -37325,7 +37333,7 @@
       ],
       "createdAt": 1784292598028,
       "description": "",
-      "downloads": 0,
+      "downloads": 2,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1784292598028,
@@ -38004,7 +38012,7 @@
       ],
       "createdAt": 1786449130990,
       "description": "GSM PROF Auth Tool Features I Found\nMediate MTK Auth section\nPreloader-related options\nBROM connection options\nAuthorization-related functions\nAuto reboot option\nMTK FRP-related operation\nQualcomm flashing options\nCustom and automatic loader options\nPartition backup and erase options\nPartition Manager\nEFS backup, restore and wipe options\nToken Generate section\nXiaomi Mi Assistant functions\nFast boot device information\nConsole log for showing device communication",
-      "downloads": 29,
+      "downloads": 31,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786449130990,
@@ -39391,7 +39399,7 @@
       ],
       "createdAt": 1787918379886,
       "description": "UST Tool v7.0.0 Free Activation  Read Info for Hardware SoC information, MEID, SOCID, security status, and GPT details.\nReset FRP / Bypass FRP.\nFactory Reset + FRP for wiping Userdata, Metadata, and Cache.\nReboot MediaTek device to normal mode.\nUnlock Bootloader using the listed seccfg partition method.\nRelock Bootloader and restore the listed lock state and verification checksums.\nBypass Auth (SLA / DAA) using the listed BROM and payload process.\nRead Partition and save selected partition data as a BIN file.\nWrite / Flash Partition using an image file.\nErase selected partition blocks.\nDump Preloader and save the active preloader binary.\nDump Bootrom memory area.\nXiaomi\nFlash\nFlash Firmware.\nFormat Data.\nBrowse Scatter Firmware.\nService\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nFastboot\nRead CSSD.\nFormat Data.\nReboot Device.\nMi Assistant\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nEFS\n\nHow to Install UST Tool v7.0.0\nDownload the UST Tool package and save it on your computer.\nExtract the downloaded archive to a folder.\nOpen the extracted USTTOOL folder.\nDouble-click USTTOOL.exe to start the software.\nWhen the CONTROL MODULE window appears, click Copy Hardware ID Key.\nOpen the provided activation page and find the Generate 10 Days Free Activation Key section.\nPaste the copied Hardware ID into the ENTER YOUR 16-CHAR HWID box.\nClick GENERATE KEY NOW and copy the complete generated license key.\nReturn to the UST Tool Control Module.\nPaste the key into Paste Activation License Token Here.\nClick REGISTER LICENSE.\nAccording to the provided process, a green Success message appears after successful registration.\n\nWait for the tool loading process to complete.\nComplete the login screen as required by the software.\nAfter opening the main interface, the tool is ready for the supported functions listed above.",
-      "downloads": 88,
+      "downloads": 89,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787918379886,
@@ -39698,7 +39706,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2380,
+      "downloads": 2406,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -39815,7 +39823,7 @@
       ],
       "createdAt": 1788084222018,
       "description": "Spreadtrum PAC Repack Tool v1.0.3 Free Download  Features Spreadtrum - Unisoc PAC Firmware Repack Tool\nLoad PAC File: Select a PAC firmware file directly from the tool.\nRead SysInfo: The tool includes a Read SysInfo option when loading a PAC file.\nUnpack PAC: Extract the files from a PAC package into a selected directory.\nRepack to PAC: Create a PAC file again from the files in an unpacked directory.\nFile Information: The tool can show file, build.prop, and anticrack state information when loading a PAC file.\n\nHow to Use\nOpen Spreadtrum / Unisoc PAC Firmware Repack Tool.\nClick Select Pac and choose the PAC firmware file.\nUse the Read SysInfo option if you want to read the available system information.\nClick Unpack Pac to extract the PAC contents into a folder.\nAfter working with the unpacked files, use Repack To PAC file to create a PAC package again.",
-      "downloads": 42,
+      "downloads": 43,
       "folderId": "f_mq907z24_lahwuzvyt",
       "isLink": false,
       "lastModified": 1788084222018,
@@ -39859,7 +39867,7 @@
       ],
       "createdAt": 1788264986213,
       "description": "VoLTE VoIP Wi-Fi Tool Free Download Features VoLTE + VoIP Wi-Fi Tool\nTurn VoLTE + VoIP Wi-Fi on or off with one click\nScan for ADB devices to connect your phone\nInstall Pixel IMS and Shizuku directly from the tool\nCheck IMS status on your connected device\nApply settings based on your phone brand (Samsung, Xiaomi, Oppo, Google)\nView activity logs showing what the tool is doing\nHow to Install\nDownload the file from the link provided below.\nExtract the downloaded files using 7-Zip or WinRAR.\nOpen the extracted folder and find the file named \"volte.exe\".\nRun the \"volte.exe\" file to launch the software.\nNo activation or sign-in is needed. The main interface opens instantly.\nConnect your Android device in ADB mode.\nThe tool is now ready to use.",
-      "downloads": 74,
+      "downloads": 75,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1788264986213,
@@ -39943,7 +39951,7 @@
       ],
       "createdAt": 1788518454743,
       "description": "GSM SRINU TOOL v1.0.5 Cra#ck Free Download How to Start GSM SRINU TOOL\nOpen the GSM SRINU TOOL folder on your computer.\nFind Loader.exe and run it. If required, run the loader as Administrator.\nA small CONTROL MODULE window will appear.\nWait while the control module performs the launch check, version check, server connection check, and API response check.\nAfter initialization, the main login window will open.\nEnter your username and login credentials.\nYou can select Remember if you want the login details to be remembered.\nClick Login and wait for the authentication process.\nThe program will show messages such as Authenticating with the server and then Login successful. Redirecting.\nAfter successful login, the main dashboard will load.\nSelect the required communication port and use the available category options.\nKG Samsung (ADB)\nThe KG Samsung (ADB) section contains several Samsung-related options. There are MTP information, KG status, ADB, and different Android version methods. The program lists separate methods for Android 14, Android 13, and different patches.\n\nMTP Read Info – Reads information through MTP.\nKG Android 14 New Method 1 – Android 14 KG method.\nKG Android 14 New Method 2 – Another Android 14 KG method.\nKG Android 14 New Method 3 – Third Android 14 KG method.\nKG Android 14 (All Patch) – KG option listed for Android 14 patches.\nSet To KG Active 01 (IMEI) – KG option using IMEI.\nKG Status Check – Checks the KG status.\nADB Live Screen – Provides an ADB live screen option.\nEnable ADB (05-23) – Enables ADB using the listed method.\nKG Android 13 (New Patch) – KG option for the new Android 13 patch.\nKG Android 13 (03-24) – Android 13 method listed for the 03-24 patch.\nKG Android 13 (07-23) – Android 13 method listed for the 07-23 patch.\nIT Admin Tools for Different Brands\nThe IT Admin (All Brands) section contains options for different Android versions, brands, and device management methods. It includes separate entries for Android 15, Hyper OS, VIVO, Samsung, and Tecno, Infinix, and Itel devices.\n\nIT Admin Android 15 – IT Admin option for Android 15.\nIT Admin Universal – Universal IT Admin option.\nIT Admin Hyper OS (Android 15) – IT Admin option for Hyper OS on Android 15.\nRedmi MDM (All In One) – Redmi MDM option in one section.\nIT Admin VIVO (New Security) – VIVO option for the listed new security.\nDisable Framework – Includes a framework disable option.\nSamsung Knox Disable – Samsung Knox disable option.\nSamsung Payjoy (New) – A new Samsung Payjoy option listed in the tool.\nIT Admin (Tecno, Infinix, Itel) – IT Admin option for Tecno, Infinix, and Itel.\nSamsung MDM (All Patch) – Samsung MDM option for the listed patches.\nIT Admin (Work profile) – Work profile option.\nIT Admin (Hyper OS) – IT Admin option for Hyper OS.\nService Tool Section\nThe Service Tool section contains several service and device-related options. It includes Pixel SIM unlock, factory reset methods, Samsung account removal through ADB, FRP through ADB, Samsung driver installation, and OTA controls.\n\nSim Unlock (Pixel) – SIM unlock option for Pixel.\nDisable Factory Reset Method 1 – First listed factory reset disable method.\nDisable Factory Reset Method 2 – Second listed factory reset disable method.\nSam. Account Remove (ADB) – Samsung account removal option through ADB.\nFactory Reset – Factory reset option.\nDeveloper Option Hide – Option to hide Developer Options.\nFRP (ADB) – FRP option using ADB.\nInstall Samsung Driver – Samsung driver installation option.\nService Provide Update Fix. – Includes the listed service provider update fix.\nEnable OTA – Enables OTA.\nDisable OTA – Disables OTA.\nQR Code Scan Tools\nThe QR Code Scan section contains different QR-based options for ADB and Hyper OS. The tool lists separate Android 14 and Android 13 methods, along with Hyper OS QR methods. It also includes an ADB information option and an Oplus demo removal option.ADB Enable QR 14 Method 1 – First Android 14 QR method for ADB.\nADB Enable QR 14 Method 2 – Second Android 14 QR method for ADB.\nADB Enable QR 13 – Android 13 QR option for ADB.\nHyper OS QR 1 – First listed Hyper OS QR method.\nHyper OS QR 2 – Second listed Hyper OS QR method.\nADB Read Info – Reads device information through ADB.\nOplus Demo Remove – Oplus demo removal option.\nMDM Section\nThe tool also has a separate MDM section. It contains an option named MDM Remove (All Brands), which is listed for MDM removal across the supported brands mentioned by the program.\n\nFeatures at a Glance\nNew design in GSM SRINU TOOL v1.0.5\nCONTROL MODULE initialization\nLaunch check\nVersion check\nServer connection check\nAPI response check\nLogin system\nCommunication port selection\nKG Samsung ADB tools\nAndroid 14 and Android 13 KG methods\nIT Admin tools\nHyper OS options\nRedmi MDM option\nVIVO IT Admin option\nSamsung Knox option\nSamsung MDM option\nTecno, Infinix, and Itel IT Admin option\nService Tool section\nPixel SIM unlock option\nSamsung account removal through ADB\nFactory reset options\nFRP ADB option\nSamsung driver installation\nOTA enable and disable options\nAndroid 14, Android 13, and Hyper OS QR methods\nADB information reading\nOplus demo removal option\nMDM Remove (All Brands)\nLogin and Dashboard\nThe login process is handled after the CONTROL MODULE finishes its checks. The user enters the username and login credentials and then clicks the Login button. The tool displays the authentication status while connecting to the server.\n\nAfter a successful login, the program redirects to the dashboard. The dashboard contains the communication port selection and the different categories used to access the available functions.",
-      "downloads": 36,
+      "downloads": 37,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788518454743,
@@ -40019,7 +40027,7 @@
       ],
       "createdAt": 1788689398003,
       "description": "GSM Family Tool v1.1.8 Free Download Brand and Chipset Support\nGSM Family Tool has separate tabs for several mobile brands and platforms. Samsung includes universal support and a list of specific Galaxy models. Huawei has its own section with P, Mate, Nova, Y, and Honor devices. SPD/Unisoc support is listed by chipset, while Motorola also has its own service section.\n\nSamsung\nHuawei\nSPD / Unisoc\nMotorola\nXiaomi\nOppo\nVivo\nRealme\nInfinix\nTecno\nMediaTek\nSamsung Support\nThe Samsung section includes universal Samsung support along with specific Galaxy models. The listed models include Galaxy A03, A12, A13, A14, A15, A24, A34, A54, A71, A72, A21s, A31, A32, A51, A52s, S20, and S21.\n\nHuawei Support\nThe Huawei section includes universal Huawei support and several device families. The listed P series covers P20 to P40 Pro, while the Mate section covers Mate 20 to Mate 40 Pro. Nova 5T, Nova 7i, Nova 9, Y6 2019, Y7a, Y9 Prime, and Honor 8X are also listed.SPD / Unisoc Chipsets\nThe SPD / Unisoc section lists support for SC9863A, T606, T610, T612, T616, and T700 chipsets.\n\nMotorola Support\nThe Motorola section includes Universal Moto support and Motorola XT2503-4 support.\n\nSamsung Tools\nThe Samsung section contains general device operations and a service area. The general options include KG Remove ADB, Read Device Info, Activate ADB, and different reboot options.\n\nKG Remove ADB\nRead Device Info\nActivate ADB\nReboot System\nReboot Recovery\nReboot Download\nDNS Credit Service\nBuy Credit\nGenerate DNS\nHuawei Tools\nHuawei has options for reading device information through different connection modes. The flash section also includes a Firmware Flasher with slots for Base, Cust, and Preload files.\n\nRead Device Info via ADB\nRead Device Info via Fastboot\nRead Device Info via Huawei USB Update Mode\nFirmware Flasher\nBase partition file slot\nCust partition file slot\nPreload partition file slot\nRepartition option\nXiaomi Tools\nThe Xiaomi section includes two listed general operations. Smart Patch is available along with an ADB option for removing Mi.Smart Patch\nADB Remove Mi\nOppo Tools\nThe Oppo section contains ADB and Oplusreserve patch options. The listed functions include ADB Remove and patches for Oplusreserve2 and Oplusreserve3.\n\nADB Remove\nPatch Oplusreserve2\nPatch Oplusreserve3\nSPD / Unisoc Tools\nThe SPD / Unisoc section has several groups for general operations, flashing, backup and restore, diagnostics, and package management. The General section includes device detection, information reading, factory reset, safe format, GPT reading, NV backup, dump reading, bootloader options, and device disconnect.\n\nDetect Device\nRead Info\nFactory Reset\nSafe Format\nRead GPT\nBackup NV\nRead Dump\nFRP Remove\nUnlock Bootloader\nRelock Bootloader\nDisconnect Device\nSPD / Unisoc Flash\nThe flash section works with PAC files and automatically identifies the listed FDL1 and FDL2 partitions.\n\nFlash PAC Files\nAutomatic FDL1 Identification\nAutomatic FDL2 Identification\nBackup and Restore\nThe Backup / Restore section contains options to search, read, write, and erase specific partitions. The supplied information also mentions loading .bin image files for these operations.\n\nSearch Partition\nRead Partition\nWrite Partition\nErase Partition\nLoad .bin Image\nDiagnostic Tools\nThe Diagnostic section includes Super APK Remover. The supplied details describe an Android dynamic-partition/EROFS editor that can scan, patch misc data, and remove specific APKs.\n\nPackage Management\nThe Advanced section includes package management controls for APK files. These options cover installing, uninstalling, disabling, enabling, backing up, and restoring APKs.\n\nInstall APK\nUninstall APK\nDisable APK\nEnable APK\nBackup APK\nRestore APK\nMediaTek META Service\nThe MediaTek section is focused on META Mode operations. It includes options to enter META Mode, perform the listed META services, and exit META Mode when the operation is finished.\n\nMETA Factory Reset\nMETA Reset FRP\nMETA Patch\nBoot in META\nExit META Mode\nMotorola Tools\nThe Motorola section includes bootloader, patching, ADB, and flashing options. The Fastboot Flasher supports flashfile.xml, servicefile.xml, and individual .img partition files.\n\nBootloader Unlock\nPatch Misc\nPatch FRP\nADB Process\nADB Activate\nFastboot Flasher\nflashfile.xml Support\nservicefile.xml Support\nSingle .img Partition Support\nApplication Navigation\nThe main application navigation contains several sections for moving between different parts of the software. The listed top navigation items are Dashboard, Utilities, Solution & File, Profile, and Settings.\n\nDashboard\nUtilities\nSolution & File\nProfile\nSettings\nLive Status Panel\nThe interface also has a live status area on the right side. It contains a Log Console for application messages, connection information for USB or COM Port, CPU usage monitoring, license information, and a progress bar.\n\nReal-time Log Console\nUSB / COM Port Connection Status\nCPU Usage Monitor\nPremium License Type\nProgress Bar\nHow to Install GSM Family Tool v1.1.8\nThe supplied installation process starts with the GSM Family Tool RAR archive on the Windows desktop. The archive needs to be extracted before opening the program.\n\nFind the GSM Family Tool.rar archive on the desktop.\nRight-click the archive and select Extract to “GSM Family Tool”.\nWhen the password window appears, enter Royal123@ and click OK.\nAfter extraction finishes, open the newly created GSM Family Tool folder.\nInside the folder, find Loader.exe.\nRight-click Loader.exe and select Open.\nThe GSM Family Tool License Manager window will appear with the credentials already filled in.\nClick the purple LOGIN button to continue.\nIf Windows Security Alert appears, click Allow access to allow the application through the network.\nWait for the main GSM Family Tool dashboard to load.",
-      "downloads": 91,
+      "downloads": 95,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788689398003,
@@ -40607,7 +40615,7 @@
       ],
       "createdAt": 1788920024517,
       "description": "SaiduAllMe ADB Helper DOwnload\nFeatures \nADB-based Samsung bloatware removal\nAutomatically installs Shizuku and Canta\nAllows Knox packages to be searched in Canta\nSupports selecting multiple packages for removal\nClean option removes Shizuku and Canta after the process\nDeletes temporary text files during the cleanup step\n\nHow to Use SaiduAllMe ADB Helper\nDisconnect the internet and make sure ADB is enabled on the Samsung phone.\nConnect the phone to the computer and open SaiduAllMe ADB Helper.\nOpen the Run tab and click Start.\nThe tool will automatically install Shizuku and Canta on the phone.\nWhen the tool asks you to start Shizuku through ADB, open Shizuku on the phone and start it.\nReturn to the computer and click Next.\nCanta will then open on the phone. Accept the initial disclaimer.\nUse the search bar in Canta and search for knox.\nSelect the Knox-related packages you want to remove. The provided example shows six related packages selected.\nTap the trash can icon at the bottom of Canta.\nWhen the permission request appears, select Allow all the time so Canta can access Shizuku.\nTap OK to confirm the deletion of the selected packages.Clean Up After Removing Bloatware\nAfter removing the selected packages, go back to the SaiduAllMe ADB Helper on the computer. Click the Clean button at the top of the program.A confirmation message will appear. Click Yes to continue. The tool will automatically uninstall Shizuku and Canta and remove its temporary text files from the phone.",
-      "downloads": 23,
+      "downloads": 35,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1788920024517,
@@ -40675,6 +40683,28 @@
       "published": true,
       "size": "35mb",
       "unrarPassword": ""
+    },
+    "f_mtxsvono_mr9sk0bde": {
+      "name": "ADB Enable Dial Code",
+      "folderId": "f_mtxsfjx5_5k5iu5vwm",
+      "size": "",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9EF9sL2o2ajj2qhctmdxK78SeC3zBhsLwjvC0cwvJnfOMj0yyWYCNXg8&s=10",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9EF9sL2o2ajj2qhctmdxK78SeC3zBhsLwjvC0cwvJnfOMj0yyWYCNXg8&s=10"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "adb-enable-dial-code",
+      "description": "ADB Enable Dial Code \n===========================\n\nXiaomi SPD FRP Unlock :*#*#83781#*#*\n\nSamsung MTP ADB Unlock Code : *#0*#\n\nItel Infinix Tecno Unlock Code : *#85#  / *#*#49#*#* / *#*#3646633#*#*\n\nMotorola ABD Enable Code : *#*#2486#*#*\n\nVivo ABD Enable Code : *#*#225#*#* / *#808#",
+      "downloads": 0,
+      "link": "",
+      "isLink": false,
+      "published": true,
+      "links": [],
+      "createdAt": 1789182189204,
+      "lastModified": 1789182189204
     }
   },
   "images": {
@@ -50878,7 +50908,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-11T04:14:05.616Z",
+    "createdAt": "2026-09-12T03:28:56.310Z",
     "version": "2.0",
     "sections": 4
   }
