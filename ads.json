@@ -25033,7 +25033,7 @@
       ],
       "createdAt": 1781583114235,
       "description": "OLD Token: 1499c38f6765c0608fa573e972bea22e\n\nNEW Token :: a87f2e19c0b4d588e6129fa43c5b881d",
-      "downloads": 12,
+      "downloads": 29,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1789188825179,
@@ -25043,16 +25043,16 @@
           "label": "Mysterious-Dev Tool V1.2.7 Update",
           "urls": [
             {
-              "url": "https://www.androidfilehost.com/?fid=17900174959292978032",
-              "password": ""
+              "password": "",
+              "url": "https://www.androidfilehost.com/?fid=17900174959292978032"
             },
             {
-              "url": "https://transfer.it/t/vZMGsw0nQTRI",
-              "password": ""
+              "password": "",
+              "url": "https://transfer.it/t/vZMGsw0nQTRI"
             },
             {
-              "url": "https://1024terabox.com/s/18O6AiZTiCb-S1SqYZZuEsA",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/18O6AiZTiCb-S1SqYZZuEsA"
             }
           ]
         },
@@ -25060,16 +25060,16 @@
           "label": "Mysterious-Dev Tool v1.2.6",
           "urls": [
             {
-              "url": "https://mysterious-dev.com/SetupMysteriousDev.rar?v=1787810570019",
-              "password": "a87f2e19c0b4d588e6129fa43c5b881d"
+              "password": "a87f2e19c0b4d588e6129fa43c5b881d",
+              "url": "https://mysterious-dev.com/SetupMysteriousDev.rar?v=1787810570019"
             },
             {
-              "url": "https://mega.nz/file/suNkkAxD#q9YA98NgYtwLMAvFDZmpYNujuph5ZwFtOlIhgAL-Amo",
-              "password": "a87f2e19c0b4d588e6129fa43c5b881d"
+              "password": "a87f2e19c0b4d588e6129fa43c5b881d",
+              "url": "https://mega.nz/file/suNkkAxD#q9YA98NgYtwLMAvFDZmpYNujuph5ZwFtOlIhgAL-Amo"
             },
             {
-              "url": "https://1024terabox.com/s/1SjUjnEBcZaLwzSJMDGGTNw",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1SjUjnEBcZaLwzSJMDGGTNw"
             }
           ]
         },
@@ -25077,8 +25077,8 @@
           "label": "Mysterious-Dev Tool V1.1.4 Free",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/jcbfr54ic97zgnf/SetupMysteriousDev_1.1.4.rar/file",
-              "password": "1499c38f6765c0608fa573e972bea22e"
+              "password": "1499c38f6765c0608fa573e972bea22e",
+              "url": "https://www.mediafire.com/file/jcbfr54ic97zgnf/SetupMysteriousDev_1.1.4.rar/file"
             }
           ]
         },
@@ -25086,8 +25086,8 @@
           "label": "Mysterious-Dev Tool V1.0.9",
           "urls": [
             {
-              "url": "https://1drv.ms/u/c/bad85040cc5844dc/IQB2wS6NwAj-SY_9NJAMgrozAa-NZPax0z5ZJI48CmZD8FU?e=aK0ETb",
-              "password": ""
+              "password": "",
+              "url": "https://1drv.ms/u/c/bad85040cc5844dc/IQB2wS6NwAj-SY_9NJAMgrozAa-NZPax0z5ZJI48CmZD8FU?e=aK0ETb"
             }
           ]
         },
@@ -25095,8 +25095,8 @@
           "label": "Mysterious-Dev Tool V1.0.8",
           "urls": [
             {
-              "url": "https://1drv.ms/u/c/bad85040cc5844dc/IQB5tIdkHbhMTpgWOH97BA1yASx9y_FBfTBl0rOs1lwcH1c?e=aIJeSX",
-              "password": ""
+              "password": "",
+              "url": "https://1drv.ms/u/c/bad85040cc5844dc/IQB5tIdkHbhMTpgWOH97BA1yASx9y_FBfTBl0rOs1lwcH1c?e=aIJeSX"
             }
           ]
         }
@@ -38712,7 +38712,7 @@
       ],
       "createdAt": 1786848615211,
       "description": "SnapdragonFlash NoAuth v2.0 Tool SnapdragonFlash NoAuth v2.0 – Qualcomm EDL Flash Tool for Xiaomi Devices\nSnapdragonFlash NoAuth v2.0\nThe software window clearly shows the name SnapdragonFlash NoAuth v2.0 - Qualcomm EDL Flash Tool. At the top there are tabs for Configuration, Driver, Other and Log.\n\nThe main screen has a select button for choosing the firmware location. There is also a refresh button and a start flash button. Once a device is connected, its information is shown in the table below.\n\nThe table contains columns for ID, device, progress, elapsed time, status and result. This makes it possible to see what the tool is doing while the flash operation is running.\n\nMy Flashing Check\nI checked the tool with a Redmi Note 7 Pro. My first check was through EDL mode. The tool detected the device and started the flashing process. The screenshot shows a connected device on COM7, with the progress bar active and the status showing a system image being flashed.\n\nThe screenshot also shows the elapsed time at 35 seconds at the point when the image was captured. The result column was showing flashing, meaning the process was still running when the screenshot was taken.\nQualcomm EDL Flash Tool: The program is designed for flashing Qualcomm devices through EDL mode.\n47 Snapdragon chipset compatibility: The supplied information lists compatibility covering Snapdragon chipsets from SD845 to SD8 Elite.\nXiaomi / Redmi / POCO support: These three device brands are listed as supported.\nNo authentication required: The tool is presented as a NoAuth flash tool and did not ask for authentication during my stated test.\nSupported Snapdragon Chipsets\nSeries\tChipsets\nSD8xx\tSD845, SD855, SD865, SD870, SD888, SD8+Gen1, SD8Gen2, SD8Gen3, SD8Elite\nSD7xx\tSD710, SD730, SD750G, SD765G, SD778G, SD7+Gen1, SD7+Gen2, SD7+Gen3\nSD6xx\tSD636, SD660, SD665, SD670, SD675, SD680, SD695, SD6Gen1\nSD4xx\tSD460, SD480, SD4Gen1, SD4Gen2, SD4Gen3\nOther\tSD2Gen1, SW5100\nFlashing Options Shown in the Tool\nAt the bottom of the main window, the software shows three options: clean all, save user data and clean all and lock.Developer Credit\nSnapdragonFlash NoAuth v2.0 is developed by Rasheed. Credit goes to Rasheed for developing the Qualcomm-based Xiaomi flashing tool described here.\n\nThe tool was shared from a GitHub release and was also being shared on Facebook when I came across it. I am posting the information here based on the supplied details and the screenshots provided.\n\nSoftware Information\nSoftware Name\tSnapdragonFlash NoAuth\nVersion\tv2.0\nDeveloper\tRasheed\nSupported OS\tWindows computers\nSupported Devices\tXiaomi, Redmi and POCO smartphones",
-      "downloads": 112,
+      "downloads": 113,
       "folderId": "f_mqdrga34_wfiqp3gsz",
       "isLink": false,
       "lastModified": 1786848615211,
@@ -39125,7 +39125,7 @@
       ],
       "createdAt": 1787548825596,
       "description": "AMProFixWA Tool V1.6 Free Download. Other available options include Repair Media 2 and Install Any App. There are also shortcuts and controls for opening WhatsApp App Info, enabling WhatsApp permissions, force stopping the app, and clearing WhatsApp data.\n\nDelete WhatsApp\nDelete WhatsApp but Keep Data\nInstall Old WhatsApp\nInstall Old WhatsApp 14\nBackup WhatsApp Data\nRestore WhatsApp Data\nDownload Official WhatsApp\nUpdate WhatsApp\nRepair Media 2\nInstall Any App\nOpen WhatsApp App Info\nEnable WhatsApp Permissions\nForce Stop WhatsApp\nClear WhatsApp Data\nModified WhatsApp Download Section\nThe tool has a download section that lists different WhatsApp packages. The available names include AMWhatsApp, WhatsApp Green, WhatsApp Gold, WhatsApp Red, WhatsApp Blue, and several others.\n\nAMWhatsApp\nWhatsApp Green\nWhatsApp Gold\nWhatsApp Red\nWhatsApp Blue\nWhatsApp Black\nWhatsApp Abo Arab\nABWhatsApp\nOBWhatsApp\nMARWhatsApp\nWhatsApp Omar OB\nWhatsApp Marwan\nGBWhatsApp\nWhatsApp Business 2\nWhatsApp Business 3\nAppeal and Request Options\nAMProFixWA Tool V1.6 also includes options related to WhatsApp account review and appeal requests. The provided details mention automated appeal request submissions and different request categories.\n\nThere are options for severe violation appeals, modified version-related bans, explicit content review requests, privacy violation handling, and spam message restriction appeals. The tool also includes options to update, view, or delete requests.\n\nAutomated Ban Appeal Request Submissions\nSevere Violation Appeal Processing\nModified Versions Ban Removal\nExplicit Content Ban Review Form\nWhatsApp Privacy Violation Handling\nSpam Messages Restriction Appeals\nUpdate Requests\nView Requests\nDelete Requests\nIntegrated Notification Dispatch System\nRoot and System Tools\nFor users working with system-level Android settings, the tool includes several root-related options. These include Magisk installation, dependency library installation, custom libraries, and an option to send libraries to the phone.A Google Play Integrity Checker is also listed. Other options include clearing Google Apps data and a fix for School Device Enterprise Profile.\n\nInstall Magisk\nInstall Dependency Library\nInstall Custom Libraries\nSend Libraries to Phone\nGoogle Play Integrity Checker\nClear Google Apps Data\nSchool Device Enterprise Profile Fix\nDevice Connection and Android Utilities\nThe program can show the mobile screen in real time. This can be useful when you want to see the connected phone screen from the computer while working with the device.\n\nWireless ADB connection is also available through the ADB WiFi option. For older devices, the feature list also mentions a dependency issue fix for Android 6 and Android 7.\n\nShow Mobile Screen\nWireless Connection via ADB WiFi\nLegacy Android 6/7 Dependency Issue Fix\nLanguage and Interface Settings\nAMProFixWA Tool V1.6 supports both Arabic and English. You can choose the preferred language from the available settings. Theme options are also included, with Default, Light, and Dark choices mentioned in the provided details.\n\nThe tool also lists Smart Mode automation, sound effect settings, server status monitoring, and license expiry status monitoring.\n\nArabic and English Language Switcher\nDefault Theme\nLight Theme\nDark Theme\nSmart Mode Automation Toggle\nSound Effects Settings\nReal-Time Server Status Monitor\nLicense Expiry Status Monitor\nHow to Install AMProFixWA Tool V1.6\nThe installation process starts with the AMProTool.rar archive file.\n\nDownload the AMProTool.rar file.\nFind the downloaded archive on your computer.\nRight-click the file and choose Extract Here or Extract to AMProTool.\nOpen the extracted folder.\nRight-click on AMProTool.exe and select Run as administrator.\nWhen the setup opens, click Next on the Welcome screen.\nChoose the folder where you want to install the software. The provided default location is C:\\Program Files (x86)\\AMProFixWhatsApp.\nClick Next and select Create a desktop icon if you want a shortcut on the desktop.\nClick Install and wait for the installation to finish.\nClick Finish after the setup is complete.\nRight-click the AMProTool desktop icon and run it as administrator.\nWait for the loader to check the license status and server connection.\nChoose your preferred language and theme on the login screen.\nClick Log In.\nEnable USB Debugging on the Android device.\nConnect the device to the computer with a USB cable.\nHow to Connect an Android Device\nAccording to the provided usage steps, USB Debugging needs to be enabled before connecting the Android phone through a USB cable. Once the device is connected, you can use the available options inside the tool.\n\nThe feature list also includes ADB WiFi for wireless connection and an option to show the mobile screen in real time.\n\nDownload AMProFixWA Tool V1.6\nYou can download AMProFixWA Tool V1.6 from the link below.\n\nBefore using options that delete or clear WhatsApp data, check what the selected option will do and keep your important data safe.",
-      "downloads": 15,
+      "downloads": 16,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787548825596,
@@ -39331,7 +39331,7 @@
       ],
       "createdAt": 1787840407838,
       "description": "Haafedk iCloud A12+ V15 Free CRACK Download (No Login Required)\nHaafedk iCloud A12+ V15 Features\nDevice Information\nBefore using other options, the tool includes a Read Device function. According to the provided feature list, it can show several device details.\n\nRead Device: Reads the connected device information.\nSerial Number: Displays the device serial number.\nECID: Shows the ECID information.\nIMEI: Displays the IMEI.\nUDID: Shows the UDID.\nMode: Displays the current device mode.\niOS Version: Shows the installed iOS version.\nProduct Type: Displays the device product type.\nBuild: Shows the build information.\nJailbreak Status: Displays the jailbreak status.\nActivation Status: Shows the activation status.\nRegion: Displays the device region.\nBypass Options\nThe V15 feature list includes several Hello Bypass and MDM bypass options. The requirements mentioned with each option should be checked before trying to use them.\n\nHello Bypass A12/A13: Listed for A12 and A13 devices.\nHello Bypass 4S – 17 Pro Max: This option is listed as requiring WiFi.\nHello Bypass iPhone – iPad: Listed with a jailbreak requirement.\nHello Bypass iOS 12 – 14: Also listed as requiring jailbreak access.\nBypass MDM Old: An option for the old MDM bypass method.\nBypass MDM New: An option for the new MDM bypass method.\nDevice Operations\nA few device-related operations are also included in the provided list.Read Device: Used to read device details.\nFix Drivers: An option related to drivers.\nWin Test Mode: A Windows Test Mode option.\nPatcher Settings\nThe patcher section includes three listed options.\n\nAdd MobileGestalt: An option for adding MobileGestalt.\nSupported Devices: Lets you check the listed supported devices section.\nChange Serial: An option related to changing the serial.\nOther Bypass Settings\nThere are also a few toggle-style options in the feature list.\n\nBlock OTA: An option related to blocking OTA.\nSkip Setup: An option for skipping setup.\nDisable Factory Reset: An option related to disabling factory reset.\nIncluded Tools\nThe software also lists two extra tools.\n\nDevice Manager: Opens the Device Manager tool.\nWinRa1n Jailbreak Tool: The WinRa1n Jailbreak Tool is included in the listed tools section.\niCloud Tools\nTwo iCloud-related options are mentioned in the V15 feature list.\n\nFix iCloud Login: An option related to fixing iCloud login.\nEnable Factory Reset: An option for enabling factory reset.\nInstallation Steps\nExtract the downloaded setup archive to a folder on your computer.\nOpen the extracted folder and run the setup file, such as HAAFEDK_A12_SETUP.exe.\nIf Windows Defender SmartScreen stops the application from opening, select More info and then choose Run anyway.\nContinue through the setup wizard and select the installation folder. The provided instructions mention C:\\Haafedk-iCloud-a12 as the usual default location.\nIf you want a shortcut on your desktop, select the option for creating one.\nClick Install and wait for the setup process to finish.\nWindows Defender may flag the software during installation. The provided instructions say that installation can be interrupted in this situation.\nIf you choose to change Windows Security settings, do so carefully. Temporarily disabling protections can create security risks, so this should only be considered when you fully trust the software source.\nAfter installation is complete, close the setup wizard.\nOpen the installation folder or use the desktop shortcut to start Haafedk A12.exe.\nThe provided instructions mention a cracked login button at the login screen for bypassing the credentials and opening the main dashboard.\nDownload Haafedk iCloud A12+ V15\nThe available information identifies this version as V15. Before downloading or installing any software, make sure you trust the source and understand the security risks mentioned in the installation instructions.",
-      "downloads": 102,
+      "downloads": 107,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787881365705,
@@ -39417,7 +39417,7 @@
       ],
       "createdAt": 1787918379886,
       "description": "UST Tool v7.0.0 Free Activation  Read Info for Hardware SoC information, MEID, SOCID, security status, and GPT details.\nReset FRP / Bypass FRP.\nFactory Reset + FRP for wiping Userdata, Metadata, and Cache.\nReboot MediaTek device to normal mode.\nUnlock Bootloader using the listed seccfg partition method.\nRelock Bootloader and restore the listed lock state and verification checksums.\nBypass Auth (SLA / DAA) using the listed BROM and payload process.\nRead Partition and save selected partition data as a BIN file.\nWrite / Flash Partition using an image file.\nErase selected partition blocks.\nDump Preloader and save the active preloader binary.\nDump Bootrom memory area.\nXiaomi\nFlash\nFlash Firmware.\nFormat Data.\nBrowse Scatter Firmware.\nService\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nFastboot\nRead CSSD.\nFormat Data.\nReboot Device.\nMi Assistant\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nEFS\n\nHow to Install UST Tool v7.0.0\nDownload the UST Tool package and save it on your computer.\nExtract the downloaded archive to a folder.\nOpen the extracted USTTOOL folder.\nDouble-click USTTOOL.exe to start the software.\nWhen the CONTROL MODULE window appears, click Copy Hardware ID Key.\nOpen the provided activation page and find the Generate 10 Days Free Activation Key section.\nPaste the copied Hardware ID into the ENTER YOUR 16-CHAR HWID box.\nClick GENERATE KEY NOW and copy the complete generated license key.\nReturn to the UST Tool Control Module.\nPaste the key into Paste Activation License Token Here.\nClick REGISTER LICENSE.\nAccording to the provided process, a green Success message appears after successful registration.\n\nWait for the tool loading process to complete.\nComplete the login screen as required by the software.\nAfter opening the main interface, the tool is ready for the supported functions listed above.",
-      "downloads": 89,
+      "downloads": 90,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787918379886,
@@ -39667,7 +39667,7 @@
       ],
       "createdAt": 1788007856748,
       "description": "S-Tool Pro Mobile PC Toolkit V1.0  \nDevice info & diagnostics\nModel, IMEI, chipset, battery, bootloader and patch, colour-coded so problems stand out.\nXiaomi Mi Assistant\nRead info and wipe data in Mi Assistant mode, plus a smart auth-token decoder.\nSamsung servicing\nProfile and FRP over the modem port, stop forced OTA, reboot to Download mode.\nBootloader & FRP\nFastboot flashing, sideload, key-based reset and safe wipes, with clear warnings.\nAuth token decoder\nMi Assistant, Fastboot, EDL and MediaTek tokens, detected and decoded locally.\nVerified & safe\nPublished SHA-256 for every build and one-click Verify inside the app.",
-      "downloads": 64,
+      "downloads": 65,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1788007856748,
@@ -39724,7 +39724,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2408,
+      "downloads": 2438,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -39925,7 +39925,7 @@
       ],
       "createdAt": 1788316068397,
       "description": "FixHexa Tool CraQk 365 days Free Download . FixHexa Tool Features\nMoto Flasher: Flash Motorola stock firmware using XML files.\nClean Flash: Option available in the Motorola flashing section.\nSafe Flash: Flash option available for supported Motorola firmware work.\nFix CID Dead: Motorola Moto Flasher option.\nReboot After Flash: Automatically reboot after the flashing process.\nFlash Log: View the flashing log and related information.\nPartition Info: Display partition information in the Moto Flasher section.\nMTK FRP: Remove FRP lock on MTK devices.\nMTK Bootloader Unlock: Unlock the bootloader on MTK devices.\nADB to Fastboot: Convert an ADB-connected device to Fastboot mode.\nSlot Switching: Set Slot A or Slot B.\nRead Info: Read available device information.\nGet Unlock Data: Get unlock data from supported devices.\nErase FRP: Erase FRP when the bootloader is open.\nOEM Relock: Relock the OEM bootloader option.\nBL Relock: Relock the bootloader.\nXiaomi Fastboot Flasher: Flash Xiaomi fastboot ROM using flash_all.bat.\nXiaomi Slot Options: Set Slot A or Slot B during supported operations.\nSkip modem_a/b: Skip the modem partitions when using the Xiaomi flasher.\nSkip CUST: Skip the CUST partition.\nSkip opcust: Skip the opcust partition.\nXiaomi Erase FRP: Erase FRP from the available Fastboot Flasher options.\nACC Menu: Xiaomi Account Tools with Android 14, 15, and 16 support listed.\nPartition Tools: Options for Persist, Cust, Opcust, and Modem.\nADB Commands: Reboot to Fastboot, Recovery, restart device, disable OTA update, and list ADB devices.\nFastboot Commands: Read device info, reboot device, reboot to Fastboot, erase FRP, DM-Verity Fix, and slot switching.\nAndroid Info Extract: Load partition or tag files for Samsung, Oppo / Realme, Vivo, and Moto.\nPreloader EMI: Load MediaTek preloader.bin to check compatible memory chips.\nChip Info: Search eMMC and UFS chip specifications.\nENG ROM Search: Search engineering ROMs by file name.\nFind ISP: Search ISP pinouts using Fastboot mode or model search.\nFind Dump: Search and locate dump files.\nDownloader: Download files through the built-in download manager.What's New in the Latest ISP Data Update\nThe latest FixHexa update adds fresh ISP data for a number of device models. The new entries use different methods depending on the model, including Layer Scratch, CPU Drill, and No CPU Drill.\n\nvivo V40 Pro / T3 Ultra: New Layer Scratch ISP data added.\nvivo X300 Pro: New Layer Scratch ISP data added.\nF33: New No CPU Drill ISP data added.\nRedmi 15A: New CPU Drill ISP data added.\nSamsung SM7150: New CPU Drill ISP data added.\nSamsung SM7435: New CPU Drill ISP data added.\nvivo T4 Ultra: New Layer Scratch ISP data added.\nPOCO X6 Pro 5G: New Layer Scratch ISP data added.\nSamsung Galaxy S26+: New No CPU Drill ISP data added.\nMore ISP data: The update also mentions many more newly added solutions.\n\nNew ISP Solutions in FixHexa\nThe new update is mainly focused on ISP data. Several models now have a listed ISP method that can be checked from the FixHexa Tool.\n\nFor some models, the new data is marked as Layer Scratch. Other entries use CPU Drill or No CPU Drill. The method depends on the device model listed in the updated data.\n\nThe update covers devices from different brands, including vivo, Samsung, Redmi, POCO, and F33. It also includes data for the Samsung Galaxy S26+ and vivo X300 Pro.How to Install FixHexa Tool\nStep 1: Extract the Tool\nFirst, download the FixHexa Tool archive named FixhexaTool_Free_GSMYOGESH.rar. Right-click the downloaded RAR file and select the extract option.\n\nYou can use 7-Zip or WinRAR to extract the file. When the password window appears, enter gsmyogesh and click OK.\n\nStep 2: Open Loader.exe\nAfter extraction, open the newly created FixHexa folder. Find Loader.exe, right-click it, and select Run as administrator.\n\nStep 3: Get the Free Activation Key\nWhen the FIXHEXA TOOL popup appears, click the GET FREE ACTIVATION KEY button. This will open the activation page in your web browser.\n\nScroll down until you find the Generate 10 Days Free Activation Key section. The tool provides a hardware ID that can be copied into the HWID field.\n\nStep 4: Generate the LicenseRight-click inside the ENTER YOUR 16-CHAR HWID box and select Paste. The copied hardware ID will be entered into the field.\n\nNow click GENERATE KEY NOW. Once the key is generated, select and copy the license key shown above the button.\n\nStep 5: Register the License\nReturn to the FIXHEXA TOOL popup. Find the Paste License Token field and paste the license key into it.\n\nClick REGISTER LICENSE. Click OK or wait for the process to finish until the tool shows Activated Successfully!\n\nStep 6: Login to FixHexa\nAfter activation, the main FixHexa login window will appear. Enter gsmyogesh in the USERNAME / EMAIL field and use the same value in the PASSWORD field.Click LOGIN. If the tool asks you to join Telegram, click Later to continue.",
-      "downloads": 164,
+      "downloads": 165,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788316068397,
@@ -39969,7 +39969,7 @@
       ],
       "createdAt": 1788518454743,
       "description": "GSM SRINU TOOL v1.0.5 Cra#ck Free Download How to Start GSM SRINU TOOL\nOpen the GSM SRINU TOOL folder on your computer.\nFind Loader.exe and run it. If required, run the loader as Administrator.\nA small CONTROL MODULE window will appear.\nWait while the control module performs the launch check, version check, server connection check, and API response check.\nAfter initialization, the main login window will open.\nEnter your username and login credentials.\nYou can select Remember if you want the login details to be remembered.\nClick Login and wait for the authentication process.\nThe program will show messages such as Authenticating with the server and then Login successful. Redirecting.\nAfter successful login, the main dashboard will load.\nSelect the required communication port and use the available category options.\nKG Samsung (ADB)\nThe KG Samsung (ADB) section contains several Samsung-related options. There are MTP information, KG status, ADB, and different Android version methods. The program lists separate methods for Android 14, Android 13, and different patches.\n\nMTP Read Info – Reads information through MTP.\nKG Android 14 New Method 1 – Android 14 KG method.\nKG Android 14 New Method 2 – Another Android 14 KG method.\nKG Android 14 New Method 3 – Third Android 14 KG method.\nKG Android 14 (All Patch) – KG option listed for Android 14 patches.\nSet To KG Active 01 (IMEI) – KG option using IMEI.\nKG Status Check – Checks the KG status.\nADB Live Screen – Provides an ADB live screen option.\nEnable ADB (05-23) – Enables ADB using the listed method.\nKG Android 13 (New Patch) – KG option for the new Android 13 patch.\nKG Android 13 (03-24) – Android 13 method listed for the 03-24 patch.\nKG Android 13 (07-23) – Android 13 method listed for the 07-23 patch.\nIT Admin Tools for Different Brands\nThe IT Admin (All Brands) section contains options for different Android versions, brands, and device management methods. It includes separate entries for Android 15, Hyper OS, VIVO, Samsung, and Tecno, Infinix, and Itel devices.\n\nIT Admin Android 15 – IT Admin option for Android 15.\nIT Admin Universal – Universal IT Admin option.\nIT Admin Hyper OS (Android 15) – IT Admin option for Hyper OS on Android 15.\nRedmi MDM (All In One) – Redmi MDM option in one section.\nIT Admin VIVO (New Security) – VIVO option for the listed new security.\nDisable Framework – Includes a framework disable option.\nSamsung Knox Disable – Samsung Knox disable option.\nSamsung Payjoy (New) – A new Samsung Payjoy option listed in the tool.\nIT Admin (Tecno, Infinix, Itel) – IT Admin option for Tecno, Infinix, and Itel.\nSamsung MDM (All Patch) – Samsung MDM option for the listed patches.\nIT Admin (Work profile) – Work profile option.\nIT Admin (Hyper OS) – IT Admin option for Hyper OS.\nService Tool Section\nThe Service Tool section contains several service and device-related options. It includes Pixel SIM unlock, factory reset methods, Samsung account removal through ADB, FRP through ADB, Samsung driver installation, and OTA controls.\n\nSim Unlock (Pixel) – SIM unlock option for Pixel.\nDisable Factory Reset Method 1 – First listed factory reset disable method.\nDisable Factory Reset Method 2 – Second listed factory reset disable method.\nSam. Account Remove (ADB) – Samsung account removal option through ADB.\nFactory Reset – Factory reset option.\nDeveloper Option Hide – Option to hide Developer Options.\nFRP (ADB) – FRP option using ADB.\nInstall Samsung Driver – Samsung driver installation option.\nService Provide Update Fix. – Includes the listed service provider update fix.\nEnable OTA – Enables OTA.\nDisable OTA – Disables OTA.\nQR Code Scan Tools\nThe QR Code Scan section contains different QR-based options for ADB and Hyper OS. The tool lists separate Android 14 and Android 13 methods, along with Hyper OS QR methods. It also includes an ADB information option and an Oplus demo removal option.ADB Enable QR 14 Method 1 – First Android 14 QR method for ADB.\nADB Enable QR 14 Method 2 – Second Android 14 QR method for ADB.\nADB Enable QR 13 – Android 13 QR option for ADB.\nHyper OS QR 1 – First listed Hyper OS QR method.\nHyper OS QR 2 – Second listed Hyper OS QR method.\nADB Read Info – Reads device information through ADB.\nOplus Demo Remove – Oplus demo removal option.\nMDM Section\nThe tool also has a separate MDM section. It contains an option named MDM Remove (All Brands), which is listed for MDM removal across the supported brands mentioned by the program.\n\nFeatures at a Glance\nNew design in GSM SRINU TOOL v1.0.5\nCONTROL MODULE initialization\nLaunch check\nVersion check\nServer connection check\nAPI response check\nLogin system\nCommunication port selection\nKG Samsung ADB tools\nAndroid 14 and Android 13 KG methods\nIT Admin tools\nHyper OS options\nRedmi MDM option\nVIVO IT Admin option\nSamsung Knox option\nSamsung MDM option\nTecno, Infinix, and Itel IT Admin option\nService Tool section\nPixel SIM unlock option\nSamsung account removal through ADB\nFactory reset options\nFRP ADB option\nSamsung driver installation\nOTA enable and disable options\nAndroid 14, Android 13, and Hyper OS QR methods\nADB information reading\nOplus demo removal option\nMDM Remove (All Brands)\nLogin and Dashboard\nThe login process is handled after the CONTROL MODULE finishes its checks. The user enters the username and login credentials and then clicks the Login button. The tool displays the authentication status while connecting to the server.\n\nAfter a successful login, the program redirects to the dashboard. The dashboard contains the communication port selection and the different categories used to access the available functions.",
-      "downloads": 37,
+      "downloads": 38,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788518454743,
@@ -40009,7 +40009,7 @@
       ],
       "createdAt": 1788586031489,
       "description": "HSD AIO TOOL v1.0.4 Cr@ckedInstallation and First Setup\nTo install HSD AIO Tool, first locate HSD_AIO_TOOL.exe on the desktop. Right-click the file and choose the option to run it as Administrator. Continue through the installer prompts and enable the desktop shortcut option when it appears.\n\nContinue with the installation until the setup is complete. On the final screen, uncheck Launch HSD_AIO_TOOL and then click Finish.\n\nAfter installation, open the new desktop shortcut. The HSD LOGIN screen will appear. Click SIGN UP and enter the registration details requested by the program, including Name, Phone Number, Email, and Password. Then click CREATE ACCOUNT.\n\nA referral pop-up appears after account creation. Click CONTINUE TO LOGIN to continue to the main application.\n\nTesting Different Brand Sections\nDuring the provided test, several brand sections were opened and different operations were attempted. On Infinix, the SMART 7 HD (X6516) model was selected and the Factory Reset option was used.\n\nOn Motorola, the G85 5G (XT2427) model was selected and an Erase FRP operation was attempted. On Oppo, the A3s (CPH1853) model was selected and Read Info / Boot Device was attempted.\n\nRealme was also checked using the C17 (RMX2101) model. Read Info and Backup Security were attempted during the test.\n\nThese operations did not complete because the tool returned the same loader-related error across the tested brand operations.\n\nServer Loader Error\nThe main issue observed during the test was a server loader download failure. When operations were started on Infinix, Motorola, Oppo, and Realme, the tool attempted to prepare a loader but could not download it.\n\nThe displayed message was:\n\n>> LOADER DOWNLOAD FAILED :- NOT AVAILABLE ON SERVER\n\nThe tool then displayed:\n\nOperation Cancelled. Loader preparation failed.\n\nThis happened during Factory Reset, Erase FRP, and Read Info attempts. Based on the provided test, these operations could not be completed because the required loader was reported as unavailable on the server.",
-      "downloads": 10,
+      "downloads": 14,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788586031489,
@@ -40045,7 +40045,7 @@
       ],
       "createdAt": 1788689398003,
       "description": "GSM Family Tool v1.1.8 Free Download Brand and Chipset Support\nGSM Family Tool has separate tabs for several mobile brands and platforms. Samsung includes universal support and a list of specific Galaxy models. Huawei has its own section with P, Mate, Nova, Y, and Honor devices. SPD/Unisoc support is listed by chipset, while Motorola also has its own service section.\n\nSamsung\nHuawei\nSPD / Unisoc\nMotorola\nXiaomi\nOppo\nVivo\nRealme\nInfinix\nTecno\nMediaTek\nSamsung Support\nThe Samsung section includes universal Samsung support along with specific Galaxy models. The listed models include Galaxy A03, A12, A13, A14, A15, A24, A34, A54, A71, A72, A21s, A31, A32, A51, A52s, S20, and S21.\n\nHuawei Support\nThe Huawei section includes universal Huawei support and several device families. The listed P series covers P20 to P40 Pro, while the Mate section covers Mate 20 to Mate 40 Pro. Nova 5T, Nova 7i, Nova 9, Y6 2019, Y7a, Y9 Prime, and Honor 8X are also listed.SPD / Unisoc Chipsets\nThe SPD / Unisoc section lists support for SC9863A, T606, T610, T612, T616, and T700 chipsets.\n\nMotorola Support\nThe Motorola section includes Universal Moto support and Motorola XT2503-4 support.\n\nSamsung Tools\nThe Samsung section contains general device operations and a service area. The general options include KG Remove ADB, Read Device Info, Activate ADB, and different reboot options.\n\nKG Remove ADB\nRead Device Info\nActivate ADB\nReboot System\nReboot Recovery\nReboot Download\nDNS Credit Service\nBuy Credit\nGenerate DNS\nHuawei Tools\nHuawei has options for reading device information through different connection modes. The flash section also includes a Firmware Flasher with slots for Base, Cust, and Preload files.\n\nRead Device Info via ADB\nRead Device Info via Fastboot\nRead Device Info via Huawei USB Update Mode\nFirmware Flasher\nBase partition file slot\nCust partition file slot\nPreload partition file slot\nRepartition option\nXiaomi Tools\nThe Xiaomi section includes two listed general operations. Smart Patch is available along with an ADB option for removing Mi.Smart Patch\nADB Remove Mi\nOppo Tools\nThe Oppo section contains ADB and Oplusreserve patch options. The listed functions include ADB Remove and patches for Oplusreserve2 and Oplusreserve3.\n\nADB Remove\nPatch Oplusreserve2\nPatch Oplusreserve3\nSPD / Unisoc Tools\nThe SPD / Unisoc section has several groups for general operations, flashing, backup and restore, diagnostics, and package management. The General section includes device detection, information reading, factory reset, safe format, GPT reading, NV backup, dump reading, bootloader options, and device disconnect.\n\nDetect Device\nRead Info\nFactory Reset\nSafe Format\nRead GPT\nBackup NV\nRead Dump\nFRP Remove\nUnlock Bootloader\nRelock Bootloader\nDisconnect Device\nSPD / Unisoc Flash\nThe flash section works with PAC files and automatically identifies the listed FDL1 and FDL2 partitions.\n\nFlash PAC Files\nAutomatic FDL1 Identification\nAutomatic FDL2 Identification\nBackup and Restore\nThe Backup / Restore section contains options to search, read, write, and erase specific partitions. The supplied information also mentions loading .bin image files for these operations.\n\nSearch Partition\nRead Partition\nWrite Partition\nErase Partition\nLoad .bin Image\nDiagnostic Tools\nThe Diagnostic section includes Super APK Remover. The supplied details describe an Android dynamic-partition/EROFS editor that can scan, patch misc data, and remove specific APKs.\n\nPackage Management\nThe Advanced section includes package management controls for APK files. These options cover installing, uninstalling, disabling, enabling, backing up, and restoring APKs.\n\nInstall APK\nUninstall APK\nDisable APK\nEnable APK\nBackup APK\nRestore APK\nMediaTek META Service\nThe MediaTek section is focused on META Mode operations. It includes options to enter META Mode, perform the listed META services, and exit META Mode when the operation is finished.\n\nMETA Factory Reset\nMETA Reset FRP\nMETA Patch\nBoot in META\nExit META Mode\nMotorola Tools\nThe Motorola section includes bootloader, patching, ADB, and flashing options. The Fastboot Flasher supports flashfile.xml, servicefile.xml, and individual .img partition files.\n\nBootloader Unlock\nPatch Misc\nPatch FRP\nADB Process\nADB Activate\nFastboot Flasher\nflashfile.xml Support\nservicefile.xml Support\nSingle .img Partition Support\nApplication Navigation\nThe main application navigation contains several sections for moving between different parts of the software. The listed top navigation items are Dashboard, Utilities, Solution & File, Profile, and Settings.\n\nDashboard\nUtilities\nSolution & File\nProfile\nSettings\nLive Status Panel\nThe interface also has a live status area on the right side. It contains a Log Console for application messages, connection information for USB or COM Port, CPU usage monitoring, license information, and a progress bar.\n\nReal-time Log Console\nUSB / COM Port Connection Status\nCPU Usage Monitor\nPremium License Type\nProgress Bar\nHow to Install GSM Family Tool v1.1.8\nThe supplied installation process starts with the GSM Family Tool RAR archive on the Windows desktop. The archive needs to be extracted before opening the program.\n\nFind the GSM Family Tool.rar archive on the desktop.\nRight-click the archive and select Extract to “GSM Family Tool”.\nWhen the password window appears, enter Royal123@ and click OK.\nAfter extraction finishes, open the newly created GSM Family Tool folder.\nInside the folder, find Loader.exe.\nRight-click Loader.exe and select Open.\nThe GSM Family Tool License Manager window will appear with the credentials already filled in.\nClick the purple LOGIN button to continue.\nIf Windows Security Alert appears, click Allow access to allow the application through the network.\nWait for the main GSM Family Tool dashboard to load.",
-      "downloads": 95,
+      "downloads": 96,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788689398003,
@@ -40593,7 +40593,7 @@
       ],
       "createdAt": 1788919533164,
       "description": "MTK AI Agent v2.0 Download Features MTK AI Agent\n58 intents covering the MTKClient CLI command set\n48 adapter methods with direct Python API calls\nNatural language support for English and Malayalam\n70+ Malayalam phrase mappings\nSafety confirmation for dangerous operations\nConversation memory with workflow tracking\nError analysis and device fingerprinting\nSingle-file architecture with mtk_ai_single.py\nPre-built PyInstaller EXE with bundled DLLs\nDevice detection and device information\nGPT and partition read/write operations\nFull flash and partition backup commands\nWipe and FRP commands\nDA mode tools\nMETA, payload and Stage commands\nRPMB read and write support\nMemory dump and BROM dump commands\nRepair workflows for dead, bootloop and unbrick issues\nBootloader unlock and lock commands\n\nWhat's New in MTK AI Agent v2.0.0\nAdded wipe\nAdded frp\nAdded log\nAdded peek\nAdded stage\nAdded plstage\nAdded rpmb_read\nAdded rpmb_write\nAdded memdump\nAdded dumpbrom\nAdded fs_mount\nAdded da_vbmeta\nAdded da_efuse\nAdded da_keyserver\nAdded nvitem\nAdded patchmodem\nAdded meta2\nAdded logdumpHow to Install\nDownload the MTK AI Agent files from the provided project source.\nIf you are using the source version, make sure Python 3.8 or newer is installed.\nInstall the required MTK USB drivers.\nIf you are using the pre-built EXE, Python is not required.\nRun MTK-AI-Agent.exe to start the tool.\nUse the available commands from the interactive mode.",
-      "downloads": 27,
+      "downloads": 34,
       "folderId": "f_mq90y5hx_pgeh8l0ya",
       "isLink": false,
       "lastModified": 1788933084159,
@@ -40633,7 +40633,7 @@
       ],
       "createdAt": 1788920024517,
       "description": "SaiduAllMe ADB Helper DOwnload\nFeatures \nADB-based Samsung bloatware removal\nAutomatically installs Shizuku and Canta\nAllows Knox packages to be searched in Canta\nSupports selecting multiple packages for removal\nClean option removes Shizuku and Canta after the process\nDeletes temporary text files during the cleanup step\n\nHow to Use SaiduAllMe ADB Helper\nDisconnect the internet and make sure ADB is enabled on the Samsung phone.\nConnect the phone to the computer and open SaiduAllMe ADB Helper.\nOpen the Run tab and click Start.\nThe tool will automatically install Shizuku and Canta on the phone.\nWhen the tool asks you to start Shizuku through ADB, open Shizuku on the phone and start it.\nReturn to the computer and click Next.\nCanta will then open on the phone. Accept the initial disclaimer.\nUse the search bar in Canta and search for knox.\nSelect the Knox-related packages you want to remove. The provided example shows six related packages selected.\nTap the trash can icon at the bottom of Canta.\nWhen the permission request appears, select Allow all the time so Canta can access Shizuku.\nTap OK to confirm the deletion of the selected packages.Clean Up After Removing Bloatware\nAfter removing the selected packages, go back to the SaiduAllMe ADB Helper on the computer. Click the Clean button at the top of the program.A confirmation message will appear. Click Yes to continue. The tool will automatically uninstall Shizuku and Canta and remove its temporary text files from the phone.",
-      "downloads": 35,
+      "downloads": 38,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1788920024517,
@@ -40722,6 +40722,86 @@
       "published": true,
       "size": "",
       "unrarPassword": ""
+    },
+    "f_mtzpqxvh_maddiuie4": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpT2QCO8KhKKVjd0T3ePRQ0vz48FiT9_eKGGyB245WTMHeweebrtFoSk4gKBZ12G_W39hhZPJlYk0RN7To7FmrjVvz7BW49kzc0UJtwdaXckDTWt6VCMZmNgJpCE6nOG_m4F_JeG3THQ0Rw_i8OWH0PvqBqwAamlKjTar1-kirXKgiFSNSgRX8hhf24nT/w640-h360/Samsung%20PIT%20to%20Qualcomm%20XML%20Tool.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpT2QCO8KhKKVjd0T3ePRQ0vz48FiT9_eKGGyB245WTMHeweebrtFoSk4gKBZ12G_W39hhZPJlYk0RN7To7FmrjVvz7BW49kzc0UJtwdaXckDTWt6VCMZmNgJpCE6nOG_m4F_JeG3THQ0Rw_i8OWH0PvqBqwAamlKjTar1-kirXKgiFSNSgRX8hhf24nT/w640-h360/Samsung%20PIT%20to%20Qualcomm%20XML%20Tool.jpg"
+      ],
+      "createdAt": 1789297861373,
+      "description": "Samsung PIT to Qualcomm XML Tool Free Download\nFeatures\nConvert Samsung firmware information into Qualcomm XML.\nUse GPT dumps from the device or a dump during the XML conversion.\nUse a PIT file to get accurate partition names.\nExtract BL, AP, CP and CSC files from Samsung firmware.\nDecompress the extracted firmware files, including LZ4 files.\nCreate XML files with partition addresses and names from the firmware information.\nFlash Device section with UFS and eMMC memory type options.\nSupport for Firehose loader, QSaharaServer.exe and fh_loader.exe.\nWork with rawprogram XML files and extracted firmware folders.\nUse a sector size of 4096 bytes.\nHow to Install\nDownload the tool file from the link given below.\nExtract the downloaded archive if it is provided in a compressed format.\nOpen the extracted tool folder.\nRun the tool application.\nUse the Convert to XML, Flash Device or Extract All section as needed.",
+      "downloads": 0,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1789297861373,
+      "link": "https://www.androidfilehost.com/?fid=17900174959292978036",
+      "links": [
+        {
+          "label": "Samsung PIT to Qualcomm XML Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.androidfilehost.com/?fid=17900174959292978036"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1lCavT9UyOO50NdgHbU2XLg"
+            },
+            {
+              "password": "",
+              "url": "https://transfer.it/t/vy8nV58T1RDK"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Samsung PIT to Qualcomm XML Tool",
+      "password": "",
+      "publishUrl": "samsung-pit-to-qualcomm-xml-tool",
+      "published": true,
+      "size": "3 Mb",
+      "unrarPassword": ""
+    },
+    "f_mtzsckrb_uetwfwk4d": {
+      "name": "Infinity CM2AW V1.01 Allwinner",
+      "folderId": "f_mp6sihua_qn9c5cpoh",
+      "size": "24.3mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97ctTObukFH9flgE5UubJmlmhuKQ5ny29uIxsFAw1gbxKPhReIV5pD-_8g8kSSCZ8u25WjFct3RSQwv2AqGCL89DyxijJKYg6AL6TBzNwWL0ISMIoYGXsQGJQXjf8bM5VRAyKhfAyTkNITG7GzWyJduEQ9iurtzcLUD0xhH2Yq1r4aSSSrTzBAmkN32zD/w640-h358/Infinity%20CM2AW%20V1.01%20Allwinner%20.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97ctTObukFH9flgE5UubJmlmhuKQ5ny29uIxsFAw1gbxKPhReIV5pD-_8g8kSSCZ8u25WjFct3RSQwv2AqGCL89DyxijJKYg6AL6TBzNwWL0ISMIoYGXsQGJQXjf8bM5VRAyKhfAyTkNITG7GzWyJduEQ9iurtzcLUD0xhH2Yq1r4aSSSrTzBAmkN32zD/w640-h358/Infinity%20CM2AW%20V1.01%20Allwinner%20.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "1111",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "infinity-cm2aw-v101-allwinner",
+      "description": "Infinity CM2AW V1.01 Allwinner Free Download \nWhat's new\nAdded SoC autodetect.\nSupports Mobile Phones and Tablets.\nSupports IoT devices.\nSupports Auto Head Units (Car Radio).\nSupported SoCs: A523, A527, T527, MR527 and H728.\nAdded eMMC flash chip health report.\nFormat/Reset Userdata.\nFRP reset.\nBootloader unlock/lock.\nDrivers can be installed manually from the\n/drivers/\ndirectory.My Testing\nI checked the v1.01 release details and the main change is the new Allwinner support. The supported SoCs are A523, A527, T527, MR527 and H728. The tool also has options for checking eMMC health, resetting userdata, FRP reset and bootloader lock or unlock. is very good for all users who was working on allwinner base devices. For drivers, the package includes a\n/drivers/\ndirectory and the release notes say to install them manually as per the provided instructions.",
+      "downloads": 0,
+      "link": "https://drive.proton.me/urls/9JQCHSCW5C#xNjPwiPgk9yE",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "Infinity CM2AW V1.01 Allwinner",
+          "urls": [
+            {
+              "url": "https://drive.proton.me/urls/9JQCHSCW5C#xNjPwiPgk9yE",
+              "password": "1111"
+            },
+            {
+              "url": "https://1024terabox.com/s/12kxo1ydKVvy7aKCLklcvkA",
+              "password": ""
+            },
+            {
+              "url": "https://transfer.it/t/hY1ActsnSDJK",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1789302230039,
+      "lastModified": 1789302230039
     }
   },
   "images": {
@@ -50925,7 +51005,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-12T04:53:55.506Z",
+    "createdAt": "2026-09-13T12:23:54.531Z",
     "version": "2.0",
     "sections": 4
   }
