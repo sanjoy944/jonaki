@@ -25033,7 +25033,7 @@
       ],
       "createdAt": 1781583114235,
       "description": "OLD Token: 1499c38f6765c0608fa573e972bea22e\n\nNEW Token :: a87f2e19c0b4d588e6129fa43c5b881d",
-      "downloads": 29,
+      "downloads": 35,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1789188825179,
@@ -37990,7 +37990,7 @@
       ],
       "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 438,
+      "downloads": 443,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1786246123501,
@@ -39285,7 +39285,7 @@
       ],
       "createdAt": 1787832568674,
       "description": "VNboards v1.2.63 Free Download Features\nNew users can install the software using VNboards_Setup.exe.\nThe installer allows you to choose the installation location.\nA Desktop shortcut is created during installation.\nThe app opens automatically after installation is completed.\nExisting users can update directly from the app using the Update button.\nVNboards_Update.zip is handled internally by the self-update system.\nImproved protection for board data.\nThe software can identify devices using multiple hardware signals.What's New (Changelog)\nUpdated VNboards to version v1.2.63.\nAdded stronger protection for board data.\nThe software can now identify a device using multiple hardware signals.\nThis helps prevent intentional attempts to download large amounts of board data again by using another account.\nThe protection does not affect normal software use.\nNo personal information is collected for this protection.\nOnly some hardware identifiers are used after one-way encryption.\n\nHow to Install\nDownload VNboards_Setup.exe if you are installing VNboards for the first time.\nRun the downloaded installer file.\nChoose the installation location when the installer asks.\nComplete the installation process.\nA Desktop shortcut will be created.\nThe application opens automatically after installation.\nIf VNboards is already installed, open the app and click Update instead of downloading the installer again.",
-      "downloads": 346,
+      "downloads": 352,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1788316325946,
@@ -39724,7 +39724,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2440,
+      "downloads": 2460,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -39925,7 +39925,7 @@
       ],
       "createdAt": 1788316068397,
       "description": "FixHexa Tool CraQk 365 days Free Download . FixHexa Tool Features\nMoto Flasher: Flash Motorola stock firmware using XML files.\nClean Flash: Option available in the Motorola flashing section.\nSafe Flash: Flash option available for supported Motorola firmware work.\nFix CID Dead: Motorola Moto Flasher option.\nReboot After Flash: Automatically reboot after the flashing process.\nFlash Log: View the flashing log and related information.\nPartition Info: Display partition information in the Moto Flasher section.\nMTK FRP: Remove FRP lock on MTK devices.\nMTK Bootloader Unlock: Unlock the bootloader on MTK devices.\nADB to Fastboot: Convert an ADB-connected device to Fastboot mode.\nSlot Switching: Set Slot A or Slot B.\nRead Info: Read available device information.\nGet Unlock Data: Get unlock data from supported devices.\nErase FRP: Erase FRP when the bootloader is open.\nOEM Relock: Relock the OEM bootloader option.\nBL Relock: Relock the bootloader.\nXiaomi Fastboot Flasher: Flash Xiaomi fastboot ROM using flash_all.bat.\nXiaomi Slot Options: Set Slot A or Slot B during supported operations.\nSkip modem_a/b: Skip the modem partitions when using the Xiaomi flasher.\nSkip CUST: Skip the CUST partition.\nSkip opcust: Skip the opcust partition.\nXiaomi Erase FRP: Erase FRP from the available Fastboot Flasher options.\nACC Menu: Xiaomi Account Tools with Android 14, 15, and 16 support listed.\nPartition Tools: Options for Persist, Cust, Opcust, and Modem.\nADB Commands: Reboot to Fastboot, Recovery, restart device, disable OTA update, and list ADB devices.\nFastboot Commands: Read device info, reboot device, reboot to Fastboot, erase FRP, DM-Verity Fix, and slot switching.\nAndroid Info Extract: Load partition or tag files for Samsung, Oppo / Realme, Vivo, and Moto.\nPreloader EMI: Load MediaTek preloader.bin to check compatible memory chips.\nChip Info: Search eMMC and UFS chip specifications.\nENG ROM Search: Search engineering ROMs by file name.\nFind ISP: Search ISP pinouts using Fastboot mode or model search.\nFind Dump: Search and locate dump files.\nDownloader: Download files through the built-in download manager.What's New in the Latest ISP Data Update\nThe latest FixHexa update adds fresh ISP data for a number of device models. The new entries use different methods depending on the model, including Layer Scratch, CPU Drill, and No CPU Drill.\n\nvivo V40 Pro / T3 Ultra: New Layer Scratch ISP data added.\nvivo X300 Pro: New Layer Scratch ISP data added.\nF33: New No CPU Drill ISP data added.\nRedmi 15A: New CPU Drill ISP data added.\nSamsung SM7150: New CPU Drill ISP data added.\nSamsung SM7435: New CPU Drill ISP data added.\nvivo T4 Ultra: New Layer Scratch ISP data added.\nPOCO X6 Pro 5G: New Layer Scratch ISP data added.\nSamsung Galaxy S26+: New No CPU Drill ISP data added.\nMore ISP data: The update also mentions many more newly added solutions.\n\nNew ISP Solutions in FixHexa\nThe new update is mainly focused on ISP data. Several models now have a listed ISP method that can be checked from the FixHexa Tool.\n\nFor some models, the new data is marked as Layer Scratch. Other entries use CPU Drill or No CPU Drill. The method depends on the device model listed in the updated data.\n\nThe update covers devices from different brands, including vivo, Samsung, Redmi, POCO, and F33. It also includes data for the Samsung Galaxy S26+ and vivo X300 Pro.How to Install FixHexa Tool\nStep 1: Extract the Tool\nFirst, download the FixHexa Tool archive named FixhexaTool_Free_GSMYOGESH.rar. Right-click the downloaded RAR file and select the extract option.\n\nYou can use 7-Zip or WinRAR to extract the file. When the password window appears, enter gsmyogesh and click OK.\n\nStep 2: Open Loader.exe\nAfter extraction, open the newly created FixHexa folder. Find Loader.exe, right-click it, and select Run as administrator.\n\nStep 3: Get the Free Activation Key\nWhen the FIXHEXA TOOL popup appears, click the GET FREE ACTIVATION KEY button. This will open the activation page in your web browser.\n\nScroll down until you find the Generate 10 Days Free Activation Key section. The tool provides a hardware ID that can be copied into the HWID field.\n\nStep 4: Generate the LicenseRight-click inside the ENTER YOUR 16-CHAR HWID box and select Paste. The copied hardware ID will be entered into the field.\n\nNow click GENERATE KEY NOW. Once the key is generated, select and copy the license key shown above the button.\n\nStep 5: Register the License\nReturn to the FIXHEXA TOOL popup. Find the Paste License Token field and paste the license key into it.\n\nClick REGISTER LICENSE. Click OK or wait for the process to finish until the tool shows Activated Successfully!\n\nStep 6: Login to FixHexa\nAfter activation, the main FixHexa login window will appear. Enter gsmyogesh in the USERNAME / EMAIL field and use the same value in the PASSWORD field.Click LOGIN. If the tool asks you to join Telegram, click Later to continue.",
-      "downloads": 165,
+      "downloads": 170,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788316068397,
@@ -40009,7 +40009,7 @@
       ],
       "createdAt": 1788586031489,
       "description": "HSD AIO TOOL v1.0.4 Cr@ckedInstallation and First Setup\nTo install HSD AIO Tool, first locate HSD_AIO_TOOL.exe on the desktop. Right-click the file and choose the option to run it as Administrator. Continue through the installer prompts and enable the desktop shortcut option when it appears.\n\nContinue with the installation until the setup is complete. On the final screen, uncheck Launch HSD_AIO_TOOL and then click Finish.\n\nAfter installation, open the new desktop shortcut. The HSD LOGIN screen will appear. Click SIGN UP and enter the registration details requested by the program, including Name, Phone Number, Email, and Password. Then click CREATE ACCOUNT.\n\nA referral pop-up appears after account creation. Click CONTINUE TO LOGIN to continue to the main application.\n\nTesting Different Brand Sections\nDuring the provided test, several brand sections were opened and different operations were attempted. On Infinix, the SMART 7 HD (X6516) model was selected and the Factory Reset option was used.\n\nOn Motorola, the G85 5G (XT2427) model was selected and an Erase FRP operation was attempted. On Oppo, the A3s (CPH1853) model was selected and Read Info / Boot Device was attempted.\n\nRealme was also checked using the C17 (RMX2101) model. Read Info and Backup Security were attempted during the test.\n\nThese operations did not complete because the tool returned the same loader-related error across the tested brand operations.\n\nServer Loader Error\nThe main issue observed during the test was a server loader download failure. When operations were started on Infinix, Motorola, Oppo, and Realme, the tool attempted to prepare a loader but could not download it.\n\nThe displayed message was:\n\n>> LOADER DOWNLOAD FAILED :- NOT AVAILABLE ON SERVER\n\nThe tool then displayed:\n\nOperation Cancelled. Loader preparation failed.\n\nThis happened during Factory Reset, Erase FRP, and Read Info attempts. Based on the provided test, these operations could not be completed because the required loader was reported as unavailable on the server.",
-      "downloads": 14,
+      "downloads": 15,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788586031489,
@@ -40045,7 +40045,7 @@
       ],
       "createdAt": 1788689398003,
       "description": "GSM Family Tool v1.1.8 Free Download Brand and Chipset Support\nGSM Family Tool has separate tabs for several mobile brands and platforms. Samsung includes universal support and a list of specific Galaxy models. Huawei has its own section with P, Mate, Nova, Y, and Honor devices. SPD/Unisoc support is listed by chipset, while Motorola also has its own service section.\n\nSamsung\nHuawei\nSPD / Unisoc\nMotorola\nXiaomi\nOppo\nVivo\nRealme\nInfinix\nTecno\nMediaTek\nSamsung Support\nThe Samsung section includes universal Samsung support along with specific Galaxy models. The listed models include Galaxy A03, A12, A13, A14, A15, A24, A34, A54, A71, A72, A21s, A31, A32, A51, A52s, S20, and S21.\n\nHuawei Support\nThe Huawei section includes universal Huawei support and several device families. The listed P series covers P20 to P40 Pro, while the Mate section covers Mate 20 to Mate 40 Pro. Nova 5T, Nova 7i, Nova 9, Y6 2019, Y7a, Y9 Prime, and Honor 8X are also listed.SPD / Unisoc Chipsets\nThe SPD / Unisoc section lists support for SC9863A, T606, T610, T612, T616, and T700 chipsets.\n\nMotorola Support\nThe Motorola section includes Universal Moto support and Motorola XT2503-4 support.\n\nSamsung Tools\nThe Samsung section contains general device operations and a service area. The general options include KG Remove ADB, Read Device Info, Activate ADB, and different reboot options.\n\nKG Remove ADB\nRead Device Info\nActivate ADB\nReboot System\nReboot Recovery\nReboot Download\nDNS Credit Service\nBuy Credit\nGenerate DNS\nHuawei Tools\nHuawei has options for reading device information through different connection modes. The flash section also includes a Firmware Flasher with slots for Base, Cust, and Preload files.\n\nRead Device Info via ADB\nRead Device Info via Fastboot\nRead Device Info via Huawei USB Update Mode\nFirmware Flasher\nBase partition file slot\nCust partition file slot\nPreload partition file slot\nRepartition option\nXiaomi Tools\nThe Xiaomi section includes two listed general operations. Smart Patch is available along with an ADB option for removing Mi.Smart Patch\nADB Remove Mi\nOppo Tools\nThe Oppo section contains ADB and Oplusreserve patch options. The listed functions include ADB Remove and patches for Oplusreserve2 and Oplusreserve3.\n\nADB Remove\nPatch Oplusreserve2\nPatch Oplusreserve3\nSPD / Unisoc Tools\nThe SPD / Unisoc section has several groups for general operations, flashing, backup and restore, diagnostics, and package management. The General section includes device detection, information reading, factory reset, safe format, GPT reading, NV backup, dump reading, bootloader options, and device disconnect.\n\nDetect Device\nRead Info\nFactory Reset\nSafe Format\nRead GPT\nBackup NV\nRead Dump\nFRP Remove\nUnlock Bootloader\nRelock Bootloader\nDisconnect Device\nSPD / Unisoc Flash\nThe flash section works with PAC files and automatically identifies the listed FDL1 and FDL2 partitions.\n\nFlash PAC Files\nAutomatic FDL1 Identification\nAutomatic FDL2 Identification\nBackup and Restore\nThe Backup / Restore section contains options to search, read, write, and erase specific partitions. The supplied information also mentions loading .bin image files for these operations.\n\nSearch Partition\nRead Partition\nWrite Partition\nErase Partition\nLoad .bin Image\nDiagnostic Tools\nThe Diagnostic section includes Super APK Remover. The supplied details describe an Android dynamic-partition/EROFS editor that can scan, patch misc data, and remove specific APKs.\n\nPackage Management\nThe Advanced section includes package management controls for APK files. These options cover installing, uninstalling, disabling, enabling, backing up, and restoring APKs.\n\nInstall APK\nUninstall APK\nDisable APK\nEnable APK\nBackup APK\nRestore APK\nMediaTek META Service\nThe MediaTek section is focused on META Mode operations. It includes options to enter META Mode, perform the listed META services, and exit META Mode when the operation is finished.\n\nMETA Factory Reset\nMETA Reset FRP\nMETA Patch\nBoot in META\nExit META Mode\nMotorola Tools\nThe Motorola section includes bootloader, patching, ADB, and flashing options. The Fastboot Flasher supports flashfile.xml, servicefile.xml, and individual .img partition files.\n\nBootloader Unlock\nPatch Misc\nPatch FRP\nADB Process\nADB Activate\nFastboot Flasher\nflashfile.xml Support\nservicefile.xml Support\nSingle .img Partition Support\nApplication Navigation\nThe main application navigation contains several sections for moving between different parts of the software. The listed top navigation items are Dashboard, Utilities, Solution & File, Profile, and Settings.\n\nDashboard\nUtilities\nSolution & File\nProfile\nSettings\nLive Status Panel\nThe interface also has a live status area on the right side. It contains a Log Console for application messages, connection information for USB or COM Port, CPU usage monitoring, license information, and a progress bar.\n\nReal-time Log Console\nUSB / COM Port Connection Status\nCPU Usage Monitor\nPremium License Type\nProgress Bar\nHow to Install GSM Family Tool v1.1.8\nThe supplied installation process starts with the GSM Family Tool RAR archive on the Windows desktop. The archive needs to be extracted before opening the program.\n\nFind the GSM Family Tool.rar archive on the desktop.\nRight-click the archive and select Extract to “GSM Family Tool”.\nWhen the password window appears, enter Royal123@ and click OK.\nAfter extraction finishes, open the newly created GSM Family Tool folder.\nInside the folder, find Loader.exe.\nRight-click Loader.exe and select Open.\nThe GSM Family Tool License Manager window will appear with the credentials already filled in.\nClick the purple LOGIN button to continue.\nIf Windows Security Alert appears, click Allow access to allow the application through the network.\nWait for the main GSM Family Tool dashboard to load.",
-      "downloads": 96,
+      "downloads": 99,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788689398003,
@@ -40593,7 +40593,7 @@
       ],
       "createdAt": 1788919533164,
       "description": "MTK AI Agent v2.0 Download Features MTK AI Agent\n58 intents covering the MTKClient CLI command set\n48 adapter methods with direct Python API calls\nNatural language support for English and Malayalam\n70+ Malayalam phrase mappings\nSafety confirmation for dangerous operations\nConversation memory with workflow tracking\nError analysis and device fingerprinting\nSingle-file architecture with mtk_ai_single.py\nPre-built PyInstaller EXE with bundled DLLs\nDevice detection and device information\nGPT and partition read/write operations\nFull flash and partition backup commands\nWipe and FRP commands\nDA mode tools\nMETA, payload and Stage commands\nRPMB read and write support\nMemory dump and BROM dump commands\nRepair workflows for dead, bootloop and unbrick issues\nBootloader unlock and lock commands\n\nWhat's New in MTK AI Agent v2.0.0\nAdded wipe\nAdded frp\nAdded log\nAdded peek\nAdded stage\nAdded plstage\nAdded rpmb_read\nAdded rpmb_write\nAdded memdump\nAdded dumpbrom\nAdded fs_mount\nAdded da_vbmeta\nAdded da_efuse\nAdded da_keyserver\nAdded nvitem\nAdded patchmodem\nAdded meta2\nAdded logdumpHow to Install\nDownload the MTK AI Agent files from the provided project source.\nIf you are using the source version, make sure Python 3.8 or newer is installed.\nInstall the required MTK USB drivers.\nIf you are using the pre-built EXE, Python is not required.\nRun MTK-AI-Agent.exe to start the tool.\nUse the available commands from the interactive mode.",
-      "downloads": 37,
+      "downloads": 39,
       "folderId": "f_mq90y5hx_pgeh8l0ya",
       "isLink": false,
       "lastModified": 1788933084159,
@@ -40730,7 +40730,7 @@
       ],
       "createdAt": 1789297861373,
       "description": "Samsung PIT to Qualcomm XML Tool Free Download\nFeatures\nConvert Samsung firmware information into Qualcomm XML.\nUse GPT dumps from the device or a dump during the XML conversion.\nUse a PIT file to get accurate partition names.\nExtract BL, AP, CP and CSC files from Samsung firmware.\nDecompress the extracted firmware files, including LZ4 files.\nCreate XML files with partition addresses and names from the firmware information.\nFlash Device section with UFS and eMMC memory type options.\nSupport for Firehose loader, QSaharaServer.exe and fh_loader.exe.\nWork with rawprogram XML files and extracted firmware folders.\nUse a sector size of 4096 bytes.\nHow to Install\nDownload the tool file from the link given below.\nExtract the downloaded archive if it is provided in a compressed format.\nOpen the extracted tool folder.\nRun the tool application.\nUse the Convert to XML, Flash Device or Extract All section as needed.",
-      "downloads": 1,
+      "downloads": 6,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1789297861373,
@@ -40804,44 +40804,116 @@
       "unrarPassword": "1111"
     },
     "f_mu0kpt7h_4bgh2ju93": {
-      "name": "ON FIRE TOOL v2.9 Free Cra#CK",
-      "folderId": "f_mpajwfy2_5pvx4efm9",
-      "size": "280.2MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHS0ijeh8u88rkfgLaDb-K-zDv5J7zQgFee1ARhnFch5b48jkaTl77sMAKuAHsvjTsRf3kH22k5jC0VFnpBjCI7FVJuxzpmYgtwJLcMZGwmuu4qSNAXRceK68kel6AihtG4JhDmc9IjBa3WltXk0WLjh0AizWVrQni1YGgkrp4lPr5tnEmig-RJzWFYeg/w640-h426/ON%20FIRE%20TOOL%20v2.9%20Free%20Cra%23CK.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHS0ijeh8u88rkfgLaDb-K-zDv5J7zQgFee1ARhnFch5b48jkaTl77sMAKuAHsvjTsRf3kH22k5jC0VFnpBjCI7FVJuxzpmYgtwJLcMZGwmuu4qSNAXRceK68kel6AihtG4JhDmc9IjBa3WltXk0WLjh0AizWVrQni1YGgkrp4lPr5tnEmig-RJzWFYeg/w640-h426/ON%20FIRE%20TOOL%20v2.9%20Free%20Cra%23CK.jpg"
       ],
-      "password": "",
-      "unrarPassword": "gsmyogesh.com",
-      "loginUsername": "gsmyogesh@free.com",
-      "loginPassword": "gsmyogesh",
-      "publishUrl": "on-fire-tool-v29-free-crack",
+      "createdAt": 1789349876765,
       "description": "ON FIRE TOOL v2.9 Free Cra#CK Download\nON FIRE TOOL v2.9 Features\nON FIRE TOOL includes different sections for Android servicing and device management. Below is the list of the operations mentioned for this version.\n\nADB Services & Management\nRead Device Info – Check Model, Serial Number, IMEI, OS Version, Country Code, Operator MCC/MNC, and Lock Status.\nTransfer File ADB – Transfer files through ADB.\nInstall APK ADB – Install APK files using ADB.\nDelete Virus APK / Read Packages – Read installed packages and delete virus APK.\nPackage Manager PRO – Scan, search, filter risky or user apps, and uninstall packages.\nFRP ADB Mode (12-14) Generic.\nFRP Google Account OS 16.\nEnable ADB 2026 With QR / Quick Share.\nInstall Apps Store.\nMi & Xiaomi Operations\nDisabled Mi Account.\nErase Persist (Xiaomi Mi Account).\nErase FRP + Userdata + Persist Xiaomi (Full Clean).\nXiaomi / Honor / Huawei – Delete Google Play + Aurora.\nIT Xiaomi / Honor / Huawei – Full Bypass + TestDPC.\nSamsung Operations\nDisabled CID Manager Samsung.\nKG Locked Bypass OS 14-15 DNS iDevice.\nKG Locked All Patch OS 14 (Latest Patches).\nKG Locked Bypass OS 13-14 Active KG.\nKG Locked Bypass OS 12-14 Locked.\nCreate DNS KG LOCKED (Samsung Knox Guard Bypass).\nMotorola Operations\nMotorola Fastboot Flash Tool – Model Selection, Download ROM, Load XML, Custom Partition Flashing, and Auto Flash.\nFastboot Utilities – Getvar All, Erase Data, and Reboot.\nMotorola MDM Bypass.\nMotorola Carrier MDM Remove.\nGenerate DNS OEM GRIS – MDM MOTOROLA WHITE SCREEN.\nGenerate DNS MOTOROLA MDM (All Versions).\nMediaTek (MTK) & Chipset Operations\nErase Userdata (Factory Reset).\nErase FRP + Userdata.\nMTK Security Bypass.\nSPD Device Plugin Remove-Bypass.\nInfinix / Tecno Security Plugin Remove.\nMDM & Carrier Bypass\nMDM_Bypass_SecPlugin.\nMDM Bypass Kiosko & ATT.\nClaro / Telcel Carrier MDM Removal.\nUniversal MDM Remover.\nBlack Screen Solution.\nPlay Store MDM Fix.\nNokia 2024 MDM Bypass.\nNokia Legacy MDM Remove.\nMDM Relock Protection.\nIT Admin Android 15 (Work Profile Method).\nRemove Payjoy (Financial Tracking Restriction Bypass).\nRemove Claro / Telcel MDM (Sitic).\nHonor / Other ATT & KIOSKO MDM Bypass.\nDNS & Network Control Manager v2.0\nPre-built DNS Generation Profiles – Samsung KG, KIOSKO/IT 2026, MDM/Claro, Motorola White Screen, and Payjoy.\nCustom DNS Profile Builder – Add custom domains using line, comma, or mixed formats.\nApply DNS directly to connected device via ADB.\nQR Anti Play Protect – Block DNS.\nBlock Factory Reset DNS Changes.\nON FIRE App & Device Control\nInstall / Uninstall ON FIRE APP – Manages Device Owner permissions.\nInstall NetPatch VPN – Firewall Network Control.\nApple / iOS Operations\nAutoremove iCloud Apple ID & Password.\nHow to Install ON FIRE TOOL v2.9 Free\nThe installation file comes in a RAR archive. First, extract the archive, then open the setup file and complete the installation. Follow the steps below.\n\nStep 1: Extract the Downloaded Archive\nFind the downloaded file named ONFIRETOOL_V2.9_Free.rar on your computer. Right-click the file and select Extract to “ONFIRETOOL_V2.9_Free”.\n\nAfter extraction, a new folder named ONFIRETOOL_V2.9_Free will appear in the same location.\nStep 2: Open the Setup Installer\nOpen the extracted folder and find the file named ONFIRETOOL.exe. Double-click this file to start the installation wizard.\n\nThe setup window titled ON FIRE TOOL 2.9 Installation will appear.\n\nStep 3: Enter the Password and Install\nClick Next on the welcome screen. When the password field appears, enter:\n\ngsmyogesh.com\n\nClick Next again. Make sure Create a Desktop icon is checked, then click Install.\n\nWait for the green progress bar to complete. The installer will show the installation progress.\n\nStep 4: Finish the Installation\nWhen the setup is complete, uncheck Visit product web site. Keep Launch ON FIRE TOOL checked and click Finish.\n\nThe setup window will close, and the ON FIRE TOOL launcher will open automatically.\n\nStep 5: Log Into ON FIRE TOOL\nWhen the Welcome to On Fire! popup appears, click OK.\n\nOn the login window, enter your account email and password. The example details provided for the login are:\n\nEmail: gsmyogesh@free.com\nPassword: gsmyogesh\nClick LOGIN after entering your details. The authorization log will verify the information and open the main dashboard.\n\nDownload ON FIRE TOOL v2.9 Free\nON FIRE TOOL v2.9 Free comes with the installation file ONFIRETOOL.exe inside the downloaded archive. Extract the RAR file and follow the installation steps given above.\n\nUse the download button below to get the software.\n\nDownload ON FIRE TOOL v2.9 Free",
-      "downloads": 0,
-      "link": "https://1drv.ms/u/c/362938347b225930/IQCEGSYzuC8yRpk79Tmtw4q_AbWIK0D8FAeZOqoEGE-jAu4?e=PZRiSS%20%20",
+      "downloads": 45,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "published": true,
+      "lastModified": 1789349876765,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQCEGSYzuC8yRpk79Tmtw4q_AbWIK0D8FAeZOqoEGE-jAu4?e=PZRiSS%20%20",
       "links": [
         {
           "label": "ON FIRE TOOL v2.9 Free Cra#CK",
           "urls": [
             {
-              "url": "https://1drv.ms/u/c/362938347b225930/IQCEGSYzuC8yRpk79Tmtw4q_AbWIK0D8FAeZOqoEGE-jAu4?e=PZRiSS%20%20",
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQCEGSYzuC8yRpk79Tmtw4q_AbWIK0D8FAeZOqoEGE-jAu4?e=PZRiSS%20%20"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/G9w3XLwK#1rrd1fkeaYxRHiFnhIyhaJtU70ydfnR6ezm6v9RgZ0o"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1f05IcQaKY0txfdhpKnO_UA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "gsmyogesh",
+      "loginUsername": "gsmyogesh@free.com",
+      "name": "ON FIRE TOOL v2.9 Free Cra#CK",
+      "password": "",
+      "publishUrl": "on-fire-tool-v29-free-crack",
+      "published": true,
+      "size": "280.2MB",
+      "unrarPassword": "gsmyogesh.com"
+    },
+    "f_mu21upmz_0gm539j85": {
+      "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/09/image-8-1024x683.png",
+      "covers": [
+        "https://gsmyogesh.com/wp-content/uploads/2026/09/image-8-1024x683.png"
+      ],
+      "createdAt": 1789439125067,
+      "description": "What I Found in the Screenshot\nThe supplied screenshot shows IPSW to iBoot reading an Apple firmware file. The log reports the following information:\n\niOS version: 18.7.10\nBuild: 22H374\nDevice: iPhone11,2\nBoot loader: iBoot-11881.140.96.700.4\nRead from: image\nThe log also shows that the tool opened the IPSW, read BuildManifest.plist, and successfully read the boot image. The result table contains columns for Firmware, Device, iOS, Build, Boot loader, and Read from.\n\nUsing the Program\nSelect the IPSW file – Click Browse and choose one or more Apple firmware files.\nOr drag the files – You can also drag IPSW files onto the application window.\nClick Read firmware – The program starts reading the selected files and displays its progress in the log.\nCheck the result – The table shows the firmware name, device, iOS version, build, boot loader, and source.\nCopy the information – Select a row and use Copy results, or double-click a single row to copy only the boot loader tag.\nThe source code also shows that the Read firmware button is disabled while the operation is running. The Browse, Copy, and Clear List controls are handled in the same busy-state logic.",
+      "downloads": 0,
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "isLink": false,
+      "lastModified": 1789439736992,
+      "link": "https://github.com/sophada/IPSW-to-iBoot",
+      "links": [
+        {
+          "label": "IPSW to iBoot",
+          "urls": [
+            {
+              "url": "https://github.com/sophada/IPSW-to-iBoot",
               "password": ""
             },
             {
-              "url": "https://mega.nz/file/G9w3XLwK#1rrd1fkeaYxRHiFnhIyhaJtU70ydfnR6ezm6v9RgZ0o",
-              "password": ""
-            },
-            {
-              "url": "https://1024terabox.com/s/1f05IcQaKY0txfdhpKnO_UA",
+              "url": "https://1024terabox.com/s/1_hcZx99Ng5pxDcoCz7-M1A",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1789349876765,
-      "lastModified": 1789349876765
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "IPSW to iBoot",
+      "password": "",
+      "publishUrl": "ipsw-to-iboot",
+      "published": true,
+      "size": "123kb",
+      "unrarPassword": ""
+    },
+    "f_mu226z94_n2szh9hir": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirRZc4Oecrete7Rwcft_7MwenbTAlZCX2AUZVt9CzVDeO3Z0mTEa9vD-Dam4E9rMMM-iYWTphWKZgAeIwV555HUG_gsLjv-KStHQ560PnhzR1dBSPQxARpAzmTjFyaDVAO4KeyM3wtFvudOY8sYt2bp6awYgy_0eDbZUoSsoFp_A1XsUPEuOMuVftqlxpl/w640-h298/Realme%20Bloatware%20Remover%20V1.0%20.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirRZc4Oecrete7Rwcft_7MwenbTAlZCX2AUZVt9CzVDeO3Z0mTEa9vD-Dam4E9rMMM-iYWTphWKZgAeIwV555HUG_gsLjv-KStHQ560PnhzR1dBSPQxARpAzmTjFyaDVAO4KeyM3wtFvudOY8sYt2bp6awYgy_0eDbZUoSsoFp_A1XsUPEuOMuVftqlxpl/w640-h298/Realme%20Bloatware%20Remover%20V1.0%20.png"
+      ],
+      "createdAt": 1789439697400,
+      "description": "Realme Bloatware Remover V1.0 Free download\nMain Features\nHere is what you get inside the app, screen by screen.\nDashboard – Shows your connected phone’s brand, model, Android version, and build number. It also shows how many apps you removed or failed to remove in the current session.\nAuto Debloat – A checklist of 94 known bloatware packages. You can search by name, and the list is grouped into categories like ColorOS/HeyTap/Oppo system apps, Realme apps, Facebook, Google apps, and games.\nManual Tools – If you know the exact package name of an app that is not in the list, you can type it in and remove or restore it directly.\nRestore – Brings back apps you removed earlier. You can restore just the important system apps, or restore everything listed in a backup file.\nApp Market – A separate switch to disable or re-enable the Oppo/HeyTap App Market on its own.\nLogs – A live log window that shows every action the app takes, line by line, while it is running.\nHow The Auto Debloat List Works\nWhen you open Auto Debloat, you see every package listed with its app name underneath. Some packages are also used by important system functions, such as ColorOS Note or ColorOS Security Keyboard. Those are marked with a warning badge and left unchecked by default, so you do not remove something your phone actually needs by mistake.\n\nOnce you press start, the app goes through your selected list one by one. Next to each app you can watch its status change to Removed, Disabled, Skipped, or Failed. A progress bar at the bottom fills up as it works through the list, and the window stays responsive the whole time.\n\nRestoring Apps\nIf you remove something by accident, or simply change your mind later, the Restore screen has two options. The first restores the 17 apps marked as important system apps in one click. The second reads a backup text file, which the app creates automatically every time you remove something, and restores every package listed inside it.",
+      "downloads": 0,
+      "folderId": "f_mp6sjxdd_c186cvizt",
+      "isLink": false,
+      "lastModified": 1789439697400,
+      "link": "https://mega.nz/file/u9ZEFBbZ#a2xVGmaWjmKVRyn49vuEdfsj33LPVacKn8vss-RLhy4",
+      "links": [
+        {
+          "label": "Realme Bloatware Remover V1.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/u9ZEFBbZ#a2xVGmaWjmKVRyn49vuEdfsj33LPVacKn8vss-RLhy4"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1kVOjIX-lCSVKh7LXZ_aqPA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Realme Bloatware Remover V1.0",
+      "password": "",
+      "publishUrl": "realme-bloatware-remover-v10",
+      "published": true,
+      "size": "23.7MB",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -51045,7 +51117,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-14T01:38:08.684Z",
+    "createdAt": "2026-09-15T02:35:45.591Z",
     "version": "2.0",
     "sections": 4
   }
