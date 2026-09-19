@@ -38151,7 +38151,7 @@
       ],
       "createdAt": 1786619785023,
       "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
-      "downloads": 66,
+      "downloads": 71,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786619785023,
@@ -39344,7 +39344,7 @@
       ],
       "createdAt": 1787840407838,
       "description": "Haafedk iCloud A12+ V15 Free CRACK Download (No Login Required)\nHaafedk iCloud A12+ V15 Features\nDevice Information\nBefore using other options, the tool includes a Read Device function. According to the provided feature list, it can show several device details.\n\nRead Device: Reads the connected device information.\nSerial Number: Displays the device serial number.\nECID: Shows the ECID information.\nIMEI: Displays the IMEI.\nUDID: Shows the UDID.\nMode: Displays the current device mode.\niOS Version: Shows the installed iOS version.\nProduct Type: Displays the device product type.\nBuild: Shows the build information.\nJailbreak Status: Displays the jailbreak status.\nActivation Status: Shows the activation status.\nRegion: Displays the device region.\nBypass Options\nThe V15 feature list includes several Hello Bypass and MDM bypass options. The requirements mentioned with each option should be checked before trying to use them.\n\nHello Bypass A12/A13: Listed for A12 and A13 devices.\nHello Bypass 4S – 17 Pro Max: This option is listed as requiring WiFi.\nHello Bypass iPhone – iPad: Listed with a jailbreak requirement.\nHello Bypass iOS 12 – 14: Also listed as requiring jailbreak access.\nBypass MDM Old: An option for the old MDM bypass method.\nBypass MDM New: An option for the new MDM bypass method.\nDevice Operations\nA few device-related operations are also included in the provided list.Read Device: Used to read device details.\nFix Drivers: An option related to drivers.\nWin Test Mode: A Windows Test Mode option.\nPatcher Settings\nThe patcher section includes three listed options.\n\nAdd MobileGestalt: An option for adding MobileGestalt.\nSupported Devices: Lets you check the listed supported devices section.\nChange Serial: An option related to changing the serial.\nOther Bypass Settings\nThere are also a few toggle-style options in the feature list.\n\nBlock OTA: An option related to blocking OTA.\nSkip Setup: An option for skipping setup.\nDisable Factory Reset: An option related to disabling factory reset.\nIncluded Tools\nThe software also lists two extra tools.\n\nDevice Manager: Opens the Device Manager tool.\nWinRa1n Jailbreak Tool: The WinRa1n Jailbreak Tool is included in the listed tools section.\niCloud Tools\nTwo iCloud-related options are mentioned in the V15 feature list.\n\nFix iCloud Login: An option related to fixing iCloud login.\nEnable Factory Reset: An option for enabling factory reset.\nInstallation Steps\nExtract the downloaded setup archive to a folder on your computer.\nOpen the extracted folder and run the setup file, such as HAAFEDK_A12_SETUP.exe.\nIf Windows Defender SmartScreen stops the application from opening, select More info and then choose Run anyway.\nContinue through the setup wizard and select the installation folder. The provided instructions mention C:\\Haafedk-iCloud-a12 as the usual default location.\nIf you want a shortcut on your desktop, select the option for creating one.\nClick Install and wait for the setup process to finish.\nWindows Defender may flag the software during installation. The provided instructions say that installation can be interrupted in this situation.\nIf you choose to change Windows Security settings, do so carefully. Temporarily disabling protections can create security risks, so this should only be considered when you fully trust the software source.\nAfter installation is complete, close the setup wizard.\nOpen the installation folder or use the desktop shortcut to start Haafedk A12.exe.\nThe provided instructions mention a cracked login button at the login screen for bypassing the credentials and opening the main dashboard.\nDownload Haafedk iCloud A12+ V15\nThe available information identifies this version as V15. Before downloading or installing any software, make sure you trust the source and understand the security risks mentioned in the installation instructions.",
-      "downloads": 113,
+      "downloads": 117,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787881365705,
@@ -39737,7 +39737,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2528,
+      "downloads": 2531,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -40823,7 +40823,7 @@
       ],
       "createdAt": 1789349876765,
       "description": "ON FIRE TOOL v2.9 Free Cra#CK Download\nON FIRE TOOL v2.9 Features\nON FIRE TOOL includes different sections for Android servicing and device management. Below is the list of the operations mentioned for this version.\n\nADB Services & Management\nRead Device Info – Check Model, Serial Number, IMEI, OS Version, Country Code, Operator MCC/MNC, and Lock Status.\nTransfer File ADB – Transfer files through ADB.\nInstall APK ADB – Install APK files using ADB.\nDelete Virus APK / Read Packages – Read installed packages and delete virus APK.\nPackage Manager PRO – Scan, search, filter risky or user apps, and uninstall packages.\nFRP ADB Mode (12-14) Generic.\nFRP Google Account OS 16.\nEnable ADB 2026 With QR / Quick Share.\nInstall Apps Store.\nMi & Xiaomi Operations\nDisabled Mi Account.\nErase Persist (Xiaomi Mi Account).\nErase FRP + Userdata + Persist Xiaomi (Full Clean).\nXiaomi / Honor / Huawei – Delete Google Play + Aurora.\nIT Xiaomi / Honor / Huawei – Full Bypass + TestDPC.\nSamsung Operations\nDisabled CID Manager Samsung.\nKG Locked Bypass OS 14-15 DNS iDevice.\nKG Locked All Patch OS 14 (Latest Patches).\nKG Locked Bypass OS 13-14 Active KG.\nKG Locked Bypass OS 12-14 Locked.\nCreate DNS KG LOCKED (Samsung Knox Guard Bypass).\nMotorola Operations\nMotorola Fastboot Flash Tool – Model Selection, Download ROM, Load XML, Custom Partition Flashing, and Auto Flash.\nFastboot Utilities – Getvar All, Erase Data, and Reboot.\nMotorola MDM Bypass.\nMotorola Carrier MDM Remove.\nGenerate DNS OEM GRIS – MDM MOTOROLA WHITE SCREEN.\nGenerate DNS MOTOROLA MDM (All Versions).\nMediaTek (MTK) & Chipset Operations\nErase Userdata (Factory Reset).\nErase FRP + Userdata.\nMTK Security Bypass.\nSPD Device Plugin Remove-Bypass.\nInfinix / Tecno Security Plugin Remove.\nMDM & Carrier Bypass\nMDM_Bypass_SecPlugin.\nMDM Bypass Kiosko & ATT.\nClaro / Telcel Carrier MDM Removal.\nUniversal MDM Remover.\nBlack Screen Solution.\nPlay Store MDM Fix.\nNokia 2024 MDM Bypass.\nNokia Legacy MDM Remove.\nMDM Relock Protection.\nIT Admin Android 15 (Work Profile Method).\nRemove Payjoy (Financial Tracking Restriction Bypass).\nRemove Claro / Telcel MDM (Sitic).\nHonor / Other ATT & KIOSKO MDM Bypass.\nDNS & Network Control Manager v2.0\nPre-built DNS Generation Profiles – Samsung KG, KIOSKO/IT 2026, MDM/Claro, Motorola White Screen, and Payjoy.\nCustom DNS Profile Builder – Add custom domains using line, comma, or mixed formats.\nApply DNS directly to connected device via ADB.\nQR Anti Play Protect – Block DNS.\nBlock Factory Reset DNS Changes.\nON FIRE App & Device Control\nInstall / Uninstall ON FIRE APP – Manages Device Owner permissions.\nInstall NetPatch VPN – Firewall Network Control.\nApple / iOS Operations\nAutoremove iCloud Apple ID & Password.\nHow to Install ON FIRE TOOL v2.9 Free\nThe installation file comes in a RAR archive. First, extract the archive, then open the setup file and complete the installation. Follow the steps below.\n\nStep 1: Extract the Downloaded Archive\nFind the downloaded file named ONFIRETOOL_V2.9_Free.rar on your computer. Right-click the file and select Extract to “ONFIRETOOL_V2.9_Free”.\n\nAfter extraction, a new folder named ONFIRETOOL_V2.9_Free will appear in the same location.\nStep 2: Open the Setup Installer\nOpen the extracted folder and find the file named ONFIRETOOL.exe. Double-click this file to start the installation wizard.\n\nThe setup window titled ON FIRE TOOL 2.9 Installation will appear.\n\nStep 3: Enter the Password and Install\nClick Next on the welcome screen. When the password field appears, enter:\n\ngsmyogesh.com\n\nClick Next again. Make sure Create a Desktop icon is checked, then click Install.\n\nWait for the green progress bar to complete. The installer will show the installation progress.\n\nStep 4: Finish the Installation\nWhen the setup is complete, uncheck Visit product web site. Keep Launch ON FIRE TOOL checked and click Finish.\n\nThe setup window will close, and the ON FIRE TOOL launcher will open automatically.\n\nStep 5: Log Into ON FIRE TOOL\nWhen the Welcome to On Fire! popup appears, click OK.\n\nOn the login window, enter your account email and password. The example details provided for the login are:\n\nEmail: gsmyogesh@free.com\nPassword: gsmyogesh\nClick LOGIN after entering your details. The authorization log will verify the information and open the main dashboard.\n\nDownload ON FIRE TOOL v2.9 Free\nON FIRE TOOL v2.9 Free comes with the installation file ONFIRETOOL.exe inside the downloaded archive. Extract the RAR file and follow the installation steps given above.\n\nUse the download button below to get the software.\n\nDownload ON FIRE TOOL v2.9 Free",
-      "downloads": 103,
+      "downloads": 108,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1789349876765,
@@ -41311,19 +41311,19 @@
       "downloads": 0,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
-      "lastModified": 1789739148716,
+      "lastModified": 1789786760676,
       "link": "https://www.mediafire.com/file/gs2bvko95wj9ep8/Unlock+Tool+Latest+BY+GCT_Team.rar/file",
       "links": [
         {
           "label": "Unlock Tool OFFLINE BY GCT_Team.rar",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/gs2bvko95wj9ep8/Unlock+Tool+Latest+BY+GCT_Team.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/gs2bvko95wj9ep8/Unlock+Tool+Latest+BY+GCT_Team.rar/file"
             },
             {
-              "url": "https://drive.google.com/file/d/1C0gA1r8fOPKZQKYlYRx819B8KSoYzmvs/view?usp=sharing",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1C0gA1r8fOPKZQKYlYRx819B8KSoYzmvs/view?usp=sharing"
             }
           ]
         },
@@ -41331,12 +41331,12 @@
           "label": "Activation Link",
           "urls": [
             {
-              "url": "https://api.whatsapp.com/send/?phone=923000756577&text&type=phone_number&app_absent=0",
-              "password": ""
+              "password": "",
+              "url": "https://api.whatsapp.com/send/?phone=923000756577&text&type=phone_number&app_absent=0"
             },
             {
-              "url": "https://www.facebook.com/groups/1514640598580985",
-              "password": ""
+              "password": "",
+              "url": "https://www.facebook.com/groups/1514640598580985"
             }
           ]
         }
@@ -41344,11 +41344,91 @@
       "loginPassword": "",
       "loginUsername": "",
       "name": "Unlock Tool OFFLINE BY GCT_Team",
-      "password": "1234",
+      "password": "",
       "publishUrl": "unlock-tool-offline-by-gct_team",
       "published": true,
       "size": "3.69gb",
       "unrarPassword": ""
+    },
+    "f_mu7stehx_ob4l2ea3y": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZGsY-AY4kKSrAXoTRX5djpclXKkYjtzJ8Ip57npksHL38ZJEXtUn34OHhx_AUyfr5bXlhf7yXwi2UuNQSoQULrWnrfIiNW4JjXj1ddHAg0DHgyjN5KGkoCFDLSRiZsB5GbbzhTpOMYmqpyxCNNPzefLIrUI8BNubb1ih1FBHXk-AUK4fRQoISP1kfChuM/w640-h426/Valhalla%20Unlock%20Tool.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZGsY-AY4kKSrAXoTRX5djpclXKkYjtzJ8Ip57npksHL38ZJEXtUn34OHhx_AUyfr5bXlhf7yXwi2UuNQSoQULrWnrfIiNW4JjXj1ddHAg0DHgyjN5KGkoCFDLSRiZsB5GbbzhTpOMYmqpyxCNNPzefLIrUI8BNubb1ih1FBHXk-AUK4fRQoISP1kfChuM/w640-h426/Valhalla%20Unlock%20Tool.png"
+      ],
+      "createdAt": 1789786744485,
+      "description": "Valhalla Unlock Tool Free Download  What Valhalla Unlock Tool Does\nThe main purpose of Valhalla is to work with Motorola phones using MediaTek chipsets. The program has separate options for bootloader unlocking and experimental FRP erase.\n\nThe bootloader unlock option performs a factory reset. The FRP option is separate and attempts to erase FRP using the Val Protocol erase-serial method.\n\nThere is also a combined mode that performs bootloader unlocking and FRP bypass. The tool does not simply report a successful command as proof that FRP was removed. It checks the device’s frp-state and expects it to no longer show protected.\n\nThis is important because the project information specifically says that a successful fastboot command does not always mean that FRP has actually been erased.\n\nOperation Modes Visible in the Tool\nWhen I checked the supplied screenshot, the main window showed three operation modes. These are presented as radio button options under the Select Operation Mode section.\n\nBootloader Unlock (Factory Reset) – Used for the bootloader unlock workflow and includes a factory reset.\nFRP Bypass Only (No Factory Reset) – The interface lists this as an FRP-only mode without a factory reset.\nBootloader Unlock + FRP Bypass – Combines the bootloader unlock and FRP workflow.\nThe project documentation also warns that the FRP erase process itself is destructive. The erase-only flow targets device partitions related to metadata and user data, while Valhalla rewrites md_udc to frp. Because of this, the FRP mode should be treated as a factory reset and data erase.\n\nSimple Interface\nThe supplied screenshot shows a dark interface with the Valhalla Unlock Tool name at the top. It also displays the creator name, the Val Protocol credit, and support for Motorola MediaTek devices.\n\nAt the bottom of the main window there is a log area. The log displays information about the tool, credits, and warnings. This is useful for seeing what the program is reporting during the workflow.\n\nThe main controls shown in the screenshot are Check Device, Run Valhalla, and Reset.\n\nThe program also shows a status bar at the bottom with a Ready message when it is waiting for an operation.\n\nFeatures\nBootloader Unlock – The tool includes a bootloader unlock workflow for supported Motorola MediaTek devices. The project states that this process performs a factory reset.\nExperimental FRP Erase – Valhalla attempts an FRP erase using the Val Protocol erase-serial method.\nFRP State Verification – The tool checks the device’s frp-state instead of treating a successful command as automatic proof of FRP removal.\nCombined Unlock and FRP Mode – A combined operation is available for bootloader unlocking and FRP bypass.\nExploit Download – The Val Protocol exploit can be downloaded automatically from GitHub.\nAutomatic Linux Dependencies – Required dependencies can be installed automatically on Linux.\nLinux USB Setup – The tool can automatically set up udev rules on Linux.\nVerbose Logs – The program displays detailed messages so the operation can be followed in the log window.\nOEM Unlock Workaround – The project states that it can work even when OEM unlocking is grayed out in Developer Options.\nSupported Motorola Devices\nThe project is focused on Motorola MediaTek devices. The supplied information specifically lists several devices where bootloader unlocking has been reported or confirmed.\n\nMoto G Play 2026 (XT2615V, XT2615-1)\nMotorola Milan (XT2211DL)\nMoto G Play 2023\nMoto G 2025\nMoto G Power 2026\nMoto G series with MediaTek chipsets\nMotorola Edge series with MediaTek chipsets\nMotorola Razr series with MediaTek chipsets\nThe project also says that other Motorola MediaTek devices may work. That should not be treated as confirmation for every model.\n\nReported Device Results\nThe project author reports that the Moto G Play 2026, including models XT2615V and XT2615-1, has working bootloader unlocking.\n\nMotorola Milan XT2211DL was also verified for bootloader unlocking on stock Android 12 LK. However, there is an important difference with the FRP process on this model. The original Valhalla FRP run falsely reported success while the device still showed protected (277).\n\nA separate firmware-specific post-unlock experiment later cleared FRP on the Milan. According to the supplied project information, that experiment is documented separately and is not automatically applied by Valhalla.\n\nThe project also lists the Moto G Play 2023, Moto G 2025, and Moto G Power 2026 as having confirmed bootloader unlock results.\n\nFRP Support Is Experimental\nOne point I would keep in mind before using the FRP option is that the project itself describes this support as device-specific and experimental.\n\nValhalla now checks the device’s frp-state before reporting that the FRP erase worked. If the state still says protected, the tool does not treat the operation as successfully verified.\n\nThe combined mode also stops when the FRP erase cannot be verified. This prevents the combined workflow from simply continuing after an unsuccessful FRP check.\n\nImportant Motorola Milan Note\nThe supplied project details contain a specific warning about the Motorola Milan XT2211DL. When the device is already unlocked, the normal erase-serial flow exits through the Already unlocked branch before reaching its token and erase path.\n\nThe separate ARM32 erase-token patcher rejected the LK control-flow structure on this model. The project specifically says that its safety check should not be bypassed or force-patched.\n\nSo the Milan result should not be treated as a general FRP method for every Motorola device.\n\nLK Image Warning\nThe biggest warning shown by the program is about LK flashing. The tool clearly states that using a bad LK can permanently brick the device.\n\nFlashing an incorrect LK can hard-brick the phone.\nThe LK image must exactly match the device and firmware.\nKeep the stock LK backed up.\nKeep every successfully booted patched LK backed up.\nKeep a full stock firmware backup ready.\nUse the tool at your own risk.\nThe warning is also visible directly in the supplied screenshot. The program asks users not to flash the original LK back after unlocking and states that no responsibility is accepted for damage.",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1789786776180,
+      "link": "https://mega.nz/file/m9YQyarR#zAdJtR9zf4GAipOG2AmJ5-XGbolExp3sYsel6N2SbKI",
+      "links": [
+        {
+          "label": "Valhalla Unlock ToolS",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/m9YQyarR#zAdJtR9zf4GAipOG2AmJ5-XGbolExp3sYsel6N2SbKI"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZFlcRJZlwMvbdzG6SflIYglkiSFLFBp8RnV"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1xLjnTjJ6PZrXW0KWn5Tgzg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Valhalla Unlock Tool Free",
+      "password": "",
+      "publishUrl": "valhalla-unlock-tool-free",
+      "published": true,
+      "size": "9.7MB",
+      "unrarPassword": ""
+    },
+    "f_mu7td67a_ckus04u74": {
+      "name": "WAAGWANTECH Fastboot Flashing Tool V1.0",
+      "folderId": "f_mp6sjh9m_k6ruc0voj",
+      "size": "31.5mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitMj2XRka6HgramZuVx9TK8mGy856ChU9Sz0agej76i4poYNi77GpIL9qtz8f0baKl6HD1zV1OsH968caPBmB0E43bef6KmnDUDgnXOn9d6onXs5EIR7gA3p1FfsySL8Mx23wz3SGzA5uJyTTVfTrE5Sw0pbFa6upyl_obomEvyiq48cXjq7TS_c6oWh2_/s1600/WAAGWANTECH%20Fastboot%20Flashing%20Tool%20V1.0.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitMj2XRka6HgramZuVx9TK8mGy856ChU9Sz0agej76i4poYNi77GpIL9qtz8f0baKl6HD1zV1OsH968caPBmB0E43bef6KmnDUDgnXOn9d6onXs5EIR7gA3p1FfsySL8Mx23wz3SGzA5uJyTTVfTrE5Sw0pbFa6upyl_obomEvyiq48cXjq7TS_c6oWh2_/s1600/WAAGWANTECH%20Fastboot%20Flashing%20Tool%20V1.0.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "waagwantech-fastboot-flashing-tool-v10",
+      "description": "WAAGWANTECH Fastboot Flashing Tool V1.0 Download\nWAAGWANTECH Fastboot Tool Features\nFastboot bootloader unlock\nVBMETA container selection\nGSI image selection\nAutomatic VBMETA file detection\nAutomatic GSI image detection\nFastbootD reboot during the workflow\nVBMETA flashing to vbmeta_a\nProduct logical partition handling\nGSI flashing to system_a\nMetadata partition erase\nUserdata formatting\nAutomatic device reboot after the process\nScrolling process log\nConfirmation before starting the flash\nHardware ID based activation\nAuthentication token system\nWindows clipboard paste for the activation token\nActivation ScreenBefore reaching the flashing window, the program shows a separate activation screen. It displays the Hardware ID generated by the program.\n\nI like that the Hardware ID can be copied directly from the activation window. There is also a token input box and a button called FORCE PASTE FROM WINDOWS, which can paste the token from the Windows clipboard.\n\nAfter entering the token, clicking ACTIVATE ENGINE checks the activation information. If it is accepted, the activation window closes and the main program opens.\n\nVBMETA File Selection\nThe first file section in the main window is for the VBMETA container. You can enter the file path manually or click BROWSE and select the file from your computer.\n\nThe program also checks its own folder for two names: vbmeta_a.bin and vbmeta.img. If one is found, the path can be filled automatically.\n\nGSI Image SelectionThe second file section is for the GSI image. It is labelled GSI IMAGE (.IMG) in the tool.\n\nThere is another Browse button for selecting the image manually. The automatic search also checks the tool folder for files matching lineage*.img and system*.img.\n\nHow to Use WAAGWANTECH Fastboot Tool\nOpen WAAGWANTECH Fastboot Flashing Tool V1.0.0.\nCheck the Hardware ID shown on the activation screen.\nCopy the Hardware ID if you need to provide it for activation.\nEnter the authentication token in the token field.\nClick ACTIVATE ENGINE.\nAfter activation, the main flashing window will open.\nSelect the VBMETA file in the VBMETA CONTAINER section.\nSelect the required GSI image in the GSI IMAGE (.IMG) section.\nIf the files are already in the tool folder, check whether they were detected automatically.\nConnect the device in the required Fastboot mode.\nClick INITIATE AUTHORITATIVE FLASH.\nConfirm the operation when the confirmation box appears.\nKeep an eye on the log window while the process is running.\nThe tool runs the Fastboot operations and reboots the device at the end.\n\nWhat Happens During Flashing\nOnce the flashing process starts, the tool first writes FLASH STARTED... in the log area.\n\nThe workflow then runs the Fastboot bootloader unlock command and flashes the selected VBMETA file to vbmeta_a. After that, the device is sent to FastbootD and the program waits for the next part of the process.\n\nThe tool then attempts to remove the product_a and product_b logical partitions. The selected GSI image is flashed to system_a.After the system image operation, the tool erases metadata and formats userdata as ext4. Finally, it sends a reboot command.\n\nAutomatic File Detection\nYou can keep the image files in the same folder as the program and let the tool look for them. This is useful when you do not want to browse for every file each time.\n\nFor VBMETA, the program looks for:\n\nvbmeta_a.bin\nvbmeta.img\nFor the GSI image, it looks for:\n\nlineage*.img\nsystem*.img\nLog Window\nThe main window has a large black scrolling log area. The flashing routine writes messages into this section while it is running.",
+      "downloads": 0,
+      "link": "https://mega.nz/file/S5hATYrT#8rLIJxVULUh2XdxXaQ4jAaFJX2BXCaXLIasEfpj9PQY",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "WAAGWANTECH Fastboot Flashing Tool V1.0",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/S5hATYrT#8rLIJxVULUh2XdxXaQ4jAaFJX2BXCaXLIasEfpj9PQY",
+              "password": ""
+            },
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZRdcRJZpKp3IWsQWXBamMTU1euTckH6gSx7",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1JRag8z72FJ69uJPF_Pdh_w",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1789787666854,
+      "lastModified": 1789787666854
     }
   },
   "images": {
@@ -51552,7 +51632,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-18T13:45:53.597Z",
+    "createdAt": "2026-09-19T03:14:33.976Z",
     "version": "2.0",
     "sections": 4
   }
