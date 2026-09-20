@@ -19865,7 +19865,7 @@
       ],
       "createdAt": 1781413825549,
       "description": "Borneo Installer v1.0.9700.19381\n2026-09-09\nAdd Multiview and fix bugs\n\nFullSetup Borneo Schematics 1.0.9659.13774 REV_2\n2026-06-17\nInstaller\n\n\nFullSetup_Borneo_Schematics 1.0.9659.13774\n2026-06-13\nInstaller",
-      "downloads": 6,
+      "downloads": 7,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1789099948266,
@@ -39138,7 +39138,7 @@
       ],
       "createdAt": 1787548825596,
       "description": "AMProFixWA Tool V1.6 Free Download. Other available options include Repair Media 2 and Install Any App. There are also shortcuts and controls for opening WhatsApp App Info, enabling WhatsApp permissions, force stopping the app, and clearing WhatsApp data.\n\nDelete WhatsApp\nDelete WhatsApp but Keep Data\nInstall Old WhatsApp\nInstall Old WhatsApp 14\nBackup WhatsApp Data\nRestore WhatsApp Data\nDownload Official WhatsApp\nUpdate WhatsApp\nRepair Media 2\nInstall Any App\nOpen WhatsApp App Info\nEnable WhatsApp Permissions\nForce Stop WhatsApp\nClear WhatsApp Data\nModified WhatsApp Download Section\nThe tool has a download section that lists different WhatsApp packages. The available names include AMWhatsApp, WhatsApp Green, WhatsApp Gold, WhatsApp Red, WhatsApp Blue, and several others.\n\nAMWhatsApp\nWhatsApp Green\nWhatsApp Gold\nWhatsApp Red\nWhatsApp Blue\nWhatsApp Black\nWhatsApp Abo Arab\nABWhatsApp\nOBWhatsApp\nMARWhatsApp\nWhatsApp Omar OB\nWhatsApp Marwan\nGBWhatsApp\nWhatsApp Business 2\nWhatsApp Business 3\nAppeal and Request Options\nAMProFixWA Tool V1.6 also includes options related to WhatsApp account review and appeal requests. The provided details mention automated appeal request submissions and different request categories.\n\nThere are options for severe violation appeals, modified version-related bans, explicit content review requests, privacy violation handling, and spam message restriction appeals. The tool also includes options to update, view, or delete requests.\n\nAutomated Ban Appeal Request Submissions\nSevere Violation Appeal Processing\nModified Versions Ban Removal\nExplicit Content Ban Review Form\nWhatsApp Privacy Violation Handling\nSpam Messages Restriction Appeals\nUpdate Requests\nView Requests\nDelete Requests\nIntegrated Notification Dispatch System\nRoot and System Tools\nFor users working with system-level Android settings, the tool includes several root-related options. These include Magisk installation, dependency library installation, custom libraries, and an option to send libraries to the phone.A Google Play Integrity Checker is also listed. Other options include clearing Google Apps data and a fix for School Device Enterprise Profile.\n\nInstall Magisk\nInstall Dependency Library\nInstall Custom Libraries\nSend Libraries to Phone\nGoogle Play Integrity Checker\nClear Google Apps Data\nSchool Device Enterprise Profile Fix\nDevice Connection and Android Utilities\nThe program can show the mobile screen in real time. This can be useful when you want to see the connected phone screen from the computer while working with the device.\n\nWireless ADB connection is also available through the ADB WiFi option. For older devices, the feature list also mentions a dependency issue fix for Android 6 and Android 7.\n\nShow Mobile Screen\nWireless Connection via ADB WiFi\nLegacy Android 6/7 Dependency Issue Fix\nLanguage and Interface Settings\nAMProFixWA Tool V1.6 supports both Arabic and English. You can choose the preferred language from the available settings. Theme options are also included, with Default, Light, and Dark choices mentioned in the provided details.\n\nThe tool also lists Smart Mode automation, sound effect settings, server status monitoring, and license expiry status monitoring.\n\nArabic and English Language Switcher\nDefault Theme\nLight Theme\nDark Theme\nSmart Mode Automation Toggle\nSound Effects Settings\nReal-Time Server Status Monitor\nLicense Expiry Status Monitor\nHow to Install AMProFixWA Tool V1.6\nThe installation process starts with the AMProTool.rar archive file.\n\nDownload the AMProTool.rar file.\nFind the downloaded archive on your computer.\nRight-click the file and choose Extract Here or Extract to AMProTool.\nOpen the extracted folder.\nRight-click on AMProTool.exe and select Run as administrator.\nWhen the setup opens, click Next on the Welcome screen.\nChoose the folder where you want to install the software. The provided default location is C:\\Program Files (x86)\\AMProFixWhatsApp.\nClick Next and select Create a desktop icon if you want a shortcut on the desktop.\nClick Install and wait for the installation to finish.\nClick Finish after the setup is complete.\nRight-click the AMProTool desktop icon and run it as administrator.\nWait for the loader to check the license status and server connection.\nChoose your preferred language and theme on the login screen.\nClick Log In.\nEnable USB Debugging on the Android device.\nConnect the device to the computer with a USB cable.\nHow to Connect an Android Device\nAccording to the provided usage steps, USB Debugging needs to be enabled before connecting the Android phone through a USB cable. Once the device is connected, you can use the available options inside the tool.\n\nThe feature list also includes ADB WiFi for wireless connection and an option to show the mobile screen in real time.\n\nDownload AMProFixWA Tool V1.6\nYou can download AMProFixWA Tool V1.6 from the link below.\n\nBefore using options that delete or clear WhatsApp data, check what the selected option will do and keep your important data safe.",
-      "downloads": 16,
+      "downloads": 18,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787548825596,
@@ -39298,7 +39298,7 @@
       ],
       "createdAt": 1787832568674,
       "description": "VNboards v1.2.63 Free Download Features\nNew users can install the software using VNboards_Setup.exe.\nThe installer allows you to choose the installation location.\nA Desktop shortcut is created during installation.\nThe app opens automatically after installation is completed.\nExisting users can update directly from the app using the Update button.\nVNboards_Update.zip is handled internally by the self-update system.\nImproved protection for board data.\nThe software can identify devices using multiple hardware signals.What's New (Changelog)\nUpdated VNboards to version v1.2.63.\nAdded stronger protection for board data.\nThe software can now identify a device using multiple hardware signals.\nThis helps prevent intentional attempts to download large amounts of board data again by using another account.\nThe protection does not affect normal software use.\nNo personal information is collected for this protection.\nOnly some hardware identifiers are used after one-way encryption.\n\nHow to Install\nDownload VNboards_Setup.exe if you are installing VNboards for the first time.\nRun the downloaded installer file.\nChoose the installation location when the installer asks.\nComplete the installation process.\nA Desktop shortcut will be created.\nThe application opens automatically after installation.\nIf VNboards is already installed, open the app and click Update instead of downloading the installer again.",
-      "downloads": 354,
+      "downloads": 364,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1788316325946,
@@ -39430,7 +39430,7 @@
       ],
       "createdAt": 1787918379886,
       "description": "UST Tool v7.0.0 Free Activation  Read Info for Hardware SoC information, MEID, SOCID, security status, and GPT details.\nReset FRP / Bypass FRP.\nFactory Reset + FRP for wiping Userdata, Metadata, and Cache.\nReboot MediaTek device to normal mode.\nUnlock Bootloader using the listed seccfg partition method.\nRelock Bootloader and restore the listed lock state and verification checksums.\nBypass Auth (SLA / DAA) using the listed BROM and payload process.\nRead Partition and save selected partition data as a BIN file.\nWrite / Flash Partition using an image file.\nErase selected partition blocks.\nDump Preloader and save the active preloader binary.\nDump Bootrom memory area.\nXiaomi\nFlash\nFlash Firmware.\nFormat Data.\nBrowse Scatter Firmware.\nService\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nFastboot\nRead CSSD.\nFormat Data.\nReboot Device.\nMi Assistant\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nEFS\n\nHow to Install UST Tool v7.0.0\nDownload the UST Tool package and save it on your computer.\nExtract the downloaded archive to a folder.\nOpen the extracted USTTOOL folder.\nDouble-click USTTOOL.exe to start the software.\nWhen the CONTROL MODULE window appears, click Copy Hardware ID Key.\nOpen the provided activation page and find the Generate 10 Days Free Activation Key section.\nPaste the copied Hardware ID into the ENTER YOUR 16-CHAR HWID box.\nClick GENERATE KEY NOW and copy the complete generated license key.\nReturn to the UST Tool Control Module.\nPaste the key into Paste Activation License Token Here.\nClick REGISTER LICENSE.\nAccording to the provided process, a green Success message appears after successful registration.\n\nWait for the tool loading process to complete.\nComplete the login screen as required by the software.\nAfter opening the main interface, the tool is ready for the supported functions listed above.",
-      "downloads": 90,
+      "downloads": 92,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1787918379886,
@@ -39737,7 +39737,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2531,
+      "downloads": 2561,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -40935,7 +40935,7 @@
       ],
       "createdAt": 1789477984101,
       "description": "Infinix Tecno itel Anti Crack Sorgula Tool Free Download",
-      "downloads": 34,
+      "downloads": 35,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1789477984101,
@@ -41021,7 +41021,7 @@
       ],
       "createdAt": 1789480044362,
       "description": "MT Bootloader Unlock / Mi Account Bypass Tool Free Download\n\nMT Bypass Tool Interface\nThe main window has a simple layout. At the top, it shows MT BOOTLOADER UNLOCK / MI ACCOUNT BYPASS.\n\nThe current ADB status, device name, Android version and MIUI information are displayed in the upper section. There are also two buttons, START BYPASS and REFRESH ADB.Supported Devices\nQualcomm devices with HyperOS Version 1\nQualcomm devices with HyperOS Version 2\nQualcomm devices with HyperOS Version 3\nMTK devices when TWRP is available\nThe information provided does not mention specific Xiaomi models, so I am not adding any model names here.\n\nWhat Is Included in the Package?\nThe supplied archive screenshot shows a portable folder with several files. The main executable is MTBypass.exe. Other visible files include ADB and Fastboot components and their related DLL files.\n\nMTBypass.exe\nadb.exe\nAdbWinApi.dll\nAdbWinUsbApi.dll\nfastboot.exe\nsfk.exe\nBackup folder\nThe archive screenshot shows an unpacked size of about 270 MB. I am mentioning this only because it is visible in the supplied screenshot.",
-      "downloads": 22,
+      "downloads": 27,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1789480345089,
@@ -41236,7 +41236,7 @@
       ],
       "createdAt": 1789619393042,
       "description": "Xiaomi OTA Guard Pro v2.0.0 PRO Free Download\nXiaomi OTA Guard Pro v2.0.0 PRO\nWhen I checked the provided screenshot, the program was connected with a Xiaomi device and the main window was displaying the device and software information. The tool has a dark interface with the main controls placed in the center of the window.\n\nThe top section shows the connected device, a refresh button and an analysis button. Below that, there are separate sections for device information and security or operation settings.\n\nThe program title shows Xiaomi OTA Guard Pro 2.0.0 PRO, and the developer credit displayed in the interface is by_kamil (kamil bilgit).\n\nVisible Features\nBlock OTA Updates – The main window has a button for blocking OTA updates.\nReopen OTA Updates – A separate button is available to restore or reopen OTA updates.\nOTA Status Analysis – The tool can analyze the OTA update status shown by the connected device.\nRestart Device – There is a button to restart the connected device.\nDeep Protection – A deep protection option is visible under Security and Operation Settings.\nNotification and AppOps Plan Lock – The interface includes an option related to notification and AppOps plan locking.\nOTA Cache and Red Notification Badge Removal – The program shows an option to remove the OTA cache and red notification badge.\nDevice Analysis – The tool displays device hardware and software information after analysis.\nLive Terminal Report – The bottom section displays operation logs and analysis results.\nDevice Information Shown in the Screenshot\nThe connected device shown in the log is a Redmi Note 13 Pro. Its model number is 23117RA68G and the codename shown is emerald.\n\nDevice: Redmi Note 13 Pro\nModel: 23117RA68G\nCodename: emerald\nHyperOS / MIUI: HyperOS\nAndroid Version: Android 14\nSecurity Patch: 2024-12-01\nUpdater Package: com.android.updater\nOTA Status Analysis\nThe screenshot shows the OTA status analysis result for the connected Redmi Note 13 Pro. The result says that the OTA update status is closed or disabled.\n\nThe log also displays 100% protection for the OTA protection section. It shows the updater package as locked for User 0 and the system setting related to automatic updates as disabled.\n\nOTA Update Status: Closed / Disabled\nSecurity Protection: 100%\nUpdater Package: com.android.updater\nUser: User 0\nSystem Setting Lock: Automatic Update Disabled\nThe final result visible in the terminal says that Xiaomi OTA updates are completely disabled on the shown device.\n\nSecurity and Operation Settings\nOn the right side of the main window, three settings are visible. These are related to protection, notification and OTA data.\n\nDeep Protection\nNotification and AppOps Plan Lock\nDelete OTA Cache and Red Notification Badge\nThe screenshot does not provide further details about how each internal option works, so I am only listing what is visible in the program.\n\nHow the Tool Interface Works\nConnect the Xiaomi device to the computer.\nThe connected device is shown in the device selection area.\nUse the Refresh button when needed.\nUse the OTA Status Analysis option to check the OTA status.\nThe analysis result is displayed in the live terminal report section.\nThe main window also provides options for blocking or reopening OTA updates.\nThe Restart Device button can be used to restart the connected device.\nDeveloper Credit\nXiaomi OTA Guard Pro is credited in the provided software screenshot to Kamil Bilgit. The developer name is also displayed inside the program as by_kamil (kamil bilgit).\nDeveloper: Kamil Bilgit",
-      "downloads": 3,
+      "downloads": 9,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1789619393042,
@@ -41279,7 +41279,7 @@
       "downloads": 0,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1789651616106,
+      "lastModified": 1789795226953,
       "link": "https://www.mediafire.com/file/ujc7hn68ynqal7w/VG+Tool+V5.1.rar/file",
       "links": [
         {
@@ -41288,6 +41288,14 @@
             {
               "password": "palash",
               "url": "https://www.mediafire.com/file/ujc7hn68ynqal7w/VG+Tool+V5.1.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZfAcRJZJC7yMHwC5oFG1giVw3zFRh8wXjr7"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1XCTS41MIpUNiINIoHI_PFg"
             }
           ]
         }
@@ -41311,16 +41319,21 @@
       "downloads": 0,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
-      "lastModified": 1789792156523,
-      "link": "https://www.mediafire.com/file/gs2bvko95wj9ep8/Unlock+Tool+Latest+BY+GCT_Team.rar/file",
+      "lastModified": 1789905542753,
+      "link": "https://www.mediafire.com/file_premium/tdj5b74o7esq599/GCT_TEAM_Unlock_Tool_Latest_VIP.rar/file",
       "links": [
         {
-          "label": "Unlock Tool OFFLINE BY GCT_Team.rar",
+          "label": "NEW Unlock Tool OFFLINE Fix Version",
           "urls": [
             {
               "password": "",
-              "url": "https://www.mediafire.com/file/gs2bvko95wj9ep8/Unlock+Tool+Latest+BY+GCT_Team.rar/file"
-            },
+              "url": "https://www.mediafire.com/file_premium/tdj5b74o7esq599/GCT_TEAM_Unlock_Tool_Latest_VIP.rar/file"
+            }
+          ]
+        },
+        {
+          "label": "Unlock Tool OFFLINE BY GCT_Team.rar",
+          "urls": [
             {
               "password": "",
               "url": "https://drive.google.com/file/d/1C0gA1r8fOPKZQKYlYRx819B8KSoYzmvs/view?usp=sharing"
@@ -41343,7 +41356,7 @@
       ],
       "loginPassword": "",
       "loginUsername": "",
-      "name": "Unlock Tool OFFLINE BY GCT-Team",
+      "name": "Unlock Tool OFFLINE VIP BY GCT-Team",
       "password": "",
       "publishUrl": "unlock-tool-offline-by-gct-team",
       "published": true,
@@ -41357,7 +41370,7 @@
       ],
       "createdAt": 1789786744485,
       "description": "Valhalla Unlock Tool Free Download  What Valhalla Unlock Tool Does\nThe main purpose of Valhalla is to work with Motorola phones using MediaTek chipsets. The program has separate options for bootloader unlocking and experimental FRP erase.\n\nThe bootloader unlock option performs a factory reset. The FRP option is separate and attempts to erase FRP using the Val Protocol erase-serial method.\n\nThere is also a combined mode that performs bootloader unlocking and FRP bypass. The tool does not simply report a successful command as proof that FRP was removed. It checks the device’s frp-state and expects it to no longer show protected.\n\nThis is important because the project information specifically says that a successful fastboot command does not always mean that FRP has actually been erased.\n\nOperation Modes Visible in the Tool\nWhen I checked the supplied screenshot, the main window showed three operation modes. These are presented as radio button options under the Select Operation Mode section.\n\nBootloader Unlock (Factory Reset) – Used for the bootloader unlock workflow and includes a factory reset.\nFRP Bypass Only (No Factory Reset) – The interface lists this as an FRP-only mode without a factory reset.\nBootloader Unlock + FRP Bypass – Combines the bootloader unlock and FRP workflow.\nThe project documentation also warns that the FRP erase process itself is destructive. The erase-only flow targets device partitions related to metadata and user data, while Valhalla rewrites md_udc to frp. Because of this, the FRP mode should be treated as a factory reset and data erase.\n\nSimple Interface\nThe supplied screenshot shows a dark interface with the Valhalla Unlock Tool name at the top. It also displays the creator name, the Val Protocol credit, and support for Motorola MediaTek devices.\n\nAt the bottom of the main window there is a log area. The log displays information about the tool, credits, and warnings. This is useful for seeing what the program is reporting during the workflow.\n\nThe main controls shown in the screenshot are Check Device, Run Valhalla, and Reset.\n\nThe program also shows a status bar at the bottom with a Ready message when it is waiting for an operation.\n\nFeatures\nBootloader Unlock – The tool includes a bootloader unlock workflow for supported Motorola MediaTek devices. The project states that this process performs a factory reset.\nExperimental FRP Erase – Valhalla attempts an FRP erase using the Val Protocol erase-serial method.\nFRP State Verification – The tool checks the device’s frp-state instead of treating a successful command as automatic proof of FRP removal.\nCombined Unlock and FRP Mode – A combined operation is available for bootloader unlocking and FRP bypass.\nExploit Download – The Val Protocol exploit can be downloaded automatically from GitHub.\nAutomatic Linux Dependencies – Required dependencies can be installed automatically on Linux.\nLinux USB Setup – The tool can automatically set up udev rules on Linux.\nVerbose Logs – The program displays detailed messages so the operation can be followed in the log window.\nOEM Unlock Workaround – The project states that it can work even when OEM unlocking is grayed out in Developer Options.\nSupported Motorola Devices\nThe project is focused on Motorola MediaTek devices. The supplied information specifically lists several devices where bootloader unlocking has been reported or confirmed.\n\nMoto G Play 2026 (XT2615V, XT2615-1)\nMotorola Milan (XT2211DL)\nMoto G Play 2023\nMoto G 2025\nMoto G Power 2026\nMoto G series with MediaTek chipsets\nMotorola Edge series with MediaTek chipsets\nMotorola Razr series with MediaTek chipsets\nThe project also says that other Motorola MediaTek devices may work. That should not be treated as confirmation for every model.\n\nReported Device Results\nThe project author reports that the Moto G Play 2026, including models XT2615V and XT2615-1, has working bootloader unlocking.\n\nMotorola Milan XT2211DL was also verified for bootloader unlocking on stock Android 12 LK. However, there is an important difference with the FRP process on this model. The original Valhalla FRP run falsely reported success while the device still showed protected (277).\n\nA separate firmware-specific post-unlock experiment later cleared FRP on the Milan. According to the supplied project information, that experiment is documented separately and is not automatically applied by Valhalla.\n\nThe project also lists the Moto G Play 2023, Moto G 2025, and Moto G Power 2026 as having confirmed bootloader unlock results.\n\nFRP Support Is Experimental\nOne point I would keep in mind before using the FRP option is that the project itself describes this support as device-specific and experimental.\n\nValhalla now checks the device’s frp-state before reporting that the FRP erase worked. If the state still says protected, the tool does not treat the operation as successfully verified.\n\nThe combined mode also stops when the FRP erase cannot be verified. This prevents the combined workflow from simply continuing after an unsuccessful FRP check.\n\nImportant Motorola Milan Note\nThe supplied project details contain a specific warning about the Motorola Milan XT2211DL. When the device is already unlocked, the normal erase-serial flow exits through the Already unlocked branch before reaching its token and erase path.\n\nThe separate ARM32 erase-token patcher rejected the LK control-flow structure on this model. The project specifically says that its safety check should not be bypassed or force-patched.\n\nSo the Milan result should not be treated as a general FRP method for every Motorola device.\n\nLK Image Warning\nThe biggest warning shown by the program is about LK flashing. The tool clearly states that using a bad LK can permanently brick the device.\n\nFlashing an incorrect LK can hard-brick the phone.\nThe LK image must exactly match the device and firmware.\nKeep the stock LK backed up.\nKeep every successfully booted patched LK backed up.\nKeep a full stock firmware backup ready.\nUse the tool at your own risk.\nThe warning is also visible directly in the supplied screenshot. The program asks users not to flash the original LK back after unlocking and states that no responsibility is accepted for damage.",
-      "downloads": 0,
+      "downloads": 16,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1789786776180,
@@ -41397,7 +41410,7 @@
       ],
       "createdAt": 1789787666854,
       "description": "WAAGWANTECH Fastboot Flashing Tool V1.0 Download\nWAAGWANTECH Fastboot Tool Features\nFastboot bootloader unlock\nVBMETA container selection\nGSI image selection\nAutomatic VBMETA file detection\nAutomatic GSI image detection\nFastbootD reboot during the workflow\nVBMETA flashing to vbmeta_a\nProduct logical partition handling\nGSI flashing to system_a\nMetadata partition erase\nUserdata formatting\nAutomatic device reboot after the process\nScrolling process log\nConfirmation before starting the flash\nHardware ID based activation\nAuthentication token system\nWindows clipboard paste for the activation token\nActivation ScreenBefore reaching the flashing window, the program shows a separate activation screen. It displays the Hardware ID generated by the program.\n\nI like that the Hardware ID can be copied directly from the activation window. There is also a token input box and a button called FORCE PASTE FROM WINDOWS, which can paste the token from the Windows clipboard.\n\nAfter entering the token, clicking ACTIVATE ENGINE checks the activation information. If it is accepted, the activation window closes and the main program opens.\n\nVBMETA File Selection\nThe first file section in the main window is for the VBMETA container. You can enter the file path manually or click BROWSE and select the file from your computer.\n\nThe program also checks its own folder for two names: vbmeta_a.bin and vbmeta.img. If one is found, the path can be filled automatically.\n\nGSI Image SelectionThe second file section is for the GSI image. It is labelled GSI IMAGE (.IMG) in the tool.\n\nThere is another Browse button for selecting the image manually. The automatic search also checks the tool folder for files matching lineage*.img and system*.img.\n\nHow to Use WAAGWANTECH Fastboot Tool\nOpen WAAGWANTECH Fastboot Flashing Tool V1.0.0.\nCheck the Hardware ID shown on the activation screen.\nCopy the Hardware ID if you need to provide it for activation.\nEnter the authentication token in the token field.\nClick ACTIVATE ENGINE.\nAfter activation, the main flashing window will open.\nSelect the VBMETA file in the VBMETA CONTAINER section.\nSelect the required GSI image in the GSI IMAGE (.IMG) section.\nIf the files are already in the tool folder, check whether they were detected automatically.\nConnect the device in the required Fastboot mode.\nClick INITIATE AUTHORITATIVE FLASH.\nConfirm the operation when the confirmation box appears.\nKeep an eye on the log window while the process is running.\nThe tool runs the Fastboot operations and reboots the device at the end.\n\nWhat Happens During Flashing\nOnce the flashing process starts, the tool first writes FLASH STARTED... in the log area.\n\nThe workflow then runs the Fastboot bootloader unlock command and flashes the selected VBMETA file to vbmeta_a. After that, the device is sent to FastbootD and the program waits for the next part of the process.\n\nThe tool then attempts to remove the product_a and product_b logical partitions. The selected GSI image is flashed to system_a.After the system image operation, the tool erases metadata and formats userdata as ext4. Finally, it sends a reboot command.\n\nAutomatic File Detection\nYou can keep the image files in the same folder as the program and let the tool look for them. This is useful when you do not want to browse for every file each time.\n\nFor VBMETA, the program looks for:\n\nvbmeta_a.bin\nvbmeta.img\nFor the GSI image, it looks for:\n\nlineage*.img\nsystem*.img\nLog Window\nThe main window has a large black scrolling log area. The flashing routine writes messages into this section while it is running.",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1789787666854,
@@ -41429,6 +41442,47 @@
       "published": true,
       "size": "31.5mb",
       "unrarPassword": ""
+    },
+    "f_mu9ruzid_8wb8hpla2": {
+      "name": "AKS Fastboot Firmware Flasher V1.0",
+      "folderId": "f_mq0uduoi_4okvszeb9",
+      "size": "4.5 MB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47i-gY5rKnuJ_HKUhys9P7nWyfUNeQWyVaCqVneySGFbpxo5z4CEyCxdAc5CY04_8-m71jkgj-PM46TWbCHlndErqM_2OVSLazCMyvDlzipXc6TEAZjtfrHiUZFD6Am7IdbWwK703WqgPSrqBMduzJVL9196q8NbZNtpcLoFpU92RSFuQtCN6bI5aZ2Jx/w640-h420/AKS%20Fastboot%20Firmware%20Flasher%20V1.0%20.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47i-gY5rKnuJ_HKUhys9P7nWyfUNeQWyVaCqVneySGFbpxo5z4CEyCxdAc5CY04_8-m71jkgj-PM46TWbCHlndErqM_2OVSLazCMyvDlzipXc6TEAZjtfrHiUZFD6Am7IdbWwK703WqgPSrqBMduzJVL9196q8NbZNtpcLoFpU92RSFuQtCN6bI5aZ2Jx/w640-h420/AKS%20Fastboot%20Firmware%20Flasher%20V1.0%20.png",
+        "https://gsmyogesh.com/wp-content/uploads/2026/09/image-17-1024x576.png"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "aks-fastboot-firmware-flasher-v10",
+      "description": "AKS Fastboot Firmware Flasher V1.0 \nAKS Fastboot Firmware Flasher V1.0 is a Windows firmware flashing tool made for writing firmware through Fastboot and FastbootD. The tool can handle different firmware formats, including Xiaomi Fastboot firmware, Qualcomm XML firmware, MTK V5 Scatter.txt and MTK V6 Scatter.xml.\nSoftware Name\tAKS Fastboot Firmware Flasher\nVersion\tV1.0\nDeveloper Aung Kyaw Soe",
+      "downloads": 0,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQDhvOUNToXcSJVBjG7_fbROAbe-I33epNwHuohBqppZRCU?e=swKZfy",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "AKS Fastboot Firmware Flasher V1.0",
+          "urls": [
+            {
+              "url": "https://1drv.ms/u/c/362938347b225930/IQDhvOUNToXcSJVBjG7_fbROAbe-I33epNwHuohBqppZRCU?e=swKZfy",
+              "password": ""
+            },
+            {
+              "url": "https://mega.nz/file/K0QmwYDb#XkMQCRmvMvbqCYLOcNXf7h-UKCra-uefHxCbwfdNP-Y",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/152YWbcRwrHQHtKUvWkTiNg",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1789906071109,
+      "lastModified": 1789906071109
     }
   },
   "images": {
@@ -51632,7 +51686,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-19T04:31:28.321Z",
+    "createdAt": "2026-09-20T12:08:09.171Z",
     "version": "2.0",
     "sections": 4
   }
