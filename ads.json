@@ -2116,7 +2116,7 @@
       ],
       "createdAt": 1779713760944,
       "description": "",
-      "downloads": 3,
+      "downloads": 4,
       "folderId": "f_mpjncilk_69jnhx10j",
       "isLink": false,
       "lastModified": 1787967034933,
@@ -8756,7 +8756,7 @@
       ],
       "createdAt": 1780663443185,
       "description": "",
-      "downloads": 0,
+      "downloads": 2,
       "folderId": "f_mp9833ht_tjotymfks",
       "isLink": false,
       "lastModified": 1780663443185,
@@ -38003,7 +38003,7 @@
       ],
       "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 443,
+      "downloads": 444,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1786246123501,
@@ -39098,7 +39098,7 @@
       ],
       "createdAt": 1787461136360,
       "description": "Samsung Odin Flasher V1.0 by GSM-X-TEAM Samsung Odin Flasher V1.0 by GSM_X_TEAM Download\nIf you work on Samsung phones, you may already know the normal Odin tool. Samsung Odin Flasher V1.0 is another flashing tool made by S KUMAR XTM, who is mentioned as an official reseller of GSM_X_TEAM. The tool is also shared on the GSMXTEAM Blogspot.Samsung Odin Flasher V1.0 Information\nSoftware Name\tSamsung Odin Flasher\nVersion\tV1.0\nDeveloper\tS KUMAR XTM\nRelated Team\tGSM_X_TEAM\nProper credit for this tool goes to S KUMAR XTM and the GSM_X_TEAM mentioned in the provided information.\n\nWhat Can Samsung Odin Flasher V1.0 Do?How to Use Samsung Odin Flasher V1.0\nStep 1: Run the Tool as Administrator\nFind the XTM ODIN.exe file. Right-click on it and select Run as administrator.\n\nStep 2: Select a Theme if You WantThis step is optional. Go to the top-right corner of the tool and open SKIN / THEME. Select the color or style you prefer.\n\nStep 3: Connect the Samsung Phone\nPut the Samsung phone into Download Mode and connect it to the computer using a good USB cable.\n\nStep 4: Check the Device Connection\nLook at the DEVICE box at the top left of the tool. The Samsung COM port should appear after the phone is connected.\n\nIf the port is not showing, use the Refresh option mentioned in the instructions and check the connection again.\n\nStep 5: Add the Firmware Files\nUse the Browse button next to each slot and select the required firmware files.\n\nBL: Select the file starting with BL_\nAP: Select the file starting with AP_\nCP: Select the file starting with CP_\nCSC: Select the file starting with CSC_ or HOME_CSC_\nUSERDATA: Add it if your flashing job requires it\nPIT: Add it if needed for the flashing job\nAfter selecting the files, you can use the TAR MEMBERS section to check the files inside the firmware packages.\n\nStep 6: Select the Flash OptionThe instructions mention an Auto Reboot option. Tick it if you want the phone to restart automatically after the flashing process.\n\nStep 7: Start Flashing\nAfter checking the selected files and options, click the Start Flash button at the bottom right.\n\nKeep an eye on the ACTIVITY LOG box while the process is running. Wait until the tool shows the finish message and keep the phone connected until the process is fully complete.\n\nFeatures Included in Samsung Odin Flasher V1.0\nSamsung stock ROM flashing\nSupport for loading BL, AP, CP, CSC, USERDATA, and PIT files\nTAR MEMBERS option to check files inside firmware packages\nPIT table dump option\nPIT file flashing option\nPhone information reading in MTP Mode\nPhone information reading in Download Mode\nReboot command for Download Mode\nReboot command for Recovery Mode\nAutomatic Samsung USB COM port detection\nRefresh option for checking the device connection\nAuto Reboot option\nWindows theme\nDark theme\nSky theme\nRuby Graphite theme\nOther screen styles mentioned through the SKIN / THEME option",
-      "downloads": 10,
+      "downloads": 12,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1787461136360,
@@ -39214,7 +39214,7 @@
       ],
       "createdAt": 1787657787862,
       "description": "HBG VoLTE IMS Fixer Tool What You Can See in the Software\nDevice Model — Shows the connected Android device model.\nAndroid Version — Shows the Android version detected from the phone.\nManufacturer — Displays the phone manufacturer.\nSIM Carrier — Shows the available SIM carrier information.\nVoLTE Status — Displays the current VoLTE status shown by the tool.\n1-Click VoLTE Fix — Runs the automatic VoLTE activation option.\nShizuku & Pixel IMS — Provides the option for installing the Shizuku and Pixel IMS app set.\nStatus Messages — Shows messages related to the current process.\n\nDownload Information\nSoftware Name\tHBG VoLTE & IMS Fixer\nDeveloper\tHBG\nSupported OS\tWindows\nSupported Devices\tAndroid devices supported by the tool",
-      "downloads": 117,
+      "downloads": 120,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787657787862,
@@ -39680,7 +39680,7 @@
       ],
       "createdAt": 1788007856748,
       "description": "S-Tool Pro Mobile PC Toolkit V1.0  \nDevice info & diagnostics\nModel, IMEI, chipset, battery, bootloader and patch, colour-coded so problems stand out.\nXiaomi Mi Assistant\nRead info and wipe data in Mi Assistant mode, plus a smart auth-token decoder.\nSamsung servicing\nProfile and FRP over the modem port, stop forced OTA, reboot to Download mode.\nBootloader & FRP\nFastboot flashing, sideload, key-based reset and safe wipes, with clear warnings.\nAuth token decoder\nMi Assistant, Fastboot, EDL and MediaTek tokens, detected and decoded locally.\nVerified & safe\nPublished SHA-256 for every build and one-click Verify inside the app.",
-      "downloads": 68,
+      "downloads": 69,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1788007856748,
@@ -39737,7 +39737,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2561,
+      "downloads": 2598,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -40058,7 +40058,7 @@
       ],
       "createdAt": 1788689398003,
       "description": "GSM Family Tool v1.1.8 Free Download Brand and Chipset Support\nGSM Family Tool has separate tabs for several mobile brands and platforms. Samsung includes universal support and a list of specific Galaxy models. Huawei has its own section with P, Mate, Nova, Y, and Honor devices. SPD/Unisoc support is listed by chipset, while Motorola also has its own service section.\n\nSamsung\nHuawei\nSPD / Unisoc\nMotorola\nXiaomi\nOppo\nVivo\nRealme\nInfinix\nTecno\nMediaTek\nSamsung Support\nThe Samsung section includes universal Samsung support along with specific Galaxy models. The listed models include Galaxy A03, A12, A13, A14, A15, A24, A34, A54, A71, A72, A21s, A31, A32, A51, A52s, S20, and S21.\n\nHuawei Support\nThe Huawei section includes universal Huawei support and several device families. The listed P series covers P20 to P40 Pro, while the Mate section covers Mate 20 to Mate 40 Pro. Nova 5T, Nova 7i, Nova 9, Y6 2019, Y7a, Y9 Prime, and Honor 8X are also listed.SPD / Unisoc Chipsets\nThe SPD / Unisoc section lists support for SC9863A, T606, T610, T612, T616, and T700 chipsets.\n\nMotorola Support\nThe Motorola section includes Universal Moto support and Motorola XT2503-4 support.\n\nSamsung Tools\nThe Samsung section contains general device operations and a service area. The general options include KG Remove ADB, Read Device Info, Activate ADB, and different reboot options.\n\nKG Remove ADB\nRead Device Info\nActivate ADB\nReboot System\nReboot Recovery\nReboot Download\nDNS Credit Service\nBuy Credit\nGenerate DNS\nHuawei Tools\nHuawei has options for reading device information through different connection modes. The flash section also includes a Firmware Flasher with slots for Base, Cust, and Preload files.\n\nRead Device Info via ADB\nRead Device Info via Fastboot\nRead Device Info via Huawei USB Update Mode\nFirmware Flasher\nBase partition file slot\nCust partition file slot\nPreload partition file slot\nRepartition option\nXiaomi Tools\nThe Xiaomi section includes two listed general operations. Smart Patch is available along with an ADB option for removing Mi.Smart Patch\nADB Remove Mi\nOppo Tools\nThe Oppo section contains ADB and Oplusreserve patch options. The listed functions include ADB Remove and patches for Oplusreserve2 and Oplusreserve3.\n\nADB Remove\nPatch Oplusreserve2\nPatch Oplusreserve3\nSPD / Unisoc Tools\nThe SPD / Unisoc section has several groups for general operations, flashing, backup and restore, diagnostics, and package management. The General section includes device detection, information reading, factory reset, safe format, GPT reading, NV backup, dump reading, bootloader options, and device disconnect.\n\nDetect Device\nRead Info\nFactory Reset\nSafe Format\nRead GPT\nBackup NV\nRead Dump\nFRP Remove\nUnlock Bootloader\nRelock Bootloader\nDisconnect Device\nSPD / Unisoc Flash\nThe flash section works with PAC files and automatically identifies the listed FDL1 and FDL2 partitions.\n\nFlash PAC Files\nAutomatic FDL1 Identification\nAutomatic FDL2 Identification\nBackup and Restore\nThe Backup / Restore section contains options to search, read, write, and erase specific partitions. The supplied information also mentions loading .bin image files for these operations.\n\nSearch Partition\nRead Partition\nWrite Partition\nErase Partition\nLoad .bin Image\nDiagnostic Tools\nThe Diagnostic section includes Super APK Remover. The supplied details describe an Android dynamic-partition/EROFS editor that can scan, patch misc data, and remove specific APKs.\n\nPackage Management\nThe Advanced section includes package management controls for APK files. These options cover installing, uninstalling, disabling, enabling, backing up, and restoring APKs.\n\nInstall APK\nUninstall APK\nDisable APK\nEnable APK\nBackup APK\nRestore APK\nMediaTek META Service\nThe MediaTek section is focused on META Mode operations. It includes options to enter META Mode, perform the listed META services, and exit META Mode when the operation is finished.\n\nMETA Factory Reset\nMETA Reset FRP\nMETA Patch\nBoot in META\nExit META Mode\nMotorola Tools\nThe Motorola section includes bootloader, patching, ADB, and flashing options. The Fastboot Flasher supports flashfile.xml, servicefile.xml, and individual .img partition files.\n\nBootloader Unlock\nPatch Misc\nPatch FRP\nADB Process\nADB Activate\nFastboot Flasher\nflashfile.xml Support\nservicefile.xml Support\nSingle .img Partition Support\nApplication Navigation\nThe main application navigation contains several sections for moving between different parts of the software. The listed top navigation items are Dashboard, Utilities, Solution & File, Profile, and Settings.\n\nDashboard\nUtilities\nSolution & File\nProfile\nSettings\nLive Status Panel\nThe interface also has a live status area on the right side. It contains a Log Console for application messages, connection information for USB or COM Port, CPU usage monitoring, license information, and a progress bar.\n\nReal-time Log Console\nUSB / COM Port Connection Status\nCPU Usage Monitor\nPremium License Type\nProgress Bar\nHow to Install GSM Family Tool v1.1.8\nThe supplied installation process starts with the GSM Family Tool RAR archive on the Windows desktop. The archive needs to be extracted before opening the program.\n\nFind the GSM Family Tool.rar archive on the desktop.\nRight-click the archive and select Extract to “GSM Family Tool”.\nWhen the password window appears, enter Royal123@ and click OK.\nAfter extraction finishes, open the newly created GSM Family Tool folder.\nInside the folder, find Loader.exe.\nRight-click Loader.exe and select Open.\nThe GSM Family Tool License Manager window will appear with the credentials already filled in.\nClick the purple LOGIN button to continue.\nIf Windows Security Alert appears, click Allow access to allow the application through the network.\nWait for the main GSM Family Tool dashboard to load.",
-      "downloads": 110,
+      "downloads": 111,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788689398003,
@@ -40823,7 +40823,7 @@
       ],
       "createdAt": 1789349876765,
       "description": "ON FIRE TOOL v2.9 Free Cra#CK Download\nON FIRE TOOL v2.9 Features\nON FIRE TOOL includes different sections for Android servicing and device management. Below is the list of the operations mentioned for this version.\n\nADB Services & Management\nRead Device Info – Check Model, Serial Number, IMEI, OS Version, Country Code, Operator MCC/MNC, and Lock Status.\nTransfer File ADB – Transfer files through ADB.\nInstall APK ADB – Install APK files using ADB.\nDelete Virus APK / Read Packages – Read installed packages and delete virus APK.\nPackage Manager PRO – Scan, search, filter risky or user apps, and uninstall packages.\nFRP ADB Mode (12-14) Generic.\nFRP Google Account OS 16.\nEnable ADB 2026 With QR / Quick Share.\nInstall Apps Store.\nMi & Xiaomi Operations\nDisabled Mi Account.\nErase Persist (Xiaomi Mi Account).\nErase FRP + Userdata + Persist Xiaomi (Full Clean).\nXiaomi / Honor / Huawei – Delete Google Play + Aurora.\nIT Xiaomi / Honor / Huawei – Full Bypass + TestDPC.\nSamsung Operations\nDisabled CID Manager Samsung.\nKG Locked Bypass OS 14-15 DNS iDevice.\nKG Locked All Patch OS 14 (Latest Patches).\nKG Locked Bypass OS 13-14 Active KG.\nKG Locked Bypass OS 12-14 Locked.\nCreate DNS KG LOCKED (Samsung Knox Guard Bypass).\nMotorola Operations\nMotorola Fastboot Flash Tool – Model Selection, Download ROM, Load XML, Custom Partition Flashing, and Auto Flash.\nFastboot Utilities – Getvar All, Erase Data, and Reboot.\nMotorola MDM Bypass.\nMotorola Carrier MDM Remove.\nGenerate DNS OEM GRIS – MDM MOTOROLA WHITE SCREEN.\nGenerate DNS MOTOROLA MDM (All Versions).\nMediaTek (MTK) & Chipset Operations\nErase Userdata (Factory Reset).\nErase FRP + Userdata.\nMTK Security Bypass.\nSPD Device Plugin Remove-Bypass.\nInfinix / Tecno Security Plugin Remove.\nMDM & Carrier Bypass\nMDM_Bypass_SecPlugin.\nMDM Bypass Kiosko & ATT.\nClaro / Telcel Carrier MDM Removal.\nUniversal MDM Remover.\nBlack Screen Solution.\nPlay Store MDM Fix.\nNokia 2024 MDM Bypass.\nNokia Legacy MDM Remove.\nMDM Relock Protection.\nIT Admin Android 15 (Work Profile Method).\nRemove Payjoy (Financial Tracking Restriction Bypass).\nRemove Claro / Telcel MDM (Sitic).\nHonor / Other ATT & KIOSKO MDM Bypass.\nDNS & Network Control Manager v2.0\nPre-built DNS Generation Profiles – Samsung KG, KIOSKO/IT 2026, MDM/Claro, Motorola White Screen, and Payjoy.\nCustom DNS Profile Builder – Add custom domains using line, comma, or mixed formats.\nApply DNS directly to connected device via ADB.\nQR Anti Play Protect – Block DNS.\nBlock Factory Reset DNS Changes.\nON FIRE App & Device Control\nInstall / Uninstall ON FIRE APP – Manages Device Owner permissions.\nInstall NetPatch VPN – Firewall Network Control.\nApple / iOS Operations\nAutoremove iCloud Apple ID & Password.\nHow to Install ON FIRE TOOL v2.9 Free\nThe installation file comes in a RAR archive. First, extract the archive, then open the setup file and complete the installation. Follow the steps below.\n\nStep 1: Extract the Downloaded Archive\nFind the downloaded file named ONFIRETOOL_V2.9_Free.rar on your computer. Right-click the file and select Extract to “ONFIRETOOL_V2.9_Free”.\n\nAfter extraction, a new folder named ONFIRETOOL_V2.9_Free will appear in the same location.\nStep 2: Open the Setup Installer\nOpen the extracted folder and find the file named ONFIRETOOL.exe. Double-click this file to start the installation wizard.\n\nThe setup window titled ON FIRE TOOL 2.9 Installation will appear.\n\nStep 3: Enter the Password and Install\nClick Next on the welcome screen. When the password field appears, enter:\n\ngsmyogesh.com\n\nClick Next again. Make sure Create a Desktop icon is checked, then click Install.\n\nWait for the green progress bar to complete. The installer will show the installation progress.\n\nStep 4: Finish the Installation\nWhen the setup is complete, uncheck Visit product web site. Keep Launch ON FIRE TOOL checked and click Finish.\n\nThe setup window will close, and the ON FIRE TOOL launcher will open automatically.\n\nStep 5: Log Into ON FIRE TOOL\nWhen the Welcome to On Fire! popup appears, click OK.\n\nOn the login window, enter your account email and password. The example details provided for the login are:\n\nEmail: gsmyogesh@free.com\nPassword: gsmyogesh\nClick LOGIN after entering your details. The authorization log will verify the information and open the main dashboard.\n\nDownload ON FIRE TOOL v2.9 Free\nON FIRE TOOL v2.9 Free comes with the installation file ONFIRETOOL.exe inside the downloaded archive. Extract the RAR file and follow the installation steps given above.\n\nUse the download button below to get the software.\n\nDownload ON FIRE TOOL v2.9 Free",
-      "downloads": 108,
+      "downloads": 133,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1789349876765,
@@ -41143,7 +41143,7 @@
       ],
       "createdAt": 1789611993404,
       "description": "GOAT UNLOCKER PRO v2.5.5 CraAck Free Download GOAT UNLOCKER PRO v2.5.5 Latest Version Download (Free Login)GOAT UNLOCKER PRO Features\nGOAT UNLOCKER PRO has different sections for phone operations, repair tools, and device management. Below is the full feature list provided for this version.\n\n1. Dashboard and Global Quick Operations\nThe Dashboard includes quick phone operations and a global tools panel. You can find device detection, logs, and navigation options in this section.\n\nFactory Reset\nPower Off Phone\nReboot to Bootloader\nRestart Phone\nRead Phone Info (INFO DEVICE)\nReboot to Recovery\nDetect Device (Auto-detect connected devices)\nTerminal Log Viewer\nClear Logs\nAnalyze Log with AI Color\nGOAT AI Assistant\nThe GOAT AI Assistant includes hardware and software diagnosis, FRP bypass guides, driver troubleshooting, and firmware suggestions.\n\nThe navigation bar includes these sections:\n\nDashboard\nSamsung KG/MDM\nSamsung HMD\nVivo/Oppo\nSuper Editing\nOnline HXD\nQualcomm MDM\nGOAT MDM Files\nMeta/Diag\n2. Samsung KG / MDM Pro Suite\nThe Samsung KG/MDM section contains different tabs for Knox Guard, MDM, Ultra Bypass, specialized repairs, permanent fixes, and utilities.\n\nKnox Guard Tab\nKG Locked Active\nKG Broken Complete\nCheck KG Status\nActivate / Complete KG operations\nMDM Bypass Tab\nAdvanced Bypass 2026 (ADVANCED 2026)\nBypass Method 1 (METHOD 1)\nBypass Method 2 (METHOD 2)\nMDM Cleanup / Reset (CLEANUP)\nUltra Bypass Tab\nUltra Bypass Pro (2025) (ULTRA PRO)\nRun Legacy 2025 (LEGACY 2025)\nRun Legacy 2026 (LEGACY 2026)\nSpecialized Tab\nMicron Fix (A065F) (MICRON FIX)\nGOAT Auth Repair (AUTH REPAIR)\nAnti-Relock Fix (ANTI-RELOCK)\nPermanent Fix Tab\nSelect Patch File (BROWSE FIX)\nFlash Permanent Patch (APPLY PATCH)\nUtilities Tab\nBypass FRP (BYPASS FRP)\nReboot (REBOOT)\n3. Samsung HMD / PayJoy Suite\nThe Samsung HMD section contains HMD reset, PayJoy, Knox, and EFS repair options.\n\nHMD Reset Tab\nHMD Security Reset\nReset HMD (ADB) (RESET HMD)\nPayJoy Remove Tab\nPayJoy Removal Suite\nRemove PayJoy (EDL) (REMOVE PAYJOY)\nKnox Bypass Tab\nKnox Guard Bypass\nBypass KG (BYPASS KG)\nEFS Repair Tab\nEFS Partition Repair\nWipe EFS / Repair (WIPE REPAIR)\n4. Vivo / Oppo Security Suite\nThe Vivo/Oppo section includes OPPO Tools, VIVO Tools, MDM Removal, and Advanced sub-tabs. The listed options include unlock and repair operations.\n\nUnlock Tools\nBootloader Unlock\nDeep Testing\nFRP Lock Remove\nAuth Bypass\nRepair Tools\nFlash Stock ROM\nRepair IMEI\nReset eMMC\nBaseband Repair\n5. Super Editing Suite\nThe Super Editing section includes firmware file selection and patch operations. It also shows session statistics while processing.\n\nBrowse Firmware (BROWSE FIRMWARE)\nUltra Fast Patch\nFast Patch (with Backup)\nPatterns Found\nBytes Modified\nProcessing Time Tracking\n6. Online HXD Suite\nThe Online HXD section includes binary file loading, smart patch operations, a hexadecimal stream viewer, and cloud portal options.\n\nBinary Source\nLoad Binary File\nPatch Operations\nApply Smart Patch\nHexadecimal Stream Viewer\nCloud Portal\nAnalyze Partitions\nOpen Online Engine\n7. Qualcomm MDM / EDL Pro\nThe Qualcomm section contains MDM, EDL, EFS, and utility tabs. These sections include partition, data, and device operations.\n\nMDM Bypass Tab\nUnlock MDM (9008) (RUN BYPASS)\nCloud Bypass Fix (RUN REPAIR)\nEDL Special Tab\nRead Partition GPT\nWipe MDM Data\nRead Sectors\nErase Data\nEFS Security Tab\nWipe EFS (Diag) (WIPE EFS)\nWrite QCN Data\nRestore QCN\nUtilities Tab\nReboot to EDL (REBOOT)\nFactory Reset (EDL) (RESET DEVICE)\n8. Meta & Diag Protocols\nThis section includes MTK Native and Transsion Auth options.\n\nMTK Native Tab\nSelect Device Port (Auto-detect COM/USB Port)\nAuto-Scan Device\nBROM Handshake (START HANDSHAKE)\nRead Meta Info (READ INFO)\nMeta Factory Reset (FACTORY RESET)\nTranssion Auth Tab\nTranssion Auth System\nRun Direct Auth Bypass (RUN DIRECT BYPASS)\n9. SPD / MTK Bypass & ADB Utilities\nThe SPD/MTK section includes platform selection, connection modes, bypass operations, and ADB script tools.\n\nPlatform and Connection Selection\nMediaTek (MTK)\nSpreadtrum (SPD)\nFlash Mode\nBROM Mode\nDiag Mode\nBypass Operations\nBypass FRP (MTK)\nBypass FRP (SPD)\nFactory Reset\nBootloader Unlock\nMTK ADB G1 / Script Tools\nRead System Info\nView GOAT Bypass Details\nRun GOAT Script (RUN SCRIPT)\nSamsung App Center\nSamsung KG/MDM Merger (2025/2026)\nSamsung Smart Bypass\nHow to Install GOAT UNLOCKER PRO v2.5.5\nBelow are the installation steps for GOAT UNLOCKER PRO. The package includes a RAR file, setup folder, and Load folder.\n\nStep 1: Extract the RAR File\nFirst, locate the file named GOAT-Unlocker-2.5.5_Free_Activate.rar. Right-click on the file and select Extract here, or open it with WinRAR.\n\nWhen the password window appears, enter gsmyogesh and click OK. The files will be extracted into a folder.\n\nStep 2: Open the Setup File\nOpen the extracted folder and find the Setup folder. Inside it, locate GOAT-Unlocker-2.5.5.exe.\n\nRight-click on the setup file and select Run as administrator to start the installation.\n\nStep 3: Start the Installation Wizard\nWhen the setup window opens, click Next. On the License Agreement screen, select I accept the agreement and click Next again.\n\nKeep the default installation path and continue by clicking Next. If a warning appears that the folder already exists, click Yes.\n\nStep 4: Select Installation Options\nOn the shortcut screen, uncheck the option to create a desktop shortcut. Click Next and then click Install to begin the installation.\n\nIf the setup asks about active background applications, select Automatically close the applications and click Next.\n\nStep 5: Close Active Processes If Installation Gets Stuck\nIf the installation progress stops or freezes, you can check the active background processes through Task Manager.\n\nRight-click on the Windows taskbar.\nOpen Task Manager.\nFind the active background process, such as adb.exe.\nRight-click the process and select End task.\nAfter closing the active process, check the installation window again.\n\nStep 6: Complete the Installation\nWait for the installation progress to finish. Once the setup is complete, click Next and then click Finish.\n\nStep 7: Open the Loader\nGo back to the main extracted directory and open the Load folder. Find GSMGoatMDM_Load.exe, right-click it, and select Run as administrator.\n\nStep 8: Copy the HWID\nInside the key generator tool, click the COPY HWID button. Then click GET FREE ACTIVATION KEY. This will open an activation webpage in your default browser.\n\nStep 9: Generate the Activation Key\nOn the activation webpage, scroll down until you find the ENTER YOUR HWID field. Paste your HWID into the field and click GENERATE KEY NOW.\n\nWhen the Activation Key appears, select and copy it.\n\nStep 10: Register the License\nReturn to the Key Generator window and paste the copied key into the REGISTER LICENSE field. Click REGISTER LICENSE.\n\nClick OK on the confirmation pop-up. Then click Start Patch.\n\nIf a Security Warning appears, click Yes. If Windows Firewall asks for permission, select Allow access.\n\nStep 11: Login to the Software\nOpen the login screen and enter your registered Email/Username and Password. Click LOGIN.\n\nWhen the following prompt appears, click Continue.\n\nStep 12: Open the Main Dashboard\nAfter login, the main dashboard of GOAT UNLOCKER PRO will launch. You can find the different sections and select the operations available in the menu.\n\nDownload GOAT UNLOCKER PRO v2.5.5\nHere you can download the GOAT UNLOCKER PRO v2.5.5 package. The download package includes the RAR file, setup folder, and Load folder mentioned in the installation steps.",
-      "downloads": 9,
+      "downloads": 12,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1789612009076,
@@ -41196,7 +41196,7 @@
       ],
       "createdAt": 1789612675242,
       "description": "Sharp Odin Protocol By Anas v1.0.0 Free Download\nFeatures\nLoad BL firmware packages\nLoad AP firmware packages\nLoad CP firmware packages\nLoad CSC firmware packages\nSupport TAR, MD5 and LIMRA firmware bundles\nSelect a PIT file\nRead PIT from the connected device\nLZ4-aware partition detection\nLZ4 partition flashing\nAuto Reboot option\nRepartition option\nUpdate BOOT option\nClear EFS option\nLive color-coded console log\nPer-file progress bar\nDark Guna.UI2 interface\nFrameless window design\nRounded interface controls\nWhat's New in Sharp Odin Protocol v1.0.0\nFirst public open-source release of Sharp Odin Protocol By Anas.\nAdded support for loading BL, AP, CP and CSC firmware bundles.\nAdded support for TAR, MD5 and LIMRA packages.\nAdded PIT file selection and Read PIT from device.\nAdded LZ4-aware partition detection and flashing.\nAdded Auto Reboot, Repartition, Update BOOT and Clear EFS options.\nAdded a live color-coded console log with per-file progress information.\nAdded a dark Guna.UI2 interface with a frameless window and rounded corners.\nHow to Install Sharp Odin Protocol v1.0.0\nDownload the Sharp Odin Protocol v1.0.0 package.\nExtract the downloaded archive if it is provided as a ZIP file.\nOpen the extracted tool folder.\nRun the Sharp Odin Protocol application.\nIf Windows asks for permission, allow the application to run.\nThe Samsung Advanced Flasher interface will open and you can start loading the required firmware files.",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1789612675242,
@@ -41236,7 +41236,7 @@
       ],
       "createdAt": 1789619393042,
       "description": "Xiaomi OTA Guard Pro v2.0.0 PRO Free Download\nXiaomi OTA Guard Pro v2.0.0 PRO\nWhen I checked the provided screenshot, the program was connected with a Xiaomi device and the main window was displaying the device and software information. The tool has a dark interface with the main controls placed in the center of the window.\n\nThe top section shows the connected device, a refresh button and an analysis button. Below that, there are separate sections for device information and security or operation settings.\n\nThe program title shows Xiaomi OTA Guard Pro 2.0.0 PRO, and the developer credit displayed in the interface is by_kamil (kamil bilgit).\n\nVisible Features\nBlock OTA Updates – The main window has a button for blocking OTA updates.\nReopen OTA Updates – A separate button is available to restore or reopen OTA updates.\nOTA Status Analysis – The tool can analyze the OTA update status shown by the connected device.\nRestart Device – There is a button to restart the connected device.\nDeep Protection – A deep protection option is visible under Security and Operation Settings.\nNotification and AppOps Plan Lock – The interface includes an option related to notification and AppOps plan locking.\nOTA Cache and Red Notification Badge Removal – The program shows an option to remove the OTA cache and red notification badge.\nDevice Analysis – The tool displays device hardware and software information after analysis.\nLive Terminal Report – The bottom section displays operation logs and analysis results.\nDevice Information Shown in the Screenshot\nThe connected device shown in the log is a Redmi Note 13 Pro. Its model number is 23117RA68G and the codename shown is emerald.\n\nDevice: Redmi Note 13 Pro\nModel: 23117RA68G\nCodename: emerald\nHyperOS / MIUI: HyperOS\nAndroid Version: Android 14\nSecurity Patch: 2024-12-01\nUpdater Package: com.android.updater\nOTA Status Analysis\nThe screenshot shows the OTA status analysis result for the connected Redmi Note 13 Pro. The result says that the OTA update status is closed or disabled.\n\nThe log also displays 100% protection for the OTA protection section. It shows the updater package as locked for User 0 and the system setting related to automatic updates as disabled.\n\nOTA Update Status: Closed / Disabled\nSecurity Protection: 100%\nUpdater Package: com.android.updater\nUser: User 0\nSystem Setting Lock: Automatic Update Disabled\nThe final result visible in the terminal says that Xiaomi OTA updates are completely disabled on the shown device.\n\nSecurity and Operation Settings\nOn the right side of the main window, three settings are visible. These are related to protection, notification and OTA data.\n\nDeep Protection\nNotification and AppOps Plan Lock\nDelete OTA Cache and Red Notification Badge\nThe screenshot does not provide further details about how each internal option works, so I am only listing what is visible in the program.\n\nHow the Tool Interface Works\nConnect the Xiaomi device to the computer.\nThe connected device is shown in the device selection area.\nUse the Refresh button when needed.\nUse the OTA Status Analysis option to check the OTA status.\nThe analysis result is displayed in the live terminal report section.\nThe main window also provides options for blocking or reopening OTA updates.\nThe Restart Device button can be used to restart the connected device.\nDeveloper Credit\nXiaomi OTA Guard Pro is credited in the provided software screenshot to Kamil Bilgit. The developer name is also displayed inside the program as by_kamil (kamil bilgit).\nDeveloper: Kamil Bilgit",
-      "downloads": 9,
+      "downloads": 15,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1789619393042,
@@ -41276,7 +41276,7 @@
       ],
       "createdAt": 1789651616106,
       "description": "VG Tool V5.1 Crack With Keygen Free Download",
-      "downloads": 0,
+      "downloads": 3,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1789795226953,
@@ -41316,10 +41316,10 @@
       ],
       "createdAt": 1789739132726,
       "description": "Unlock Tool OFFLINE BY GCT_Team.rar Setup Download",
-      "downloads": 0,
+      "downloads": 14,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
-      "lastModified": 1789905542753,
+      "lastModified": 1790072086110,
       "link": "https://www.mediafire.com/file_premium/tdj5b74o7esq599/GCT_TEAM_Unlock_Tool_Latest_VIP.rar/file",
       "links": [
         {
@@ -41328,6 +41328,10 @@
             {
               "password": "",
               "url": "https://www.mediafire.com/file_premium/tdj5b74o7esq599/GCT_TEAM_Unlock_Tool_Latest_VIP.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1N8nzDX_IxWECPmMRCzyjc3h0wBxDfvW7/view?usp=sharing"
             }
           ]
         },
@@ -41410,7 +41414,7 @@
       ],
       "createdAt": 1789787666854,
       "description": "WAAGWANTECH Fastboot Flashing Tool V1.0 Download\nWAAGWANTECH Fastboot Tool Features\nFastboot bootloader unlock\nVBMETA container selection\nGSI image selection\nAutomatic VBMETA file detection\nAutomatic GSI image detection\nFastbootD reboot during the workflow\nVBMETA flashing to vbmeta_a\nProduct logical partition handling\nGSI flashing to system_a\nMetadata partition erase\nUserdata formatting\nAutomatic device reboot after the process\nScrolling process log\nConfirmation before starting the flash\nHardware ID based activation\nAuthentication token system\nWindows clipboard paste for the activation token\nActivation ScreenBefore reaching the flashing window, the program shows a separate activation screen. It displays the Hardware ID generated by the program.\n\nI like that the Hardware ID can be copied directly from the activation window. There is also a token input box and a button called FORCE PASTE FROM WINDOWS, which can paste the token from the Windows clipboard.\n\nAfter entering the token, clicking ACTIVATE ENGINE checks the activation information. If it is accepted, the activation window closes and the main program opens.\n\nVBMETA File Selection\nThe first file section in the main window is for the VBMETA container. You can enter the file path manually or click BROWSE and select the file from your computer.\n\nThe program also checks its own folder for two names: vbmeta_a.bin and vbmeta.img. If one is found, the path can be filled automatically.\n\nGSI Image SelectionThe second file section is for the GSI image. It is labelled GSI IMAGE (.IMG) in the tool.\n\nThere is another Browse button for selecting the image manually. The automatic search also checks the tool folder for files matching lineage*.img and system*.img.\n\nHow to Use WAAGWANTECH Fastboot Tool\nOpen WAAGWANTECH Fastboot Flashing Tool V1.0.0.\nCheck the Hardware ID shown on the activation screen.\nCopy the Hardware ID if you need to provide it for activation.\nEnter the authentication token in the token field.\nClick ACTIVATE ENGINE.\nAfter activation, the main flashing window will open.\nSelect the VBMETA file in the VBMETA CONTAINER section.\nSelect the required GSI image in the GSI IMAGE (.IMG) section.\nIf the files are already in the tool folder, check whether they were detected automatically.\nConnect the device in the required Fastboot mode.\nClick INITIATE AUTHORITATIVE FLASH.\nConfirm the operation when the confirmation box appears.\nKeep an eye on the log window while the process is running.\nThe tool runs the Fastboot operations and reboots the device at the end.\n\nWhat Happens During Flashing\nOnce the flashing process starts, the tool first writes FLASH STARTED... in the log area.\n\nThe workflow then runs the Fastboot bootloader unlock command and flashes the selected VBMETA file to vbmeta_a. After that, the device is sent to FastbootD and the program waits for the next part of the process.\n\nThe tool then attempts to remove the product_a and product_b logical partitions. The selected GSI image is flashed to system_a.After the system image operation, the tool erases metadata and formats userdata as ext4. Finally, it sends a reboot command.\n\nAutomatic File Detection\nYou can keep the image files in the same folder as the program and let the tool look for them. This is useful when you do not want to browse for every file each time.\n\nFor VBMETA, the program looks for:\n\nvbmeta_a.bin\nvbmeta.img\nFor the GSI image, it looks for:\n\nlineage*.img\nsystem*.img\nLog Window\nThe main window has a large black scrolling log area. The flashing routine writes messages into this section while it is running.",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1789787666854,
@@ -41444,45 +41448,218 @@
       "unrarPassword": ""
     },
     "f_mu9ruzid_8wb8hpla2": {
-      "name": "AKS Fastboot Firmware Flasher V1.0",
-      "folderId": "f_mq0uduoi_4okvszeb9",
-      "size": "4.5 MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47i-gY5rKnuJ_HKUhys9P7nWyfUNeQWyVaCqVneySGFbpxo5z4CEyCxdAc5CY04_8-m71jkgj-PM46TWbCHlndErqM_2OVSLazCMyvDlzipXc6TEAZjtfrHiUZFD6Am7IdbWwK703WqgPSrqBMduzJVL9196q8NbZNtpcLoFpU92RSFuQtCN6bI5aZ2Jx/w640-h420/AKS%20Fastboot%20Firmware%20Flasher%20V1.0%20.png",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47i-gY5rKnuJ_HKUhys9P7nWyfUNeQWyVaCqVneySGFbpxo5z4CEyCxdAc5CY04_8-m71jkgj-PM46TWbCHlndErqM_2OVSLazCMyvDlzipXc6TEAZjtfrHiUZFD6Am7IdbWwK703WqgPSrqBMduzJVL9196q8NbZNtpcLoFpU92RSFuQtCN6bI5aZ2Jx/w640-h420/AKS%20Fastboot%20Firmware%20Flasher%20V1.0%20.png",
         "https://gsmyogesh.com/wp-content/uploads/2026/09/image-17-1024x576.png"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "aks-fastboot-firmware-flasher-v10",
+      "createdAt": 1789906071109,
       "description": "AKS Fastboot Firmware Flasher V1.0 \nAKS Fastboot Firmware Flasher V1.0 is a Windows firmware flashing tool made for writing firmware through Fastboot and FastbootD. The tool can handle different firmware formats, including Xiaomi Fastboot firmware, Qualcomm XML firmware, MTK V5 Scatter.txt and MTK V6 Scatter.xml.\nSoftware Name\tAKS Fastboot Firmware Flasher\nVersion\tV1.0\nDeveloper Aung Kyaw Soe",
-      "downloads": 0,
-      "link": "https://1drv.ms/u/c/362938347b225930/IQDhvOUNToXcSJVBjG7_fbROAbe-I33epNwHuohBqppZRCU?e=swKZfy",
+      "downloads": 11,
+      "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
-      "published": true,
+      "lastModified": 1789906071109,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQDhvOUNToXcSJVBjG7_fbROAbe-I33epNwHuohBqppZRCU?e=swKZfy",
       "links": [
         {
           "label": "AKS Fastboot Firmware Flasher V1.0",
           "urls": [
             {
-              "url": "https://1drv.ms/u/c/362938347b225930/IQDhvOUNToXcSJVBjG7_fbROAbe-I33epNwHuohBqppZRCU?e=swKZfy",
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQDhvOUNToXcSJVBjG7_fbROAbe-I33epNwHuohBqppZRCU?e=swKZfy"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/K0QmwYDb#XkMQCRmvMvbqCYLOcNXf7h-UKCra-uefHxCbwfdNP-Y"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/152YWbcRwrHQHtKUvWkTiNg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "AKS Fastboot Firmware Flasher V1.0",
+      "password": "",
+      "publishUrl": "aks-fastboot-firmware-flasher-v10",
+      "published": true,
+      "size": "4.5 MB",
+      "unrarPassword": ""
+    },
+    "f_mucj0h3t_edyeenhta": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh72BwXFE5Pa7mTVzpRrB6xfjrDM6jVIEtHySG2Qqve5l942skSDmWGTaAsKiigc9evK7SAAjeuNutoeRZtV5KU7iK7IvSw53fIm88ttNAOEtLbeIe7JGI92AANxOePzehTatreVo4keij6DqpIIL7MnvMOtnoeAR6DjIWDUL6fbYBNhj2RNGJP6XWfvrN8/w640-h414/72FLASHER%20Lite%20Offline%20Tool%20.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh72BwXFE5Pa7mTVzpRrB6xfjrDM6jVIEtHySG2Qqve5l942skSDmWGTaAsKiigc9evK7SAAjeuNutoeRZtV5KU7iK7IvSw53fIm88ttNAOEtLbeIe7JGI92AANxOePzehTatreVo4keij6DqpIIL7MnvMOtnoeAR6DjIWDUL6fbYBNhj2RNGJP6XWfvrN8/w640-h414/72FLASHER%20Lite%20Offline%20Tool%20.jpg"
+      ],
+      "createdAt": 1790072609177,
+      "description": "72FLASHER Lite Offline Tool Free Download .\n72FLASHER Lite Latest Version Download (Free Offline Tool)\n72FLASHER Lite is a free portable tool from Khant Sithu Win. It works offline and does not require login or activation. The program includes basic options for ADB, UFS Check, reboot modes and partition management. It can be launched directly from the EXE file without installing the program.\n\n\nFeatures\nPortable EXE - Run the program directly without installing it.\nFree Offline Tool - The tool is designed to work offline.\nNo Login - No account login is required to open the program.\nNo Activation - There is no activation step before using the tool.\nRead Info - Includes an option to read device information.\nUFS Check - Provides a separate UFS checking option.\nDevice Scan - The Scan option is available for detecting a connected device.\nReboot System - Reboot a device to the system.\nReboot Recovery - Includes an option to reboot to Recovery mode.\nReboot Sideload - Includes a Sideload reboot option.\nReboot Fastboot - Provides a Fastboot reboot option.\nReboot Fastbootd - Provides a Fastbootd reboot option.\nMi Acc[adb] - This option is available inside the Reboot Options menu.\nFastboot Fix 1 - Includes a Fastboot Fix 1 option.\nFastboot Fix 2 - Includes a Fastboot Fix 2 option.\nFRP Erase - An option named frp erase is available in the menu.\nReboot EDL - Includes a reboot edl option.\nPartition Manager - Manage the available partition list through the Partition[ADB] section.\nPartition Search - Search for a partition by name.\nRefresh List - Refresh the partition list.\nRead, Write and Erase - Partition Manager includes Read, Write and Erase buttons.\nBAT File Selection - Includes an option to select a BAT file.\nDevice Manager - A Dev Mgr option is available on the main interface.\n\nHow to Use 72FLASHER Lite\nDownload the 72FLASHER Lite portable program.\nExtract the downloaded file if it is provided in a compressed archive.\nOpen the 72FLASHER Lite EXE file.\nThe program will launch directly without a setup process.\nConnect the device if you want to use the device related functions.\nUse the Scan option to check for the connected device.\nChoose the required function from the main interface.\nFor partition related work, open the Partition[ADB] section.\n\nDownload 72FLASHER Lite",
+      "downloads": 0,
+      "folderId": "f_mp6sjxdd_c186cvizt",
+      "isLink": false,
+      "lastModified": 1790072609177,
+      "link": "https://mega.nz/file/jwgT2KgB#hWOA22azaAAOQN3W5zo2WIDL_nD9djCUX-f0rdrdM2Q",
+      "links": [
+        {
+          "label": "72FLASHER Lite Offline Tool",
+          "urls": [
+            {
+              "password": "72lite",
+              "url": "https://mega.nz/file/jwgT2KgB#hWOA22azaAAOQN3W5zo2WIDL_nD9djCUX-f0rdrdM2Q"
+            },
+            {
+              "password": "72lite",
+              "url": "https://drive.google.com/file/d/1xTfvulrswcfzkd4kKtl06NkIiE2_Xsci/view?usp=sharing"
+            },
+            {
+              "password": "72lite",
+              "url": "https://1024terabox.com/s/1DXYzM3UXKO5mMWrArZzy4Q"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "72FLASHER Lite Offline Tool",
+      "password": "",
+      "publishUrl": "72flasher-lite-offline-tool",
+      "published": true,
+      "size": "23.9 mb",
+      "unrarPassword": "72lite"
+    },
+    "f_mucj8uol_igpo5ru9z": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinppX_GV8vgj9h47G7vpRa3n4CE7bl2SwtTxoFyj5nXNKz7IjtELR_n_Xt5-RHytVhyqIkSIuwbsK7yYQ7Ej1Yebr-Ftj7xeHTjTw7Z3QHowbdgYLSIkLsPMFP5eWS9Ps8XxQAI6BpGRrT0MNE4ewo5cyxM0z5e-jG2OmMXllis80JabzG7w7-p3WJY8p3/w640-h364/Mi%20ACC%20Bypass%20Firmware%20TTA%20Edit.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinppX_GV8vgj9h47G7vpRa3n4CE7bl2SwtTxoFyj5nXNKz7IjtELR_n_Xt5-RHytVhyqIkSIuwbsK7yYQ7Ej1Yebr-Ftj7xeHTjTw7Z3QHowbdgYLSIkLsPMFP5eWS9Ps8XxQAI6BpGRrT0MNE4ewo5cyxM0z5e-jG2OmMXllis80JabzG7w7-p3WJY8p3/w640-h364/Mi%20ACC%20Bypass%20Firmware%20TTA%20Edit.jpg"
+      ],
+      "createdAt": 1790073000021,
+      "description": "Mi ACC Bypass Firmware TTA Edit Free Download.\n\nFeatures\nPatches NON-HLOS.bin by replacing multiple bootloader hex patterns with TTAMIG3 B0\nClears specific flags inside persist.bin to make it flashable\nUpdates rawprogram0.xml to rawprogram5.xml so the persist partition gets a proper filename\nAutomatically creates backup copies — NON-HLOSO.bin and persistO.bin — before patching\nRuns as a simple Windows batch script with a blue command prompt interface\nShows clear on-screen messages like \"Patching Firmware\" and \"Patch Finished\"\nOpens the official TTA Mi G3 website at the end of the patching process\nWorks only on Windows and requires sfk.exe in the same folder\n\nWhat's New (Changelog)\nImproved hex pattern replacement for NON-HLOS.bin with nine different bootloader codes\nAdded persist.bin patching to clear the fdsd flag\nExtended XML patching support from rawprogram0.xml up to rawprogram5.xml\nAutomatic backup creation added before any file is modified\nCleaner on-screen messages with proper timing between each step\nCompletion message updated to \"Patch Finished now can flash with tools\"\n\nHow to Install\nDownload the ZIP file from the link given below.\nExtract the downloaded archive using any file extractor.\nMake sure sfk.exe is present in the same folder as the batch file.\nPlace NON-HLOS.bin, persist.bin, and rawprogram0.xml to rawprogram5.xml in that folder.\nRight click on Mi_ACC_Bypass_Firmware_Channel_TTA_EDIT.bat and Run as Administrator.\nWait for the blue window to finish the patching process.\nOnce it shows \"Patch Finished now can flash with tools\", the files are ready.\nNow you can flash the patched firmware using EDL tools.",
+      "downloads": 0,
+      "folderId": "f_mq0uduoi_4okvszeb9",
+      "isLink": false,
+      "lastModified": 1790073073595,
+      "link": "https://mega.nz/file/KpR1gKZZ#SmML0eQxZK9U5D9qBrs4hGu0AFrQpl_6izdUZ9CNutU",
+      "links": [
+        {
+          "label": "Mi ACC Bypass Firmware TTA Edit",
+          "urls": [
+            {
+              "password": "tta",
+              "url": "https://mega.nz/file/KpR1gKZZ#SmML0eQxZK9U5D9qBrs4hGu0AFrQpl_6izdUZ9CNutU"
+            },
+            {
+              "password": "tta",
+              "url": "https://drive.google.com/file/d/1jj7eCyuD4V2bJ5MXBUeEsL2Q_ZF0MnZh/view?usp=sharing"
+            },
+            {
+              "password": "tta",
+              "url": "https://1024terabox.com/s/1u_tdHYvGyIrCyo_6bmZPhA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Mi ACC Bypass Firmware TTA Edit",
+      "password": "",
+      "publishUrl": "mi-acc-bypass-firmware-tta-edit",
+      "published": true,
+      "size": "853KB",
+      "unrarPassword": "tta"
+    },
+    "f_mucjjizk_766rqcl7i": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiOI4E-A1IQYclYZKsWarAHCkwRPMns-YnGrOSf1isU-4eg1WRmg0Mxwq1pOshtgXRag_dDaoImCqc1N334RqXMxki9TPQNi4o5zKl41P3n8NX_hGr-2-rCzFTnNbZ_EYnjlgUSc81KamXALejCGKDSzAFlwbkLsLTiOGxlMijAwRr9ZuVIgSef_Y0AG9/w640-h364/Huawei%20Firmware%20Rename%20Flash%20TTA.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiOI4E-A1IQYclYZKsWarAHCkwRPMns-YnGrOSf1isU-4eg1WRmg0Mxwq1pOshtgXRag_dDaoImCqc1N334RqXMxki9TPQNi4o5zKl41P3n8NX_hGr-2-rCzFTnNbZ_EYnjlgUSc81KamXALejCGKDSzAFlwbkLsLTiOGxlMijAwRr9ZuVIgSef_Y0AG9/w640-h364/Huawei%20Firmware%20Rename%20Flash%20TTA.jpg"
+      ],
+      "createdAt": 1790073498080,
+      "description": "Huawei Firmware Rename Flash TTA Free Download.\nFeatures\nCollects UPDATE.APP and PTABLE.APP files from three different Huawei firmware folders\nRenames PTABLE.APP files into 1.APP, 2.APP, and 3.APP based on their source folder\nRenames UPDATE.APP files into 4.APP, 5.APP, and 6.APP based on their source folder\nCreates an output folder automatically in the same directory as the batch file\nDeletes old 1.APP to 6.APP files before starting a fresh run\nGenerates a small log file called output.txt inside the output folder\nShows a clear COMPLETED message with the output and log file paths\nWorks only on Windows and needs the firmware folders placed in the right location\n\nHow to Install\nDownload the batch file from the link given below.\nExtract the downloaded archive using any file extractor.\nPlace the batch file in the same folder where your firmware folders are present.\nMake sure the folders are named update_sd_base, update_sd_cust_*, and update_sd_preload_*.\nRight click on Huawei_Firmware_Rename_Flash_TTA.bat and Run as Administrator.\nWait for the script to finish moving and renaming the files.\nOnce it shows COMPLETED, open the output folder to find 1.APP to 6.APP.\nNow you can use these renamed files with Huawei SD card flashing tools.\nDownload Huawei Firmware Rename Flash TTA",
+      "downloads": 0,
+      "folderId": "f_mq0tdwni_0kyym5hjm",
+      "isLink": false,
+      "lastModified": 1790073498080,
+      "link": "https://drive.google.com/file/d/1gB5ZuwGk9aSa9dR27d8HrfeiIy007HFQ/view",
+      "links": [
+        {
+          "label": "Huawei Firmware Rename Flash TTA File",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1gB5ZuwGk9aSa9dR27d8HrfeiIy007HFQ/view"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1EqKXqzkCho-rUbLmPgxdKG_x3fRBjZ4T/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1faYQPjpz5AG6qR2kkWpi1w"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Huawei Firmware Rename Flash TTA",
+      "password": "",
+      "publishUrl": "huawei-firmware-rename-flash-tta",
+      "published": true,
+      "size": "2.38kb",
+      "unrarPassword": ""
+    },
+    "f_mucjriel_h1x5cra6m": {
+      "name": "OPLUS EDL Tool V3.2",
+      "folderId": "f_mpphzpaq_kkd8xpdsf",
+      "size": "40.6mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDuhGGHjDMF_bqqiDsEV39M-cafigyXJXqpZuD_qQMtNmEO-gzgZIckaLW6KqD5fIUlRjaOeH_HaKLls0V7wZUhOV8JzUauDf4xZ926K_VATZonNRz-HlcxVVriTDa0wKrj-6MTqxHgo5A8XLJLeUQTWX_YMP4g_Jmkh_ZpBD7PeI_tCcA85W724hyNSKX/w640-h424/OPLUS%20EDL%20Tool%20V3.2%20DOwnload.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDuhGGHjDMF_bqqiDsEV39M-cafigyXJXqpZuD_qQMtNmEO-gzgZIckaLW6KqD5fIUlRjaOeH_HaKLls0V7wZUhOV8JzUauDf4xZ926K_VATZonNRz-HlcxVVriTDa0wKrj-6MTqxHgo5A8XLJLeUQTWX_YMP4g_Jmkh_ZpBD7PeI_tCcA85W724hyNSKX/w640-h424/OPLUS%20EDL%20Tool%20V3.2%20DOwnload.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "oplus-edl-tool-v32",
+      "description": "OPLUS EDL Tool V3.2 DOwnload. \nOPLUS EDL Tool v3.2026.028 Changelog\nFixes\nFixed the Cloud ELF problem from the previous version.\nFixed an issue where the cloud-based bootstrapping feature could not be activated properly.\nImproved software stability after the fix.\nV3 Series Status\nThis is the final maintenance update for the V3 series.\nNo more new features will be added to V3.\nDevelopment has now moved to the upcoming V4 major release.\nThe team will now focus on preparing and releasing V4.",
+      "downloads": 0,
+      "link": "https://mega.nz/file/XpITCQoJ#2A_xFGCcGwJt9CgB5VbQXszNiQ-G4p6QMr-MV18LuSI",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "OPLUS EDL Tool V3.2",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/XpITCQoJ#2A_xFGCcGwJt9CgB5VbQXszNiQ-G4p6QMr-MV18LuSI",
               "password": ""
             },
             {
-              "url": "https://mega.nz/file/K0QmwYDb#XkMQCRmvMvbqCYLOcNXf7h-UKCra-uefHxCbwfdNP-Y",
+              "url": "https://drive.google.com/file/d/1h6KrK5KSo4hFj2yIX9ORkviO5o_Gw8u3/view?usp=sharing",
               "password": ""
             },
             {
-              "url": "https://1024terabox.com/s/152YWbcRwrHQHtKUvWkTiNg",
+              "url": "https://1024terabox.com/s/1ECdZaaFJ2Mm5wC1HtKmnyg",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "OplusEDLTool_release_v2.0.1",
+          "urls": [
+            {
+              "url": "https://drive.google.com/file/d/1UZbWXLm9BMznIzjIJRvOaKtZ3GVXcBjP/view?usp=sharing",
+              "password": ""
+            },
+            {
+              "url": "http://www.mediafire.com/file/zawzdsnermo046u/OplusEDLTool_release_v2.0.1.zip",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1789906071109,
-      "lastModified": 1789906071109
+      "createdAt": 1790073870573,
+      "lastModified": 1790073870573
     }
   },
   "images": {
@@ -51686,7 +51863,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-20T12:08:09.171Z",
+    "createdAt": "2026-09-22T10:44:36.964Z",
     "version": "2.0",
     "sections": 4
   }
