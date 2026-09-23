@@ -136,14 +136,6 @@
       "order": 2,
       "parentId": "f_mp6secr7_xnbhfkh5w"
     },
-    "f_mp9mxftd_pvqs6uine": {
-      "createdAt": 1779013875793,
-      "icon": "",
-      "lastModified": 1779013875793,
-      "name": "IDM Free",
-      "order": 0,
-      "parentId": "f_mp6svh7k_05u4ub0r8"
-    },
     "f_mpajwfy2_5pvx4efm9": {
       "createdAt": 1779069256634,
       "icon": "",
@@ -975,6 +967,14 @@
       "name": "ADB Enable CODE",
       "order": 0,
       "parentId": "f_mp6sf7er_yrsiah0rt"
+    },
+    "f_mudhijp0_6qtcol4bq": {
+      "createdAt": 1790130559284,
+      "icon": "",
+      "lastModified": 1790130559284,
+      "name": "Download Manager",
+      "order": 0,
+      "parentId": "f_mp6svh7k_05u4ub0r8"
     }
   },
   "files": {
@@ -1015,9 +1015,9 @@
       "createdAt": 1779014037976,
       "description": "IDM Crack 2026 – Internet Download Manager 6.42 Build 64 (Latest Version)\n\nHow to use IDM Crack\nTemporarily disable the antivirus until the IDM Crack process\nInstall “idman642build64.exe”\nExtract “IDM 6.42.64 Patch.rar” (Password is: 123)\nInstall “IDM 6.42.64 Patch.exe”\nDone!!! Enjoy!!!",
       "downloads": 16,
-      "folderId": "f_mp9mxftd_pvqs6uine",
+      "folderId": "f_mudhijp0_6qtcol4bq",
       "isLink": false,
-      "lastModified": 1787145327221,
+      "lastModified": 1790130580381,
       "link": "https://mega.nz/file/d2VBiQgJ#nXl5T9mcoeuQVdjQBGVTS1CK7Xigbx2YkwKEG0QWSSQ",
       "links": [
         {
@@ -1121,7 +1121,7 @@
       ],
       "createdAt": 1779184648016,
       "description": "Main Features of TFT Unlock Tool\nFRP Remove\nFactory Reset\nBootloader Unlock and Relock\nSamsung KG and Knox Disable\nMTK and Qualcomm Support\nADB Functions\nFastboot Functions\nMTP and Meta Mode Support\nRead Device Information\nReset Passcode\nMiCloud Reset Functions\nSupport for Samsung, Xiaomi, Vivo, Oppo, Huawei, Realme, Tecno, Infinix, and many more brands",
-      "downloads": 140,
+      "downloads": 148,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1779618122482,
@@ -36212,7 +36212,7 @@
       ],
       "createdAt": 1782742030096,
       "description": "🔥 RC DARK Tool v1.5.3 FREE Download\n\nI have uploaded the latest RC DARK Tool v1.5.3 on my website.\n✅ Samsung Support\n✅ Xiaomi Support\n✅ Motorola Support\n✅ MDM & IT Admin Functions\n✅ ADB, Fastboot & Diag Operations\n✅ App Manager & Utilities\n✅ Android Downloads Section\n✅ Windows 10 & Windows 11 Supported\nI also tested the tool and shared my honest review, installation guide, screenshots, feature list, bugs I noticed, and everything I found while checking the software.",
-      "downloads": 106,
+      "downloads": 110,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1782742036326,
@@ -37967,7 +37967,7 @@
       ],
       "createdAt": 1786245553521,
       "description": "Features Data Unlocker Tool\nSupports offline operation without requiring the original online server.\nNo internet connection required after installation.\nNo activation or yearly renewal needed for the offline edition.\nSupports Samsung, Xiaomi, Huawei, Motorola, LG, Oppo, Vivo, Infinix, Realme and other supported Android devices.\nCompatible with MediaTek, Qualcomm and Unisoc chipsets.\nBuilt-in Unlock module for supported devices.\nRead device information before starting any repair operation.\nDirect Unlock function for supported phone models.\nRepair IMEI option for supported devices.\nRead security or unlock codes.\nRead device certificates.\nWrite certificates back to supported devices.\nRestore security data after supported repair procedures.\nRepair boot-related problems on supported phones.\nCalculate Motorola unlock codes using IMEI.\nChange Samsung CSC.\nChange LG CSC.\nConvert CSC for supported Samsung and LG devices.\nRemove Samsung FRP through MTP Mode.\nWrite EmToken using ADB.\nSupports EmToken V1, V2, V3 and V4.\nMediaTek Custom DA selection.\nSupports manual Preloader loading.\nSupports manual EMI file loading.\nRemove FRP through BROM Mode.\nRemove Xiaomi Mi Account on supported MTK devices.\nRemove Demo Mode from supported Oppo devices.\nRemove Demo Mode from supported Vivo devices.\nRemove Huawei ID on supported models.\nRemove Realme ID on supported devices.\nSafe Factory Reset option.\nRemove Samsung KG Lock.\nRemove Samsung Knox protection.\nRemove Infinix MDM.\nUnlock bootloader on supported MTK devices.\nRepair Boot using BROM Mode.\nPartition Manager with Read function.\nPartition Manager with Erase function.\nPartition Manager with Write function.\nBackup Security partitions.\nCrash Preloader function.\nBuilt-in Scatter firmware flasher.\nFlash Dump files.\nQualcomm support by Model.\nQualcomm support using Firehose loader.\nManual Firehose loader selection.\nSamsung Qualcomm servicing.\nRemove Qualcomm FRP Lock.\nRemove Xiaomi Mi Account (A-R).\nRemove Xiaomi Mi Account M2.\nRemove Samsung Knox.\nRemove Samsung KG Lock.\nFast Knox and KG removal method.\nRemove Huawei ID.\nReset modem configuration.\nBackup EFS partition.\nFactory Reset using EXT4.\nQualcomm Loader Manager.\nQualcomm Partition Manager.\nQualcomm firmware flashing support.\nUnisoc and Spreadtrum device support.\nRemove FRP Lock on supported Unisoc phones.\nRemove MDM (Beta).\nFactory Reset for supported devices.\nNetwork Unlock function.\nRead IMEI 1.\nWrite IMEI 1.\nRead IMEI 2.\nWrite IMEI 2.\nRead partitions.\nErase partitions.\nWrite partitions.\nFlash PAC firmware files.\nSamsung DM Mode flashing.\nLG DM Mode flashing.\nMotorola Fastboot flashing.\nRead connected device information.\nStart firmware flashing.\nKDZ firmware flashing support.\nXML firmware flashing support.\nDump file flashing support.\nConvert supported devices to CDMA.\nEnable VoLTE directly.\nRead Carrier Policy.\nWrite Carrier Policy.\nRepair Baseband.\nWrite 3G Settings.\nPatch Sprint SIM.\nInstall 4G Settings.\nDisable supported network bands.\nEnable supported network bands.\nRepair 4G network problems.\nRepair Replace SIM issues.\nRemove Policyman.\nWrite Motorola 3G settings.\nWrite QCN backup.\nOpen SPD Engineer Menu.\nOpen SPD Operator Settings.\nOpen SPD GCF Settings.\nOpen IMS Menu for ZTE devices.\nOpen IMS Menu for LG devices.\nOpen MediaTek Engineer Mode.\nOpen MediaTek Operator Selection Menu.\nOpen MediaTek MiscConfig Menu.\nOpen Xiaomi MBN Config Editor.\nOpen Qualcomm MBN Test Menu.\nEnable VoLTE on rooted MTK devices.\nSamsung KG Removal Method 1.\nSamsung KG Removal Method 2.\nSamsung KG Removal Method New 5.\nStart KG Removal process.\nRepair Call Not Sent problem.\nOpen LG Diag Menu.\nOpen LG APN Menu.\nOpen LG Enable Bands Menu.\nOpen LG NOA Test Settings.\nOpen LG MCFG Edit Menu.\nOpen Samsung SPC Menu.\nOpen Samsung USB Menu.\nOpen Samsung Hidden Services.\nOpen Samsung Change CSC Menu.\nOpen Universal Network Menu.\nEnable Diag Mode for supported devices.\nOpen ZTE General Diag Menu.\nSupports manual DA, EMI and Firehose loading after server shutdown.\nWorks completely offline with locally stored firmware files.\nDesigned for Windows 7, Windows 8, Windows 10 and Windows 11.\nSimple login with pre-configured offline credentials.\nDark modern user interface with organized service tabs.\nWhat's New in Data Unlocker Tool V1.7.4\nAdded Direct Unlock support for Samsung Galaxy SM-A136U (ATT/CHA) Bit 9 to A.\nAdded Direct Unlock support for SM-A136U1 (ATT/CHA) Bit 9 to A.\nAdded Direct Unlock support for SM-A136W (All Carriers) Bit 9 to A.\nAdded Direct Unlock support for SM-A136B (All Carriers) Bit 7 to 8.\nAdded Direct Unlock support for SM-A136M (All Carriers) Bit 8 to 9.\nAdded Direct Unlock support for SM-A136S (All Carriers) Bit 6 to 7.\nAdded Direct Unlock support for SM-A326U (ATT/CHA) Bit E to F.\nAdded Direct Unlock support for SM-A326U1 (ATT/CHA) Bit E to F.\nAdded Direct Unlock support for SM-A326W (All Carriers) Bit E to F.\nAdded Direct Unlock support for SM-A326B (All Carriers) Bit B to C.\nAdded Direct Unlock support for SM-A326BR (All Carriers) Bit B to C.\nAdded Direct Unlock support for SM-A326K (All Carriers) Bit 5 to 6.\nAdded Direct Unlock support for SM-T227U (ATT/CHA) Bit 9 to A.\nSome supported Samsung models now require a Test Point during the unlocking process.\nAdded Direct Unlock support for Dialn Nova.\nAdded Direct Unlock support for Dialn X62.\nAdded Direct Unlock support for Dialn X65.\nAdded Direct Unlock support for Dialn Neo.\nAdded support for the new Unisoc Tiger T310_64 CPU.\nAdded more supported models for Annual License users.\nGeneral improvements for stability and compatibility.\nFixed various reported bugs.\n\n\nHow to Install Data Unlocker Tool V1.7.4\nDownload the ZIP package from the download section below.\nExtract the archive using WinRAR or 7-Zip.\n\nWhen prompted, enter the extraction password: gsmyogesh.\nOpen the extracted Data Unlock Tool folder.\nRun Data Unlock Tool.exe as Administrator.\nThe username and password are already filled in. Do not modify them.\nClick the Login button.\nAfter the Login Successful message appears, click OK.\n\n\nThe software will open and is ready for offline use.\nIf a repair or flashing operation requires a DA, EMI or Firehose file, browse to your own local files because the original server is no longer available.\nDownload Data Unlocker Tool V1.7.4",
-      "downloads": 16,
+      "downloads": 17,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1786245553521,
@@ -39214,7 +39214,7 @@
       ],
       "createdAt": 1787657787862,
       "description": "HBG VoLTE IMS Fixer Tool What You Can See in the Software\nDevice Model — Shows the connected Android device model.\nAndroid Version — Shows the Android version detected from the phone.\nManufacturer — Displays the phone manufacturer.\nSIM Carrier — Shows the available SIM carrier information.\nVoLTE Status — Displays the current VoLTE status shown by the tool.\n1-Click VoLTE Fix — Runs the automatic VoLTE activation option.\nShizuku & Pixel IMS — Provides the option for installing the Shizuku and Pixel IMS app set.\nStatus Messages — Shows messages related to the current process.\n\nDownload Information\nSoftware Name\tHBG VoLTE & IMS Fixer\nDeveloper\tHBG\nSupported OS\tWindows\nSupported Devices\tAndroid devices supported by the tool",
-      "downloads": 120,
+      "downloads": 121,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1787657787862,
@@ -41143,7 +41143,7 @@
       ],
       "createdAt": 1789611993404,
       "description": "GOAT UNLOCKER PRO v2.5.5 CraAck Free Download GOAT UNLOCKER PRO v2.5.5 Latest Version Download (Free Login)GOAT UNLOCKER PRO Features\nGOAT UNLOCKER PRO has different sections for phone operations, repair tools, and device management. Below is the full feature list provided for this version.\n\n1. Dashboard and Global Quick Operations\nThe Dashboard includes quick phone operations and a global tools panel. You can find device detection, logs, and navigation options in this section.\n\nFactory Reset\nPower Off Phone\nReboot to Bootloader\nRestart Phone\nRead Phone Info (INFO DEVICE)\nReboot to Recovery\nDetect Device (Auto-detect connected devices)\nTerminal Log Viewer\nClear Logs\nAnalyze Log with AI Color\nGOAT AI Assistant\nThe GOAT AI Assistant includes hardware and software diagnosis, FRP bypass guides, driver troubleshooting, and firmware suggestions.\n\nThe navigation bar includes these sections:\n\nDashboard\nSamsung KG/MDM\nSamsung HMD\nVivo/Oppo\nSuper Editing\nOnline HXD\nQualcomm MDM\nGOAT MDM Files\nMeta/Diag\n2. Samsung KG / MDM Pro Suite\nThe Samsung KG/MDM section contains different tabs for Knox Guard, MDM, Ultra Bypass, specialized repairs, permanent fixes, and utilities.\n\nKnox Guard Tab\nKG Locked Active\nKG Broken Complete\nCheck KG Status\nActivate / Complete KG operations\nMDM Bypass Tab\nAdvanced Bypass 2026 (ADVANCED 2026)\nBypass Method 1 (METHOD 1)\nBypass Method 2 (METHOD 2)\nMDM Cleanup / Reset (CLEANUP)\nUltra Bypass Tab\nUltra Bypass Pro (2025) (ULTRA PRO)\nRun Legacy 2025 (LEGACY 2025)\nRun Legacy 2026 (LEGACY 2026)\nSpecialized Tab\nMicron Fix (A065F) (MICRON FIX)\nGOAT Auth Repair (AUTH REPAIR)\nAnti-Relock Fix (ANTI-RELOCK)\nPermanent Fix Tab\nSelect Patch File (BROWSE FIX)\nFlash Permanent Patch (APPLY PATCH)\nUtilities Tab\nBypass FRP (BYPASS FRP)\nReboot (REBOOT)\n3. Samsung HMD / PayJoy Suite\nThe Samsung HMD section contains HMD reset, PayJoy, Knox, and EFS repair options.\n\nHMD Reset Tab\nHMD Security Reset\nReset HMD (ADB) (RESET HMD)\nPayJoy Remove Tab\nPayJoy Removal Suite\nRemove PayJoy (EDL) (REMOVE PAYJOY)\nKnox Bypass Tab\nKnox Guard Bypass\nBypass KG (BYPASS KG)\nEFS Repair Tab\nEFS Partition Repair\nWipe EFS / Repair (WIPE REPAIR)\n4. Vivo / Oppo Security Suite\nThe Vivo/Oppo section includes OPPO Tools, VIVO Tools, MDM Removal, and Advanced sub-tabs. The listed options include unlock and repair operations.\n\nUnlock Tools\nBootloader Unlock\nDeep Testing\nFRP Lock Remove\nAuth Bypass\nRepair Tools\nFlash Stock ROM\nRepair IMEI\nReset eMMC\nBaseband Repair\n5. Super Editing Suite\nThe Super Editing section includes firmware file selection and patch operations. It also shows session statistics while processing.\n\nBrowse Firmware (BROWSE FIRMWARE)\nUltra Fast Patch\nFast Patch (with Backup)\nPatterns Found\nBytes Modified\nProcessing Time Tracking\n6. Online HXD Suite\nThe Online HXD section includes binary file loading, smart patch operations, a hexadecimal stream viewer, and cloud portal options.\n\nBinary Source\nLoad Binary File\nPatch Operations\nApply Smart Patch\nHexadecimal Stream Viewer\nCloud Portal\nAnalyze Partitions\nOpen Online Engine\n7. Qualcomm MDM / EDL Pro\nThe Qualcomm section contains MDM, EDL, EFS, and utility tabs. These sections include partition, data, and device operations.\n\nMDM Bypass Tab\nUnlock MDM (9008) (RUN BYPASS)\nCloud Bypass Fix (RUN REPAIR)\nEDL Special Tab\nRead Partition GPT\nWipe MDM Data\nRead Sectors\nErase Data\nEFS Security Tab\nWipe EFS (Diag) (WIPE EFS)\nWrite QCN Data\nRestore QCN\nUtilities Tab\nReboot to EDL (REBOOT)\nFactory Reset (EDL) (RESET DEVICE)\n8. Meta & Diag Protocols\nThis section includes MTK Native and Transsion Auth options.\n\nMTK Native Tab\nSelect Device Port (Auto-detect COM/USB Port)\nAuto-Scan Device\nBROM Handshake (START HANDSHAKE)\nRead Meta Info (READ INFO)\nMeta Factory Reset (FACTORY RESET)\nTranssion Auth Tab\nTranssion Auth System\nRun Direct Auth Bypass (RUN DIRECT BYPASS)\n9. SPD / MTK Bypass & ADB Utilities\nThe SPD/MTK section includes platform selection, connection modes, bypass operations, and ADB script tools.\n\nPlatform and Connection Selection\nMediaTek (MTK)\nSpreadtrum (SPD)\nFlash Mode\nBROM Mode\nDiag Mode\nBypass Operations\nBypass FRP (MTK)\nBypass FRP (SPD)\nFactory Reset\nBootloader Unlock\nMTK ADB G1 / Script Tools\nRead System Info\nView GOAT Bypass Details\nRun GOAT Script (RUN SCRIPT)\nSamsung App Center\nSamsung KG/MDM Merger (2025/2026)\nSamsung Smart Bypass\nHow to Install GOAT UNLOCKER PRO v2.5.5\nBelow are the installation steps for GOAT UNLOCKER PRO. The package includes a RAR file, setup folder, and Load folder.\n\nStep 1: Extract the RAR File\nFirst, locate the file named GOAT-Unlocker-2.5.5_Free_Activate.rar. Right-click on the file and select Extract here, or open it with WinRAR.\n\nWhen the password window appears, enter gsmyogesh and click OK. The files will be extracted into a folder.\n\nStep 2: Open the Setup File\nOpen the extracted folder and find the Setup folder. Inside it, locate GOAT-Unlocker-2.5.5.exe.\n\nRight-click on the setup file and select Run as administrator to start the installation.\n\nStep 3: Start the Installation Wizard\nWhen the setup window opens, click Next. On the License Agreement screen, select I accept the agreement and click Next again.\n\nKeep the default installation path and continue by clicking Next. If a warning appears that the folder already exists, click Yes.\n\nStep 4: Select Installation Options\nOn the shortcut screen, uncheck the option to create a desktop shortcut. Click Next and then click Install to begin the installation.\n\nIf the setup asks about active background applications, select Automatically close the applications and click Next.\n\nStep 5: Close Active Processes If Installation Gets Stuck\nIf the installation progress stops or freezes, you can check the active background processes through Task Manager.\n\nRight-click on the Windows taskbar.\nOpen Task Manager.\nFind the active background process, such as adb.exe.\nRight-click the process and select End task.\nAfter closing the active process, check the installation window again.\n\nStep 6: Complete the Installation\nWait for the installation progress to finish. Once the setup is complete, click Next and then click Finish.\n\nStep 7: Open the Loader\nGo back to the main extracted directory and open the Load folder. Find GSMGoatMDM_Load.exe, right-click it, and select Run as administrator.\n\nStep 8: Copy the HWID\nInside the key generator tool, click the COPY HWID button. Then click GET FREE ACTIVATION KEY. This will open an activation webpage in your default browser.\n\nStep 9: Generate the Activation Key\nOn the activation webpage, scroll down until you find the ENTER YOUR HWID field. Paste your HWID into the field and click GENERATE KEY NOW.\n\nWhen the Activation Key appears, select and copy it.\n\nStep 10: Register the License\nReturn to the Key Generator window and paste the copied key into the REGISTER LICENSE field. Click REGISTER LICENSE.\n\nClick OK on the confirmation pop-up. Then click Start Patch.\n\nIf a Security Warning appears, click Yes. If Windows Firewall asks for permission, select Allow access.\n\nStep 11: Login to the Software\nOpen the login screen and enter your registered Email/Username and Password. Click LOGIN.\n\nWhen the following prompt appears, click Continue.\n\nStep 12: Open the Main Dashboard\nAfter login, the main dashboard of GOAT UNLOCKER PRO will launch. You can find the different sections and select the operations available in the menu.\n\nDownload GOAT UNLOCKER PRO v2.5.5\nHere you can download the GOAT UNLOCKER PRO v2.5.5 package. The download package includes the RAR file, setup folder, and Load folder mentioned in the installation steps.",
-      "downloads": 12,
+      "downloads": 16,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1789612009076,
@@ -41319,19 +41319,19 @@
       "downloads": 14,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
-      "lastModified": 1790072086110,
+      "lastModified": 1790131263590,
       "link": "https://www.mediafire.com/file_premium/tdj5b74o7esq599/GCT_TEAM_Unlock_Tool_Latest_VIP.rar/file",
       "links": [
         {
           "label": "NEW Unlock Tool OFFLINE Fix Version",
           "urls": [
             {
-              "password": "",
-              "url": "https://www.mediafire.com/file_premium/tdj5b74o7esq599/GCT_TEAM_Unlock_Tool_Latest_VIP.rar/file"
+              "url": "https://www.mediafire.com/file_premium/tdj5b74o7esq599/GCT_TEAM_Unlock_Tool_Latest_VIP.rar/file",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://drive.google.com/file/d/1N8nzDX_IxWECPmMRCzyjc3h0wBxDfvW7/view?usp=sharing"
+              "url": "https://drive.google.com/file/d/1N8nzDX_IxWECPmMRCzyjc3h0wBxDfvW7/view?usp=sharing",
+              "password": ""
             }
           ]
         },
@@ -41339,8 +41339,8 @@
           "label": "Unlock Tool OFFLINE BY GCT_Team.rar",
           "urls": [
             {
-              "password": "",
-              "url": "https://drive.google.com/file/d/1C0gA1r8fOPKZQKYlYRx819B8KSoYzmvs/view?usp=sharing"
+              "url": "https://drive.google.com/file/d/1C0gA1r8fOPKZQKYlYRx819B8KSoYzmvs/view?usp=sharing",
+              "password": ""
             }
           ]
         },
@@ -41348,12 +41348,25 @@
           "label": "Activation Link",
           "urls": [
             {
-              "password": "",
-              "url": "https://api.whatsapp.com/send/?phone=923000756577&text&type=phone_number&app_absent=0"
+              "url": "https://api.whatsapp.com/send/?phone=923000756577&text&type=phone_number&app_absent=0",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://www.facebook.com/groups/1514640598580985"
+              "url": "https://www.facebook.com/groups/1514640598580985",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "Custom DA File",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/file_premium/0urvzr55sxeifo4/DA.rar/file",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1GZr9j-VpwcX-3-BOdRU5FA",
+              "password": ""
             }
           ]
         }
@@ -41374,7 +41387,7 @@
       ],
       "createdAt": 1789786744485,
       "description": "Valhalla Unlock Tool Free Download  What Valhalla Unlock Tool Does\nThe main purpose of Valhalla is to work with Motorola phones using MediaTek chipsets. The program has separate options for bootloader unlocking and experimental FRP erase.\n\nThe bootloader unlock option performs a factory reset. The FRP option is separate and attempts to erase FRP using the Val Protocol erase-serial method.\n\nThere is also a combined mode that performs bootloader unlocking and FRP bypass. The tool does not simply report a successful command as proof that FRP was removed. It checks the device’s frp-state and expects it to no longer show protected.\n\nThis is important because the project information specifically says that a successful fastboot command does not always mean that FRP has actually been erased.\n\nOperation Modes Visible in the Tool\nWhen I checked the supplied screenshot, the main window showed three operation modes. These are presented as radio button options under the Select Operation Mode section.\n\nBootloader Unlock (Factory Reset) – Used for the bootloader unlock workflow and includes a factory reset.\nFRP Bypass Only (No Factory Reset) – The interface lists this as an FRP-only mode without a factory reset.\nBootloader Unlock + FRP Bypass – Combines the bootloader unlock and FRP workflow.\nThe project documentation also warns that the FRP erase process itself is destructive. The erase-only flow targets device partitions related to metadata and user data, while Valhalla rewrites md_udc to frp. Because of this, the FRP mode should be treated as a factory reset and data erase.\n\nSimple Interface\nThe supplied screenshot shows a dark interface with the Valhalla Unlock Tool name at the top. It also displays the creator name, the Val Protocol credit, and support for Motorola MediaTek devices.\n\nAt the bottom of the main window there is a log area. The log displays information about the tool, credits, and warnings. This is useful for seeing what the program is reporting during the workflow.\n\nThe main controls shown in the screenshot are Check Device, Run Valhalla, and Reset.\n\nThe program also shows a status bar at the bottom with a Ready message when it is waiting for an operation.\n\nFeatures\nBootloader Unlock – The tool includes a bootloader unlock workflow for supported Motorola MediaTek devices. The project states that this process performs a factory reset.\nExperimental FRP Erase – Valhalla attempts an FRP erase using the Val Protocol erase-serial method.\nFRP State Verification – The tool checks the device’s frp-state instead of treating a successful command as automatic proof of FRP removal.\nCombined Unlock and FRP Mode – A combined operation is available for bootloader unlocking and FRP bypass.\nExploit Download – The Val Protocol exploit can be downloaded automatically from GitHub.\nAutomatic Linux Dependencies – Required dependencies can be installed automatically on Linux.\nLinux USB Setup – The tool can automatically set up udev rules on Linux.\nVerbose Logs – The program displays detailed messages so the operation can be followed in the log window.\nOEM Unlock Workaround – The project states that it can work even when OEM unlocking is grayed out in Developer Options.\nSupported Motorola Devices\nThe project is focused on Motorola MediaTek devices. The supplied information specifically lists several devices where bootloader unlocking has been reported or confirmed.\n\nMoto G Play 2026 (XT2615V, XT2615-1)\nMotorola Milan (XT2211DL)\nMoto G Play 2023\nMoto G 2025\nMoto G Power 2026\nMoto G series with MediaTek chipsets\nMotorola Edge series with MediaTek chipsets\nMotorola Razr series with MediaTek chipsets\nThe project also says that other Motorola MediaTek devices may work. That should not be treated as confirmation for every model.\n\nReported Device Results\nThe project author reports that the Moto G Play 2026, including models XT2615V and XT2615-1, has working bootloader unlocking.\n\nMotorola Milan XT2211DL was also verified for bootloader unlocking on stock Android 12 LK. However, there is an important difference with the FRP process on this model. The original Valhalla FRP run falsely reported success while the device still showed protected (277).\n\nA separate firmware-specific post-unlock experiment later cleared FRP on the Milan. According to the supplied project information, that experiment is documented separately and is not automatically applied by Valhalla.\n\nThe project also lists the Moto G Play 2023, Moto G 2025, and Moto G Power 2026 as having confirmed bootloader unlock results.\n\nFRP Support Is Experimental\nOne point I would keep in mind before using the FRP option is that the project itself describes this support as device-specific and experimental.\n\nValhalla now checks the device’s frp-state before reporting that the FRP erase worked. If the state still says protected, the tool does not treat the operation as successfully verified.\n\nThe combined mode also stops when the FRP erase cannot be verified. This prevents the combined workflow from simply continuing after an unsuccessful FRP check.\n\nImportant Motorola Milan Note\nThe supplied project details contain a specific warning about the Motorola Milan XT2211DL. When the device is already unlocked, the normal erase-serial flow exits through the Already unlocked branch before reaching its token and erase path.\n\nThe separate ARM32 erase-token patcher rejected the LK control-flow structure on this model. The project specifically says that its safety check should not be bypassed or force-patched.\n\nSo the Milan result should not be treated as a general FRP method for every Motorola device.\n\nLK Image Warning\nThe biggest warning shown by the program is about LK flashing. The tool clearly states that using a bad LK can permanently brick the device.\n\nFlashing an incorrect LK can hard-brick the phone.\nThe LK image must exactly match the device and firmware.\nKeep the stock LK backed up.\nKeep every successfully booted patched LK backed up.\nKeep a full stock firmware backup ready.\nUse the tool at your own risk.\nThe warning is also visible directly in the supplied screenshot. The program asks users not to flash the original LK back after unlocking and states that no responsibility is accepted for damage.",
-      "downloads": 16,
+      "downloads": 19,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1789786776180,
@@ -41678,16 +41691,16 @@
           "label": "Android Win Tool v2.2.4",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1de_l9XlMi7Js3tXyHFxaCpDJRBZEwW_L/view?usp=sharing",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1de_l9XlMi7Js3tXyHFxaCpDJRBZEwW_L/view?usp=sharing"
             },
             {
-              "url": "https://1024terabox.com/s/19QSNqk7fa3aduL7uKqc-JQ",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/19QSNqk7fa3aduL7uKqc-JQ"
             },
             {
-              "url": "https://androidwintool.com/download",
-              "password": ""
+              "password": "",
+              "url": "https://androidwintool.com/download"
             }
           ]
         }
@@ -41699,6 +41712,42 @@
       "publishUrl": "android-win-tool-v224",
       "published": true,
       "size": "430.2mb",
+      "unrarPassword": ""
+    },
+    "f_mudhv4pd_zh7tli8kp": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgaQSp1cuUuhx9SLrB-iXEweoW6lnbsu3r3w6WAs-1GSwtyPx02DHsGKpfU75iPttOQVGQ6XesFttuGZ_M44QplWx55Zwdg5jJb_WYxUm9NTPXpoJXavQUvsgJ3NDvFcYaYbTch5FGm216cCcutpeYfUr5TK0UTf8exZrB9iSNvTHs7MWzqy1oNs5PDCuy/w640-h412/VoltDM_Setup_1.2.0_x64.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgaQSp1cuUuhx9SLrB-iXEweoW6lnbsu3r3w6WAs-1GSwtyPx02DHsGKpfU75iPttOQVGQ6XesFttuGZ_M44QplWx55Zwdg5jJb_WYxUm9NTPXpoJXavQUvsgJ3NDvFcYaYbTch5FGm216cCcutpeYfUr5TK0UTf8exZrB9iSNvTHs7MWzqy1oNs5PDCuy/w640-h412/VoltDM_Setup_1.2.0_x64.png"
+      ],
+      "createdAt": 1790131146385,
+      "description": "voltDM Download Manager Setup Free DOwnload  VoltDM_Setup_1.2.0_x64",
+      "downloads": 0,
+      "folderId": "f_mudhijp0_6qtcol4bq",
+      "isLink": false,
+      "lastModified": 1790131146385,
+      "link": "https://drive.google.com/file/d/1Gv9jSWKO5Q2ymg386JffaNL2ZO_W9Z3r/view",
+      "links": [
+        {
+          "label": "VoltDM_Setup_1.2.0_x64",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1Gv9jSWKO5Q2ymg386JffaNL2ZO_W9Z3r/view"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1HUxgd0RNFCDWRGnA3gmt6A"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "voltDM Download Manager Setup",
+      "password": "",
+      "publishUrl": "voltdm-download-manager-setup",
+      "published": true,
+      "size": "35.8 MB",
       "unrarPassword": ""
     }
   },
@@ -51903,7 +51952,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-22T12:22:04.895Z",
+    "createdAt": "2026-09-23T02:42:48.172Z",
     "version": "2.0",
     "sections": 4
   }
