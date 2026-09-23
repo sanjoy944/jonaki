@@ -39741,7 +39741,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2598,
+      "downloads": 2611,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -41755,45 +41755,90 @@
       "unrarPassword": ""
     },
     "f_mudyzqzl_8eqh491cu": {
-      "name": "MTK UNLOCK BOOTLOADER v1.0",
-      "folderId": "f_mq90y5hx_pgeh8l0ya",
-      "size": "43.1mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyjMotpQBDeLUn1Ou4rEhXZ4NC_cx6F_Get-pwwOvOwa6CS4i0ag3adHGSuY6D81mheuX5_1HBgb5DK4BZxJSFszj0xzMphyphenhyphenrHUJ4Wv3gYdVcccCJ0d_qEZWJQRGMEjmxs3vL010FsryfuBn_a2BhQuhsQWa6onaJaSNqWQdVupxg_ygO7jy57n1j2fUf/w640-h410/MTK%20UNLOCK%20BOOTLOADER%20v1.0.png",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyjMotpQBDeLUn1Ou4rEhXZ4NC_cx6F_Get-pwwOvOwa6CS4i0ag3adHGSuY6D81mheuX5_1HBgb5DK4BZxJSFszj0xzMphyphenhyphenrHUJ4Wv3gYdVcccCJ0d_qEZWJQRGMEjmxs3vL010FsryfuBn_a2BhQuhsQWa6onaJaSNqWQdVupxg_ygO7jy57n1j2fUf/w640-h410/MTK%20UNLOCK%20BOOTLOADER%20v1.0.png",
         "https://gsmyogesh.com/wp-content/uploads/2026/09/image-23-1024x576.png"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "mtk-unlock-bootloader-v10",
+      "createdAt": 1790159915361,
       "description": "MTK UNLOCK BOOTLOADER v1.0 Free Download. \nKey Features Explained\nThe feature list is short and to the point. Here is what each one means in plain English.\n\nLK_A / LK_B Analysis: The tool can read LK_A and LK_B files. LK stands for Little Kernel, which is a small bootloader used on many MediaTek phones. The tool looks at these files and shows you what it finds.\nVBMETA & AVB Information: VBMETA is related to Android Verified Boot. The tool reads the VBMETA file and gives you details about it.\nMD5 / SHA-1 / SHA-256 / SHA-512: These are hash checks. The tool calculates these values for your file. This helps you confirm the file is not corrupted or changed.\nBootloader & security string detection: The software looks for specific text strings inside the file. These strings tell you about the bootloader status and security settings.\nAVBTool validation: AVBTool is a known utility for working with Android Verified Boot. This tool uses it to check if the VBMETA image is valid.\nAutomatic .bak backup: Before the tool modifies anything, it creates a backup file with a .bak extension. This is a safety net.\nRestore Backup: If something goes wrong, you can use this button to put the original file back.\nSave detailed reports: You can save a report of the analysis. This is useful if you want to keep a record or share it with someone.\nClean, simple Qt interface: The program uses Qt for its window. It looks plain and does not have a lot of clutter.\nHow to Use MTK Unlock Bootloader\nUsing the tool is straightforward. I will walk you through the steps based on the buttons and text visible in the screenshot.\n\nFirst, open the tool on your Windows computer. You will see the main window with several buttons.\nClick the button to load your file. You can choose LOAD LK_A, LOAD LK_B, or LOAD VBMETA_A depending on what you want to check.\nOnce the file is loaded, the tool will automatically analyze it. You will see text appear in the black area of the window. This text shows the results of the analysis.\nIf you loaded a VBMETA file, you can click VALIDATE VBMETA to run the AVBTool check.\nYou can click SAVE REPORT to save the information to a text file.\nIf you need to clear the screen, click CLEAR.\nIf you decide to modify the bootloader, click UNLOCK BOOTLOADER. The tool will make a backup first.\nIf you need to undo changes, click RESTORE BACKUP.\nThe screenshot shows a status line that says “LK_A: Not loaded | LK_B: Not loaded | VBMETA_A: Not loaded” when nothing is open. It also shows a message that says “UNLOCK BOOTLOADER forces unlock_ability to TRUE in LK, and disables Android-side verification in VBMETA.” That is a direct quote from the tool’s own description in the window.\n\nBefore you modify anything, always keep your original firmware or image as a separate backup. The tool makes its own backup, but having another copy is never a bad idea.\nSoftware Name\tMTK Unlock Bootloader\nVersion\t1.0\nDeveloper\tBlackManV2\nLicense\tFree\nSupported OS\tWindows\nLanguage\tEnglish",
       "downloads": 0,
-      "link": "https://drive.google.com/file/d/1lcCAPhVdVJEUFGW-ie9C1D32QD8pPtBu/view?usp=drivesdk",
+      "folderId": "f_mq90y5hx_pgeh8l0ya",
       "isLink": false,
-      "published": true,
+      "lastModified": 1790159915361,
+      "link": "https://drive.google.com/file/d/1lcCAPhVdVJEUFGW-ie9C1D32QD8pPtBu/view?usp=drivesdk",
       "links": [
         {
           "label": "MTK UNLOCK BOOTLOADER v1.0 File",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1lcCAPhVdVJEUFGW-ie9C1D32QD8pPtBu/view?usp=drivesdk",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1lcCAPhVdVJEUFGW-ie9C1D32QD8pPtBu/view?usp=drivesdk"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZcsaLJZNxmePn9F3HzseDCxW7VFzHwui6w7",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZcsaLJZNxmePn9F3HzseDCxW7VFzHwui6w7"
             },
             {
-              "url": "https://1024terabox.com/s/170BMd-S-kDT3hePAwy11vg",
+              "password": "",
+              "url": "https://1024terabox.com/s/170BMd-S-kDT3hePAwy11vg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MTK UNLOCK BOOTLOADER v1.0",
+      "password": "",
+      "publishUrl": "mtk-unlock-bootloader-v10",
+      "published": true,
+      "size": "43.1mb",
+      "unrarPassword": ""
+    },
+    "f_mue2zko1_brwe2v7o1": {
+      "name": "Public FRP Tool v2.9.1 free",
+      "folderId": "f_mqdrga34_wfiqp3gsz",
+      "size": "51.2MB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGs79JYhQEIpeqLqKBz_HiC2M1hJK1ydvf2DVgKpbLLkSpwvKci1JwexgXfPbqoGuWWjX_0ZEGEI8q8v8B-n-fTo0WSK-sZEb3KccQ22B4tPv0mm8_z9SrCG0B43kPuknppPXd0RBSzIbFGcmFT5WK8jpjzwsElIqQ4mbvoBIxeZ5gSFkE-qcV9abqO0r1/w640-h426/Public%20FRP%20Tool%20v2.9.1%20free.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGs79JYhQEIpeqLqKBz_HiC2M1hJK1ydvf2DVgKpbLLkSpwvKci1JwexgXfPbqoGuWWjX_0ZEGEI8q8v8B-n-fTo0WSK-sZEb3KccQ22B4tPv0mm8_z9SrCG0B43kPuknppPXd0RBSzIbFGcmFT5WK8jpjzwsElIqQ4mbvoBIxeZ5gSFkE-qcV9abqO0r1/w640-h426/Public%20FRP%20Tool%20v2.9.1%20free.png",
+        "https://gsmyogesh.com/wp-content/uploads/2026/09/image-26-1024x576.png"
+      ],
+      "password": "",
+      "unrarPassword": "gsmyogesh.com",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "public-frp-tool-v291-free",
+      "description": "Public FRP Tool v2.9.1 Latest Version Download [Credit Added] .\nPublic FRP Tool v2.9.1 Features\nXiaomi Section\nRead Device Info: This option is available for reading device information.\nRemove FRP: The Xiaomi panel includes an FRP operation.\nServer Status: There is a separate button for checking the server status.\nReboot to EDL: The Xiaomi section includes a Reboot to EDL option.\nEnable ADB (QR): An ADB enabling option is available under the bootloader section.\nBootloader Unlock Permanent: The Xiaomi panel includes a permanent bootloader unlock option.\nThe screenshot also shows Xiaomi model selection, with Redmi K90 Ultra visible in the model field.\n\nRealme, OPLUS and MTK/QC\nThe Realme section supports chipset selection between Qualcomm and MediaTek. The interface also contains options for FORMAT USERDATA + FRP and Demo Remove (All OS).\n\nFor Qualcomm devices, the screenshots show a model selection area. One visible example is Realme 14 5G with model number RMX5070 Global.\n\nThe MediaTek section has Auto Detect options and several chipset choices, including MT6897, MT6877, MT6877 v2, MT6877 v3, MT6835, MT6855, MT6878, MT6899 and MT6899+ selections.\n\nSamsung Section\nThe Samsung panel contains three main options. These are READ INFO (DOWNLOAD MODE), Remove FRP EXYNOS ANDROID 15-16, and Enable ADB (MTP MODE, QR).\n\nThe FRP option shown in the interface specifically says that ADB must be enabled.\n\nMotorola Section\nThe Moto section includes a Bootloader Unlocker. There is a Browse LK File button where an LK file can be selected, followed by the Patch + Remove FRP option.\n\nSupported Xiaomi and Redmi Models\nRedmi K90\nRedmi K90 Ultra\nXiaomi 15\nXiaomi 15 Pro\nXiaomi 15 Ultra\nXiaomi Pad 8\nXiaomi Pad 8 Pro\nPOCO F7\nPOCO F7 Pro\nSupported Realme and OnePlus Qualcomm Models\nOnePlus Nord CE 3 Lite 5G: CPH2465\nRealme GT 5G: RMX2202 India\nRealme GT 5G: RMX2202 Global\nRealme 14 5G: RMX5070 Global\nRealme 14 5G: RMX5070 India\nRealme GT 6T: RMX3853 India\nRealme GT 6 Neo: RMX3850 India\nRealme GT 7 Pro: RMX5010\nRealme P2 Pro 5G: RMX3987 India\nRealme GT Master Edition 5G: RMX3360 India\nRealme GT Master Edition 5G: RMX3363 Global\nRealme GT Neo 3T: RMX3371 India\nRealme 9 Pro+ 5G: RMX3392 India\nRealme 13 Pro+ 5G: RMX3921 India\nRealme 13 Pro 5G: RMX3989 India\nRealme P4 Pro 5G: RMX5110 India\nRealme P4 5G: RMX5118 India\nRealme GT 8 Pro Dream Edition 5G: RMX5210 India\nRealme GT 8 Pro Dream Edition 5G: RMX5210 BD\nRealme C85 Pro 5G: RMX5030 BD\nRealme 16 Pro+ 5G: RMX5111 India\nRealme MediaTek Models and Chipsets\nAuto Detect\nAuto Detect MT6897\nAuto Detect MT6877\nAuto Detect MT6877 v2\nAuto Detect MT6877 v3\nMT6835 Dimensity 6100 Turbo\nMT6855 Dimensity 930\nMT6878 Dimensity 7050 Ultra\nMT6899 Dimensity 9400\nMT6899 Dimensity 9400+\nRealme 9i 5G RMX3612 India\nRealme Narzo 70 Pro 5G RMX3868\nRealme 14 5G RMX5075\nRealme GT 7 Dream Edition RMX5011\nRealme GT 7T RMX5003\nRealme C71 5G RMX5008\nRealme P4 Power RMX5187\nRealme C65 4G RMX3890",
+      "downloads": 0,
+      "link": "https://mega.nz/file/aowViQRK#gtC42-ySpPujnI0-8pSfSZrji4qyGWY46wTb2NzctmI",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "Public FRP Tool v2.9.1 free",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/aowViQRK#gtC42-ySpPujnI0-8pSfSZrji4qyGWY46wTb2NzctmI",
+              "password": "gsmyogesh.com"
+            },
+            {
+              "url": "https://1drv.ms/u/c/362938347b225930/IQD1NRML5x21RJoUjXpS0cBSAbn1JQA8Fwnknv8BNpBhm9s?e=bBe6y6",
+              "password": "gsmyogesh.com"
+            },
+            {
+              "url": "https://1024terabox.com/s/1KVQTufM_G5Lqh57wKiGKYQ",
+              "password": "gsmyogesh.com"
+            },
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZgQ3LJZMCB5HMJxtzbPx6camL55cSjJ1Ys7",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1790159915361,
-      "lastModified": 1790159915361
+      "createdAt": 1790166625633,
+      "lastModified": 1790166625633
     }
   },
   "images": {
@@ -51997,7 +52042,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-23T10:40:00.870Z",
+    "createdAt": "2026-09-23T12:30:31.945Z",
     "version": "2.0",
     "sections": 4
   }
