@@ -979,41 +979,78 @@
   },
   "files": {
     "f_muhr99wy_2n4xsnhha": {
-      "name": "Master Unlock GSM Tool",
-      "folderId": "f_mpcgjkt0_nqa98ro9k",
-      "size": "44.1 Mb",
       "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/09/image-27.png",
       "covers": [
         "https://gsmyogesh.com/wp-content/uploads/2026/09/image-27.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT1hpD3lwH1SzZR4rYCkZoNnOIJHTq-w0vGGA75Y1sy7-eMvJ_LSaAkmcRz2uwHp8zH5UVksG04zxnrtpbLfdW9iQAZ89zg_O-up7uehUA4KD3VtCVCXPb01r-R2cnO4EeTz_W985SHecq89T0_inHSmU6icXFMiy_FWk5Q3ZBJKJUQqmFcU6A4QSJ9ZZq/w472-h640/Master%20Unlock%20GSM%20Tool%20Tecno%20Infinix.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "master-unlock-gsm-tool",
+      "createdAt": 1790388787570,
       "description": "Master Unlock GSM Tool Tecno Infinix Free Download .\nWhat This Tool Is\nMaster Unlock GSM is a flasher tool for Tecno and Infinix phones. It works with fastboot and fastbootd mode. The tool uses Google’s official platform-tools in the background, so you don’t have to search for fastboot.exe or adb.exe anywhere else.\n\nThe window has two tabs, a top header showing your Windows username, and a status bar at the bottom that checks your phone connection every two seconds.\n\nThe Two Tabs\nThe window has two tabs.\n\nThe first tab is called Flasher Tool. This is where all the action happens. It has two buttons – one to download platform-tools and one to start the flashing process. Below the buttons, there is a large log box that shows every command the tool runs.\n\nThe second tab is called Instructions. It has the basic steps written in simple English so anyone opening the tool for the first time knows what to do.\n\nLive Device Status\nAt the bottom of the window, there is a status bar. It checks every two seconds whether your phone is connected in fastboot mode. When your phone is detected, the text shows “FASTBOOT CONNECTED: YES” with the device ID. The color blinks between two shades of green. When no phone is found, it blinks red and says it is waiting.\n\nThis is the part I use the most. I don’t have to open a separate CMD window and run “fastboot devices” every time. The tool tells me right away if the phone is connected.\n\nDownloading Platform-Tools\nThe very first time you use this tool, click the Download Platform-Tools button. The tool pulls the official zip file from Google’s server and extracts these files into the same folder where the tool is sitting:\n\nfastboot.exe\nadb.exe\nAdbWinApi.dll\nAdbWinUsbApi.dll\nAfter extraction, the tool cleans up the zip file and the temporary folder. The log box shows each step so you know it is working. If your internet drops in the middle, an error line appears in the log.\nSoftware Name\tMaster Unlock GSM (Tecno Infinix Flasher)\nDeveloper\tGSMYOGESH\nVersion\tv1\nSupported OS\tWindows\nSupported Devices\tTecno and Infinix phones\nLanguage\tEnglish\nFile Type\t.exe (Portable)\nDependencies\tGoogle Platform-Tools (downloaded from inside the tool)",
       "downloads": 0,
-      "link": "https://mega.nz/file/SoolCYIC#kyDsyjx1pChans-ITPrsZcc8-L5mNlx7edKL7SWClCE",
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
-      "published": true,
+      "lastModified": 1790388787570,
+      "link": "https://mega.nz/file/SoolCYIC#kyDsyjx1pChans-ITPrsZcc8-L5mNlx7edKL7SWClCE",
       "links": [
         {
           "label": "Master Unlock GSM Tool",
           "urls": [
             {
-              "url": "https://mega.nz/file/SoolCYIC#kyDsyjx1pChans-ITPrsZcc8-L5mNlx7edKL7SWClCE",
+              "password": "",
+              "url": "https://mega.nz/file/SoolCYIC#kyDsyjx1pChans-ITPrsZcc8-L5mNlx7edKL7SWClCE"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1fzuuTQflR5I2sFD4kyp4ew"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Master Unlock GSM Tool",
+      "password": "",
+      "publishUrl": "master-unlock-gsm-tool",
+      "published": true,
+      "size": "44.1 Mb",
+      "unrarPassword": ""
+    },
+    "f_muhrm02z_nmfustjg8": {
+      "name": "OPPO Demo Unlocker Tool",
+      "folderId": "f_mpzhn51z_ka1g9srm4",
+      "size": "44mb",
+      "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/09/image-28.png",
+      "covers": [
+        "https://gsmyogesh.com/wp-content/uploads/2026/09/image-28.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJZ9r1cPjagC2sTRhDwlZ8oz_KxJJxk-F31ouHmb4rhVy6wB2Adtk6CgZNxoI78gtiDoy7-rYwwoQLkH2mHgfybtO6S0w2CHTR0hje2ymc23Owhi7h3lhTDCEr8xRtymNOfOHaKH1ZHvVaV-z_aLled8ra6vit1W7PEn3LJdI62ohwvtbCwUXEOEs5cTHf/s1600/OPPO%20Demo%20Unlocker%20Tool.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "oppo-demo-unlocker-tool",
+      "description": "OPPO Demo Unlocker Tool Free Download .\n🟢 OPPO Demo Unlocker Tool - New Release! 🟢\n\nGot an OPPO phone stuck in demo mode? This small Windows tool fixes it in a few clicks. Built by GSMYOGESH.\n\nWhat it does:\n✅ One-click download of official Google ADB tools\n✅ Live device status check every 2 seconds\n✅ Reads your OPPO phone model and Android version\n✅ Sends demo exit broadcast to System UI\n✅ Disables demo mode from global settings\n✅ Auto reboots the phone after done\n✅ Green-themed clean interface with log box\n\nNo root needed. No data loss. Just ADB.\n\nWhat you need:\n📱 OPPO phone stuck in demo mode\n🔌 USB Debugging turned ON\n💻 Windows 10 or Windows 11 PC\n🔗 Data transfer USB cable\n\n📖 Full article with features, steps, honest notes, and FAQ:",
+      "downloads": 0,
+      "link": "https://mega.nz/file/joxARIrI#Qgais_uH6eplHrC7Y1R2BH2jhFB_1MV8NXRZjyLsfF8",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "OPPO Demo Unlocker Tool",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/joxARIrI#Qgais_uH6eplHrC7Y1R2BH2jhFB_1MV8NXRZjyLsfF8",
               "password": ""
             },
             {
-              "url": "https://1024terabox.com/s/1fzuuTQflR5I2sFD4kyp4ew",
+              "url": "https://1024terabox.com/s/1RDsM0v8EXKpy8BI-QRUT5A",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1790388787570,
-      "lastModified": 1790388787570
+      "createdAt": 1790389381355,
+      "lastModified": 1790389381355
     }
   },
   "images": {
@@ -1032,7 +1069,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-26T02:13:28.386Z",
+    "createdAt": "2026-09-26T02:23:06.036Z",
     "version": "2.0",
     "sections": 4
   }
