@@ -1094,50 +1094,91 @@
       "unrarPassword": ""
     },
     "f_muiertsi_0s7p6i8x8": {
-      "name": "TTA Fastboot Flasher V2.0 Free",
-      "folderId": "f_mp6sjh9m_k6ruc0voj",
-      "size": "2.03MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVero9EiWix4aORBPNxGTQvpRhnljfznz2vDiZYvWVYnMlxXZpQBZ51bnFKuj_eVD6wt6tOEJveY8YUyH71tf9EyzIMwfhqNn9cOj604OiRBza07pLFw0y0uQhHCgfUvhGOjbZNeV1yMpd6bMouykhbI02e1nTpjEnoMDoATj0Z6UvKq2y-lpHz0_A8NCi/s1600/TTA%20Fastboot%20Flasher%20V2.0%20Free.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVero9EiWix4aORBPNxGTQvpRhnljfznz2vDiZYvWVYnMlxXZpQBZ51bnFKuj_eVD6wt6tOEJveY8YUyH71tf9EyzIMwfhqNn9cOj604OiRBza07pLFw0y0uQhHCgfUvhGOjbZNeV1yMpd6bMouykhbI02e1nTpjEnoMDoATj0Z6UvKq2y-lpHz0_A8NCi/s1600/TTA%20Fastboot%20Flasher%20V2.0%20Free.jpg",
         "https://gsmyogesh.com/wp-content/uploads/2026/09/image-3-1024x576.png",
         "https://gsmyogesh.com/wp-content/uploads/2026/09/image-31-768x505.png"
       ],
-      "password": "",
-      "unrarPassword": "tta",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "tta-fastboot-flasher-v20-free",
+      "createdAt": 1790428284306,
       "description": "TTA Fastboot Flasher V2.0 Free Download\nWhat I Found in the Tool\nThe main window has a simple flashing panel. At the top, there are buttons for Load .bat and Refresh devices. There is also a dropdown showing (auto) and an Extra args field with -w (optional).\n\nThe flashing list shows different partitions and their status. In the provided screenshot, several entries are marked as OK, including boot_a, hyp_ab, uefi_ab, uefisecapp_ab, spu service_ab, modem_ab, modemfirmware_ab, bluetooth_ab, dsp_ab, keymaster_ab, qupfw_ab, multimgoin_ab, multimqti_ab, cpucp_ab, logfs, rescue, storsec, and toolsfv.\n\nThe right side of the window displays the fastboot output. It shows boot_a being written, followed by a successful partition message. The tool then runs fastboot set_active a and changes the current slot to a. After that, fastboot reboot is shown and the device is rebooted.Fastboot Flashing Process Shown in the Screenshot\nThe screenshot shows the tool working through a flashing job using the loaded batch file. Each partition appears in the list with its file path and result. Several operations are marked OK, showing that those steps completed in the displayed session.\n\nAt the bottom of the window, there is a Start button and a Stop button. A green progress bar is also visible while the flashing process is running.\n\nOn the right side, the console ends with the device reboot command and the message ===== END =====. The supplied information also reports the K80 flashing process as done.\n\nUsing TTA Fastboot Flasher\nOpen TTA Fastboot Flasher.\nUse Load .bat to load the required batch file.\nConnect the device in the required fastboot mode.\nUse Refresh devices if the device needs to be detected again.\nCheck the flashing entries shown in the tool.\nUse the Start button to begin the process.\nThe screenshot shows the batch file name as flash_all.bat. The tool also has an optional Extra args field where -w is shown.\n\nFor K80 Flashing\nThe provided information specifically mentions using TTA Fastboot Flasher for a K80 where the process was getting stuck at super. The supplied note says that users with a 4GB RAM PC who are facing this kind of super-related stuck issue can try the tool.\n\nFastboot Flasher V2.0 Changelog\nMain Uses\nAdded support for Temporary Bootloader Unlock (Temp BL).\nCan be used to flash ENG firmware after Temp BL.\nCan help with safe flashing of Locked Global firmware after ENG flashing.\nSupports removing ABL and flashing it back later.\nUseful for different Fastboot firmware flashing tasks.\nNote\nContact via CB to get the Fastboot Flasher.\nDownload TTA Fastboot Flasher\nThe download link provided for TTA Fastboot Flasher is available below. The password supplied with the file is tta.",
       "downloads": 0,
-      "link": "https://androidfilehost.com/?fid=17900174959292977445",
+      "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
-      "published": true,
+      "lastModified": 1790428284306,
+      "link": "https://androidfilehost.com/?fid=17900174959292977445",
       "links": [
         {
           "label": "TTA Fastboot Flasher V2.0",
           "urls": [
             {
-              "url": "https://androidfilehost.com/?fid=17900174959292977445",
-              "password": "tta"
+              "password": "tta",
+              "url": "https://androidfilehost.com/?fid=17900174959292977445"
             },
             {
-              "url": "https://mega.nz/file/msBBxbpJ#foh5VLRgubuZbNpqw5ZFTSDNf_phPFhzBZwQoDBQWT8",
-              "password": "tta"
+              "password": "tta",
+              "url": "https://mega.nz/file/msBBxbpJ#foh5VLRgubuZbNpqw5ZFTSDNf_phPFhzBZwQoDBQWT8"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZOWI4JZC8voDC2ngqJxVPRdFpuOs8WHGKKk",
-              "password": "tta"
+              "password": "tta",
+              "url": "https://u.pcloud.link/publink/show?code=XZOWI4JZC8voDC2ngqJxVPRdFpuOs8WHGKKk"
             },
             {
-              "url": "https://1024terabox.com/s/1sESF0cUPbBgpsvf71swPqg",
-              "password": "tta"
+              "password": "tta",
+              "url": "https://1024terabox.com/s/1sESF0cUPbBgpsvf71swPqg"
             }
           ]
         }
       ],
-      "createdAt": 1790428284306,
-      "lastModified": 1790428284306
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TTA Fastboot Flasher V2.0 Free",
+      "password": "",
+      "publishUrl": "tta-fastboot-flasher-v20-free",
+      "published": true,
+      "size": "2.03MB",
+      "unrarPassword": "tta"
+    },
+    "f_muj9nny8_5kbjobwtg": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigIrfwdvKyeH_GBby4axH4aOx3qlgU2VKlLN3zrJdIO9a1EcyC_9JxMXK0CcuE028I1fny3BPO7nExY7rlwi0ufxP9D2L7dgP9s9tnGMm4izqDqHPx-m0lqeWiVXxbL8XX_35ThN_4Y7jHXiJvOdORF4kYVJBkbVDDKoSaDoPbJdDm_G8xGipRXVWyrrcF/w640-h342/DeviceDB%20Chipset%20info%20offline.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigIrfwdvKyeH_GBby4axH4aOx3qlgU2VKlLN3zrJdIO9a1EcyC_9JxMXK0CcuE028I1fny3BPO7nExY7rlwi0ufxP9D2L7dgP9s9tnGMm4izqDqHPx-m0lqeWiVXxbL8XX_35ThN_4Y7jHXiJvOdORF4kYVJBkbVDDKoSaDoPbJdDm_G8xGipRXVWyrrcF/w640-h342/DeviceDB%20Chipset%20info%20offline.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7pFR_2nGuqzK_eIC0xmlgMF71Y-QxLJ6Z6PyCx5Q4r8D9CoL3pC0yGWrFKWtKyS4zXLLZUnjC1A-wHJHMiPw57qM6x6CYUf-sBwoXx4ZQxNI6Yn-06pb0v7dlH9X-VsgEFCWxbSOhuQBUKmwgLLLx0ATUS6C_UlLF_VJyoMtgK5fwpNNvJA0jgcdFxpi/w640-h360/DeviceDB%20Chipset%20info%20offlines.png"
+      ],
+      "createdAt": 1790480158208,
+      "description": "DeviceDB Chipset info offline Free Download\n DeviceDB Latest Version 2026\n\nNeed a quick way to check mobile device and chipset information? 🔍\n\nDeviceDBis an offline device database tool with 16,636+ devices listed.\n\n🔹 Search by Device Name / Model / Chipset\n🔹 Check Chipset & Chipset Code\n🔹 View Manufacturer & Release Year\n🔹 Add, Edit & Delete Device Entries\n🔹 Offline Database\n🔹 MediaTek, Qualcomm, Unisoc & more",
+      "downloads": 0,
+      "folderId": "",
+      "isLink": false,
+      "lastModified": 1790480158208,
+      "link": "https://mega.nz/file/y4JznSYQ#9N_-1o3eNnMyz5cF0f4ZQmVt67Jrl9inWvKmkx0nd8I",
+      "links": [
+        {
+          "label": "DeviceDB Chipset info offline",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/y4JznSYQ#9N_-1o3eNnMyz5cF0f4ZQmVt67Jrl9inWvKmkx0nd8I"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZb9A4JZtNWVt2LKDqBbAMap7KxA4hbqjntk"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1GvHZEwTcD-mMub5r18l7uA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "DeviceDB Chipset info offline",
+      "password": "",
+      "publishUrl": "devicedb-chipset-info-offline",
+      "published": true,
+      "size": "2.3MB",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -1156,7 +1197,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-26T13:11:30.769Z",
+    "createdAt": "2026-09-27T03:39:30.013Z",
     "version": "2.0",
     "sections": 4
   }
