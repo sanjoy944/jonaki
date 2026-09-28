@@ -1270,30 +1270,24 @@
       "unrarPassword": ""
     },
     "f_mujoebm6_whr9iztdq": {
-      "name": "ITEL UNIVERSAL GSI ROM",
-      "folderId": "f_mq7f7s06_6p5wmh3aa",
-      "size": "2gb",
       "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/09/image-33-1024x576.png",
       "covers": [
         "https://gsmyogesh.com/wp-content/uploads/2026/09/image-33-1024x576.png"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "itel-universal-gsi-rom",
+      "createdAt": 1790504916558,
       "description": "ITEL UNIVERSAL GSI ROM Download & Flash Guide .\nITEL-UNIVERSAL-GSI-ROM BY ROBYTECHTOOL.7z\trobytechgmail\t21 Sept\t990.5 MB\nINFINIX-TECNO-UNIVERSAL-GSI-ROM BY ROBYTECHTOOL.7z\trobytechgmail\t21 Sept\t1.47 GB",
       "downloads": 0,
-      "link": "https://mega.nz/file/9dsFVLYL?utm_source=chatgpt.com#AB41-L9Bsfpna1SWop3JZbKHWdXYqEQVc_C0cCYeGPI",
+      "folderId": "f_mq7f7s06_6p5wmh3aa",
       "isLink": false,
-      "published": true,
+      "lastModified": 1790504916558,
+      "link": "https://mega.nz/file/9dsFVLYL?utm_source=chatgpt.com#AB41-L9Bsfpna1SWop3JZbKHWdXYqEQVc_C0cCYeGPI",
       "links": [
         {
           "label": "BMT MediaTek Tool",
           "urls": [
             {
-              "url": "https://mega.nz/file/9dsFVLYL?utm_source=chatgpt.com#AB41-L9Bsfpna1SWop3JZbKHWdXYqEQVc_C0cCYeGPI",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/9dsFVLYL?utm_source=chatgpt.com#AB41-L9Bsfpna1SWop3JZbKHWdXYqEQVc_C0cCYeGPI"
             }
           ]
         },
@@ -1301,14 +1295,61 @@
           "label": "Itel GSI ROM",
           "urls": [
             {
-              "url": "https://drive.google.com/drive/folders/1wolREJCbOS7qrS3IQOCPRbZ6dkoOgN1m",
+              "password": "",
+              "url": "https://drive.google.com/drive/folders/1wolREJCbOS7qrS3IQOCPRbZ6dkoOgN1m"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "ITEL UNIVERSAL GSI ROM",
+      "password": "",
+      "publishUrl": "itel-universal-gsi-rom",
+      "published": true,
+      "size": "2gb",
+      "unrarPassword": ""
+    },
+    "f_mukqvedw_h0mxfdlr9": {
+      "name": "TFMTool Pro V3.4.1 Beta Free License",
+      "folderId": "f_mp6sihua_qn9c5cpoh",
+      "size": "",
+      "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/09/image-36-1024x576.png",
+      "covers": [
+        "https://gsmyogesh.com/wp-content/uploads/2026/09/image-36-1024x576.png"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "tfmtool-pro-v341-beta-free-license",
+      "description": "TFMTool Pro V3.4.1 Beta Free License Download\nFeatures List\nHere is a list of the features I could see in the software, grouped by category.\n\nMain Tabs\nFlash\nOperations\nSecurity\nFlash Tab Features\nFlasher\nPartition Manager\nSearch Partition\nShow All\nFlash Firmware button\nPartition Manager Options\nErase\nWrite\nRead\nReboot\nLoad Partition\nOperations Tab – Misc Operations\nFactory Reset With FRP\nReset FRP\nRead Information\nSet EDL Active Slot\nFastboot Set Active Slot\nOperations Tab – Special Operations\nFastboot Reboot\nFastboot Readinfo\nSettings Panel\nAuth Server Settings (Xiaomi Auth)\nFile Settings\nDownload Agent\nSingle Program\nMulti Program\nReset All\nRestart After Job\nDownload Information\nHere is a table with the details I have.\n\nSoftware Name\tTFMTool Pro\nVersion\t3.4.1-dev+8b93517b\nDeveloper\tTFMTool\nSupported OS\tWindows 10 & 11\nSupported Devices\tXiaomi (All Models Preloader via Auth)\nLicense\tFree License, Standard Plan, Professional Plan\n\nHow to Install and Set Up TFMTool Pro\nI found the installation steps on the official website. Here is how it goes.\n\nDownload the setup: Go to https://beta.tfmtool.com/ and click the “Download for Windows” button. Get the latest installer from the download page.\nCreate an account: Go to https://beta.tfmtool.com/auth/register. Fill in your full name, username, email, and password. Then click “Create account”.\nVerify your email: Check your Gmail inbox for an OTP from TFMTool. Enter the code on the verification page and click “Submit OTP”.\nActivate a plan: Select the “Free License” plan. Enter your billing details like phone number, country, city, post code, and street address. Click “Activate free plan” and go to the dashboard.\nLog in to the desktop app: Open the TFM Tool Pro application on your PC. Enter your registered email or username and password. Click “Sign In” to get to the main interface.",
+      "downloads": 0,
+      "link": "https://beta.tfmtool.com/",
+      "isLink": true,
+      "published": true,
+      "links": [
+        {
+          "label": "TFMTool Pro V3.4.1 Beta",
+          "urls": [
+            {
+              "url": "https://beta.tfmtool.com/",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "Create an account Link",
+          "urls": [
+            {
+              "url": "https://beta.tfmtool.com/auth/register",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1790504916558,
-      "lastModified": 1790504916558
+      "createdAt": 1790569538708,
+      "lastModified": 1790569538708
     }
   },
   "images": {
@@ -1327,7 +1368,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-27T10:30:04.980Z",
+    "createdAt": "2026-09-28T04:26:49.091Z",
     "version": "2.0",
     "sections": 4
   }
