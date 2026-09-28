@@ -1311,30 +1311,24 @@
       "unrarPassword": ""
     },
     "f_mukqvedw_h0mxfdlr9": {
-      "name": "TFMTool Pro V3.4.1 Beta Free License",
-      "folderId": "f_mp6sihua_qn9c5cpoh",
-      "size": "",
       "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/09/image-36-1024x576.png",
       "covers": [
         "https://gsmyogesh.com/wp-content/uploads/2026/09/image-36-1024x576.png"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "tfmtool-pro-v341-beta-free-license",
+      "createdAt": 1790569538708,
       "description": "TFMTool Pro V3.4.1 Beta Free License Download\nFeatures List\nHere is a list of the features I could see in the software, grouped by category.\n\nMain Tabs\nFlash\nOperations\nSecurity\nFlash Tab Features\nFlasher\nPartition Manager\nSearch Partition\nShow All\nFlash Firmware button\nPartition Manager Options\nErase\nWrite\nRead\nReboot\nLoad Partition\nOperations Tab – Misc Operations\nFactory Reset With FRP\nReset FRP\nRead Information\nSet EDL Active Slot\nFastboot Set Active Slot\nOperations Tab – Special Operations\nFastboot Reboot\nFastboot Readinfo\nSettings Panel\nAuth Server Settings (Xiaomi Auth)\nFile Settings\nDownload Agent\nSingle Program\nMulti Program\nReset All\nRestart After Job\nDownload Information\nHere is a table with the details I have.\n\nSoftware Name\tTFMTool Pro\nVersion\t3.4.1-dev+8b93517b\nDeveloper\tTFMTool\nSupported OS\tWindows 10 & 11\nSupported Devices\tXiaomi (All Models Preloader via Auth)\nLicense\tFree License, Standard Plan, Professional Plan\n\nHow to Install and Set Up TFMTool Pro\nI found the installation steps on the official website. Here is how it goes.\n\nDownload the setup: Go to https://beta.tfmtool.com/ and click the “Download for Windows” button. Get the latest installer from the download page.\nCreate an account: Go to https://beta.tfmtool.com/auth/register. Fill in your full name, username, email, and password. Then click “Create account”.\nVerify your email: Check your Gmail inbox for an OTP from TFMTool. Enter the code on the verification page and click “Submit OTP”.\nActivate a plan: Select the “Free License” plan. Enter your billing details like phone number, country, city, post code, and street address. Click “Activate free plan” and go to the dashboard.\nLog in to the desktop app: Open the TFM Tool Pro application on your PC. Enter your registered email or username and password. Click “Sign In” to get to the main interface.",
       "downloads": 0,
-      "link": "https://beta.tfmtool.com/",
+      "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": true,
-      "published": true,
+      "lastModified": 1790569538708,
+      "link": "https://beta.tfmtool.com/",
       "links": [
         {
           "label": "TFMTool Pro V3.4.1 Beta",
           "urls": [
             {
-              "url": "https://beta.tfmtool.com/",
-              "password": ""
+              "password": "",
+              "url": "https://beta.tfmtool.com/"
             }
           ]
         },
@@ -1342,14 +1336,62 @@
           "label": "Create an account Link",
           "urls": [
             {
-              "url": "https://beta.tfmtool.com/auth/register",
+              "password": "",
+              "url": "https://beta.tfmtool.com/auth/register"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TFMTool Pro V3.4.1 Beta Free License",
+      "password": "",
+      "publishUrl": "tfmtool-pro-v341-beta-free-license",
+      "published": true,
+      "size": "",
+      "unrarPassword": ""
+    },
+    "f_mul53v0g_ksfdvh8c0": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj80t62D4IYfGjdMfp13RAW8RMWirvW0fzK-1Dx748vWfF4AjUuCMskVrRIEKbdmYwRkT16N_vONwDk-n0uHNblNvxZ2ZwmAvBGxyK9UBM_WsnaR9iymJ5nJ-qPF6JRohgahK_uZ-H1lw-B1UKH0PTnS9KEPcrrGAiyyrq7nOXIgI8I5qlLww6okQRO1oE/w640-h360/TF%20MTK%20TOOL%20Client%20Free%20%20(1).jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj80t62D4IYfGjdMfp13RAW8RMWirvW0fzK-1Dx748vWfF4AjUuCMskVrRIEKbdmYwRkT16N_vONwDk-n0uHNblNvxZ2ZwmAvBGxyK9UBM_WsnaR9iymJ5nJ-qPF6JRohgahK_uZ-H1lw-B1UKH0PTnS9KEPcrrGAiyyrq7nOXIgI8I5qlLww6okQRO1oE/w640-h360/TF%20MTK%20TOOL%20Client%20Free%20%20(1).jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu4hGPlejVlcPbPa4Cva7UWa23owLXiLT4HEVczkXzqu1Ja3ON0F9yAQyawOF3x7HJQIFu0LhilzSTHRkPbDFKJAge75OlhSVQegvgHAM25rsJWz_UpvFWP0FxZPTixm2hd5ebA70Fn0OpOMOReDp2E7z9yhphDwLSo09KmoWrTnIpoYjGfWHu4b7qfPWA/w640-h288/TF%20MTK%20TOOL%20Client%20Free%20%20(2).jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9XPZOqcwJZX1KfQCL676PqSGMSwFJ7YjC9E5290seR3Jj3bUP35W1CA6bqAMoexNnHA-x3X8163cBSlgyvPYs8qwGcWZOjnAv9UNYVlFQsbqWzS8geWK1CXcSM8xR44A0YRbNZ6-kyAxnKRsTYrT-QkLVoujn9XvHRhR_CdweWa5wfFFyNi-MVpRJICKx/w640-h342/TF%20MTK%20TOOL%20Client%20Free%20%20(3).jpg"
+      ],
+      "createdAt": 1790593448128,
+      "description": "Powerful MediaTek Tool for Mobile Technicians | New MTK Flash & Service Tool\nToday we introduce TF MTK Tool v1.0, a powerful MTK tool with multiple servicing functions in one simple interface.\n\n🔥 TF MTK Tool Features :\n✅ MediaTek Firmware Flashing\n✅ Download Agent (DA) Support\n✅ AUTH File Support\n✅ Preloader Selection\n✅ Patch DA\n✅ SLA / DAA / SBC-related functions\n✅ Crash Preloader\n✅ FRP-related service functions\n✅ Format Device\n✅ Bootloader Unlock / Relock\n✅ Read / Write functions\n✅ Partition functions \n✅ RPMB\n✅ Keys\n✅ Network functions\n✅ Clean and easy-to-use interface\nThe tool is being developed with mobile technicians in mind, and more device support and features will be added in future updates.\n📌 Tool: TF MTK Tool\n📌 Version: 1.0\n📍 Developer/Brand: Techno Fayez",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1790597290446,
+      "link": "https://mega.nz/file/TQ5xlJbY#SV3PD-mkseMw-2Kog9AW8l2TfK3VbRP6EflUFDxCR88",
+      "links": [
+        {
+          "label": "TF MTK TOOL Client Free",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/TQ5xlJbY#SV3PD-mkseMw-2Kog9AW8l2TfK3VbRP6EflUFDxCR88",
+              "password": ""
+            },
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZDJG4JZfU5FnVHQtpBEPeUfzY899zII0jVk",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1eeZiJy7NfkKsRQG6av813w",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1790569538708,
-      "lastModified": 1790569538708
+      "loginPassword": "12345",
+      "loginUsername": "technofayez",
+      "name": "TF MTK TOOL Client Free",
+      "password": "",
+      "publishUrl": "tf-mtk-tool-client-free",
+      "published": true,
+      "size": "38.4 MB",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -1368,7 +1410,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-28T04:26:49.091Z",
+    "createdAt": "2026-09-28T12:08:37.005Z",
     "version": "2.0",
     "sections": 4
   }
