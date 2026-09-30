@@ -1197,12 +1197,12 @@
           "label": "DarsUnlocker UnlockTool V3",
           "urls": [
             {
-              "url": "https://mega.nz/file/n8IVWQYY#AyVDEkpmwQeO1nqgPWlRHrnAmpXdTk3LXkF9GC40EBs",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/n8IVWQYY#AyVDEkpmwQeO1nqgPWlRHrnAmpXdTk3LXkF9GC40EBs"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZWUQ8JZqf4BzqW3FbQwe86VHNVEsuLTJe2k",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZWUQ8JZqf4BzqW3FbQwe86VHNVEsuLTJe2k"
             }
           ]
         },
@@ -1210,20 +1210,20 @@
           "label": "DarsUnlocker File V2",
           "urls": [
             {
-              "url": "https://mega.nz/file/HtAl1ZRJ#l9tUzFUFpxIeEcUKk5ZUez9WUsquptN7hW3YekbgWus",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/HtAl1ZRJ#l9tUzFUFpxIeEcUKk5ZUez9WUsquptN7hW3YekbgWus"
             },
             {
-              "url": "https://1drv.ms/u/c/362938347b225930/IQA03yexTc7hSoPe7fTR6sf0AZaVQ2xpp_DIX9mGJ-MLcZ4?e=J9tV12",
-              "password": ""
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQA03yexTc7hSoPe7fTR6sf0AZaVQ2xpp_DIX9mGJ-MLcZ4?e=J9tV12"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZjkN4JZFYg0LVC22ByeA4GUwi5mkuryhI8V",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZjkN4JZFYg0LVC22ByeA4GUwi5mkuryhI8V"
             },
             {
-              "url": "https://1024terabox.com/s/1_7UTqkKbmqPC_HxqUF2pXg",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1_7UTqkKbmqPC_HxqUF2pXg"
             }
           ]
         }
@@ -1405,6 +1405,42 @@
       "published": true,
       "size": "38.4 MB",
       "unrarPassword": ""
+    },
+    "f_mungwue4_ssh3649vj": {
+      "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/09/image-38-1024x576.png",
+      "covers": [
+        "https://gsmyogesh.com/wp-content/uploads/2026/09/image-38-1024x576.png"
+      ],
+      "createdAt": 1790734208476,
+      "description": "E-GSM Key v1.0.3 Free License Download.\nQualcomm Device Support\nThe provided Qualcomm list contains a large number of Xiaomi and POCO models. The model name is followed by the internal codename used by the tool.\n\nXiaomi 15 – dada\nXiaomi 14 – aurora\nXiaomi 17 Max – byron\nXiaomi 10 Ultra – cas\nXiaomi Mi 10 Pro 5G – cmi\nXiaomi Mi 10 5G / 10T Pro 5G / Redmi K30S – apollo\nXiaomi Mi 11 Lite – courbet\nXiaomi Mi A2 Lite – daisy\nXiaomi Pocophone F1 – beryllium\nXiaomi Poco M3 – citrus\nXiaomi CIVI 4 – chenfeng\nMIX Flip 2 – bixi\nMi Pad 5 Pro 12.4 – dagu\nPOCO F3 / Redmi K40 / Mi 11X – alioth\nPOCO F8 Pro / Redmi K90 – annibale\nPOCO M6 Plus 5G / Redmi Note 13R / 13 5G – breeze\nPOCO M7 / Redmi 15 – creek\nPOCO X8 Power / Redmi Note 17 Pro Max 5G – brussels\nRedmi Note 14 Pro+ – amethyst\nRedmi Note 9 Pro / Redmi Note 9S – curtana\nRedmi K100 Pro – athens\nRedmi K20 / Mi 9T – davinci\nQualcomm Operations\nFor Qualcomm devices, the provided list includes firmware flashing and information reading. There are also EFS operations and Mi account related operations.\n\nFlash firmware\nRead info\nRemove FRP\nBackup EFS\nRestore EFS\nWipe EFS\nBypass Mi account\nThe EFS options are useful when the selected Qualcomm device requires an EFS backup, restore, or wipe operation. These options are specifically listed for the Qualcomm section.\n\nMediaTek Device Support\nThe MediaTek section includes Xiaomi, Redmi, and POCO devices from the supplied list. Each device is shown with its codename.\n\nXiaomi 14T – degas\nXiaomi 13T – aristotle\nXiaomi 13T Pro / Redmi K60 Ultra – corot\nXiaomi 11T – agate / amber\nXiaomi 17T – chagall\nXiaomi 12 Pro Dimensity – daumier\nXiaomi Redmi A3 / POCO C61 – blue\nXiaomi Redmi 12C 5G – air\nRedmi Note 14 5G / POCO M7 Pro 5G – beryl\nRedmi Note 15 Pro 4G – charoite\nRedmi K80 Ultra – dali\nRedmi Turbo 5 Max / POCO X8 Pro Max – dash\nRedmi 15C / POCO C85 – dew\nMediaTek Operations\nThe MediaTek operation list covers firmware flashing and several reset and account related operations. Preloader flashing is also included in the supplied list.\n\nFlash firmware\nRemove FRP\nFactory reset\nRemove Mi account\nFlash preloader\nOne of the supplied screenshots shows E-GSM Key in the firmware flashing section with a Redmi Note 13 Pro 4G. The screen contains the DA and scatter file fields, a firmware partition list, Select All, Reboot Device, and Flash controls. The operation log shows multiple partitions being flashed successfully and then the firmware flashing process being completed.\n\nUnisoc Device Support\nThe provided Unisoc list contains two device groups.\n\nRedmi A7 Pro / POCO C81 Pro – arctic\nRedmi A3x / Redmi A5 – missi\nFastboot Tools\nThe Fastboot section contains several operations for supported Xiaomi devices. These include information reading, firmware flashing, FRP work, bootloader operations, and switching the device from Fastboot to EDL.\n\nRead info\nFlash firmware\nXiaomi flash\nRemove FRP\nFRP format\nUnlock bootloader\nLock bootloader\nFactory reset\nFastboot to EDL\nIn the supplied Xiaomi 12 Pro screenshot, the selected codename is zeus. The Fastboot area shows a Fastboot Read Info option and Fastboot to EDL option. It also has MI Assistant Sideload Read Info and Remove FRP MI Assistant Mode.\n\nThe operation log in that screen shows device information being read, a token being read from the device, server processing, and the operation ending with a successful message.\n\nSideload Operations\nE-GSM Key also has a Sideload section with two operations listed in the provided information.\n\nRead info\nRemove FRP\nThe Xiaomi 12 Pro screen also shows MI Assistant Sideload options, including reading device information and removing FRP through MI Assistant mode.",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1790734246506,
+      "link": "https://mega.nz/file/b45VwZQA#vnsYXapY3lrOdOBqVq-VaonWs2AMTImXRIS0m3A-RI8",
+      "links": [
+        {
+          "label": "E-GSM Key v1.0.3",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/b45VwZQA#vnsYXapY3lrOdOBqVq-VaonWs2AMTImXRIS0m3A-RI8",
+              "password": ""
+            },
+            {
+              "url": "https://egsmkey.com/",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "E-GSM Key v1.0.3 Free License",
+      "password": "",
+      "publishUrl": "e-gsm-key-free-license",
+      "published": true,
+      "size": "51.0 MB",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -1423,7 +1459,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-09-30T02:07:06.411Z",
+    "createdAt": "2026-09-30T02:10:59.529Z",
     "version": "2.0",
     "sections": 4
   }
