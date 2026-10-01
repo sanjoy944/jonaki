@@ -1197,16 +1197,16 @@
           "label": "DarsUnlocker installer V4",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/75df9cnm9ydjzgo/DarsUnlocker-installer+V4.exe/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/75df9cnm9ydjzgo/DarsUnlocker-installer+V4.exe/file"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZ5818JZdj471DHJBqmyz6V2cBCtsuph1GsX",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZ5818JZdj471DHJBqmyz6V2cBCtsuph1GsX"
             },
             {
-              "url": "https://1024terabox.com/s/19Vy-OBnDcvreL1y7SRmLzA",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/19Vy-OBnDcvreL1y7SRmLzA"
             }
           ]
         },
@@ -1214,12 +1214,12 @@
           "label": "DarsUnlocker UnlockTool V3",
           "urls": [
             {
-              "url": "https://mega.nz/file/n8IVWQYY#AyVDEkpmwQeO1nqgPWlRHrnAmpXdTk3LXkF9GC40EBs",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/n8IVWQYY#AyVDEkpmwQeO1nqgPWlRHrnAmpXdTk3LXkF9GC40EBs"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZWUQ8JZqf4BzqW3FbQwe86VHNVEsuLTJe2k",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZWUQ8JZqf4BzqW3FbQwe86VHNVEsuLTJe2k"
             }
           ]
         },
@@ -1227,20 +1227,20 @@
           "label": "DarsUnlocker File V2",
           "urls": [
             {
-              "url": "https://mega.nz/file/HtAl1ZRJ#l9tUzFUFpxIeEcUKk5ZUez9WUsquptN7hW3YekbgWus",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/HtAl1ZRJ#l9tUzFUFpxIeEcUKk5ZUez9WUsquptN7hW3YekbgWus"
             },
             {
-              "url": "https://1drv.ms/u/c/362938347b225930/IQA03yexTc7hSoPe7fTR6sf0AZaVQ2xpp_DIX9mGJ-MLcZ4?e=J9tV12",
-              "password": ""
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQA03yexTc7hSoPe7fTR6sf0AZaVQ2xpp_DIX9mGJ-MLcZ4?e=J9tV12"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZjkN4JZFYg0LVC22ByeA4GUwi5mkuryhI8V",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZjkN4JZFYg0LVC22ByeA4GUwi5mkuryhI8V"
             },
             {
-              "url": "https://1024terabox.com/s/1_7UTqkKbmqPC_HxqUF2pXg",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1_7UTqkKbmqPC_HxqUF2pXg"
             }
           ]
         }
@@ -1482,19 +1482,36 @@
       "downloads": 0,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1790825665105,
-      "link": "https://drive.google.com/file/d/1dTArNflfJ3-kdjwW4rDB7HNSihwsCwK_/view?pli=1",
+      "lastModified": 1790849799088,
+      "link": "https://www.mediafire.com/file/m5jnoqeu7hwmyb1/utool.rar/file",
       "links": [
+        {
+          "label": "Unlock Tool Cracked BY EVW88 V2",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/file/m5jnoqeu7hwmyb1/utool.rar/file",
+              "password": "evw88"
+            },
+            {
+              "url": "https://mega.nz/file/y3pljJII#xJoHeMPXiR8mLFUNm4Idg9FwRziy1ggz9FEjNFehnZM",
+              "password": "evw88"
+            },
+            {
+              "url": "https://drive.google.com/file/d/1dTArNflfJ3-kdjwW4rDB7HNSihwsCwK_/view?usp=sharing",
+              "password": "evw88"
+            }
+          ]
+        },
         {
           "label": "Unlock Tool Cracked BY EVW88",
           "urls": [
             {
-              "password": "evw88",
-              "url": "https://drive.google.com/file/d/1dTArNflfJ3-kdjwW4rDB7HNSihwsCwK_/view?pli=1"
+              "url": "https://drive.google.com/file/d/1dTArNflfJ3-kdjwW4rDB7HNSihwsCwK_/view?pli=1",
+              "password": "evw88"
             },
             {
-              "password": "evw88",
-              "url": "https://t.me/evw88_bot"
+              "url": "https://t.me/evw88_bot",
+              "password": "evw88"
             }
           ]
         }
@@ -1558,7 +1575,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-01T05:22:22.813Z",
+    "createdAt": "2026-10-01T10:18:05.071Z",
     "version": "2.0",
     "sections": 4
   }
