@@ -1190,7 +1190,7 @@
       "downloads": 0,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1790825770959,
+      "lastModified": 1790832117280,
       "link": "https://www.mediafire.com/file/75df9cnm9ydjzgo/DarsUnlocker-installer+V4.exe/file",
       "links": [
         {
@@ -1198,6 +1198,14 @@
           "urls": [
             {
               "url": "https://www.mediafire.com/file/75df9cnm9ydjzgo/DarsUnlocker-installer+V4.exe/file",
+              "password": ""
+            },
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZ5818JZdj471DHJBqmyz6V2cBCtsuph1GsX",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/19Vy-OBnDcvreL1y7SRmLzA",
               "password": ""
             }
           ]
@@ -1550,7 +1558,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-01T03:41:50.748Z",
+    "createdAt": "2026-10-01T05:22:22.813Z",
     "version": "2.0",
     "sections": 4
   }
