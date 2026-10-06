@@ -1775,24 +1775,27 @@
       "unrarPassword": ""
     },
     "f_muv5rdcu_rv6pii3df": {
-      "name": "UNLOCKTOOL FREE BY TROJ4N",
-      "folderId": "f_mpajwfy2_5pvx4efm9",
-      "size": "296.58MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7cOWThXlKafJJ4zKbqjJANPL16xkmk3c3s2svp3rFEzdl9_R5Ogaovf5D6IeV8mbKBulUtGIZGq7NVmIGk-G1BmVLdEhaOYEd20qfAHcTv252yr-6XhwwnNYzLYX6goxdoinEs9evnYlGv09iuy6T4RDqbEzuXNKfCTO6G8yfdInEq_1xgamaBWTBBpVM/s1600/UNLOCKTOOL%20FREE%20BY%20TROJ4N.png",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7cOWThXlKafJJ4zKbqjJANPL16xkmk3c3s2svp3rFEzdl9_R5Ogaovf5D6IeV8mbKBulUtGIZGq7NVmIGk-G1BmVLdEhaOYEd20qfAHcTv252yr-6XhwwnNYzLYX6goxdoinEs9evnYlGv09iuy6T4RDqbEzuXNKfCTO6G8yfdInEq_1xgamaBWTBBpVM/s1600/UNLOCKTOOL%20FREE%20BY%20TROJ4N.png"
       ],
-      "password": "",
-      "unrarPassword": "T4N@2026",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "unlocktool-free-by-troj4n",
+      "createdAt": 1791199206750,
       "description": "UNLOCKTOOL FREE BY TROJ4N  TROJ4N LOADER V2 - OFFICIAL NOTE\n🚀 UNLOCKTOOL - TROJ4N LOADER V2 IS LIVE!\nWe are excited to announce the launch of TROJ4N LOADER V2 - More Powerful, More Stable, and Faster than ever!\n🔥 BIG LAUNCH OFFER: GET 15 DAYS FREE!\nFor a limited time only, get 15 Days FREE Access on TROJ4N LOADER V2.\nKey Features:\n•  Ultra-Fast & Secure Loading System\n•  Clean & Simple UI with STANDBY Mode\n•  Stable Performance for Long Sessions\n•  V2 Updated Engine\nDon't miss this opportunity. Activate your plan now and experience the power of TROJ4N V2!\nOffer Valid For Limited Time Only.",
       "downloads": 0,
-      "link": "https://www.mediafire.com/file/h6dydn7fxr0t6vs/TROJ4N_LOADER_V2.zip/file",
+      "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "published": true,
+      "lastModified": 1791249695711,
+      "link": "https://www.mediafire.com/file/9ifnprqzovlrac6/TROJ4N_LOADER_V2.1.zip/file",
       "links": [
+        {
+          "label": "TROJ4N LOADER V2.1",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/file/9ifnprqzovlrac6/TROJ4N_LOADER_V2.1.zip/file",
+              "password": "T4N@2026"
+            }
+          ]
+        },
         {
           "label": "TROJ4N LOADER V2",
           "urls": [
@@ -1803,8 +1806,14 @@
           ]
         }
       ],
-      "createdAt": 1791199206750,
-      "lastModified": 1791199206750
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "UNLOCKTOOL FREE BY TROJ4N",
+      "password": "",
+      "publishUrl": "unlocktool-free-by-troj4n",
+      "published": true,
+      "size": "296.58MB",
+      "unrarPassword": "T4N@2026"
     }
   },
   "images": {
@@ -1823,7 +1832,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-05T11:20:11.788Z",
+    "createdAt": "2026-10-06T01:21:54.462Z",
     "version": "2.0",
     "sections": 4
   }
