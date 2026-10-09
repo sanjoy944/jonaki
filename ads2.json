@@ -1871,41 +1871,86 @@
       "unrarPassword": ""
     },
     "f_mv0b5vgr_tnprijrhz": {
-      "name": "Rockchip SoC ToolKit v1.85 (RK3588)",
-      "folderId": "f_mpphzpaq_kkd8xpdsf",
-      "size": "39.3 MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO67axp8S3dgiSylEGNbga-JDOCI2DNd8NCuJyjaEpYjpV0afCIXtjS-uZ-MbacdQzBZBkD8cjX3V6_oiYDXDQZRyf3bNtVB4VkcjHPXhSnbyJit3FqkPeghP2HHzWArQD8hbA4rjC3znbmgJ55LKaVxlhoX6fr6NUuCRj0fSnxdoSzGq1h32SJVPTxyRo/s1600/Rockchip%20SoC%20ToolKit%20v1.85%20(RK3588).jfif",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO67axp8S3dgiSylEGNbga-JDOCI2DNd8NCuJyjaEpYjpV0afCIXtjS-uZ-MbacdQzBZBkD8cjX3V6_oiYDXDQZRyf3bNtVB4VkcjHPXhSnbyJit3FqkPeghP2HHzWArQD8hbA4rjC3znbmgJ55LKaVxlhoX6fr6NUuCRj0fSnxdoSzGq1h32SJVPTxyRo/s1600/Rockchip%20SoC%20ToolKit%20v1.85%20(RK3588).jfif",
         "https://gsmyogesh.com/wp-content/uploads/2026/10/image-6-1024x576.png"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "rockchip-soc-toolkit-v185-rk3588",
+      "createdAt": 1791510612363,
       "description": "Rockchip SoC ToolKit v1.85 (RK3588)Download for Rockchip Devices.\nRockchip SoC ToolKit Features\n1. Download Section\nThe Download tab contains USB and COM connection modes. The COM mode also has a baud rate selector. A table displays Name, Address, and Path columns, with a DownloadBin entry visible in the screenshot. A browse button is available to select a file path.\n\nThe lower section contains Download and Advanced Feature tabs. It also shows a reset checkbox, a Download button, a Search Path button, a Firmware button, and an Upgrade button.\n\n2. Firmware Section\nThe Firmware tab contains a Chip dropdown with RK3588 selected in the screenshot. There is also a Storage dropdown and a large table with Name and Path columns. The Create and Unpack buttons appear at the bottom-right of this section.\n\n3. SDTool Section\nThe SDTool tab includes a USB Disk selector and two radio options: SD Upgrade and SD Boot. A Boot Files button is also visible, along with separate areas for file information or operation output.\n\nAt the bottom, the interface provides Create SD, Restore SD, and Read SD buttons. Two input fields are labelled read sector offset and read sector count. These controls are visible in the screenshot, but their successful operation has not been verified.",
       "downloads": 0,
-      "link": "https://drive.google.com/file/d/1-y3mVwiAcX7eCs49liTpw0-B2Rl9muxm/view?usp=sharing",
+      "folderId": "f_mpphzpaq_kkd8xpdsf",
       "isLink": false,
-      "published": true,
+      "lastModified": 1791510612363,
+      "link": "https://drive.google.com/file/d/1-y3mVwiAcX7eCs49liTpw0-B2Rl9muxm/view?usp=sharing",
       "links": [
         {
           "label": "Rockchip SoC ToolKit v1.85",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1-y3mVwiAcX7eCs49liTpw0-B2Rl9muxm/view?usp=sharing",
+              "password": "",
+              "url": "https://drive.google.com/file/d/1-y3mVwiAcX7eCs49liTpw0-B2Rl9muxm/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1OKN731XL_UoQTceo1xbE0A"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Rockchip SoC ToolKit v1.85 (RK3588)",
+      "password": "",
+      "publishUrl": "rockchip-soc-toolkit-v185-rk3588",
+      "published": true,
+      "size": "39.3 MB",
+      "unrarPassword": ""
+    },
+    "f_mv0d8qnp_6dwniwvy1": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwgM-90oorJfyIGinoKAceI864cH1ypilBGdoCWUXYTJEu4XqEB50_9sOMuH3T9uoRze6bVX7xdv-gPfXEJeugq9Jefg2dXz6fLg9-tlL84j-Z2yi6oo0Q69zrRVojuoojyR7Q05jWOP4e3p4NmAuAexhyXhCxsysr4Yjc9OXMlyWGEUFdhDWh2GywAJgE/s1600/EFT%20PRO%20CraCked%20Limited%20Free%20Download%20and%20Test%20Now.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwgM-90oorJfyIGinoKAceI864cH1ypilBGdoCWUXYTJEu4XqEB50_9sOMuH3T9uoRze6bVX7xdv-gPfXEJeugq9Jefg2dXz6fLg9-tlL84j-Z2yi6oo0Q69zrRVojuoojyR7Q05jWOP4e3p4NmAuAexhyXhCxsysr4Yjc9OXMlyWGEUFdhDWh2GywAJgE/s1600/EFT%20PRO%20CraCked%20Limited%20Free%20Download%20and%20Test%20Now.png"
+      ],
+      "createdAt": 1791514105333,
+      "description": "EFT PRO CraCked Limit Free Download and Test Now.\n\nLOGIN INFO :: \nFirst of all signup here with your gmail account.\nThen download launcher 0.3.exe\nRun launcher as admin\nClick on start and then run eft pro exe.\nIt will show wrong email and password.\nEnter your own gmail address to eft pro and password type randomly.\nEnjoy",
+      "downloads": 0,
+      "folderId": "f_mpjncxnm_cl0wwld14",
+      "isLink": false,
+      "lastModified": 1791520677938,
+      "link": "https://u.pcloud.link/publink/show?code=XZ7XgYJZVVKESNbTOfVMkPAhAGfFDjmAfSsy",
+      "links": [
+        {
+          "label": "EFT PRO CraCked GCT",
+          "urls": [
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZ7XgYJZVVKESNbTOfVMkPAhAGfFDjmAfSsy",
               "password": ""
             },
             {
-              "url": "https://1024terabox.com/s/1OKN731XL_UoQTceo1xbE0A",
+              "url": "https://1024terabox.com/s/1DszvEhptYDHL901-6hKKUg",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "Server key",
+          "urls": [
+            {
+              "url": "https://gsmserver.store/",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1791510612363,
-      "lastModified": 1791510612363
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "EFT PRO CraCked GCT",
+      "password": "",
+      "publishUrl": "eft-pro-cracked-gct",
+      "published": true,
+      "size": "305mb",
+      "unrarPassword": "123"
     }
   },
   "images": {
@@ -1924,7 +1969,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-09T01:50:28.939Z",
+    "createdAt": "2026-10-09T04:38:04.233Z",
     "version": "2.0",
     "sections": 4
   }
