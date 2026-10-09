@@ -1924,12 +1924,12 @@
           "label": "EFT PRO CraCked GCT",
           "urls": [
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZ7XgYJZVVKESNbTOfVMkPAhAGfFDjmAfSsy",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZ7XgYJZVVKESNbTOfVMkPAhAGfFDjmAfSsy"
             },
             {
-              "url": "https://1024terabox.com/s/1DszvEhptYDHL901-6hKKUg",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1DszvEhptYDHL901-6hKKUg"
             }
           ]
         },
@@ -1937,8 +1937,8 @@
           "label": "Server key",
           "urls": [
             {
-              "url": "https://gsmserver.store/",
-              "password": ""
+              "password": "",
+              "url": "https://gsmserver.store/"
             }
           ]
         }
@@ -1951,6 +1951,55 @@
       "published": true,
       "size": "305mb",
       "unrarPassword": "123"
+    },
+    "f_mv0upr13_uf0lxh5wb": {
+      "name": "iFixMDM 1.2V MDM iOS Bypassed",
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "size": "5.1 MB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDHyEk_d6CEdO6l3GcGeVEtzyJmcSCfCQX4nb32QZJMdHRwlDB5Vz_GNrzf7F0jJnrBezxa8ivuOeO_6IN-OVzYzAKmUCb0XHN8kl-qR1fImRNKIhk8vMmvD-jKvGqnwbp5swgVcNSV5K_aXeWWyAUb_Y3yJuLeEkR7VZnRhBGZRYk3SAEhrGaDV5vk55V/w640-h448/iFixMDM%201.2V%20MDM%20iOS%20Bypassed.jpeg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDHyEk_d6CEdO6l3GcGeVEtzyJmcSCfCQX4nb32QZJMdHRwlDB5Vz_GNrzf7F0jJnrBezxa8ivuOeO_6IN-OVzYzAKmUCb0XHN8kl-qR1fImRNKIhk8vMmvD-jKvGqnwbp5swgVcNSV5K_aXeWWyAUb_Y3yJuLeEkR7VZnRhBGZRYk3SAEhrGaDV5vk55V/w640-h448/iFixMDM%201.2V%20MDM%20iOS%20Bypassed.jpeg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "ifixmdm-12v-mdm-ios-bypassed",
+      "description": "iFixMDM 1.2V MDM iOS Bypassed Free Download.\niFixMDM 1.2V Technical Specifications\nI have put together a simple table detailing the software specifications to help you understand what you are downloading.\n\nParameter\tValue / Specification\nSoftware Name\tiFixMDM\nCurrent Version\t1.2V\nSupported Systems\tWindows / macOS\nSupported Devices\tAll iPhones and iPads with MDM locks\nKey Requirement\tFind My iPhone (FMI) must be OFF\nLicense Type\tFree to download and use",
+      "downloads": 0,
+      "link": "https://mega.nz/file/tUMnCDAT#zToKK41TGOHE8ixPm1LNPsyG-teQtfaNbS6N-xryZTg",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "iFixMDM 1.2V WINDOWS",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/tUMnCDAT#zToKK41TGOHE8ixPm1LNPsyG-teQtfaNbS6N-xryZTg",
+              "password": ""
+            },
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZ3cgYJZ4wPOSMeyjSXNRKSv5XPTL0JSisV7",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/11y2PE5remA6xpwaY1_Mt-w",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "iFixMDM 1.2V MAC",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/ZF0GBLwK#HgtUutfzN7wDTBP1Hf3sk4gMIQ8y8ASXho-AWxw2e_g",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1791543452439,
+      "lastModified": 1791543452439
     }
   },
   "images": {
@@ -1969,7 +2018,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-09T04:38:04.233Z",
+    "createdAt": "2026-10-09T10:57:48.340Z",
     "version": "2.0",
     "sections": 4
   }
