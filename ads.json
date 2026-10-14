@@ -7438,7 +7438,7 @@
       "coverUrl": "",
       "createdAt": 1780657254966,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6spbfl_unyekccyd",
       "isLink": false,
       "lastModified": 1780657254966,
@@ -17080,23 +17080,23 @@
       "downloads": 2,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
-      "lastModified": 1789005578812,
+      "lastModified": 1791983258218,
       "link": "https://transfer.it/t/uZvh9HtzEZ6J",
       "links": [
         {
-          "label": "SamFw FRP Tool V6.1",
+          "label": "SamFw FRP Tool V6.0.1",
           "urls": [
             {
-              "password": "",
-              "url": "https://transfer.it/t/uZvh9HtzEZ6J"
+              "url": "https://transfer.it/t/uZvh9HtzEZ6J",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://samfw.com/SamFwToolSetup_v6.0.1.zip"
+              "url": "https://samfw.com/SamFwToolSetup_v6.0.1.zip",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://transfer.it/t/HAynFk93GbjD"
+              "url": "https://transfer.it/t/HAynFk93GbjD",
+              "password": ""
             }
           ]
         },
@@ -17104,12 +17104,12 @@
           "label": "SamFw FRP Tool V6.0",
           "urls": [
             {
-              "password": "",
-              "url": "https://www.androidfilehost.com/?fid=17900174959292977459"
+              "url": "https://www.androidfilehost.com/?fid=17900174959292977459",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://transfer.it/t/uZvh9HtzEZ6J"
+              "url": "https://transfer.it/t/uZvh9HtzEZ6J",
+              "password": ""
             }
           ]
         },
@@ -17117,12 +17117,12 @@
           "label": "SamFw FRP Tool V5.8",
           "urls": [
             {
-              "password": "",
-              "url": "https://mega.nz/file/0d0FXJiQ#ypg_-JmcBrQvDou-BG8Z2lSqFeMh6aJ7udYrLQ5FeZY"
+              "url": "https://mega.nz/file/0d0FXJiQ#ypg_-JmcBrQvDou-BG8Z2lSqFeMh6aJ7udYrLQ5FeZY",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://transfer.it/t/O9W8Ial3UBhJ"
+              "url": "https://transfer.it/t/O9W8Ial3UBhJ",
+              "password": ""
             }
           ]
         },
@@ -17130,12 +17130,12 @@
           "label": "SamFw Tool V5.7",
           "urls": [
             {
-              "password": "",
-              "url": "https://www.mediafire.com/file/v31zllxef4azf1l/SamFwToolSetup_v5.7.zip/file"
+              "url": "https://www.mediafire.com/file/v31zllxef4azf1l/SamFwToolSetup_v5.7.zip/file",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://transfer.it/t/dt1MMfsDVbRS"
+              "url": "https://transfer.it/t/dt1MMfsDVbRS",
+              "password": ""
             }
           ]
         },
@@ -17143,16 +17143,33 @@
           "label": "SamFwToolSetup_v5.5.1.zip",
           "urls": [
             {
-              "password": "",
-              "url": "https://transfer.it/t/tYkmxesRVJZK"
+              "url": "https://transfer.it/t/tYkmxesRVJZK",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://mega.nz/file/Am8jXaIb#3ijDp-KfgQigt4LSz5xZR9MDrdRry89iZB5SrHlNUqs"
+              "url": "https://mega.nz/file/Am8jXaIb#3ijDp-KfgQigt4LSz5xZR9MDrdRry89iZB5SrHlNUqs",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/1kc0zujeOcvHpwQ8qlKoDLw"
+              "url": "https://1024terabox.com/s/1kc0zujeOcvHpwQ8qlKoDLw",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "SamFw Tool V6.1 New",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/q54BnYDT#xRTgT_O6cZTOzINvM5Wv-5RFJD3yo6GxqlGNhCnocMQ",
+              "password": ""
+            },
+            {
+              "url": "https://transfer.it/t/Y60b8e8z2LYI",
+              "password": ""
+            },
+            {
+              "url": "https://samfw.com/SamFwToolSetup_v6.1.zip",
+              "password": ""
             }
           ]
         }
@@ -25037,7 +25054,7 @@
       ],
       "createdAt": 1781583114235,
       "description": "OLD Token: 1499c38f6765c0608fa573e972bea22e\n\nNEW Token :: a87f2e19c0b4d588e6129fa43c5b881d\n\n🚀 Mysterious-Dev Tool Update V1.2.8 OTA Out Now\nA new OTA update is officially released with major engine upgrades, protocol enhancements, and stability fixes.\nWhat is New in V1.2.8 :\n\nDevice Locks and FRP Module\n* Enhanced Samsung FRP via Test Mode over MTP\n* Full optimized support for Samsung FRP Android 16 Direct via MTP\n* Upgraded Samsung USA Direct FRP via MTP with broad carrier coverage\n* Improved Universal FRP across all Android brands using QR Code via MTP\n* Accelerated Samsung FRP operations for Exynos chipsets via ADB\n\nEnterprise and Security Protections Module\n* Advanced Universal MDM and IT Admin lock removal\n* Enhanced Universal MDM and IT Admin bypass Method 2\n* Optimized Samsung KG state transition from Locked to Active\n* Improved Samsung KG Lock removal under GuardShield security\n\nSystem and Core Engine Fixes\n* Resolved SSL handshake and connection issues during login\n* Refined UI layout and optimized display sizing for all dialogs and log prompts\n* General performance enhancements for faster execution and rock-solid stability\n\nUpdate your tool now directly via OTA and enjoy the latest features.",
-      "downloads": 48,
+      "downloads": 50,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1789652016583,
@@ -38007,7 +38024,7 @@
       ],
       "createdAt": 1786246123501,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 446,
+      "downloads": 452,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1786246123501,
@@ -39751,7 +39768,7 @@
       ],
       "createdAt": 1788064352226,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Download",
-      "downloads": 2668,
+      "downloads": 2670,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1788411976341,
@@ -41759,8 +41776,8 @@
           "label": "VoltDM v1.4.5",
           "urls": [
             {
-              "url": "https://github.com/PrimeZoneBD/VoltDM/releases/tag/1.4.5",
-              "password": ""
+              "password": "",
+              "url": "https://github.com/PrimeZoneBD/VoltDM/releases/tag/1.4.5"
             }
           ]
         },
@@ -41768,12 +41785,12 @@
           "label": "VoltDM v1.3.6 New",
           "urls": [
             {
-              "url": "https://github.com/PrimeZoneBD/VoltDM/releases/download/1.3.6/VoltDM_Setup_1.3.6_x64.exe",
-              "password": ""
+              "password": "",
+              "url": "https://github.com/PrimeZoneBD/VoltDM/releases/download/1.3.6/VoltDM_Setup_1.3.6_x64.exe"
             },
             {
-              "url": "https://github.com/PrimeZoneBD/VoltDM/releases",
-              "password": ""
+              "password": "",
+              "url": "https://github.com/PrimeZoneBD/VoltDM/releases"
             }
           ]
         },
@@ -41781,12 +41798,12 @@
           "label": "VoltDM Setup_1.2.0_x64",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1Gv9jSWKO5Q2ymg386JffaNL2ZO_W9Z3r/view",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1Gv9jSWKO5Q2ymg386JffaNL2ZO_W9Z3r/view"
             },
             {
-              "url": "https://1024terabox.com/s/1HUxgd0RNFCDWRGnA3gmt6A",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1HUxgd0RNFCDWRGnA3gmt6A"
             }
           ]
         }
@@ -41942,10 +41959,10 @@
       "downloads": 2
     },
     "f_mukqvedw_h0mxfdlr9": {
-      "downloads": 3
+      "downloads": 16
     },
     "f_mul53v0g_ksfdvh8c0": {
-      "downloads": 14
+      "downloads": 20
     },
     "f_muoyk0or_dtpoc0981": {
       "downloads": 10
@@ -41957,22 +41974,28 @@
       "downloads": 1
     },
     "f_muv36t80_thdjptu29": {
-      "downloads": 31
+      "downloads": 37
     },
     "f_muv5rdcu_rv6pii3df": {
       "downloads": 9
     },
     "f_muxzkq2c_oi2fw2nyj": {
-      "downloads": 35
+      "downloads": 44
     },
     "f_mv0d8qnp_6dwniwvy1": {
-      "downloads": 104
+      "downloads": 122
     },
     "f_mv0upr13_uf0lxh5wb": {
-      "downloads": 5
+      "downloads": 31
     },
     "f_mv2c333k_1ws1e66ie": {
-      "downloads": 7
+      "downloads": 12
+    },
+    "f_mv3dcoz6_i03tm1vaa": {
+      "downloads": 2
+    },
+    "f_mv3r6nkm_u52chybal": {
+      "downloads": 13
     }
   },
   "images": {
@@ -52176,7 +52199,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-11T13:01:39.732Z",
+    "createdAt": "2026-10-14T13:08:12.975Z",
     "version": "2.0",
     "sections": 4
   }
