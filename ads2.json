@@ -981,6 +981,9 @@
     "f_mpajuflu_ln19z9l2m": {
       "downloads": 4
     },
+    "f_mpcgloi8_s4vys27ag": {
+      "downloads": 1
+    },
     "f_mpjosuus_11q6m737o": {
       "downloads": 1
     },
@@ -1019,6 +1022,9 @@
     },
     "f_mq1t3zt6_erpqu69hb": {
       "downloads": 1
+    },
+    "f_mq1tdbpv_l5h45hi3n": {
+      "downloads": 4
     },
     "f_mq2dsvfv_6ew3v7m4k": {
       "downloads": 2
@@ -1071,6 +1077,9 @@
     "f_mqf4wq7k_zpj20j7c5": {
       "downloads": 2
     },
+    "f_mqf63buo_upub6ve6o": {
+      "downloads": 1
+    },
     "f_mqf74061_colxus90n": {
       "downloads": 5
     },
@@ -1083,6 +1092,9 @@
     "f_mqg5rjp4_bb6ddwz1s": {
       "downloads": 1
     },
+    "f_mqg6sy97_1tjz4l8ki": {
+      "downloads": 2
+    },
     "f_mqnopt14_t3coot9nf": {
       "downloads": 1
     },
@@ -1091,6 +1103,9 @@
     },
     "f_mqrmq5xg_3qn4zb05o": {
       "downloads": 3
+    },
+    "f_mqvsftpw_6ltznufdy": {
+      "downloads": 1
     },
     "f_mqvtl4d9_92xgxjz75": {
       "downloads": 1
@@ -1101,11 +1116,23 @@
     "f_mqzakq34_rksyex0pl": {
       "downloads": 1
     },
+    "f_mrorwvu4_e569knqce": {
+      "downloads": 2
+    },
     "f_mrowszyz_pkdbp1hjw": {
       "downloads": 2
     },
+    "f_mrowveiy_ejsfjiv2h": {
+      "downloads": 1
+    },
     "f_mroxjo98_wayj3fn2h": {
       "downloads": 6
+    },
+    "f_mroxqryk_zgqcz1zx4": {
+      "downloads": 1
+    },
+    "f_mroyf7dg_mk58g7yiu": {
+      "downloads": 1
     },
     "f_msl8tlv1_ei0jy45oo": {
       "downloads": 8
@@ -1114,6 +1141,15 @@
       "downloads": 3
     },
     "f_mssxx5ab_fkdfqw3k6": {
+      "downloads": 1
+    },
+    "f_mswn3otp_ff9pu7ego": {
+      "downloads": 1
+    },
+    "f_mswn9su1_9dfvsxqvo": {
+      "downloads": 1
+    },
+    "f_mt4br8e4_oxp3d45a0": {
       "downloads": 1
     },
     "f_mtbhcmsi_m32rd2eu5": {
@@ -1146,6 +1182,12 @@
     "f_mu4wrvp8_r0ouwevsi": {
       "downloads": 1
     },
+    "f_mu4x6ht6_7nc4w7549": {
+      "downloads": 1
+    },
+    "f_mu516haq_7kamttnel": {
+      "downloads": 1
+    },
     "f_mu70gx12_16pg2j0cj": {
       "downloads": 4
     },
@@ -1154,6 +1196,9 @@
     },
     "f_mu9ruzid_8wb8hpla2": {
       "downloads": 1
+    },
+    "f_mucj8uol_igpo5ru9z": {
+      "downloads": 2
     },
     "f_mucjriel_h1x5cra6m": {
       "downloads": 1
@@ -1854,7 +1899,7 @@
       ],
       "createdAt": 1791078917162,
       "description": "HELIOS TOOL v1.0.0 A12 A13 RAMDISK Tool Download (Free No SN Register). \nSoftware Name\tHELIOS TOOL\nVersion\t1.0.0\nDeveloper\tPir Muhammad Akash\nPlatform\tWindows 10 / 11, x64\nInterface\tNative desktop application\nSupported SoCs\tA12 Bionic, A13 Bionic\nApplication Size\tAbout 86 MB\nRamdisk Pack\tAbout 2.5 GB\nRamdisk Bundles\t14 encrypted bundles\nPasscode Ramdisk Bundles\t22 encrypted bundles\nDevices Covered\t12 models\nSupported Apple Devices\nHELIOS TOOL v1.0.0 supports selected A12 and A13 Bionic devices. The supported models listed for the release are below.\n\nA12 Bionic Devices\nDevice\tModel Identifier\tRamdisk\niPhone XR\tiPhone11,8\t18.3\niPhone XS\tiPhone11,2\t18.3\niPhone XS Max\tiPhone11,4\t18.3\niPhone XS Max Global\tiPhone11,6\t18.3\niPad mini 5\tiPad11,1 / iPad11,2\t18.3 + 26.1\niPad Air 3\tiPad11,3 / iPad11,4\t18.3 + 26.1\niPad 8th gen\tiPad11,6 / iPad11,7\t18.3 + 26.1\nA13 Bionic Devices\nDevice\tModel Identifier\tRamdisk\niPhone 11\tiPhone12,1\t18.3 + 26.1\niPhone 11 Pro\tiPhone12,3\t18.3 + 26.1\niPhone 11 Pro Max\tiPhone12,5\t18.3 + 26.1\niPhone SE 2nd gen\tiPhone12,8\t18.3 + 26.1\niPad 9th gen\tiPad12,1 / iPad12,2\t18.3 + 26.1\nUnsupported Devices\nThe tool does not cover every Apple device. The supplied information specifically lists the following as unsupported:\n\niPad Pro 2018 with A12X\nApple TV 4K 2nd generation\nA14 and newer chips\nThe A12X iPad Pro is not included because a compatible ramdisk bundle is not available for it. The application also checks the detected chip before proceeding with a job.\n\nDriver Installation\nConnect the supported Apple device to the Windows PC.\nRun HELIOS TOOL with administrator permission.\nClick the FIX DRIVER button.\nThe tool installs the libusbK and usbliter8 DFU drivers.\nIf the device is still not detected, disconnect the USB cable and run FIX DRIVER again.\nEntering DFU Mode\nThe supplied procedure for entering DFU mode is:\n\nConnect the device to the computer.\nHold Power and Volume Down for 5 seconds.\nRelease Power while continuing to hold Volume Down for another 10 seconds.\nThe display should remain black when the device is in DFU mode.\nHELIOS TOOL should show DFU DETECTED.\nOnce the device is detected, the application reads the device information before selecting the required ramdisk.",
-      "downloads": 6,
+      "downloads": 8,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1791078917162,
@@ -2097,7 +2142,7 @@
       ],
       "createdAt": 1791514105333,
       "description": "EFT PRO CraCked Limit Free Download and Test Now.\n\nLOGIN INFO :: \nFirst of all signup here with your gmail account.\nThen download launcher 0.3.exe\nRun launcher as admin\nClick on start and then run eft pro exe.\nIt will show wrong email and password.\nEnter your own gmail address to eft pro and password type randomly.\nEnjoy",
-      "downloads": 13,
+      "downloads": 14,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1791520677938,
@@ -2191,7 +2236,7 @@
       ],
       "createdAt": 1791633094256,
       "description": "WorldLink GSM Pro BETA 2026 \n\nWorldLink GSM Pro BETA 2026 Software Details\nSpecification\tDetails\nSoftware Name\tWorldLink GSM Pro\nVersion\tBETA 2026\nLicense\t10-day free activation key generation mentioned in the setup instructions\nSupported Platforms\tSamsung, MediaTek, SPRD / Unisoc, Qualcomm, Google Pixel, Motorola, and Android Utility sections\nActivation\tHardware ID-based key registration\nPackage Format\tRAR archive\nSetup File\tWorldLink GSM Pro_boxed.exe",
-      "downloads": 15,
+      "downloads": 17,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1791633354871,
@@ -2271,31 +2316,52 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgELVtxzfmjuIrPOu8asWfp2lyN5cRblolUa5Dt8eA76o5DnpjObFrj_DZST6wnzr8hVtevKf9Y2h4xaO-QxzLTScuXy1a13DIygbHjGhF7O3d6Z9LAcOLmG5vWU7MSNKm30D6oiyLZTI6lh8F9C7naBB0tsvKmyPPDBr_WDS1ssI4-IG5QGNzxpTRVNmT4/s1600/Screenshot_1.png"
       ],
       "createdAt": 1791718921174,
-      "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM.exe” there, overwriting the existing file.\nI ran the copied “TSM.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.",
-      "downloads": 452,
+      "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
+      "downloads": 485,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
-      "lastModified": 1791720127374,
-      "link": "https://drive.google.com/file/d/1fyqndSQkNs_6sKaW5ysxUSRmqgnmuwxt/view?usp=sharing",
+      "lastModified": 1792059487275,
+      "link": "https://mega.nz/file/3t4UCLoS#vsbdnoScKTjQ29x-fHt9vYc7JlSZURmDVhweKcyPvAU",
       "links": [
+        {
+          "label": "TSM PRO Edition 2026 ERROR FIX 15-10-2026",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/3t4UCLoS#vsbdnoScKTjQ29x-fHt9vYc7JlSZURmDVhweKcyPvAU",
+              "password": ""
+            },
+            {
+              "url": "https://uploadnow.io/en/share?utm_source=6NkCyYY",
+              "password": ""
+            },
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZ5tEmJZhfDvsfQY34JFKWL9cx4WKR50KnL7",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1fcKkhjGIsS6tLznrm110cg",
+              "password": ""
+            }
+          ]
+        },
         {
           "label": "TSM PRO Edition 2026 Free BY GSMXTEAM",
           "urls": [
             {
-              "password": "smyogesh.com",
-              "url": "https://drive.google.com/file/d/1fyqndSQkNs_6sKaW5ysxUSRmqgnmuwxt/view?usp=sharing"
+              "url": "https://drive.google.com/file/d/1fyqndSQkNs_6sKaW5ysxUSRmqgnmuwxt/view?usp=sharing",
+              "password": "smyogesh.com"
             },
             {
-              "password": "smyogesh.com",
-              "url": "https://mega.nz/file/v4gUUR7A#31RPu0towbdydvF_3m8E-443jRSXeZKOXJHTifmKvGw"
+              "url": "https://mega.nz/file/v4gUUR7A#31RPu0towbdydvF_3m8E-443jRSXeZKOXJHTifmKvGw",
+              "password": "smyogesh.com"
             },
             {
-              "password": "",
-              "url": "https://u.pcloud.link/publink/show?code=XZXYvYJZCtnekBQ5OBRIHYGPbHFpv5HOkySy"
+              "url": "https://u.pcloud.link/publink/show?code=XZXYvYJZCtnekBQ5OBRIHYGPbHFpv5HOkySy",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/1Y1jAEODPNcugJtcBVopu2g"
+              "url": "https://1024terabox.com/s/1Y1jAEODPNcugJtcBVopu2g",
+              "password": ""
             }
           ]
         }
@@ -2306,7 +2372,7 @@
       "password": "",
       "publishUrl": "tsm-pro-edition-2026-free-by-gsmxteam",
       "published": true,
-      "size": "70 MB",
+      "size": "148 MB",
       "unrarPassword": ""
     },
     "f_mv564k9r_uknv98y4h": {
@@ -2392,7 +2458,7 @@
       ],
       "createdAt": 1792030428719,
       "description": "Internet Download Manager (IDM) 6.43.15 IDM V6.43.15 Free.",
-      "downloads": 0,
+      "downloads": 3,
       "folderId": "f_mudhijp0_6qtcol4bq",
       "isLink": false,
       "lastModified": 1792030428719,
@@ -2422,48 +2488,48 @@
       "unrarPassword": "123"
     },
     "f_mv9192f2_7o3isekd8": {
-      "name": "Android Boot Unpacker Tool",
-      "folderId": "f_mpzhn51z_ka1g9srm4",
-      "size": "37.8 MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjf8rLMk95DTy4dUGVErZjMSI85nLRPi_joIbCW-8liMtFFuI3AL5ob9yM5mKL_QF2pIhDxd1x_dN-6U7B5wsfcZ2g5vPSimAufUe7TY8H85Fs6Yb5PrrAFc0hUHSILMspEX5X6z28lR5jYB6Tdu33ULtok-KkbL2T_RUPQ6oTGeWDyybYH-3a80Fbmt0z/w640-h360/Android%20Boot%20Unpacker%20Tool%202026.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjf8rLMk95DTy4dUGVErZjMSI85nLRPi_joIbCW-8liMtFFuI3AL5ob9yM5mKL_QF2pIhDxd1x_dN-6U7B5wsfcZ2g5vPSimAufUe7TY8H85Fs6Yb5PrrAFc0hUHSILMspEX5X6z28lR5jYB6Tdu33ULtok-KkbL2T_RUPQ6oTGeWDyybYH-3a80Fbmt0z/w640-h360/Android%20Boot%20Unpacker%20Tool%202026.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "android-boot-unpacker-tool",
+      "createdAt": 1792038160766,
       "description": "Android Boot Unpacker Tool 2026 Free Download. Android Boot Unpacker Tool Free Download.",
       "downloads": 0,
-      "link": "https://mega.nz/file/S0Q2kAQQ#kPFWaJlrvkwSJoVgqFrGQWVUam_q9Q_wlNJCAqzZLRU",
+      "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
-      "published": true,
+      "lastModified": 1792038160766,
+      "link": "https://mega.nz/file/S0Q2kAQQ#kPFWaJlrvkwSJoVgqFrGQWVUam_q9Q_wlNJCAqzZLRU",
       "links": [
         {
           "label": "Android Boot Unpacker Tool",
           "urls": [
             {
-              "url": "https://mega.nz/file/S0Q2kAQQ#kPFWaJlrvkwSJoVgqFrGQWVUam_q9Q_wlNJCAqzZLRU",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/S0Q2kAQQ#kPFWaJlrvkwSJoVgqFrGQWVUam_q9Q_wlNJCAqzZLRU"
             },
             {
-              "url": "https://drive.google.com/file/d/1ISdutSV8qeqNt2tYWKzdFBGnKtaiuKAx/view",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1ISdutSV8qeqNt2tYWKzdFBGnKtaiuKAx/view"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZ5g6mJZLvsi4W61JVziFbJ9cyWGopskAB27",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZ5g6mJZLvsi4W61JVziFbJ9cyWGopskAB27"
             },
             {
-              "url": "https://1024terabox.com/s/163cpraJ5bQj0LKsSkDROeQ",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/163cpraJ5bQj0LKsSkDROeQ"
             }
           ]
         }
       ],
-      "createdAt": 1792038160766,
-      "lastModified": 1792038160766
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Android Boot Unpacker Tool",
+      "password": "",
+      "publishUrl": "android-boot-unpacker-tool",
+      "published": true,
+      "size": "37.8 MB",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -2482,7 +2548,7 @@
   "onlineTools": {},
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-15T04:25:35.323Z",
+    "createdAt": "2026-10-15T10:23:17.080Z",
     "version": "2.0",
     "sections": 4
   }
