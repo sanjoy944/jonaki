@@ -1160,6 +1160,9 @@
     "f_mqf74061_colxus90n": {
       "downloads": 5
     },
+    "f_mqf7nvl5_hvz9yrzo4": {
+      "downloads": 2
+    },
     "f_mqf8ynld_d2rlpbba3": {
       "downloads": 1
     },
@@ -2519,7 +2522,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 827,
+      "downloads": 830,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -2837,6 +2840,59 @@
       "published": true,
       "size": "94.2 MB",
       "unrarPassword": ""
+    },
+    "f_mvd71f53_y34ovg05n": {
+      "name": "Oxygen Forensics V18.3.0.270 FREE",
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "size": "3GB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfgSd9fU0E_gmb-RkM00RIlhGHJfaCD01Fd3RJJO4SC_Tu0THBv1omoMtcACTURomCB54jvkcz668E9FqapJPqDlf7XFeKohI2JgFnIclueg4Jrd1O21pXUOVLCszqeHXAziCNipvH9ZfeCSgy6TbxEtoRyn_OwBWtc3izpW-FycasaAG_sa16cwnWT-e5/w640-h480/Oxygen%20Forensics%20V18.3.0.270%20Update.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfgSd9fU0E_gmb-RkM00RIlhGHJfaCD01Fd3RJJO4SC_Tu0THBv1omoMtcACTURomCB54jvkcz668E9FqapJPqDlf7XFeKohI2JgFnIclueg4Jrd1O21pXUOVLCszqeHXAziCNipvH9ZfeCSgy6TbxEtoRyn_OwBWtc3izpW-FycasaAG_sa16cwnWT-e5/w640-h480/Oxygen%20Forensics%20V18.3.0.270%20Update.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "oxygen-forensics-v1830270-free",
+      "description": "Oxygen Forensics V18.3.0.270 Update With Keygen",
+      "downloads": 0,
+      "link": "https://www.mediafire.com/file/x7ep91y3ew2yinw/OxyDetective_Dongle_x64_Setup_18.3.1.96.rar/file",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "Oxygen Forensics V18.3.0.270 Setup",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/file/x7ep91y3ew2yinw/OxyDetective_Dongle_x64_Setup_18.3.1.96.rar/file",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/101wNltNkO1ZJPLP7S0rVVg",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "Oxygen Forensics V18.3.0.270 KEYGEN+Loader",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/file/8fkom69hmhwk1st/Oxygen_Crack%252BKEYGEN_18.3.1.96.rar/file",
+              "password": ""
+            },
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZcC4bJZoataeQtXo8ViMkXcTOTC9SWMXnnV",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1DcdLqwEM6On5SQ7Q-dV14A",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1792289746407,
+      "lastModified": 1792289746407
     }
   },
   "images": {
@@ -2867,7 +2923,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-18T01:16:01.366Z",
+    "createdAt": "2026-10-18T02:16:11.151Z",
     "version": "2.0",
     "sections": 4
   }
