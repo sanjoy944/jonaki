@@ -975,6 +975,14 @@
       "name": "Download Manager",
       "order": 0,
       "parentId": "f_mp6svh7k_05u4ub0r8"
+    },
+    "f_mvchzu8p_34tqxc6je": {
+      "createdAt": 1792247682265,
+      "icon": "fa-solid fa-microchip",
+      "lastModified": 1792247682265,
+      "name": "GAME Online",
+      "order": 0,
+      "parentId": "f_mpzj47qr_vdk1zdplj"
     }
   },
   "files": {
@@ -990,6 +998,9 @@
     "f_mpknqi6x_14giqn8nw": {
       "downloads": 1
     },
+    "f_mpknzfd7_uldr4en64": {
+      "downloads": 1
+    },
     "f_mpkplxc3_oaj8wlkjc": {
       "downloads": 1
     },
@@ -1002,8 +1013,17 @@
     "f_mpl9nvoy_woluy50lb": {
       "downloads": 1
     },
+    "f_mpmgw0p1_qx5ar9lev": {
+      "downloads": 1
+    },
+    "f_mppgaih9_6o9v3zha1": {
+      "downloads": 4
+    },
     "f_mppgk53u_yukwij4bn": {
       "downloads": 6
+    },
+    "f_mppik1va_d23xo9865": {
+      "downloads": 3
     },
     "f_mpw18omb_fg0fjn2cl": {
       "downloads": 2
@@ -1011,8 +1031,23 @@
     "f_mpyzuo57_yplp5vlho": {
       "downloads": 2
     },
+    "f_mpzelhh8_xpno64qpd": {
+      "downloads": 1
+    },
+    "f_mq0tcrau_9d7taxg2d": {
+      "downloads": 1
+    },
+    "f_mq0wwu0y_zwhs4vflb": {
+      "downloads": 2
+    },
+    "f_mq0x1e5t_2bb6prml1": {
+      "downloads": 2
+    },
     "f_mq1sltqc_q0b7pevbb": {
       "downloads": 2
+    },
+    "f_mq1smh9u_lcu5s7kzi": {
+      "downloads": 1
     },
     "f_mq1sr7mo_vzrpjbcq5": {
       "downloads": 1
@@ -1022,6 +1057,9 @@
     },
     "f_mq1t3zt6_erpqu69hb": {
       "downloads": 1
+    },
+    "f_mq1tappq_f0wtttuur": {
+      "downloads": 10
     },
     "f_mq1tdbpv_l5h45hi3n": {
       "downloads": 4
@@ -1035,14 +1073,35 @@
     "f_mq2gr84n_ox56lthoy": {
       "downloads": 1
     },
+    "f_mq2gyzpy_gezamn92a": {
+      "downloads": 1
+    },
+    "f_mq2h1e9r_zn3ybfddy": {
+      "downloads": 1
+    },
     "f_mq4l5aih_2vkw18wca": {
       "downloads": 2
     },
     "f_mq7ewyem_fwvmuibtl": {
       "downloads": 2
     },
+    "f_mq7f0pdg_axeag6ub9": {
+      "downloads": 4
+    },
+    "f_mq7ffx3s_j9blpzzw6": {
+      "downloads": 6
+    },
+    "f_mq7fijbo_4g6zxvu8n": {
+      "downloads": 1
+    },
     "f_mq7vrhu0_dih1v2d6k": {
       "downloads": 1
+    },
+    "f_mq90sbb7_i23n1wjw0": {
+      "downloads": 3
+    },
+    "f_mq91pcky_k5md8at32": {
+      "downloads": 2
     },
     "f_mqabz8qd_3ww3o42q3": {
       "downloads": 1
@@ -1053,16 +1112,31 @@
     "f_mqcecwwn_gmbrgfx83": {
       "downloads": 1
     },
+    "f_mqdbsowd_l5b6o2wcw": {
+      "downloads": 1
+    },
     "f_mqdqs90e_upg6hw0kk": {
       "downloads": 8
     },
+    "f_mqeix4ib_shivcvcb0": {
+      "downloads": 1
+    },
     "f_mqej4bsh_p9lw5pnyk": {
+      "downloads": 1
+    },
+    "f_mqek0i51_l2hsx9im9": {
       "downloads": 1
     },
     "f_mqem17hf_4vy8wll3v": {
       "downloads": 4
     },
     "f_mqem6pjc_6jyn8ky2l": {
+      "downloads": 1
+    },
+    "f_mqemwf7b_agd525psj": {
+      "downloads": 4
+    },
+    "f_mqeqdkne_nxcyj60hs": {
       "downloads": 1
     },
     "f_mqes077v_t84soq91z": {
@@ -1077,13 +1151,28 @@
     "f_mqf4wq7k_zpj20j7c5": {
       "downloads": 2
     },
+    "f_mqf556j8_rakyyak0s": {
+      "downloads": 1
+    },
     "f_mqf63buo_upub6ve6o": {
       "downloads": 1
     },
     "f_mqf74061_colxus90n": {
       "downloads": 5
     },
+    "f_mqf8ynld_d2rlpbba3": {
+      "downloads": 1
+    },
+    "f_mqg316ec_8g9h24kyh": {
+      "downloads": 4
+    },
+    "f_mqg4l4vv_4gfkvnca4": {
+      "downloads": 1
+    },
     "f_mqg4m5hn_yivbnd4sb": {
+      "downloads": 1
+    },
+    "f_mqg4pfau_sjk2mlrzm": {
       "downloads": 1
     },
     "f_mqg4sok4_upat2efhi": {
@@ -1095,7 +1184,28 @@
     "f_mqg6sy97_1tjz4l8ki": {
       "downloads": 2
     },
+    "f_mqg6v4wx_j6nibzi5a": {
+      "downloads": 1
+    },
     "f_mqnopt14_t3coot9nf": {
+      "downloads": 1
+    },
+    "f_mqnpkn87_2pd4ekpze": {
+      "downloads": 2
+    },
+    "f_mqnq7w0v_rie2strzd": {
+      "downloads": 1
+    },
+    "f_mqnqbs1g_68macnjrr": {
+      "downloads": 1
+    },
+    "f_mqnqdscw_ut0jjbev8": {
+      "downloads": 1
+    },
+    "f_mqnr12aa_fhgx4bkir": {
+      "downloads": 2
+    },
+    "f_mqrkvmtd_10mw1yvkf": {
       "downloads": 1
     },
     "f_mqrlhf1s_nxoy1hzxh": {
@@ -1104,16 +1214,46 @@
     "f_mqrmq5xg_3qn4zb05o": {
       "downloads": 3
     },
+    "f_mqrnnij6_s9oa2mewi": {
+      "downloads": 1
+    },
+    "f_mqro41q6_erti9b51s": {
+      "downloads": 1
+    },
+    "f_mqt03v0z_9rl8riq71": {
+      "downloads": 1
+    },
+    "f_mqt08zcc_looo79ss9": {
+      "downloads": 1
+    },
+    "f_mqt0bac9_wpbizfxcv": {
+      "downloads": 2
+    },
     "f_mqvsftpw_6ltznufdy": {
       "downloads": 1
     },
     "f_mqvtl4d9_92xgxjz75": {
       "downloads": 1
     },
+    "f_mqvulq28_xiduqr3ac": {
+      "downloads": 1
+    },
+    "f_mqvvvhbs_4skm9nluy": {
+      "downloads": 1
+    },
+    "f_mqvvyb94_kxblt66ki": {
+      "downloads": 1
+    },
+    "f_mqvw6q1a_ao9otjzhy": {
+      "downloads": 1
+    },
     "f_mqwf0xir_9b0mhr7x7": {
       "downloads": 1
     },
     "f_mqzakq34_rksyex0pl": {
+      "downloads": 1
+    },
+    "f_mrmvg9ts_yn09w3gkv": {
       "downloads": 1
     },
     "f_mrorwvu4_e569knqce": {
@@ -1125,14 +1265,26 @@
     "f_mrowveiy_ejsfjiv2h": {
       "downloads": 1
     },
+    "f_mrox06kx_oegcm28kp": {
+      "downloads": 3
+    },
     "f_mroxjo98_wayj3fn2h": {
       "downloads": 6
     },
     "f_mroxqryk_zgqcz1zx4": {
       "downloads": 1
     },
+    "f_mroxs6m8_0kq581rnv": {
+      "downloads": 2
+    },
     "f_mroyf7dg_mk58g7yiu": {
       "downloads": 1
+    },
+    "f_ms2pn977_dofeoju3d": {
+      "downloads": 1
+    },
+    "f_ms9wmeia_41td08uul": {
+      "downloads": 5
     },
     "f_msl8tlv1_ei0jy45oo": {
       "downloads": 8
@@ -1152,6 +1304,9 @@
     "f_mt4br8e4_oxp3d45a0": {
       "downloads": 1
     },
+    "f_mt8lah1y_sla05ja2s": {
+      "downloads": 1
+    },
     "f_mtbhcmsi_m32rd2eu5": {
       "downloads": 19
     },
@@ -1161,8 +1316,23 @@
     "f_mtcei7lv_zl7frumid": {
       "downloads": 3
     },
+    "f_mtcwfv5a_h3ey882jz": {
+      "downloads": 1
+    },
+    "f_mtdxtmvy_jn424oebd": {
+      "downloads": 1
+    },
     "f_mtfbck4i_w5mweg3oj": {
       "downloads": 15
+    },
+    "f_mtfn6fr6_2xbnppm6m": {
+      "downloads": 1
+    },
+    "f_mtimsuat_99c8glvzv": {
+      "downloads": 2
+    },
+    "f_mtjh7pkd_ztdrttq68": {
+      "downloads": 1
     },
     "f_mtpnhgj7_umg3wpytr": {
       "downloads": 3
@@ -1177,6 +1347,9 @@
       "downloads": 2
     },
     "f_mu2q7r62_k2a2d8108": {
+      "downloads": 1
+    },
+    "f_mu3g9jkc_63e0umh6o": {
       "downloads": 1
     },
     "f_mu4wrvp8_r0ouwevsi": {
@@ -1194,6 +1367,9 @@
     "f_mu7stehx_ob4l2ea3y": {
       "downloads": 2
     },
+    "f_mu7td67a_ckus04u74": {
+      "downloads": 2
+    },
     "f_mu9ruzid_8wb8hpla2": {
       "downloads": 1
     },
@@ -1201,6 +1377,9 @@
       "downloads": 2
     },
     "f_mucjriel_h1x5cra6m": {
+      "downloads": 1
+    },
+    "f_mue2zko1_brwe2v7o1": {
       "downloads": 1
     },
     "f_muhr99wy_2n4xsnhha": {
@@ -1375,7 +1554,7 @@
       ],
       "createdAt": 1790480158208,
       "description": "DeviceDB Chipset info offline Free Download\n DeviceDB Latest Version 2026\n\nNeed a quick way to check mobile device and chipset information? 🔍\n\nDeviceDBis an offline device database tool with 16,636+ devices listed.\n\n🔹 Search by Device Name / Model / Chipset\n🔹 Check Chipset & Chipset Code\n🔹 View Manufacturer & Release Year\n🔹 Add, Edit & Delete Device Entries\n🔹 Offline Database\n🔹 MediaTek, Qualcomm, Unisoc & more",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "",
       "isLink": false,
       "lastModified": 1790480158208,
@@ -1415,13 +1594,22 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTXxzHbsOx-pMHqI-0y_dNrZJHRLsfapbXpV644-9obrUMBVk7UavMTIbXaJF_QnjsH1Bskut_gDjdbwz2MtlHInU6fYM6AL_bWQQ9gEa_PeQAranQ161um344LG3ZHv94GW6tEG_RWmXiCe4XclzzfDo9AlaPzyBVppZUyIQORmi8CGL0cMYNLZaJk9Um/w640-h340/DarsUnlocker%20Bypass%20Loader%20v2026.08.25.0.jpg"
       ],
       "createdAt": 1790504007831,
-      "description": "DarsUnlocker Bypass Loader v2026.08.25.0 Step-by-Step: How to Install and Run Everything\nStep 1 – Install DarsUnlocker\nI right-clicked the DarsUnlocker setup installer and chose Run as administrator. This is not optional. If you don’t run it as admin, the loader will not be able to bind to the ports it needs.\n\nThe setup wizard opens. I clicked Next through each screen. There’s an option for Create a desktop icon — I kept that checked because it’s easier to launch later. Then I clicked Install and waited for it to finish.\n\nWhen it was done, I clicked Finish. The installer also opened the app for me, which was convenient.Step 2 – Let DarsUnlocker Loader Initialize\nOnce the loader opens, it starts working right away. I saw a small splash window appear. It checked my online connection status first, then began unpacking its internal data.\n\nIf a support message pops up with Telegram links, just click Ok to dismiss it. It’s normal.\n\nBehind the scenes, the loader was doing a few things at this point:\n\nChecking the clock and syncing time\nUnpacking the encrypted data file\nGetting ready to patch memory when UNLOCKTOOL starts\nI just waited for the loader to settle. You’ll know it’s ready when the splash window shows a status like “Ready” or “Waiting for login.”\n\nStep 3 – Set Process Priority in Task Manager\nThis step matters more than people realize. Without setting the priority, the loader sometimes doesn’t hook properly and UNLOCKTOOL may not log in.\n\nHere’s what I did:\n\nI right-clicked the Windows Taskbar and opened Task Manager. Then I clicked on the Details tab. I looked for DarsUnlocker.exe in the list, right-clicked it, and chose Set priority. I selected High (you can also pick Above Normal).\n\nWindows asked me to confirm the change. I clicked Yes.\n\nI did the same thing for UNLOCKTOOL.exe once it was running, just to be consistent.\n\nStep 4 – Log In to UNLOCKTOOL\nNow the interesting part. I opened UNLOCKTOOL and let it load. On the login screen, I looked back at the DarsUnlocker window.\n\nThe loader showed me the generated login details:\n\nUsername: aminebazouka (or whatever your loader shows)\nPassword: any password you want\nI typed that username into UNLOCKTOOL. For the password, I typed anything — literally any random text. Then I clicked Login.\n\nWhen the disclaimer window appeared, I clicked Agree.\n\nThat’s it. UNLOCKTOOL loaded its main dashboard and I was in.\n\nStep 5 – Start Servicing Devices\nOnce logged in, the tool is fully usable. You’ll see the main dashboard with all the brand tabs at the top or side. Just pick your target brand and start working.",
-      "downloads": 3,
+      "description": "DarsUnlocker Bypass Loader  Step-by-Step: How to Install and Run Everything\nremoved VPN restriction\nremoved no server could not be reached\ndon't update if you have no error\nStep 1 – Install DarsUnlocker\nI right-clicked the DarsUnlocker setup installer and chose Run as administrator. This is not optional. If you don’t run it as admin, the loader will not be able to bind to the ports it needs.\n\nThe setup wizard opens. I clicked Next through each screen. There’s an option for Create a desktop icon — I kept that checked because it’s easier to launch later. Then I clicked Install and waited for it to finish.\n\nWhen it was done, I clicked Finish. The installer also opened the app for me, which was convenient.Step 2 – Let DarsUnlocker Loader Initialize\nOnce the loader opens, it starts working right away. I saw a small splash window appear. It checked my online connection status first, then began unpacking its internal data.\n\nIf a support message pops up with Telegram links, just click Ok to dismiss it. It’s normal.\n\nBehind the scenes, the loader was doing a few things at this point:\n\nChecking the clock and syncing time\nUnpacking the encrypted data file\nGetting ready to patch memory when UNLOCKTOOL starts\nI just waited for the loader to settle. You’ll know it’s ready when the splash window shows a status like “Ready” or “Waiting for login.”\n\nStep 3 – Set Process Priority in Task Manager\nThis step matters more than people realize. Without setting the priority, the loader sometimes doesn’t hook properly and UNLOCKTOOL may not log in.\n\nHere’s what I did:\n\nI right-clicked the Windows Taskbar and opened Task Manager. Then I clicked on the Details tab. I looked for DarsUnlocker.exe in the list, right-clicked it, and chose Set priority. I selected High (you can also pick Above Normal).\n\nWindows asked me to confirm the change. I clicked Yes.\n\nI did the same thing for UNLOCKTOOL.exe once it was running, just to be consistent.\n\nStep 4 – Log In to UNLOCKTOOL\nNow the interesting part. I opened UNLOCKTOOL and let it load. On the login screen, I looked back at the DarsUnlocker window.\n\nThe loader showed me the generated login details:\n\nUsername: aminebazouka (or whatever your loader shows)\nPassword: any password you want\nI typed that username into UNLOCKTOOL. For the password, I typed anything — literally any random text. Then I clicked Login.\n\nWhen the disclaimer window appeared, I clicked Agree.\n\nThat’s it. UNLOCKTOOL loaded its main dashboard and I was in.\n\nStep 5 – Start Servicing Devices\nOnce logged in, the tool is fully usable. You’ll see the main dashboard with all the brand tabs at the top or side. Just pick your target brand and start working.",
+      "downloads": 5,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1791109338183,
-      "link": "https://mega.nz/file/ihY0CYxZ#mpFRJp-CDA7b6EEJi33fEYTKWe9xToBhjnBEshyimnY",
+      "lastModified": 1792248255737,
+      "link": "https://mega.nz/file/IY8hWTLQ#nxZFRMmiSht59AQQ3a7uByYv8eEwa3VKdmTQdfkFTGk",
       "links": [
+        {
+          "label": "DarsUnlocker File V5.4",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/IY8hWTLQ#nxZFRMmiSht59AQQ3a7uByYv8eEwa3VKdmTQdfkFTGk"
+            }
+          ]
+        },
         {
           "label": "DarsUnlocker installer V5",
           "urls": [
@@ -1489,11 +1677,11 @@
       ],
       "loginPassword": "",
       "loginUsername": "",
-      "name": "DarsUnlocker installer V5 Bypass Loader",
+      "name": "Dars UnlockTool Loader V5.4",
       "password": "",
       "publishUrl": "darsunlocker-bypass-loader",
       "published": true,
-      "size": "301mb",
+      "size": "286.1 MB",
       "unrarPassword": ""
     },
     "f_mujobdrp_a0kyiu1lb": {
@@ -1548,7 +1736,7 @@
       ],
       "createdAt": 1790504916558,
       "description": "ITEL UNIVERSAL GSI ROM Download & Flash Guide .\nITEL-UNIVERSAL-GSI-ROM BY ROBYTECHTOOL.7z\trobytechgmail\t21 Sept\t990.5 MB\nINFINIX-TECNO-UNIVERSAL-GSI-ROM BY ROBYTECHTOOL.7z\trobytechgmail\t21 Sept\t1.47 GB",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "f_mq7f7s06_6p5wmh3aa",
       "isLink": false,
       "lastModified": 1790504916558,
@@ -1624,25 +1812,30 @@
       "unrarPassword": ""
     },
     "f_mul53v0g_ksfdvh8c0": {
-      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj80t62D4IYfGjdMfp13RAW8RMWirvW0fzK-1Dx748vWfF4AjUuCMskVrRIEKbdmYwRkT16N_vONwDk-n0uHNblNvxZ2ZwmAvBGxyK9UBM_WsnaR9iymJ5nJ-qPF6JRohgahK_uZ-H1lw-B1UKH0PTnS9KEPcrrGAiyyrq7nOXIgI8I5qlLww6okQRO1oE/w640-h360/TF%20MTK%20TOOL%20Client%20Free%20%20(1).jpg",
+      "coverUrl": "https://technofayez.com/uploads/posts/inline_1791350155_7879.png",
       "covers": [
+        "https://technofayez.com/uploads/posts/inline_1791350155_7879.png",
+        "https://technofayez.com/uploads/posts/post_1791350258_9553.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj80t62D4IYfGjdMfp13RAW8RMWirvW0fzK-1Dx748vWfF4AjUuCMskVrRIEKbdmYwRkT16N_vONwDk-n0uHNblNvxZ2ZwmAvBGxyK9UBM_WsnaR9iymJ5nJ-qPF6JRohgahK_uZ-H1lw-B1UKH0PTnS9KEPcrrGAiyyrq7nOXIgI8I5qlLww6okQRO1oE/w640-h360/TF%20MTK%20TOOL%20Client%20Free%20%20(1).jpg",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu4hGPlejVlcPbPa4Cva7UWa23owLXiLT4HEVczkXzqu1Ja3ON0F9yAQyawOF3x7HJQIFu0LhilzSTHRkPbDFKJAge75OlhSVQegvgHAM25rsJWz_UpvFWP0FxZPTixm2hd5ebA70Fn0OpOMOReDp2E7z9yhphDwLSo09KmoWrTnIpoYjGfWHu4b7qfPWA/w640-h288/TF%20MTK%20TOOL%20Client%20Free%20%20(2).jpg",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9XPZOqcwJZX1KfQCL676PqSGMSwFJ7YjC9E5290seR3Jj3bUP35W1CA6bqAMoexNnHA-x3X8163cBSlgyvPYs8qwGcWZOjnAv9UNYVlFQsbqWzS8geWK1CXcSM8xR44A0YRbNZ6-kyAxnKRsTYrT-QkLVoujn9XvHRhR_CdweWa5wfFFyNi-MVpRJICKx/w640-h342/TF%20MTK%20TOOL%20Client%20Free%20%20(3).jpg",
-        "https://technofayez.com/uploads/posts/inline_1791350155_7879.png",
         "https://technofayez.com/uploads/posts/inline_1791350155_7879.png"
       ],
       "createdAt": 1790593448128,
       "description": "Added Meta Mode option.\nAdded option for reboot to normal \nAdded Automatically Usb Detection\nAdded More Brand & Model\nFixed Some Known Bugs \nPowerful MediaTek Tool for Mobile Technicians | New MTK Flash & Service Tool\nToday we introduce TF MTK Tool v1.0, a powerful MTK tool with multiple servicing functions in one simple interface.\n\n🔥 TF MTK Tool Features :\n✅ MediaTek Firmware Flashing\n✅ Download Agent (DA) Support\n✅ AUTH File Support\n✅ Preloader Selection\n✅ Patch DA\n✅ SLA / DAA / SBC-related functions\n✅ Crash Preloader\n✅ FRP-related service functions\n✅ Format Device\n✅ Bootloader Unlock / Relock\n✅ Read / Write functions\n✅ Partition functions \n✅ RPMB\n✅ Keys\n✅ Network functions\n✅ Clean and easy-to-use interface\nThe tool is being developed with mobile technicians in mind, and more device support and features will be added in future updates.\n📌 Tool: TF MTK Tool\n📌 Version: 1.0\n📍 Developer/Brand: Techno Fayez",
-      "downloads": 1,
+      "downloads": 2,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
-      "lastModified": 1791426400925,
+      "lastModified": 1792246919825,
       "link": "https://mega.nz/file/qcwizBRZ#xj9zG5DMEqkkfNlTAnVO24rZPdbf0zIhkDbbtmCtbnI",
       "links": [
         {
           "label": "TF MTK TOOL CLIENT V0.2 Update",
           "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/qcwizBRZ#xj9zG5DMEqkkfNlTAnVO24rZPdbf0zIhkDbbtmCtbnI"
+            },
             {
               "password": "",
               "url": "https://mega.nz/file/qcwizBRZ#xj9zG5DMEqkkfNlTAnVO24rZPdbf0zIhkDbbtmCtbnI"
@@ -1686,7 +1879,7 @@
       "password": "",
       "publishUrl": "tf-mtk-tool-client-free",
       "published": true,
-      "size": "170 MB",
+      "size": "173.5 MB",
       "unrarPassword": ""
     },
     "f_mungwue4_ssh3649vj": {
@@ -1732,7 +1925,7 @@
       ],
       "createdAt": 1790824309371,
       "description": "Unlock Tool Cracked BY EVW88  inks:\n- Bot: https://t.me/evw88_bot\n- Group: https://t.me/evw88_chat\n- Channel: https://t.me/evw88_channel\n- uTool download: [DOWNLOAD LINK]\n\n1) Download uTool (utool.rar) from the link above.\n2) Extract the archive with password: evw88\n3) Open the extracted \"last\" folder and run \"unlocktool loader.exe\".\n4) In the tool, open the License window and copy your HWID shown there.\n5) Open the bot: https://t.me/evw88_bot and press Start.\n   Joining the channel is required to use the bot: https://t.me/evw88_channel\n6) In the bot menu choose one option:\n   - \"Get license\": share your link — each friend who joins the channel gives\n     you +1 day — then choose how many days you need.\n   - \"Redeem code\": if you already have a code (evw88-XXXX-XXXX).\n7) When the bot asks for your HWID — paste the HWID you copied in step 4.\n8) The bot sends you a serial. Copy it.\n9) Back in the tool: License window -> paste the serial -> Activate.\n10) Done — the tool runs.\n\nNeed help? Group: https://t.me/evw88_chat\n\n\n>> FRANCAIS <<\n\nLiens :\n- Bot : https://t.me/evw88_bot\n- Groupe : https://t.me/evw88_chat\n- Canal : https://t.me/evw88_channel\n- Telechargement uTool : [LIEN DE TELECHARGEMENT]\n\n1) Telechargez uTool (utool.rar) depuis le lien ci-dessus.\n2) Extrayez l'archive avec le mot de passe : evw88\n3) Ouvrez le dossier \"last\" extrait et lancez \"unlocktool loader.exe\".\n4) Dans l'outil, ouvrez la fenetre License et copiez votre HWID affiche.\n5) Ouvrez le bot : https://t.me/evw88_bot et appuyez sur Start.\n   L'adhesion au canal est obligatoire : https://t.me/evw88_channel\n6) Dans le menu du bot choisissez une option :\n   - \"Get license\" : partagez votre lien — chaque ami qui rejoint le canal\n     vous donne +1 jour — puis choisissez le nombre de jours.\n   - \"Redeem code\" : si vous avez deja un code (evw88-XXXX-XXXX).\n7) Quand le bot demande votre HWID — collez celui copie a l'etape 4.\n8) Le bot vous envoie un serial. Copiez-le.\n9) Retour dans l'outil : fenetre License -> coller le serial -> Activate.\n10) C'est fait — l'outil fonctionne.\n\nBesoin d'aide ? Groupe : https://t.me/evw88_chat",
-      "downloads": 8,
+      "downloads": 25,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1790849799088,
@@ -1899,7 +2092,7 @@
       ],
       "createdAt": 1791078917162,
       "description": "HELIOS TOOL v1.0.0 A12 A13 RAMDISK Tool Download (Free No SN Register). \nSoftware Name\tHELIOS TOOL\nVersion\t1.0.0\nDeveloper\tPir Muhammad Akash\nPlatform\tWindows 10 / 11, x64\nInterface\tNative desktop application\nSupported SoCs\tA12 Bionic, A13 Bionic\nApplication Size\tAbout 86 MB\nRamdisk Pack\tAbout 2.5 GB\nRamdisk Bundles\t14 encrypted bundles\nPasscode Ramdisk Bundles\t22 encrypted bundles\nDevices Covered\t12 models\nSupported Apple Devices\nHELIOS TOOL v1.0.0 supports selected A12 and A13 Bionic devices. The supported models listed for the release are below.\n\nA12 Bionic Devices\nDevice\tModel Identifier\tRamdisk\niPhone XR\tiPhone11,8\t18.3\niPhone XS\tiPhone11,2\t18.3\niPhone XS Max\tiPhone11,4\t18.3\niPhone XS Max Global\tiPhone11,6\t18.3\niPad mini 5\tiPad11,1 / iPad11,2\t18.3 + 26.1\niPad Air 3\tiPad11,3 / iPad11,4\t18.3 + 26.1\niPad 8th gen\tiPad11,6 / iPad11,7\t18.3 + 26.1\nA13 Bionic Devices\nDevice\tModel Identifier\tRamdisk\niPhone 11\tiPhone12,1\t18.3 + 26.1\niPhone 11 Pro\tiPhone12,3\t18.3 + 26.1\niPhone 11 Pro Max\tiPhone12,5\t18.3 + 26.1\niPhone SE 2nd gen\tiPhone12,8\t18.3 + 26.1\niPad 9th gen\tiPad12,1 / iPad12,2\t18.3 + 26.1\nUnsupported Devices\nThe tool does not cover every Apple device. The supplied information specifically lists the following as unsupported:\n\niPad Pro 2018 with A12X\nApple TV 4K 2nd generation\nA14 and newer chips\nThe A12X iPad Pro is not included because a compatible ramdisk bundle is not available for it. The application also checks the detected chip before proceeding with a job.\n\nDriver Installation\nConnect the supported Apple device to the Windows PC.\nRun HELIOS TOOL with administrator permission.\nClick the FIX DRIVER button.\nThe tool installs the libusbK and usbliter8 DFU drivers.\nIf the device is still not detected, disconnect the USB cable and run FIX DRIVER again.\nEntering DFU Mode\nThe supplied procedure for entering DFU mode is:\n\nConnect the device to the computer.\nHold Power and Volume Down for 5 seconds.\nRelease Power while continuing to hold Volume Down for another 10 seconds.\nThe display should remain black when the device is in DFU mode.\nHELIOS TOOL should show DFU DETECTED.\nOnce the device is detected, the application reads the device information before selecting the required ramdisk.",
-      "downloads": 8,
+      "downloads": 11,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1791078917162,
@@ -1939,7 +2132,7 @@
       ],
       "createdAt": 1791115171808,
       "description": "HakinTool Latest Version Download (Free 2026) HakinTool Features\nSemi-Permanent Premium\nWi-Fi On / Device Power Off: Includes options related to Wi-Fi and device power control.\nDevice Information (ADB): Reads device information through ADB.\nScreen PIN Tools: Includes options to create, set and remove a screen PIN.\nTelcel PayJoy Without Apps: Provides the listed Telcel PayJoy function without using apps.\nEmulator Launch: Includes an option to launch an emulator.\nSamsung FRP: Includes Samsung FRP functions for Android 16 through ADB.\nOppo White Screen: Includes Oppo white screen support for tablets.\nSamsung Exynos FRP: Includes a separate Exynos FRP module.\nMi Account Bypass: Includes the listed Mi Account bypass option.\nRemove Phone Virus: Includes an option for phone virus removal.\nPatch Without DNS Premium All\nEmulator Launcher: Provides an emulator launcher option.\nOwner Problems Management: Includes tools for managing owner-related problems.\nFactory Reset Control: Includes options to unlock factory reset, show the icon, hide it permanently, perform manual setup and install Owner Mode.\nPremium Profile Registration: Supports profile registration options for Samsung, Kiosk, Telcel / Claro, Administrator, Pixel, Cricket / AT&T, MDM USA / White Screen and PayJoy.\nActivation & Resend Rules: Includes full activation and resend rules to the device.\nDevice Security Fix: Provides options to apply or remove the listed security fix.\nOppo Premium\nWi-Fi On / Device Power Off: Includes Wi-Fi and device power options.\nDevice Information: Reads available device information.\nOppo White Screen: Includes the Apply Oppo White Screen function.\nUnlock MTK: Includes an MTK unlock option.\nOPlus Patch 2026: Supports OPlus Patch 2026 and OPlus Patch 2026 2.\nEmulator Launch: Includes an emulator launch option.\nQR + DNS New Security\nEnrollment Security Profiles: Includes Telcel / Claro, IT Administrator, Samsung, Kiosk and Samsung KG profiles.\nProtected Enrollment Wi-Fi Hotspot: Provides the listed Wi-Fi hotspot setup for protected enrollment.\nADB QR Configuration: Includes ADB QR configuration.\nPlay Protect Toggle: Provides an option to toggle Play Protect.\nOpen Menu & Activation: Includes menu opening and activation functions.\nMotorola BL & FRP\nModel & SKU Auto-Lookup: Automatically looks up the model and SKU information.\nFastboot Connection: Connects through Fastboot and reads device information.\nManual Step 1: Includes bootloader unlock, FRP erase and factory reset options.\nManual Step 2: Includes FRP removal and bootloader relock options.\nXiaomi Flasher\nFastboot ROM Folder: Allows selection of a Fastboot ROM folder containing flash_all.bat.\nDevice Model Verification: Checks the connected device model.\nOne-Click Flashing: Includes one-click Fastboot ROM flashing.\nPartition Table Viewer: Lets you view the flash partition table.\nSoftware Name\tHakinTool\nLicense\t10-day free activation key",
-      "downloads": 1,
+      "downloads": 2,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1791115171808,
@@ -1980,7 +2173,7 @@
       ],
       "createdAt": 1791194888304,
       "description": "MD UNLOCK PRO MDM TOOL Latest Free Download..",
-      "downloads": 0,
+      "downloads": 3,
       "folderId": "f_mqf4u5qs_49twakrzn",
       "isLink": false,
       "lastModified": 1791194888304,
@@ -2020,12 +2213,21 @@
       ],
       "createdAt": 1791199206750,
       "description": "UNLOCKTOOL FREE BY TROJ4N  TROJ4N LOADER V2 - OFFICIAL NOTE\n🚀 UNLOCKTOOL - TROJ4N LOADER V2 IS LIVE!\nWe are excited to announce the launch of TROJ4N LOADER V2 - More Powerful, More Stable, and Faster than ever!\n🔥 BIG LAUNCH OFFER: GET 15 DAYS FREE!\nFor a limited time only, get 15 Days FREE Access on TROJ4N LOADER V2.\nKey Features:\n•  Ultra-Fast & Secure Loading System\n•  Clean & Simple UI with STANDBY Mode\n•  Stable Performance for Long Sessions\n•  V2 Updated Engine\nDon't miss this opportunity. Activate your plan now and experience the power of TROJ4N V2!\nOffer Valid For Limited Time Only.",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1791345936740,
-      "link": "https://www.mediafire.com/file/f2ikdqxry0bli99/TROJ4N_LOADER_V2.1.zip/file",
+      "lastModified": 1792248063033,
+      "link": "https://www.mediafire.com/file/gat2ud8mve5g9vf/TROJ4N+LOADER+V2.3.zip/file",
       "links": [
+        {
+          "label": "TROJ4N LOADER V2.3",
+          "urls": [
+            {
+              "password": "T4N@2026",
+              "url": "https://www.mediafire.com/file/gat2ud8mve5g9vf/TROJ4N+LOADER+V2.3.zip/file"
+            }
+          ]
+        },
         {
           "label": "TROJ4N LOADER V2.1",
           "urls": [
@@ -2065,7 +2267,7 @@
       ],
       "createdAt": 1791370217460,
       "description": "APK Pop-up Virus Remover Portable Free Download 4Days Tails Active 7.10.2026",
-      "downloads": 0,
+      "downloads": 6,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1791370217460,
@@ -2142,7 +2344,7 @@
       ],
       "createdAt": 1791514105333,
       "description": "EFT PRO CraCked Limit Free Download and Test Now.\n\nLOGIN INFO :: \nFirst of all signup here with your gmail account.\nThen download launcher 0.3.exe\nRun launcher as admin\nClick on start and then run eft pro exe.\nIt will show wrong email and password.\nEnter your own gmail address to eft pro and password type randomly.\nEnjoy",
-      "downloads": 14,
+      "downloads": 26,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1791520677938,
@@ -2187,7 +2389,7 @@
       ],
       "createdAt": 1791543452439,
       "description": "iFixMDM 1.2V MDM iOS Bypassed Free Download.\niFixMDM 1.2V Technical Specifications\nI have put together a simple table detailing the software specifications to help you understand what you are downloading.\n\nParameter\tValue / Specification\nSoftware Name\tiFixMDM\nCurrent Version\t1.2V\nSupported Systems\tWindows / macOS\nSupported Devices\tAll iPhones and iPads with MDM locks\nKey Requirement\tFind My iPhone (FMI) must be OFF\nLicense Type\tFree to download and use",
-      "downloads": 9,
+      "downloads": 10,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1791543452439,
@@ -2236,7 +2438,7 @@
       ],
       "createdAt": 1791633094256,
       "description": "WorldLink GSM Pro BETA 2026 \n\nWorldLink GSM Pro BETA 2026 Software Details\nSpecification\tDetails\nSoftware Name\tWorldLink GSM Pro\nVersion\tBETA 2026\nLicense\t10-day free activation key generation mentioned in the setup instructions\nSupported Platforms\tSamsung, MediaTek, SPRD / Unisoc, Qualcomm, Google Pixel, Motorola, and Android Utility sections\nActivation\tHardware ID-based key registration\nPackage Format\tRAR archive\nSetup File\tWorldLink GSM Pro_boxed.exe",
-      "downloads": 17,
+      "downloads": 22,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1791633354871,
@@ -2276,7 +2478,7 @@
       ],
       "createdAt": 1791695688306,
       "description": "A.N TOOL v4.6 CraAckD Free A.N.TOOL v4.6 Latest Version Download (Free Login)  Features of A.N.TOOL v4.6\n1. Qualcomm\nMode Selection: MODEL, Loader, Auto\nBrand and Model Selection\nAGM Brand and A9 Model Example\nTools\nReset FRP + Factory Reset\nRemove MI Account\nBackup Firmware\nRestore Backup\nDump Security Partitions\nFlash Operations\nSelect All\nDeselect All\nFlash\nErase\n2. FRP-MTP\nMTP OPEN TOOL\nENABLE ADB CODE\nSupported Brands: Huawei, Xiaomi, Vivo, Oppo, Infinix, Tecno, Alcatel, Lenovo, Sony, Motorola, Honor, OnePlus, BlackBerry\nReset FRP [ADB]\nOpen Chrome\nOpen YouTube\nOpen Google Maps\n3. Xiaomi\nRecovery 5.0\nReset FRP [MediaTek-Qualcomm]\nBypass Mi Account [Qualcomm]\nWriting Partition (Enter Name Partition)\nReset EFS [Fix NV Data Is Corrupted] [Qualcomm]\nFactory Reset\nRead Info\nReboot System\n4. ADB\nGeneric\n\nXiaomi Enable Diag [No Root]\nBypass [FRP]\nRead Info\nRead Partition Table List\nCheck Root State\nGet Battery State\nRemove ADS\nFactory Reset [Old Android]\nFix Wireless Test Assistant [real…]\nArabic Language Tools\n\nADDING THE ARABIC LANGUAGE (ADB)\nADDING ARABIC Keyboard (ADB)\n\nHow to Install A.N.TOOL v4.6\nExtract the A.N.TOOL V4.6 2026-07-08.exe package into a new folder.\nCopy BIBO CRACK V4.6.exe into the extracted A.N.TOOL folder.\nBefore running the loader or installing a certificate, verify the source and inspect the files. Do not trust an unknown certificate or executable.\nOpen the extracted folder and launch A.N.TOOL.exe.\nThe supplied instructions also mention running the BIBO CRACK loader and entering the credentials provided with the package. These credentials and the loader have not been independently verified.\nInspect cleanup_Run_as_admin_after_run_loader_.bat before running it. A batch file launched as administrator can make system-level changes.",
-      "downloads": 4,
+      "downloads": 5,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1791695909984,
@@ -2317,7 +2519,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 485,
+      "downloads": 827,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -2327,20 +2529,20 @@
           "label": "TSM PRO Edition 2026 ERROR FIX 15-10-2026",
           "urls": [
             {
-              "url": "https://mega.nz/file/3t4UCLoS#vsbdnoScKTjQ29x-fHt9vYc7JlSZURmDVhweKcyPvAU",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/3t4UCLoS#vsbdnoScKTjQ29x-fHt9vYc7JlSZURmDVhweKcyPvAU"
             },
             {
-              "url": "https://uploadnow.io/en/share?utm_source=6NkCyYY",
-              "password": ""
+              "password": "",
+              "url": "https://uploadnow.io/en/share?utm_source=6NkCyYY"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZ5tEmJZhfDvsfQY34JFKWL9cx4WKR50KnL7",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZ5tEmJZhfDvsfQY34JFKWL9cx4WKR50KnL7"
             },
             {
-              "url": "https://1024terabox.com/s/1fcKkhjGIsS6tLznrm110cg",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1fcKkhjGIsS6tLznrm110cg"
             }
           ]
         },
@@ -2348,20 +2550,20 @@
           "label": "TSM PRO Edition 2026 Free BY GSMXTEAM",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1fyqndSQkNs_6sKaW5ysxUSRmqgnmuwxt/view?usp=sharing",
-              "password": "smyogesh.com"
+              "password": "smyogesh.com",
+              "url": "https://drive.google.com/file/d/1fyqndSQkNs_6sKaW5ysxUSRmqgnmuwxt/view?usp=sharing"
             },
             {
-              "url": "https://mega.nz/file/v4gUUR7A#31RPu0towbdydvF_3m8E-443jRSXeZKOXJHTifmKvGw",
-              "password": "smyogesh.com"
+              "password": "smyogesh.com",
+              "url": "https://mega.nz/file/v4gUUR7A#31RPu0towbdydvF_3m8E-443jRSXeZKOXJHTifmKvGw"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZXYvYJZCtnekBQ5OBRIHYGPbHFpv5HOkySy",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZXYvYJZCtnekBQ5OBRIHYGPbHFpv5HOkySy"
             },
             {
-              "url": "https://1024terabox.com/s/1Y1jAEODPNcugJtcBVopu2g",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1Y1jAEODPNcugJtcBVopu2g"
             }
           ]
         }
@@ -2382,7 +2584,7 @@
       ],
       "createdAt": 1791804483999,
       "description": "KG Killer Tool v3.8.0 Cracked FreeKG Tool Features and Available Functions\n1. General Module\nThe General module contains basic device management functions for ADB, MTP, and Fastboot. These options cover device information, rebooting, factory reset, and bootloader management.\n\nRead device information through ADB.\nRead Samsung device information through MTP.\nReboot the device through ADB.\nPerform a factory reset through ADB.\nRead device information in Fastboot mode.\nReboot a device through Fastboot.\nUnlock the bootloader through Fastboot.\nLock the bootloader through Fastboot.\nEnable or disable factory reset through ADB.\nUse the second ADB factory reset method.\nUniversal FRP bypass option through ADB.\nRemove the Pixel SIM setup wizard.\nEnable DIAG mode.\nDemo removal options for Oppo, Realme, and OnePlus.\n2. Samsung Module\nThe Samsung module contains several groups for Knox Guard, MDM, FRP, general device functions, and Odin flashing. The available methods cover different Android versions and connection modes, so the correct selection matters.\n\nKnox Guard\nSamsung KG Android 14 through ADB mode.\nKG removal for Android 13 with all patches.\nSamsung KG 07-23 through ADB mode.\nKG removal for Android 14 with all security patches, marked as broken.\nKG removal through the latest listed DNS method.\nKG removal for Android 15 and Android 16 with the latest listed patch.\nSet KG Active 01 by IMEI for Indian devices only.\nSamsung MDM\nRemove MDM lock through ADB.\nDisable Samsung Knox through ADB.\nRemove PayJoy lock.\nRemove Samsung Knox using the new listed method.\nSamsung FRP\nExynos FRP with CPU and device selection, including listed Exynos 1280, 1380, and 1480 processors.\nRemove FRP through Odin mode.\nSamsung Android 16 FRP through MTP.\nSamsung Android 16 FRP through the second ADB method.\nErase Samsung FRP using the new ADB method.\nSamsung Functions\nRemove Samsung account through ADB mode.\nEnable or disable updates.\nEnable OEM unlocking.\nRemove bloatware.\nChange CSC.\nEnable diagnostic mode.\nDisable the service provider.\nRemove screen lock.",
-      "downloads": 8,
+      "downloads": 16,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1791904894165,
@@ -2458,7 +2660,7 @@
       ],
       "createdAt": 1792030428719,
       "description": "Internet Download Manager (IDM) 6.43.15 IDM V6.43.15 Free.",
-      "downloads": 3,
+      "downloads": 4,
       "folderId": "f_mudhijp0_6qtcol4bq",
       "isLink": false,
       "lastModified": 1792030428719,
@@ -2494,7 +2696,7 @@
       ],
       "createdAt": 1792038160766,
       "description": "Android Boot Unpacker Tool 2026 Free Download. Android Boot Unpacker Tool Free Download.",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1792038160766,
@@ -2530,6 +2732,111 @@
       "published": true,
       "size": "37.8 MB",
       "unrarPassword": ""
+    },
+    "f_mvb3qav1_u0wbhoqi7": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1WrfT3h4xvBLIi-mywxuvREkU8bPodWoFKn51p47O3BDKQL28DqqmnXVzlzQv2ISTFNKQTF_06fociMcE85o3qXLpw7r1IiVnFL-pc6GG555m5eq9GsjHpbWab_Q10QmPo5htQW8c8qkkpf0PT1ghkkC_bN_cWPdT6rY_9mQEJUSFeAyUfsQ3XuwESGd/w640-h434/Vivo%20Info%20Reader.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1WrfT3h4xvBLIi-mywxuvREkU8bPodWoFKn51p47O3BDKQL28DqqmnXVzlzQv2ISTFNKQTF_06fociMcE85o3qXLpw7r1IiVnFL-pc6GG555m5eq9GsjHpbWab_Q10QmPo5htQW8c8qkkpf0PT1ghkkC_bN_cWPdT6rY_9mQEJUSFeAyUfsQ3XuwESGd/w640-h434/Vivo%20Info%20Reader.jpg"
+      ],
+      "createdAt": 1792163256445,
+      "description": "Features\nRead Full Info to retrieve available device information.\nDetect connected USB devices using VID and PID information.\nRead the device model and product name when available.\nDisplay chipset and platform information when returned by the device.\nRead available IMEI, IMEI1, and IMEI2 information.\nRead the device serial number (SN).\nDisplay MEID information when available.\nRead the product version reported by the device.\nDisplay the available region information.\nRead the PD code when supported by the connected device.\nCommunicate with compatible Fastboot devices through direct WinUSB.\nCheck for a connected Fastboot device before sending commands.\nReboot the connected device into the Android system.\nReboot the device into Fastboot or bootloader mode.\nProvide a Reboot EDL option where the device supports the requested transition.\nDisplay command responses and operation status in the log window.\nShow error messages when a device is not detected or a command fails.\nDisplay timeout messages when the device does not respond.\nCopy the operation log using the Copy Log button.\nClear the log window using the Clear Log button.\nUse a simple Windows desktop interface with separate action buttons and a log area.",
+      "downloads": 0,
+      "folderId": "f_mp6sjh9m_k6ruc0voj",
+      "isLink": false,
+      "lastModified": 1792163256445,
+      "link": "https://drive.google.com/file/d/1KEGLNLFldNuw-X0e2XE-welu25YPiewk/view?usp=sharing",
+      "links": [
+        {
+          "label": "Download Vivo Info Reader",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1KEGLNLFldNuw-X0e2XE-welu25YPiewk/view?usp=sharing"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Vivo Info Reader",
+      "password": "",
+      "publishUrl": "vivo-info-reader",
+      "published": true,
+      "size": "268k",
+      "unrarPassword": ""
+    },
+    "f_mvchoxvt_lm9uhl4ep": {
+      "coverUrl": "https://technofayez.com/uploads/posts/inline_1788851841_2135.jpg",
+      "covers": [
+        "https://technofayez.com/uploads/posts/inline_1788851841_2135.jpg",
+        "https://play-lh.googleusercontent.com/mgvzdQXOkxXgc8Y5Gc8lEsOWKC8cekqpFSqFOG8hCQNsup5FI2Iz7i0ou1jad2G1HyWpstQ7yNsTDXSQWEzJjEE=w526-h296-rw"
+      ],
+      "createdAt": 1792247173769,
+      "description": "LCD Compatible Tool LCD Compatible Tool is a mobile phone compatibility tool designed for repair technicians, repair shops, mobile parts sellers and professionals working with smartphone replacement parts. \n\nFind LCD compatible models quickly and check which phones can use the same replacement screen or part. The app helps you search compatibility information for LCD screens, batteries, cameras, glass and other mobile phone parts.\nThe database includes popular smartphone brands such as Samsung, Xiaomi, Redmi, OPPO, Realme, Vivo, Huawei, Honor, Infinix, Tecno and more.\n\nSearch by brand and phone model to find compatible parts and make compatibility checks easier during everyday repair work.\n\nWhether you need to check an LCD compatible screen, battery compatibility or another replacement part, LCD Compatible Tool provides organized compatibility information in a simple and practical interface.\n\nThe app is designed specifically for mobile phone repair professionals who need a quick reference when working with replacement parts.\n\nKey features include LCD and screen compatibility, battery compatibility, camera compatibility, glass compatibility and other phone part compatibility information.\nLCD Compatible Tool is free to use and does not require a subscription.\nDownload the app and make mobile phone part compatibility checks faster and easier.\n\nUpdated on\nOct 5, 2026",
+      "downloads": 1,
+      "folderId": "f_mqg48h6a_9aoqneltl",
+      "isLink": false,
+      "lastModified": 1792247173769,
+      "link": "https://play.google.com/store/apps/details?id=com.flycdi.compatiblelcdtool&pli=1",
+      "links": [
+        {
+          "label": "LCD Compatible Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://play.google.com/store/apps/details?id=com.flycdi.compatiblelcdtool&pli=1"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "LCD Compatible Tool",
+      "password": "",
+      "publishUrl": "lcd-compatible-tool",
+      "published": true,
+      "size": "20mb",
+      "unrarPassword": ""
+    },
+    "f_mvchtzbl_5e2i4d3ji": {
+      "coverUrl": "https://technofayez.com/uploads/posts/post_1787744118_2069.png",
+      "covers": [
+        "https://technofayez.com/uploads/posts/post_1787744118_2069.png"
+      ],
+      "createdAt": 1792247408913,
+      "description": "Vnboard schematic diagram Free Download Software update v1.2.250\n📥 Which file do I download?\nNew user (first install): download VNboards_Setup.exe and run it — the installer asks where to install, creates a Desktop shortcut, then opens the app.\nAlready installed: you do not need anything here — open the app and click ⟳ Update; it updates itself.\nIgnore VNboards_Update.zip (used internally by the self-update mechanism) and the two Source code entries (GitHub generates those for every release; they are not the app).\n📥 Which file should I download?\nNEW users (never installed before): download VNboards_Setup.exeand run — the installer will ask where to save and create a desktop shortcut, then automatically open the app.\nAlready installed: no need to download anything here — open the app, tap the ⟳ Update button and the app will download automatically.\nIgnore VNboards_Update.zip(the HIDDEN file for the auto-update mechanism, not for manual downloading) and the two Source code sections (GitHub automatically generates this for all releases, not the app).",
+      "downloads": 1,
+      "folderId": "f_mqac0g2n_z22j9hons",
+      "isLink": false,
+      "lastModified": 1792247408913,
+      "link": "https://github.com/Henrybi9/conmat-viewer-data/releases/download/v1.2.250/VNboards_Setup.exe",
+      "links": [
+        {
+          "label": "Vnboard",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://github.com/Henrybi9/conmat-viewer-data/releases/download/v1.2.250/VNboards_Setup.exe"
+            },
+            {
+              "password": "",
+              "url": "https://github.com/Henrybi9/conmat-viewer-data/releases/download/v1.2.250/VNboards_Update.zip"
+            },
+            {
+              "password": "",
+              "url": "https://github.com/Henrybi9/conmat-viewer-data/releases/tag/v1.2.250"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Vnboard Schematic Diagram",
+      "password": "",
+      "publishUrl": "vnboard-schematic-diagram",
+      "published": true,
+      "size": "94.2 MB",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -2545,10 +2852,22 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=wGe6-lr7mwY"
     }
   },
-  "onlineTools": {},
+  "onlineTools": {
+    "f_mvci25d5_dee0hr9th": {
+      "createdAt": 1792247789993,
+      "folderId": "f_mvchzu8p_34tqxc6je",
+      "htmlSource": "",
+      "lastModified": 1792247844889,
+      "name": "GTA Vai City 5 Online",
+      "publishUrl": "gta-vai-city-5-online",
+      "published": true,
+      "sourceType": "url",
+      "url": "https://fiveplay.lol/"
+    }
+  },
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-15T10:23:17.080Z",
+    "createdAt": "2026-10-18T01:16:01.366Z",
     "version": "2.0",
     "sections": 4
   }
