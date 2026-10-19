@@ -986,6 +986,9 @@
     }
   },
   "files": {
+    "f_mp6wh0jf_w23yxny8f": {
+      "downloads": 4
+    },
     "f_mpajuflu_ln19z9l2m": {
       "downloads": 4
     },
@@ -1006,6 +1009,9 @@
     },
     "f_mpl7menk_xqbx4vazg": {
       "downloads": 1
+    },
+    "f_mpl7ull8_iif9xamtw": {
+      "downloads": 2
     },
     "f_mpl8pdnc_3zit7dppv": {
       "downloads": 3
@@ -1032,6 +1038,9 @@
       "downloads": 2
     },
     "f_mpzelhh8_xpno64qpd": {
+      "downloads": 1
+    },
+    "f_mq0t1u5h_rbjmm4aam": {
       "downloads": 1
     },
     "f_mq0tcrau_9d7taxg2d": {
@@ -1088,6 +1097,9 @@
     "f_mq7f0pdg_axeag6ub9": {
       "downloads": 4
     },
+    "f_mq7f6709_drxupbhgb": {
+      "downloads": 2
+    },
     "f_mq7ffx3s_j9blpzzw6": {
       "downloads": 6
     },
@@ -1099,6 +1111,9 @@
     },
     "f_mq90sbb7_i23n1wjw0": {
       "downloads": 3
+    },
+    "f_mq91mxjv_yyunm12am": {
+      "downloads": 1
     },
     "f_mq91pcky_k5md8at32": {
       "downloads": 2
@@ -1166,8 +1181,14 @@
     "f_mqf8ynld_d2rlpbba3": {
       "downloads": 1
     },
+    "f_mqf93gpl_k8o8rb2yd": {
+      "downloads": 2
+    },
     "f_mqg316ec_8g9h24kyh": {
       "downloads": 4
+    },
+    "f_mqg4fpqd_rcy6y9mgh": {
+      "downloads": 2
     },
     "f_mqg4l4vv_4gfkvnca4": {
       "downloads": 1
@@ -1188,6 +1209,9 @@
       "downloads": 2
     },
     "f_mqg6v4wx_j6nibzi5a": {
+      "downloads": 1
+    },
+    "f_mqi1j7y0_rcun312yc": {
       "downloads": 1
     },
     "f_mqnopt14_t3coot9nf": {
@@ -1213,6 +1237,9 @@
     },
     "f_mqrlhf1s_nxoy1hzxh": {
       "downloads": 2
+    },
+    "f_mqrlwwxo_tk7i8zu58": {
+      "downloads": 3
     },
     "f_mqrmq5xg_3qn4zb05o": {
       "downloads": 3
@@ -1241,6 +1268,9 @@
     "f_mqvulq28_xiduqr3ac": {
       "downloads": 1
     },
+    "f_mqvvt8dn_3jiklfcup": {
+      "downloads": 2
+    },
     "f_mqvvvhbs_4skm9nluy": {
       "downloads": 1
     },
@@ -1261,6 +1291,9 @@
     },
     "f_mrorwvu4_e569knqce": {
       "downloads": 2
+    },
+    "f_mrovgc6s_foeweqolw": {
+      "downloads": 1
     },
     "f_mrowszyz_pkdbp1hjw": {
       "downloads": 2
@@ -1292,10 +1325,16 @@
     "f_msl8tlv1_ei0jy45oo": {
       "downloads": 8
     },
+    "f_msolorfy_mzuxe71xf": {
+      "downloads": 3
+    },
     "f_msrfagxr_z1e28gtlz": {
       "downloads": 3
     },
     "f_mssxx5ab_fkdfqw3k6": {
+      "downloads": 1
+    },
+    "f_msuakxfj_xgriip5vo": {
       "downloads": 1
     },
     "f_mswn3otp_ff9pu7ego": {
@@ -1598,10 +1637,10 @@
       ],
       "createdAt": 1790504007831,
       "description": "DarsUnlocker Bypass Loader  Step-by-Step: How to Install and Run Everything\nremoved VPN restriction\nremoved no server could not be reached\ndon't update if you have no error\nStep 1 – Install DarsUnlocker\nI right-clicked the DarsUnlocker setup installer and chose Run as administrator. This is not optional. If you don’t run it as admin, the loader will not be able to bind to the ports it needs.\n\nThe setup wizard opens. I clicked Next through each screen. There’s an option for Create a desktop icon — I kept that checked because it’s easier to launch later. Then I clicked Install and waited for it to finish.\n\nWhen it was done, I clicked Finish. The installer also opened the app for me, which was convenient.Step 2 – Let DarsUnlocker Loader Initialize\nOnce the loader opens, it starts working right away. I saw a small splash window appear. It checked my online connection status first, then began unpacking its internal data.\n\nIf a support message pops up with Telegram links, just click Ok to dismiss it. It’s normal.\n\nBehind the scenes, the loader was doing a few things at this point:\n\nChecking the clock and syncing time\nUnpacking the encrypted data file\nGetting ready to patch memory when UNLOCKTOOL starts\nI just waited for the loader to settle. You’ll know it’s ready when the splash window shows a status like “Ready” or “Waiting for login.”\n\nStep 3 – Set Process Priority in Task Manager\nThis step matters more than people realize. Without setting the priority, the loader sometimes doesn’t hook properly and UNLOCKTOOL may not log in.\n\nHere’s what I did:\n\nI right-clicked the Windows Taskbar and opened Task Manager. Then I clicked on the Details tab. I looked for DarsUnlocker.exe in the list, right-clicked it, and chose Set priority. I selected High (you can also pick Above Normal).\n\nWindows asked me to confirm the change. I clicked Yes.\n\nI did the same thing for UNLOCKTOOL.exe once it was running, just to be consistent.\n\nStep 4 – Log In to UNLOCKTOOL\nNow the interesting part. I opened UNLOCKTOOL and let it load. On the login screen, I looked back at the DarsUnlocker window.\n\nThe loader showed me the generated login details:\n\nUsername: aminebazouka (or whatever your loader shows)\nPassword: any password you want\nI typed that username into UNLOCKTOOL. For the password, I typed anything — literally any random text. Then I clicked Login.\n\nWhen the disclaimer window appeared, I clicked Agree.\n\nThat’s it. UNLOCKTOOL loaded its main dashboard and I was in.\n\nStep 5 – Start Servicing Devices\nOnce logged in, the tool is fully usable. You’ll see the main dashboard with all the brand tabs at the top or side. Just pick your target brand and start working.",
-      "downloads": 5,
+      "downloads": 19,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1792248255737,
+      "lastModified": 1792330669856,
       "link": "https://mega.nz/file/IY8hWTLQ#nxZFRMmiSht59AQQ3a7uByYv8eEwa3VKdmTQdfkFTGk",
       "links": [
         {
@@ -1610,6 +1649,14 @@
             {
               "password": "",
               "url": "https://mega.nz/file/IY8hWTLQ#nxZFRMmiSht59AQQ3a7uByYv8eEwa3VKdmTQdfkFTGk"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/6uff7wrpnz1f654/DarsUnlocker-installer-V5.exe/file"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/QclGlKCT#ODL67O7_NzGoJDmoGu84QR_p-mRiClMZ37VtwheR7lI"
             }
           ]
         },
@@ -1825,11 +1872,11 @@
         "https://technofayez.com/uploads/posts/inline_1791350155_7879.png"
       ],
       "createdAt": 1790593448128,
-      "description": "Added Meta Mode option.\nAdded option for reboot to normal \nAdded Automatically Usb Detection\nAdded More Brand & Model\nFixed Some Known Bugs \nPowerful MediaTek Tool for Mobile Technicians | New MTK Flash & Service Tool\nToday we introduce TF MTK Tool v1.0, a powerful MTK tool with multiple servicing functions in one simple interface.\n\n🔥 TF MTK Tool Features :\n✅ MediaTek Firmware Flashing\n✅ Download Agent (DA) Support\n✅ AUTH File Support\n✅ Preloader Selection\n✅ Patch DA\n✅ SLA / DAA / SBC-related functions\n✅ Crash Preloader\n✅ FRP-related service functions\n✅ Format Device\n✅ Bootloader Unlock / Relock\n✅ Read / Write functions\n✅ Partition functions \n✅ RPMB\n✅ Keys\n✅ Network functions\n✅ Clean and easy-to-use interface\nThe tool is being developed with mobile technicians in mind, and more device support and features will be added in future updates.\n📌 Tool: TF MTK Tool\n📌 Version: 1.0\n📍 Developer/Brand: Techno Fayez",
+      "description": "How to Install\nDownload the TF MTK Tool package.\nExtract the downloaded ZIP file.\nOpen the extracted TF MTK Tool folder.\nRun the TF MTK Tool executable.\nWhen the login window opens, create a new account if you do not already have one.\nEnter your username, email and password during registration.\nReturn to the login screen after successful registration.\nEnter your login details.\nUse the remember login option if you want the tool to save your login details.\nClick the Login button to open the main TF MTK Tool interface.\nAdded Meta Mode option.\nAdded option for reboot to normal \nAdded Automatically Usb Detection\nAdded More Brand & Model\nFixed Some Known Bugs \nPowerful MediaTek Tool for Mobile Technicians | New MTK Flash & Service Tool\nToday we introduce TF MTK Tool v1.0, a powerful MTK tool with multiple servicing functions in one simple interface.\n\n🔥 TF MTK Tool Features :\n✅ MediaTek Firmware Flashing\n✅ Download Agent (DA) Support\n✅ AUTH File Support\n✅ Preloader Selection\n✅ Patch DA\n✅ SLA / DAA / SBC-related functions\n✅ Crash Preloader\n✅ FRP-related service functions\n✅ Format Device\n✅ Bootloader Unlock / Relock\n✅ Read / Write functions\n✅ Partition functions \n✅ RPMB\n✅ Keys\n✅ Network functions\n✅ Clean and easy-to-use interface\nThe tool is being developed with mobile technicians in mind, and more device support and features will be added in future updates.\n📌 Tool: TF MTK Tool\n📌 Version: 1.0\n📍 Developer/Brand: Techno Fayez",
       "downloads": 2,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
-      "lastModified": 1792246919825,
+      "lastModified": 1792332552476,
       "link": "https://mega.nz/file/qcwizBRZ#xj9zG5DMEqkkfNlTAnVO24rZPdbf0zIhkDbbtmCtbnI",
       "links": [
         {
@@ -1842,6 +1889,10 @@
             {
               "password": "",
               "url": "https://mega.nz/file/qcwizBRZ#xj9zG5DMEqkkfNlTAnVO24rZPdbf0zIhkDbbtmCtbnI"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1_LtmIrzfE8veh-gMNFTzpGtTsWNb6Ejf/view?usp=sharing"
             }
           ]
         },
@@ -2216,7 +2267,7 @@
       ],
       "createdAt": 1791199206750,
       "description": "UNLOCKTOOL FREE BY TROJ4N  TROJ4N LOADER V2 - OFFICIAL NOTE\n🚀 UNLOCKTOOL - TROJ4N LOADER V2 IS LIVE!\nWe are excited to announce the launch of TROJ4N LOADER V2 - More Powerful, More Stable, and Faster than ever!\n🔥 BIG LAUNCH OFFER: GET 15 DAYS FREE!\nFor a limited time only, get 15 Days FREE Access on TROJ4N LOADER V2.\nKey Features:\n•  Ultra-Fast & Secure Loading System\n•  Clean & Simple UI with STANDBY Mode\n•  Stable Performance for Long Sessions\n•  V2 Updated Engine\nDon't miss this opportunity. Activate your plan now and experience the power of TROJ4N V2!\nOffer Valid For Limited Time Only.",
-      "downloads": 1,
+      "downloads": 2,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792248063033,
@@ -2347,7 +2398,7 @@
       ],
       "createdAt": 1791514105333,
       "description": "EFT PRO CraCked Limit Free Download and Test Now.\n\nLOGIN INFO :: \nFirst of all signup here with your gmail account.\nThen download launcher 0.3.exe\nRun launcher as admin\nClick on start and then run eft pro exe.\nIt will show wrong email and password.\nEnter your own gmail address to eft pro and password type randomly.\nEnjoy",
-      "downloads": 26,
+      "downloads": 37,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1791520677938,
@@ -2392,7 +2443,7 @@
       ],
       "createdAt": 1791543452439,
       "description": "iFixMDM 1.2V MDM iOS Bypassed Free Download.\niFixMDM 1.2V Technical Specifications\nI have put together a simple table detailing the software specifications to help you understand what you are downloading.\n\nParameter\tValue / Specification\nSoftware Name\tiFixMDM\nCurrent Version\t1.2V\nSupported Systems\tWindows / macOS\nSupported Devices\tAll iPhones and iPads with MDM locks\nKey Requirement\tFind My iPhone (FMI) must be OFF\nLicense Type\tFree to download and use",
-      "downloads": 10,
+      "downloads": 14,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1791543452439,
@@ -2441,7 +2492,7 @@
       ],
       "createdAt": 1791633094256,
       "description": "WorldLink GSM Pro BETA 2026 \n\nWorldLink GSM Pro BETA 2026 Software Details\nSpecification\tDetails\nSoftware Name\tWorldLink GSM Pro\nVersion\tBETA 2026\nLicense\t10-day free activation key generation mentioned in the setup instructions\nSupported Platforms\tSamsung, MediaTek, SPRD / Unisoc, Qualcomm, Google Pixel, Motorola, and Android Utility sections\nActivation\tHardware ID-based key registration\nPackage Format\tRAR archive\nSetup File\tWorldLink GSM Pro_boxed.exe",
-      "downloads": 22,
+      "downloads": 26,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1791633354871,
@@ -2522,7 +2573,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 830,
+      "downloads": 911,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -2776,7 +2827,7 @@
       ],
       "createdAt": 1792247173769,
       "description": "LCD Compatible Tool LCD Compatible Tool is a mobile phone compatibility tool designed for repair technicians, repair shops, mobile parts sellers and professionals working with smartphone replacement parts. \n\nFind LCD compatible models quickly and check which phones can use the same replacement screen or part. The app helps you search compatibility information for LCD screens, batteries, cameras, glass and other mobile phone parts.\nThe database includes popular smartphone brands such as Samsung, Xiaomi, Redmi, OPPO, Realme, Vivo, Huawei, Honor, Infinix, Tecno and more.\n\nSearch by brand and phone model to find compatible parts and make compatibility checks easier during everyday repair work.\n\nWhether you need to check an LCD compatible screen, battery compatibility or another replacement part, LCD Compatible Tool provides organized compatibility information in a simple and practical interface.\n\nThe app is designed specifically for mobile phone repair professionals who need a quick reference when working with replacement parts.\n\nKey features include LCD and screen compatibility, battery compatibility, camera compatibility, glass compatibility and other phone part compatibility information.\nLCD Compatible Tool is free to use and does not require a subscription.\nDownload the app and make mobile phone part compatibility checks faster and easier.\n\nUpdated on\nOct 5, 2026",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "f_mqg48h6a_9aoqneltl",
       "isLink": false,
       "lastModified": 1792247173769,
@@ -2804,14 +2855,15 @@
     "f_mvchtzbl_5e2i4d3ji": {
       "coverUrl": "https://technofayez.com/uploads/posts/post_1787744118_2069.png",
       "covers": [
-        "https://technofayez.com/uploads/posts/post_1787744118_2069.png"
+        "https://technofayez.com/uploads/posts/post_1787744118_2069.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihv0Cxbw-GHRD2LttDNj73nlk_T23PnIq-L0cBVBoWZ8lQWqyvimT_oxlqGnhREnJj2J4g3uZo2y8KiUNNdi5r09bwW1GKSSLLjAmnWeCBJQvIv-yTgfumepM5fzSYVPD-_dbWmKdZnveNXe9dnLCqGbzwu9YO_dUyeKk9AsZthg5yivDSc2_lYmnospFH/w640-h358/VNboards%20v1.2.63%20Free%20Download.jpg"
       ],
       "createdAt": 1792247408913,
       "description": "Vnboard schematic diagram Free Download Software update v1.2.250\n📥 Which file do I download?\nNew user (first install): download VNboards_Setup.exe and run it — the installer asks where to install, creates a Desktop shortcut, then opens the app.\nAlready installed: you do not need anything here — open the app and click ⟳ Update; it updates itself.\nIgnore VNboards_Update.zip (used internally by the self-update mechanism) and the two Source code entries (GitHub generates those for every release; they are not the app).\n📥 Which file should I download?\nNEW users (never installed before): download VNboards_Setup.exeand run — the installer will ask where to save and create a desktop shortcut, then automatically open the app.\nAlready installed: no need to download anything here — open the app, tap the ⟳ Update button and the app will download automatically.\nIgnore VNboards_Update.zip(the HIDDEN file for the auto-update mechanism, not for manual downloading) and the two Source code sections (GitHub automatically generates this for all releases, not the app).",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
-      "lastModified": 1792247408913,
+      "lastModified": 1792381149179,
       "link": "https://github.com/Henrybi9/conmat-viewer-data/releases/download/v1.2.250/VNboards_Setup.exe",
       "links": [
         {
@@ -2830,11 +2882,24 @@
               "url": "https://github.com/Henrybi9/conmat-viewer-data/releases/tag/v1.2.250"
             }
           ]
+        },
+        {
+          "label": "VNboards v1.2.63 Free Download",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/d3tF2DQK#ftZWXIJXWeX2kuXqGfsurlXm7-EE9eu9tlp-p0osy2o"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1UWRJfnFN-DBYVfJhfmV8Ug"
+            }
+          ]
         }
       ],
       "loginPassword": "",
       "loginUsername": "",
-      "name": "Vnboard Schematic Diagram",
+      "name": "Vnboards Schematic Diagram",
       "password": "",
       "publishUrl": "vnboard-schematic-diagram",
       "published": true,
@@ -2842,34 +2907,28 @@
       "unrarPassword": ""
     },
     "f_mvd71f53_y34ovg05n": {
-      "name": "Oxygen Forensics V18.3.0.270 FREE",
-      "folderId": "f_mpajwfy2_5pvx4efm9",
-      "size": "3GB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfgSd9fU0E_gmb-RkM00RIlhGHJfaCD01Fd3RJJO4SC_Tu0THBv1omoMtcACTURomCB54jvkcz668E9FqapJPqDlf7XFeKohI2JgFnIclueg4Jrd1O21pXUOVLCszqeHXAziCNipvH9ZfeCSgy6TbxEtoRyn_OwBWtc3izpW-FycasaAG_sa16cwnWT-e5/w640-h480/Oxygen%20Forensics%20V18.3.0.270%20Update.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfgSd9fU0E_gmb-RkM00RIlhGHJfaCD01Fd3RJJO4SC_Tu0THBv1omoMtcACTURomCB54jvkcz668E9FqapJPqDlf7XFeKohI2JgFnIclueg4Jrd1O21pXUOVLCszqeHXAziCNipvH9ZfeCSgy6TbxEtoRyn_OwBWtc3izpW-FycasaAG_sa16cwnWT-e5/w640-h480/Oxygen%20Forensics%20V18.3.0.270%20Update.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "oxygen-forensics-v1830270-free",
+      "createdAt": 1792289746407,
       "description": "Oxygen Forensics V18.3.0.270 Update With Keygen",
-      "downloads": 0,
-      "link": "https://www.mediafire.com/file/x7ep91y3ew2yinw/OxyDetective_Dongle_x64_Setup_18.3.1.96.rar/file",
+      "downloads": 43,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "published": true,
+      "lastModified": 1792289746407,
+      "link": "https://www.mediafire.com/file/x7ep91y3ew2yinw/OxyDetective_Dongle_x64_Setup_18.3.1.96.rar/file",
       "links": [
         {
           "label": "Oxygen Forensics V18.3.0.270 Setup",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/x7ep91y3ew2yinw/OxyDetective_Dongle_x64_Setup_18.3.1.96.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/x7ep91y3ew2yinw/OxyDetective_Dongle_x64_Setup_18.3.1.96.rar/file"
             },
             {
-              "url": "https://1024terabox.com/s/101wNltNkO1ZJPLP7S0rVVg",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/101wNltNkO1ZJPLP7S0rVVg"
             }
           ]
         },
@@ -2877,22 +2936,991 @@
           "label": "Oxygen Forensics V18.3.0.270 KEYGEN+Loader",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/8fkom69hmhwk1st/Oxygen_Crack%252BKEYGEN_18.3.1.96.rar/file",
+              "password": "",
+              "url": "https://www.mediafire.com/file/8fkom69hmhwk1st/Oxygen_Crack%252BKEYGEN_18.3.1.96.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZcC4bJZoataeQtXo8ViMkXcTOTC9SWMXnnV"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1DcdLqwEM6On5SQ7Q-dV14A"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Oxygen Forensics V18.3.0.270 FREE",
+      "password": "",
+      "publishUrl": "oxygen-forensics-v1830270-free",
+      "published": true,
+      "size": "3GB",
+      "unrarPassword": ""
+    },
+    "f_mvenxn5r_2zdw1u0ug": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBBWPNH-VYPXmT2IUC1EdHIuDRjSUAdaTJgaBhYgAUvPxLxs49e7eRmB9uDwUU2nTWo7EbO-dd_LrGgXEkHbm6eAPV3P3hsjmSVN9h18O2ZKxlLXTAa6Zz0isgS-pJjKa9c-XQhb_xnFr1YqKYSRAbocVRRZPkn7CCpIJzYbCumlnypmy8Ek7v1rG_2A/w640-h360/MOBILedit%20Forensic%20ULTRA%20v9.8.0.3.5178%20Full%20PACK%20+Keygen.jpeg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBBWPNH-VYPXmT2IUC1EdHIuDRjSUAdaTJgaBhYgAUvPxLxs49e7eRmB9uDwUU2nTWo7EbO-dd_LrGgXEkHbm6eAPV3P3hsjmSVN9h18O2ZKxlLXTAa6Zz0isgS-pJjKa9c-XQhb_xnFr1YqKYSRAbocVRRZPkn7CCpIJzYbCumlnypmy8Ek7v1rG_2A/w640-h360/MOBILedit%20Forensic%20ULTRA%20v9.8.0.3.5178%20Full%20PACK%20+Keygen.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBBWPNH-VYPXmT2IUC1EdHIuDRjSUAdaTJgaBhYgAUvPxLxs49e7eRmB9uDwUU2nTWo7EbO-dd_LrGgXEkHbm6eAPV3P3hsjmSVN9h18O2ZKxlLXTAa6Zz0isgS-pJjKa9c-XQhb_xnFr1YqKYSRAbocVRRZPkn7CCpIJzYbCumlnypmy8Ek7v1rG_2A/w640-h360/MOBILedit%20Forensic%20ULTRA%20v9.8.0.3.5178%20Full%20PACK%20+Keygen.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBBWPNH-VYPXmT2IUC1EdHIuDRjSUAdaTJgaBhYgAUvPxLxs49e7eRmB9uDwUU2nTWo7EbO-dd_LrGgXEkHbm6eAPV3P3hsjmSVN9h18O2ZKxlLXTAa6Zz0isgS-pJjKa9c-XQhb_xnFr1YqKYSRAbocVRRZPkn7CCpIJzYbCumlnypmy8Ek7v1rG_2A/w640-h360/MOBILedit%20Forensic%20ULTRA%20v9.8.0.3.5178%20Full%20PACK%20+Keygen.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBBWPNH-VYPXmT2IUC1EdHIuDRjSUAdaTJgaBhYgAUvPxLxs49e7eRmB9uDwUU2nTWo7EbO-dd_LrGgXEkHbm6eAPV3P3hsjmSVN9h18O2ZKxlLXTAa6Zz0isgS-pJjKa9c-XQhb_xnFr1YqKYSRAbocVRRZPkn7CCpIJzYbCumlnypmy8Ek7v1rG_2A/w640-h360/MOBILedit%20Forensic%20ULTRA%20v9.8.0.3.5178%20Full%20PACK%20+Keygen.jpeg"
+      ],
+      "createdAt": 1792378589823,
+      "description": "Main Features of MOBILedit Forensic ULTRA\nAdvanced Android forensic analysis\nLogical and physical data extraction\nADB extraction support\nEDL extraction supporthgjhjhj\nCloud data analysis\nDeleted data recovery\nApplication analysis system\nPhoto recognition feature\nFace matching support\nLive update packages\nPassword bypass support for supported devices\nSecurity bypass methods\nUNISOC chipset support\nEXYNOS chipset support\nMessage and call history analysis\nTimeline and chat viewer\nSIM cloning support\nPhysical dump creation\nDevice backup support\nFile system browsing\nCloud extraction options\nData decryption support\nBruteforce options for supported devices\nMalware detection features\nEasy dark theme user interface\nSupport for Samsung Galaxy Watch devices\nFast device detection\nDetailed forensic reports\nImport and export options\nRegular live updates",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792378589823,
+      "link": "https://drive.google.com/file/d/1lhIBYm7upgcr6RgzT1yPJBd5eUsVeA2c/view",
+      "links": [
+        {
+          "label": "Setup+key  ZMTGROUP",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1lhIBYm7upgcr6RgzT1yPJBd5eUsVeA2c/view"
+            }
+          ]
+        },
+        {
+          "label": "v9.8.0.3.5178 Full PACK",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.jioaicloud.com/l/?u=dVYSGBta8P1TYmc67ia8W1ANI2rEEqb7gtG4xSukE5hQm32xKPYGCOewdb6nfWiJMHW"
+            }
+          ]
+        },
+        {
+          "label": "only Keygen v9.8.0.3.5178",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/pb00nc7gq7a330v/Mobileditultra9.8keygen.rar/file"
+            }
+          ]
+        },
+        {
+          "label": "Only Setup v9.8.0.3.5178",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/rtgxwqggyvf5aw6/MOBILedit+Forensic+ULTRA+9.8.0.34378+(1PC).rar/file"
+            }
+          ]
+        },
+        {
+          "label": "Keygen Active Tutorials",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs32AaCNh6IfMLzhgAySNhjYw6N18u1BCboN-1bkW02A2xLzOzxXZtZP2Ik5h2lXz5zTZQ4sgCFV-q1tgKW2FE1aDU2GnQojeHxrlVs95klhvglWoHjRZLyHVsf8wDpGVjecke4KXQKj_RyrDRlPYvUhDqTUH0DpKs_Hlhq5MgV11M6z8AXrCFcMUqjwc4/s1600/MOBILedit%20F-ULTRA%20v9.0.3.5178%20Full%20PACK+Keygen%20.jpg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MOBILedit Forensic ULTRA Free",
+      "password": "",
+      "publishUrl": "mobiledit-forensic-ultra-free",
+      "published": true,
+      "size": "3GB",
+      "unrarPassword": ""
+    },
+    "f_mveosnz9_7cxbuzy85": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cUtFmIBPy4tM0kGqlKz0XmmStmArowD6uqwLtdy9Acg560SknN-wlpYAjud-MjjYgNO8WU8F84HMm1bJ4t8PovMEKbL58ZY9jiy8er-0pEdFiOMERWsrHInzIzomoL7vhWB4vibLLLuWSRRV7mS9Mq65E5DUiTIZWmsdrzirdRZYHbm8C40NqaURb2Vx/w640-h430/Exynos%20FRP%20v1.0.0%20FREE.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cUtFmIBPy4tM0kGqlKz0XmmStmArowD6uqwLtdy9Acg560SknN-wlpYAjud-MjjYgNO8WU8F84HMm1bJ4t8PovMEKbL58ZY9jiy8er-0pEdFiOMERWsrHInzIzomoL7vhWB4vibLLLuWSRRV7mS9Mq65E5DUiTIZWmsdrzirdRZYHbm8C40NqaURb2Vx/w640-h430/Exynos%20FRP%20v1.0.0%20FREE.png"
+      ],
+      "createdAt": 1792380037221,
+      "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
+      "downloads": 0,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792380037221,
+      "link": "https://1drv.ms/u/c/60278a53f75dbc69/IQBCp1Ovi7X2S5yJH8vvRnVoAauKZzMdzxsuIFJo-USFGQw?e=Khyapu",
+      "links": [
+        {
+          "label": "Exynos FRP v1.0.0 FREE",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/60278a53f75dbc69/IQBCp1Ovi7X2S5yJH8vvRnVoAauKZzMdzxsuIFJo-USFGQw?e=Khyapu"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/1m1kSbya#bJDi93celnji3lySw5_ewfC5A0bdfHNuDAEI8RE21-0"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1_aF1EIV6V1O4BDvwkc5eLw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Exynos FRP v1.0.0 FREE",
+      "password": "",
+      "publishUrl": "exynos-frp-v100-free",
+      "published": true,
+      "size": "24mb",
+      "unrarPassword": ""
+    },
+    "f_mveoynhc_t8e82s4nl": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCYg58kkKikQS03BNJp-OtcOHs0FoDPfTRXL_WbOkXayYqy4Mo5zDjQ0eqyE5JdKTCZpqFtj3bOJ0KxXDjef6FnLr3LnbVWhQ3GSBonlcMLLXFWfOfF84uIy_KpwLEPo_cbTixWpmMt5IGb9fLy8lMw2wd3626ZOScQOWhMnXSM4e94930h3BwM4wXBI/w640-h346/Motorola%20MTK%20LK%20Toolkit%20Pro%20v1.0.0%20By%20LunTech.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCYg58kkKikQS03BNJp-OtcOHs0FoDPfTRXL_WbOkXayYqy4Mo5zDjQ0eqyE5JdKTCZpqFtj3bOJ0KxXDjef6FnLr3LnbVWhQ3GSBonlcMLLXFWfOfF84uIy_KpwLEPo_cbTixWpmMt5IGb9fLy8lMw2wd3626ZOScQOWhMnXSM4e94930h3BwM4wXBI/w640-h346/Motorola%20MTK%20LK%20Toolkit%20Pro%20v1.0.0%20By%20LunTech.png"
+      ],
+      "createdAt": 1792380316513,
+      "description": "Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792380330151,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQDX3TLCt691RoyQ1zlum2nPASNAMeNSqQ0HbdItidkLNQM?e=UxMp2C",
+      "links": [
+        {
+          "label": "Motorola MTK LK Toolkit Pro v1.0.0 By LunTech",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQDX3TLCt691RoyQ1zlum2nPASNAMeNSqQ0HbdItidkLNQM?e=UxMp2C"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1nh2q_BCJoRZuKVVy2tB_0g"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Motorola MTK LK Toolkit Pro",
+      "password": "",
+      "publishUrl": "motorola-mtk-lk-toolkit-pro",
+      "published": true,
+      "size": "63mb",
+      "unrarPassword": ""
+    },
+    "f_mvep2nok_rmst61had": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj12YxBFX2WtJGsm2ONFKcwRMf733iB8D6Bdl-47x07K0QiGnd0hrbcescAF1OoE3725Cw45gM-awKaehyNLGomJptOw0Q6r-Bhv6yO8aoB4vBEOQmd40fsDy4x0kj4oWiDJDLDZY3X7uwnj5hKn5J9YsKZEkO6wjtZT4eSwEsCbFK5jUa_k-16zQ271OAU/w640-h470/Xiaomi%20Firmware%20Assistant%20tools.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj12YxBFX2WtJGsm2ONFKcwRMf733iB8D6Bdl-47x07K0QiGnd0hrbcescAF1OoE3725Cw45gM-awKaehyNLGomJptOw0Q6r-Bhv6yO8aoB4vBEOQmd40fsDy4x0kj4oWiDJDLDZY3X7uwnj5hKn5J9YsKZEkO6wjtZT4eSwEsCbFK5jUa_k-16zQ271OAU/w640-h470/Xiaomi%20Firmware%20Assistant%20tools.jpg"
+      ],
+      "createdAt": 1792380503396,
+      "description": "Xiaomi Firmware Assistant toolsFeatures Xiaomi Firmware Assistant OTA Tool\nCheck Device: Connects with the Xiaomi phone and checks whether the device is available in the required mode.\nRead Device: Reads details such as the device name, installed software version, serial, Android information, build, language, region and zone.\nOTA Firmware Verification: Checks the selected firmware using the phone information before installation.\nServer Validation: The firmware check uses the Xiaomi update service and requires an internet connection.\nGenerate Sign: Prepares the selected firmware for the installation stage after the validation check is completed.\nInstall Firmware: Installs the selected and validated firmware package through the supported Xiaomi sideload process.\nProgress Bar: Shows the installation progress while the firmware is being transferred.\nErase Data: Removes personal data from the connected phone. The tool warns that photos, apps and other files may be deleted. \nRestart: Sends a restart command to the connected Xiaomi phone.\nOTA Version Check Workflow: The installed software version can be checked first, then a matching OTA version higher than the installed build can be selected for verification.\nWhat's New (Changelog)\nFirmware validation is included before the installation process.\nCurrent Xiaomi device information can be read before selecting firmware.\nOTA firmware can be selected directly from the firmware section.\nServer-based firmware validation is used before installation.\nFirmware installation includes a progress indicator.\nSeparate options are available for Erase Data and Restart.\nHow to Install Xiaomi Firmware Assistant\nDownload the Xiaomi Firmware Assistant package from the download section below.\nExtract the downloaded ZIP file if it is provided as an archive.\nOpen the extracted folder and start the tool.\nConnect the Xiaomi phone in the required sideload mode.\nUse Check Device and then Read Device to check the current phone information.\nNote the software version currently installed on the phone.\nSelect a matching OTA firmware package that is higher than the installed version.\nClick Generate Sign and wait for the Xiaomi server verification to finish.\nIf the firmware is accepted, continue with Install Firmware.\nKeep the USB cable connected while the firmware is being installed.\nWait until the progress reaches 100% and the tool reports that installation is finished.\nRestart the phone and check the software version again after it boots.\nDownload Xiaomi Firmware Assistant Latest Version",
+      "downloads": 0,
+      "folderId": "f_mq0uduoi_4okvszeb9",
+      "isLink": false,
+      "lastModified": 1792380513485,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQAwWWws-x_JQah7r__EArreAcMeMQG47LvrJc4BhQbK_0U?e=HVHWhj",
+      "links": [
+        {
+          "label": "Xiaomi Firmware Assistant tools",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQAwWWws-x_JQah7r__EArreAcMeMQG47LvrJc4BhQbK_0U?e=HVHWhj"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/JutXCQQY#g3avRmA-J0NoIqUVIbjC_vZbO0NpWCDY8MqG8dmOnVw"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1v6h1eKfXXQ11yDZ6fqvGEg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Xiaomi Firmware Assistant tool",
+      "password": "",
+      "publishUrl": "xiaomi-firmware-assistant-tool",
+      "published": true,
+      "size": "25mb",
+      "unrarPassword": ""
+    },
+    "f_mvep5p97_xnlfcspak": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTRFgTb69oZKHFK5xIgs4-8TZlvWwegQQZSTO0LOeWLQbmNyWjW4ma00Rk8qpW6hv3M6pPIgXbIDcJZV-hQLSHpDaadqg3g0P_Po2q5lnxZJk5ZO1Q4FwMJMmtTGySvCfYOjvKaT7trnHsekuncQ_x6mLsRRlm3K-d2Bbl829GMO08l4piZf2Yw-ii0bY/w640-h348/Xiaomi%20DIAG%20Tool%20v2.1%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTRFgTb69oZKHFK5xIgs4-8TZlvWwegQQZSTO0LOeWLQbmNyWjW4ma00Rk8qpW6hv3M6pPIgXbIDcJZV-hQLSHpDaadqg3g0P_Po2q5lnxZJk5ZO1Q4FwMJMmtTGySvCfYOjvKaT7trnHsekuncQ_x6mLsRRlm3K-d2Bbl829GMO08l4piZf2Yw-ii0bY/w640-h348/Xiaomi%20DIAG%20Tool%20v2.1%20Free.jpg"
+      ],
+      "createdAt": 1792380645403,
+      "description": "Xiaomi DIAG Tool v2.1 Free Features Xiaomi DIAG Mode Enable Tool\nAutomatic Xiaomi Device Detection: The tool keeps checking for a connected Xiaomi phone and shows the detected model and Android version when the device is available. sss\nADB Connection Check: The phone needs to be connected with ADB enabled before the main DIAG process can start.\nDevice Information: The tool can read the Xiaomi model, brand, Android version and available MIUI or HyperOS information from the connected device. \nAutomatic DIAG APK Handling: If the required diagnostic package is not already installed, the tool tries to install it automatically. \nManual APK Installation: If automatic installation does not work, the tool copies the required package to the phone and asks the user to install it manually from the Download folder. \nDIAG Mode Start: After the required package is ready, the tool starts the diagnostic mode on the Xiaomi phone. \nDIAG Driver Detection: After starting DIAG mode, the tool waits for the Windows DIAG driver and shows the detected driver when available.\nProgress Status: The main window shows stages such as Checking, Installing, Starting DIAG, Detecting and Success while the process is running.\nManual Installation Verification: When the APK has to be installed manually, the tool can check again whether the package is installed before continuing with DIAG mode.\nDark Interface: The tool uses a dark interface with a simple device status area, progress bar and main action button.\nWhat's New\nCurrent release version is v2.1. \nAutomatic device monitoring is included in the main window.\nThe tool can show the connected Xiaomi model and Android version.\nAutomatic installation of the required Xiaomi diagnostic package is supported.\nA manual installation fallback is available when automatic installation fails.\nThe tool checks for the DIAG driver after starting diagnostic mode.\nA separate verification step is available after manual APK installation. How to Install Xiaomi DIAG Tool\nDownload Xiaomi DIAG Tool v2.1 from the download section below.\nExtract the downloaded package if it comes as a ZIP archive.\nKeep the required Xiaomi diagnostic APK in the same tool folder if it is included separately.\nMake sure ADB is available and the Xiaomi phone is connected with ADB enabled.\nRun the Xiaomi DIAG Tool.\nWait for the tool to detect the connected Xiaomi phone.\nCheck the displayed model and Android information.\nClick ENABLE DIAG to start the process.\nIf the diagnostic package is already installed, the tool continues automatically.\nIf automatic installation is not possible, follow the on-screen instruction and install the APK from Internal Storage > Download.\nClick CONTINUE after the manual installation is completed.\nThe tool will check the installation, start DIAG mode and wait for the Windows DIAG driver.\nWhen the driver is detected, the tool shows the DIAG process as successful.",
+      "downloads": 0,
+      "folderId": "f_mq0uduoi_4okvszeb9",
+      "isLink": false,
+      "lastModified": 1792380645403,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQAMHvYpGhXQSpRrefcsO09WATAUdUEDKvEz8zKYpiJ1h4c?e=vUhJbF",
+      "links": [
+        {
+          "label": "Xiaomi DIAG Tool v2.1",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQAMHvYpGhXQSpRrefcsO09WATAUdUEDKvEz8zKYpiJ1h4c?e=vUhJbF"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/s30AkKzJ#VSRbZoa1k_nLxtVmnfum_N990y37ioH1YweIPWPYtx0"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1DsMw363VK9Atic9g6k6hPw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Xiaomi DIAG Tool v2.1",
+      "password": "",
+      "publishUrl": "xiaomi-diag-tool-v21",
+      "published": true,
+      "size": "26 mb",
+      "unrarPassword": ""
+    },
+    "f_mvep83rk_rpxgson4j": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7DR8OtXESFbXyRO3wA-X1tfHlRvByCJMstgU-Ps0leBanePJw2B8jglUVTDD_nkJe5uxvPbCSWOZZQzgGI77ynnLTwvdm8MrSJ5OPD9kmQIviFx6zZymzRSZsSRxN3b8mXf4pRjkx29gJzMTYc9LprNKVzmQLKrInT9k2TnHAVclVCCkWxlxCdMIFXlpt/s1025/2026-08-22_152525.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7DR8OtXESFbXyRO3wA-X1tfHlRvByCJMstgU-Ps0leBanePJw2B8jglUVTDD_nkJe5uxvPbCSWOZZQzgGI77ynnLTwvdm8MrSJ5OPD9kmQIviFx6zZymzRSZsSRxN3b8mXf4pRjkx29gJzMTYc9LprNKVzmQLKrInT9k2TnHAVclVCCkWxlxCdMIFXlpt/s1025/2026-08-22_152525.png"
+      ],
+      "createdAt": 1792380757520,
+      "description": "Mi Unlock Tool V7.6.727.43 Free Download Mi Unlock Tool 7.6.727.43 Download and Xiaomi / Redmi / POCO Bootloader Unlocghghking Guide\nMi Unlock Tool is used for unlocking the bootloader on supported Xiaomi, Redmi, and POCO devices running MIUI. In this post, I am sharing the update file for Mi Unlock Tool version 7.6.727.43 also with the bootloader unlocking steps provided below. When I downloaded Mi Unlock Tool from the official site, I got the old miflash_unlock-en-6.5.224.28.zip file. I extracted it and opened the tool. Then an update popup appeared. It was showing 6.5.224.28 as the current version and 7.6.727.43 as the new version.\n\nMi Unlock Tool Update Download Problem\nThe update button was available inside the old version of Mi Unlock Tool. I clicked it to download the new update, but the download page did not work for me.\n\nInstead of downloading the file, the browser showed an Access Denied message. The page clearly said that permission was not available to access the Mi Unlock Tool update file on that server.\n\nThe update is showing inside the old tool, but when I tried to get version 7.6.727.43, the download page showed an Access Denied error. So the update was available in the tool, but the file could not be downloaded from that page.\n\nI faced this situation myself, so I searched Chinese forums for the update file. After finding the version shown by the Mi Unlock update window, I am providing the full update below through a Google Drive link so it can be downloaded without depending on the update URL that showed the Access Denied message.\n\nMi Unlock Tool 7.6.727.43\nSoftware Name\tMi Unlock Tool\nOld Version Shown\t6.5.224.28\nNew Version Shown\t7.6.727.43\nThe Mi Unlock Tool interface and the successful completion screen. The successful screen displays the message Unlocked successfully with a Reboot phone button.",
+      "downloads": 0,
+      "folderId": "f_mq0uduoi_4okvszeb9",
+      "isLink": false,
+      "lastModified": 1792380757520,
+      "link": "https://drive.google.com/file/d/1ukqfP_ocmOediXIhxonJ9_7lvWL_r-Qb/view?usp=sharing",
+      "links": [
+        {
+          "label": "Mi Unlock Tool V7.6",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1ukqfP_ocmOediXIhxonJ9_7lvWL_r-Qb/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/4zVDHZRD#Vu8gP8KTP768DU1XfrYnKHfYGVtNP8cl190vDjW6OCs"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1EUCCPn1IbCHzvILEK5scPg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Mi Unlock Tool V7.6",
+      "password": "",
+      "publishUrl": "mi-unlock-tool-v76",
+      "published": true,
+      "size": "116 mb",
+      "unrarPassword": ""
+    },
+    "f_mvepe94u_r4m9yhm81": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgb7-LmHjbh-TQ-kcOLTsry7P4O63xahIrmLOZQIyHy1EwnpFaf6LmjpHmKrylBoa0FetoZNnZZ1leuMjpAILKoYiBu4T5YU2yW0pW0zCNTPLEtm6LLdWPaHnCRW45bQjW9uaUVUfteobZQ40EmUzoDLkyIquGO40jTR5gdy9LOEehyphenhyphenroNpBXJFfAmqQ10/w640-h358/HBG%20VoLTE%20IMS%20Fixer%20Tool.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgb7-LmHjbh-TQ-kcOLTsry7P4O63xahIrmLOZQIyHy1EwnpFaf6LmjpHmKrylBoa0FetoZNnZZ1leuMjpAILKoYiBu4T5YU2yW0pW0zCNTPLEtm6LLdWPaHnCRW45bQjW9uaUVUfteobZQ40EmUzoDLkyIquGO40jTR5gdy9LOEehyphenhyphenroNpBXJFfAmqQ10/w640-h358/HBG%20VoLTE%20IMS%20Fixer%20Tool.jpg"
+      ],
+      "createdAt": 1792381044414,
+      "description": "HBG VoLTE IMS Fixer Tool What You Can See in the Software\nDevice Model — Shows the connected Android device model.\nAndroid Version — Shows the Android version detected from the phone.\nManufacturer — Displays the phone manufacturer.\nSIM Carrier — Shows the available SIM carrier information.\nVoLTE Status — Displays the current VoLTE status shown by the tool.\n1-Click VoLTE Fix — Runs the automatic VoLTE activation option.\nShizuku & Pixel IMS — Provides the option for installing the Shizuku and Pixel IMS app set.\nStatus Messages — Shows messages related to the current process.\n\nDownload Information\nSoftware Name\tHBG VoLTE & IMS Fixer\nDeveloper\tHBG\nSupported OS\tWindows\nSupported Devices\tAndroid devices supported by the tool",
+      "downloads": 0,
+      "folderId": "f_mpzhn51z_ka1g9srm4",
+      "isLink": false,
+      "lastModified": 1792381044414,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQD2rmpTZlzgQL81AbEfUlYKAfIzv6Ci7OoZeXeCwxO-ANI?e=3XoibR",
+      "links": [
+        {
+          "label": "HBG VoLTE IMS Fixer Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQD2rmpTZlzgQL81AbEfUlYKAfIzv6Ci7OoZeXeCwxO-ANI?e=3XoibR"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/NzdmTCLL#h4f-PsEzKdwrEOysr46xCamh504YFd12w19RqeIMUr8"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/12Dt9xNnYRWz_MIXhc5Quvw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "HBG VoLTE IMS Fixer",
+      "password": "",
+      "publishUrl": "hbg-volte-ims-fixer",
+      "published": true,
+      "size": "48 mb",
+      "unrarPassword": ""
+    },
+    "f_mvepiz2q_qkurp3d57": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8eF1Eltkj5li48F2R4L_-2aBtoqQdC4pQmlnlqUQH_RLP0MOX-5iO0IhtcS0v5EtyzBaE9kxf86v8ibMfsargHhJcuCSWX7LrG1kF3yWOPKfcJi1kWeSKoL1jzKvazhxgxIce4HF67OA1SJgwA5cbDdhVXGWPRYD8Ar7KzkTnuEleB1JesgZk2eloJgK5/w640-h358/Haafedk%20iCloud%20A12+%20V15%20Cr%23CK%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8eF1Eltkj5li48F2R4L_-2aBtoqQdC4pQmlnlqUQH_RLP0MOX-5iO0IhtcS0v5EtyzBaE9kxf86v8ibMfsargHhJcuCSWX7LrG1kF3yWOPKfcJi1kWeSKoL1jzKvazhxgxIce4HF67OA1SJgwA5cbDdhVXGWPRYD8Ar7KzkTnuEleB1JesgZk2eloJgK5/w640-h358/Haafedk%20iCloud%20A12+%20V15%20Cr%23CK%20Free.jpg",
+        "https://gsmyogesh.com/wp-content/uploads/2026/08/2026-08-27_192326-1024x730.png"
+      ],
+      "createdAt": 1792381264658,
+      "description": "Haafedk iCloud A12+ V15 Free CRACK Download (No Login Required)\nHaafedk iCloud A12+ V15 Features\nDevice Information\nBefore using other options, the tool includes a Read Device function. According to the provided feature list, it can show several device details.\n\nRead Device: Reads the connected device information.\nSerial Number: Displays the device serial number.\nECID: Shows the ECID information.\nIMEI: Displays the IMEI.\nUDID: Shows the UDID.\nMode: Displays the current device mode.\niOS Version: Shows the installed iOS version.\nProduct Type: Displays the device product type.\nBuild: Shows the build information.\nJailbreak Status: Displays the jailbreak status.\nActivation Status: Shows the activation status.\nRegion: Displays the device region.\nBypass Options\nThe V15 feature list includes several Hello Bypass and MDM bypass options. The requirements mentioned with each option should be checked before trying to use them.\n\nHello Bypass A12/A13: Listed for A12 and A13 devices.\nHello Bypass 4S – 17 Pro Max: This option is listed as requiring WiFi.\nHello Bypass iPhone – iPad: Listed with a jailbreak requirement.\nHello Bypass iOS 12 – 14: Also listed as requiring jailbreak access.\nBypass MDM Old: An option for the old MDM bypass method.\nBypass MDM New: An option for the new MDM bypass method.\nDevice Operations\nA few device-related operations are also included in the provided list.Read Device: Used to read device details.\nFix Drivers: An option related to drivers.\nWin Test Mode: A Windows Test Mode option.\nPatcher Settings\nThe patcher section includes three listed options.\n\nAdd MobileGestalt: An option for adding MobileGestalt.\nSupported Devices: Lets you check the listed supported devices section.\nChange Serial: An option related to changing the serial.\nOther Bypass Settings\nThere are also a few toggle-style options in the feature list.\n\nBlock OTA: An option related to blocking OTA.\nSkip Setup: An option for skipping setup.\nDisable Factory Reset: An option related to disabling factory reset.\nIncluded Tools\nThe software also lists two extra tools.\n\nDevice Manager: Opens the Device Manager tool.\nWinRa1n Jailbreak Tool: The WinRa1n Jailbreak Tool is included in the listed tools section.\niCloud Tools\nTwo iCloud-related options are mentioned in the V15 feature list.\n\nFix iCloud Login: An option related to fixing iCloud login.\nEnable Factory Reset: An option for enabling factory reset.\nInstallation Steps\nExtract the downloaded setup archive to a folder on your computer.\nOpen the extracted folder and run the setup file, such as HAAFEDK_A12_SETUP.exe.\nIf Windows Defender SmartScreen stops the application from opening, select More info and then choose Run anyway.\nContinue through the setup wizard and select the installation folder. The provided instructions mention C:\\Haafedk-iCloud-a12 as the usual default location.\nIf you want a shortcut on your desktop, select the option for creating one.\nClick Install and wait for the setup process to finish.\nWindows Defender may flag the software during installation. The provided instructions say that installation can be interrupted in this situation.\nIf you choose to change Windows Security settings, do so carefully. Temporarily disabling protections can create security risks, so this should only be considered when you fully trust the software source.\nAfter installation is complete, close the setup wizard.\nOpen the installation folder or use the desktop shortcut to start Haafedk A12.exe.\nThe provided instructions mention a cracked login button at the login screen for bypassing the credentials and opening the main dashboard.\nDownload Haafedk iCloud A12+ V15\nThe available information identifies this version as V15. Before downloading or installing any software, make sure you trust the source and understand the security risks mentioned in the installation instructions.",
+      "downloads": 0,
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "isLink": false,
+      "lastModified": 1792381264658,
+      "link": "https://mega.nz/file/P95HxaAL#QuyD893h-oWfJokyxcPI1TZ6mi_p_yquL7YElAUG8vo",
+      "links": [
+        {
+          "label": "Haafedk iCloud A12+ V15 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/P95HxaAL#QuyD893h-oWfJokyxcPI1TZ6mi_p_yquL7YElAUG8vo"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1vzcOWkqv-q2Fww3w05pSFQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "admin@gsmsanjoy.com",
+      "loginUsername": "admin@gsmsanjoy.com",
+      "name": "Haafedk iCloud CRACK",
+      "password": "",
+      "publishUrl": "haafedk-icloud-crack",
+      "published": true,
+      "size": "180 MB",
+      "unrarPassword": ""
+    },
+    "f_mveprays_of20tt2x8": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_ICZ7YaJRtz_ifMlaWeXt716ynw5UUtwNssGC8VgQdfUk_segslWUsbe7Tyg_44VEXkirbx-mJQvIQPjSCCNKMe35UzUDXhNgEcr0_anIw983zSBykN5EiyvFuILXVvlgvIZgQC9i_RKvAcWKE7CJcf_ETMSAdzsQQzLTcW1haX9Tc0yyy7hFc0Deef36/w640-h358/VoLTE%20PRO%20V1.6%20Enable%20ADB%20Tool.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_ICZ7YaJRtz_ifMlaWeXt716ynw5UUtwNssGC8VgQdfUk_segslWUsbe7Tyg_44VEXkirbx-mJQvIQPjSCCNKMe35UzUDXhNgEcr0_anIw983zSBykN5EiyvFuILXVvlgvIZgQC9i_RKvAcWKE7CJcf_ETMSAdzsQQzLTcW1haX9Tc0yyy7hFc0Deef36/w640-h358/VoLTE%20PRO%20V1.6%20Enable%20ADB%20Tool.jpg"
+      ],
+      "createdAt": 1792381653316,
+      "description": "VoLTE PRO V1.6 Enable ADB Tool ADB VoLTE Tool – A Simple Desktop Utility to Enable VoLTE on AndroidHow to Use the Tool\nStep 1: Download and Extract\nDownload the tool from the link below. It comes as a compressed archive. Extract it to a folder on your computer using WinRAR or 7-Zip.\n\nStep 2: Run as Administrator\nRight-click on the main executable file and select “Run as administrator”. This is important because the tool needs high-level permissions to send ADB commands to your phone.\n\nStep 3: Enable USB Debugging\nOn your Android phone, go to Settings. Find About Phone and tap on Build Number seven times. This enables Developer Options.\n\nThen go to Developer Options and enable USB Debugging. Connect your phone to the computer using a USB cable.\n\nStep 4: Check Connection\nOnce connected, the tool should detect your phone. The device information fields should show your phone’s model, Android version, IMS status, and VoLTE status.\n\nIf the fields show dashes, try reconnecting your phone or checking the USB Debugging setting.\n\nStep 5: Enable VoLTE\nClick the “Bật VoLTE (Chung)” button to start the activation process. The tool will send ADB commands to your phone. You can watch the status bar to see the progress.\n\nIf you have a Vivo phone and the general method does not work, try the “BẬT VoLTE VIVO” button instead.\n\nStep 6: Reboot Your Phone\nAfter enabling VoLTE, click the “REBOOT” button to restart your phone. This makes sure the changes take effect properly.\n\nAfter reboot, your phone should have VoLTE enabled. You can check your phone’s status bar for the VoLTE icon.\n\nWho Should Use This Tool\nThis software is for Android users who want to enable VoLTE on their phone but do not want to deal with complex command-line tools.\n\nIf your phone supports 4G but drops to 3G during calls, this tool can help. It works with most Android devices, including Xiaomi, Vivo, Samsung, and other brands.\n\nYou do not need to be a technical expert to use it. The interface is simple and the buttons are clearly labeled. The only tricky part is enabling USB Debugging, but that is a one-time setup.\n\nThe tool is especially useful for Vivo phone users who often have trouble enabling VoLTE through normal settings.\n\nWhat I Like About This Tool\nLooking at the interface, I appreciate how clean and straightforward it is. Everything is laid out in one window. You do not have to navigate through multiple menus to find what you need.\n\nThe device information display is helpful because it gives you a clear picture of your phone’s state. You can see at a glance whether VoLTE is already enabled or not.\n\nThe separate button for Vivo devices is a nice touch. Vivo phones often have different configurations, so having a dedicated button shows the developer understands the specific needs of different phone brands.\n\nThe screen mirroring feature is also useful. It lets you see your phone’s display on your computer monitor. This makes it easier to check settings without having to pick up your phone repeatedly.\n\nThe status bar at the bottom keeps you informed about what is happening. It shows “Ready” when the tool is idle and updates when you perform actions.\n\nTechnical Details\nThe tool uses ADB (Android Debug Bridge) to communicate with your phone. ADB is a standard protocol provided by Google for developers. It is safe and widely used.\n\nThe tool also uses scrcpy for screen mirroring. Scrcpy is a popular open-source tool for displaying Android screens on a computer.\n\nHere is a quick summary of the technical aspects:\n\nCommunication Protocol\tADB (Android Debug Bridge)\nScreen Mirroring\tscrcpy\nSupported OS\tWindows\nSupported Devices\tAll Android (including Xiaomi, Vivo, Samsung, Pixel)",
+      "downloads": 0,
+      "folderId": "f_mp6sjxdd_c186cvizt",
+      "isLink": false,
+      "lastModified": 1792381653316,
+      "link": "https://mega.nz/file/igIEkJZS#ZLfvLzSOH6WYfVrvNGBAwgRaWG4yUDswdkfsejJcJac",
+      "links": [
+        {
+          "label": "VoLTE PRO V1.6",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/igIEkJZS#ZLfvLzSOH6WYfVrvNGBAwgRaWG4yUDswdkfsejJcJac"
+            },
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQBSOjWqkNluRoUHIPbVmc4HAZSdSps8Lzjt4V88xHV4MAU?e=akiHAC"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/xitCXCTD#bE7wuNXOr2nPrvG99V7OOpSVT573mncISpPMD193Q5c"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1Z8Tw7hezI8VDQtnRu06xWg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "VoLTE PRO V1.6 Enable ADB Tool",
+      "password": "",
+      "publishUrl": "volte-pro-v16-enable-adb-tool",
+      "published": true,
+      "size": "64 Mb",
+      "unrarPassword": ""
+    },
+    "f_mvepuwi7_ykqhfy1ne": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzCaHKjRyF2QG8T2eSDtFQNVdgK5JPa8JpT_0lmJV4ys_T2zEQKHBjasz7s4VgYxlaYK8Ag-uG5sAY2x2dZXCaKFHg86XTQcINUIWSq8yQRAelXxPljDuRjxj2eKqmoeWbivsXcRRvTQK7khMeTa5y1d_0BuFDB7tbmniHvasUk8MNkOgUTpsjNDs1n8fi/s1600/UST%20Tool%20v7.0.0%20Free%20Activation.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzCaHKjRyF2QG8T2eSDtFQNVdgK5JPa8JpT_0lmJV4ys_T2zEQKHBjasz7s4VgYxlaYK8Ag-uG5sAY2x2dZXCaKFHg86XTQcINUIWSq8yQRAelXxPljDuRjxj2eKqmoeWbivsXcRRvTQK7khMeTa5y1d_0BuFDB7tbmniHvasUk8MNkOgUTpsjNDs1n8fi/s1600/UST%20Tool%20v7.0.0%20Free%20Activation.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxcseAA-Ql0hBGZ0Im8hWUnrgR4HCrQ82-Rw5juc39ZOMpQ4b8VIflE1ZJdwgObUcv24GzcCF66aLwgXIKs_QXePzbEJ0434JhLSnYqIoleKdEkCktiYp9LWaLfYFzy0N54_WV-8BiTXdogKZRVcpt8w3TST_pBHgs_dlQp0qx8wQKhue2OBdJ8ZoeSRlt/w640-h376-rw/2026-08-28_095742.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ZOPEjDb4oz2rQBlldIn8Xbm31buVjdTJZ-d0Tq9QgICrvc3v9XOsesnHkLl9eYQ2hSn7mEpUSrw357FbElvu0t-Dta1ze-twSFwkBITamlzqd3NHLBTE9W4wOzfIPjkS3zRccx26cIKmBgWKJyqCgxO5GLdQdIiHsh8TiB7K3JGVZRtqoC03UTvSbdHE/w640-h376-rw/2026-08-28_100238.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiqehCrE1HLeVT9OTr3E3sEzejtF4mrNIIHRf8wJi1QPH101U0ISvF_D_ZKqXPSUSKn43IBgqUyOqL8eCs_1NKP0t4tS_fChOOwHEiJEyfB38Kw7hrYnPhjISpUqVdTwKjOIB7_sPluG7N2goUdztyjm07zZ9hz8YEZEhtamXfPcf9iQ-R2-SAxTlNKbN4/w640-h376-rw/2026-08-28_100332.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT9JhG42TH7nJebMsxvO4ivfka458lAeT1l0wfiBy4LZn1Nce6ySt94wJVQEbAWjOAtvidfaEGgIlTECarVkkAw0ym1hktCYeEP5jmUGirwiPQI6oCzgFOVk1jvU7vfYNDhjuPKxhkh0CDRzhzcoA0cUmZI-UQIoZRJVEIoXcP76GE5c-mf1w27pa8x5QV/w640-h376-rw/2026-08-28_100359.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIcGITW_wXBjGNVvO8H0gVjvd59B2gMJacEPRnht2fqd7tF7uon0h4dSw1VUbCo8Q-SFcacf71ZlRNz_tYIiO6lEpq62QIkbfkaQayFb0-7VHJm7BV-Pw59-jU0vMVzu2TXa_9quyD8wXRxVw4FnwIwWniIi7fkVwoIj6FfV4dwIXGcdV99eIXXhKG-ubM/w640-h376-rw/2026-08-28_100808.png",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEi0tJZFF5Zdg-F7AQmlAZjBXdVQ8n-WX4GHPt06gWUoGh7EQ2Z9PXZWahw3cgEWdMfADxr7xXA0cnrcxqbsrZOkbJ7mJwY2Ao-chy2rTLUOgU2OgoclZoe3RXiVzllDVEylV0O2CuGvORyyI4xYNWH1twLub0jsycCYevEcXUdLj5mpgXOqA6t8b7Kzkj1b=w640-h376-rw"
+      ],
+      "createdAt": 1792381821199,
+      "description": "UST Tool v7.0.0 Free Activation  Read Info for Hardware SoC information, MEID, SOCID, security status, and GPT details.\nReset FRP / Bypass FRP.\nFactory Reset + FRP for wiping Userdata, Metadata, and Cache.\nReboot MediaTek device to normal mode.\nUnlock Bootloader using the listed seccfg partition method.\nRelock Bootloader and restore the listed lock state and verification checksums.\nBypass Auth (SLA / DAA) using the listed BROM and payload process.\nRead Partition and save selected partition data as a BIN file.\nWrite / Flash Partition using an image file.\nErase selected partition blocks.\nDump Preloader and save the active preloader binary.\nDump Bootrom memory area.\nXiaomi\nFlash\nFlash Firmware.\nFormat Data.\nBrowse Scatter Firmware.\nService\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nFastboot\nRead CSSD.\nFormat Data.\nReboot Device.\nMi Assistant\nRead Info.\nFactory Reset + FRP.\nFactory Reset.\nEFS\n\nHow to Install UST Tool v7.0.0\nDownload the UST Tool package and save it on your computer.\nExtract the downloaded archive to a folder.\nOpen the extracted USTTOOL folder.\nDouble-click USTTOOL.exe to start the software.\nWhen the CONTROL MODULE window appears, click Copy Hardware ID Key.\nOpen the provided activation page and find the Generate 10 Days Free Activation Key section.\nPaste the copied Hardware ID into the ENTER YOUR 16-CHAR HWID box.\nClick GENERATE KEY NOW and copy the complete generated license key.\nReturn to the UST Tool Control Module.\nPaste the key into Paste Activation License Token Here.\nClick REGISTER LICENSE.\nAccording to the provided process, a green Success message appears after successful registration.\n\nWait for the tool loading process to complete.\nComplete the login screen as required by the software.\nAfter opening the main interface, the tool is ready for the supported functions listed above.",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792381821199,
+      "link": "https://mega.nz/file/1UlTGRbC#_DK-twtAg-xfU02QNyoaQdPMt61L1mG2nrHVPHpU9IU",
+      "links": [
+        {
+          "label": "UST Tool v7.0.0 Free Activation",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/1UlTGRbC#_DK-twtAg-xfU02QNyoaQdPMt61L1mG2nrHVPHpU9IU"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/139NQTWFAiCTCI6xj9SoS8iAG2o76s5j8/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/4ikUzLTA#_iYIHD0Zaq7gXOK6_qMTj6uNAaHY3cDT4TbPkkb2hio"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1pNSC8ZCtLGZfbsUS_Ka9qw"
+            }
+          ]
+        },
+        {
+          "label": "Activation Link",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://gsmyogesh.com/bmt-pro-android-module-v3-8-free-activation-instant-key-2026/"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "UST Tool Free Activation",
+      "password": "",
+      "publishUrl": "ust-tool-free-activation",
+      "published": true,
+      "size": "58 MB",
+      "unrarPassword": ""
+    },
+    "f_mvepxf8a_zhqof0xre": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigKhBoPB3AeW7cMNITkEmWRNQb6Af2fAYYZf8fl-3OZ7YgHCzxrKYGsy0-WgVc7buSLYmJD5dgbWNX7nvkaS8PjK_ocW6ESRhbwa6eqOv4cWtFTXVv0eG6_Euwc6FxdWoYVVmGbBQfnE-2afd9BQMs9AdpTcIkhO0x2ULITnAo-1x-n55Kji9xwihjsuEg/s1600/At%20Om%20Sabri%20v2.0%20FRP%20Tool.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigKhBoPB3AeW7cMNITkEmWRNQb6Af2fAYYZf8fl-3OZ7YgHCzxrKYGsy0-WgVc7buSLYmJD5dgbWNX7nvkaS8PjK_ocW6ESRhbwa6eqOv4cWtFTXVv0eG6_Euwc6FxdWoYVVmGbBQfnE-2afd9BQMs9AdpTcIkhO0x2ULITnAo-1x-n55Kji9xwihjsuEg/s1600/At%20Om%20Sabri%20v2.0%20FRP%20Tool.jpg"
+      ],
+      "createdAt": 1792381938778,
+      "description": "At Om Sabri v2.0 FRP Tool Free Download Features\nFRP Removal\nNormal FRP Remove\nRoot FRP Remove\nLEASIA device support\nSupport for all LEASIA devices as mentioned by the developer\nADB support\nAdvanced ADB commands\nAndroid device management through ADB\nAndroid Console\nDevice detection\nSerial number display\nBROM status display\nOTA update control\nDisable OTA updates\nEnable OTA updates\nControl automatic system updates\nOutput console for showing tool activity\nClear console option\nCopy console output option\nStop option during FRP operation\nDevice list shown inside the program\nYoung 1 support\nYoung 2 support\nYoung 3 support\nYoung 6 support\nYoung 9 support\nBRIGHT 3 support\nPad 10 V1 support\nPad 10 V2 support\nFree to use\nNo license required\nNo activation required\nNo waiting time\nPortable EXE program\nNo installation required\nDaily updates\nRegular new features and improvements\n\nMy Experience With The File\nI tried it on Windows 11 first, but Chrome was not letting me download the EXE and was showing a virus message. Later I used the same file on Windows 10 with Chrome, and it downloaded normally without showing that warning. I also opened the tool there and it started without any virus message. So in my case, Windows 10 worked better for downloading and opening this file. Installation Guide\nThere is no proper installation needed for At Om Sabri Tool.\n\nDownload the At Om Sabri EXE file.\nSave the file somewhere on your Windows PC.\nIf Windows or Chrome shows a security warning, do not ignore it blindly. Scan the file first.\nAfter checking the file, run the EXE as administrator if required.\nThe program should open directly without a setup wizard.\nConnect your supported Android device to the PC.\nInstall the required USB/ADB drivers if your PC does not detect the phone.\nCheck the device information and connection status in the tool.\nSelect the section you need, such as FRP Removal or Android Tools.\nChoose the required operation and follow the messages shown in the output console.",
+      "downloads": 0,
+      "folderId": "f_mp6slktt_m1jmxog5l",
+      "isLink": false,
+      "lastModified": 1792381938778,
+      "link": "https://drive.google.com/file/d/168s0mKZ6rKMnmdI0CcstT1FX7oawJU7F/view?usp=sharing",
+      "links": [
+        {
+          "label": "At Om Sabri v2.0 FRP Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/168s0mKZ6rKMnmdI0CcstT1FX7oawJU7F/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/wt9ClQyR#5UB7IAiXTeqLKYz4yjn35zioeOEOBZX8PrWHDlndZX4"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1AMOBlGnWY6ogZW-qSxRw2A"
+            }
+          ]
+        },
+        {
+          "label": "Official Link",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://saidanimelek26.github.io/AT_om_sabri/"
+            },
+            {
+              "password": "",
+              "url": "https://github.com/saidanimelek26/AT_om_sabri/releases/download/omsabria/atomsabri.exe"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "At Om Sabri FRP Tool",
+      "password": "",
+      "publishUrl": "at-om-sabri-frp-tool",
+      "published": true,
+      "size": "40 MB",
+      "unrarPassword": ""
+    },
+    "f_mveq2m7p_jefm1aiff": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiNXZ-7Pt-Pv1nLHpIVXkk0iMkkgx_CVacJPec01XydGwTOCVCtmXbauq8k8kD2WJ3QU0KH7KQngoF73Or5HNdzWTbsIth6vvsHF5G9f48GwG3ZnQ5Pz3JnEqxZKSqIbgJEaK8odmSYGaI3FBdHW3vLzbrfpbOx1SQPFAWIG6s8Ba9fyFPt9GCkZ9UGSvbX=s1600",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiNXZ-7Pt-Pv1nLHpIVXkk0iMkkgx_CVacJPec01XydGwTOCVCtmXbauq8k8kD2WJ3QU0KH7KQngoF73Or5HNdzWTbsIth6vvsHF5G9f48GwG3ZnQ5Pz3JnEqxZKSqIbgJEaK8odmSYGaI3FBdHW3vLzbrfpbOx1SQPFAWIG6s8Ba9fyFPt9GCkZ9UGSvbX=s1600",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTICky8ev14K_lbj7ldMXhWkTTL2NnQ0VokO_0QN3GD5UXhyphenhyphendEbmt-1ME-dWt_G9nd2yUZbl-OesRluukWB9Bv2swu07-sYwd_Z0U7YdhyphenhyphenXhMnR51l1EYIjyCUicSNalN3LBhTYirScVlmlwvGQ8ERK6w0NRGFfh0fhsdMKCtndVett7MgSYAHXsQLCuOp/s1600/Unlocktool%20Loader%20By%20Amiiz%20Free%2030Days.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-MpYpJVKXeznI6KaTgYR15IZLSW6pksz9jANK-KjXLsyqLPOP1OWhGamvNKD-v1E2VJzjWuG58C56esGZ_wu7bA8sbQADToOuPBdv3g1vanJG3pOTvBl5-xQ-D2_dFl-1Zef0JZ0Pl46WtMkVYc7zGh4jKq6oYah-EPj07dBwtLaV2Hf9TKR_Kows91lF/w640-h342/Unlocktool%20Loader%20By%20Amiiz%20Free.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUeRoUD3f0LXRlcUGmUk1DI_LWJaUgaD8HZVbg-weCG676LCYukJVIbUSE4V2JRS9AS45ku4qLTz1WrTrxB_d2DpYi0CnAtd_uTTS2-NO9-HZUYts0Ob_v_lXXfbRMLqrP5IQwfcVZ3da9vFX8OSWDGoley4D8Xp_lmDcoWGBoXjCGDix8LnIWf-s0qpqL/s1600/loader.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-jryEH1ob5in7ZRdIhyphenhyphenFW-AJwjOf_IS2Yrb6UylqCFD3-woBwKhP02b3kIXiuDT0_mqyLFJjfwlZa-rW9c9tni5OB5vSwRm1whXIfB25PDVFzG0X6O6ho28OTxAFtERLh2XjD-pFE5bJDJ3QQUqSgg3A0AiR0088FSjeoT0hFyXrjTMA9G133hK_PYaI/w600-h640/UnlockTool_Loader_by_Amiiz.exe.png"
+      ],
+      "createdAt": 1792382181109,
+      "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Downloaddfdfd",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792382244260,
+      "link": "https://www.up-4ever.net/7mybeo6dhga9",
+      "links": [
+        {
+          "label": "UnlockTool_Loader_by_Amiiz_V2_02.09.2026 (Setup+loader)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.up-4ever.net/7mybeo6dhga9"
+            },
+            {
+              "password": "",
+              "url": "https://androidfilehost.com/?fid=17900174959292976764"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1_eOPqLQOHR-2ng9_WPyOzA"
+            }
+          ]
+        },
+        {
+          "label": "UnlockTool_Loader_by_Amiiz_V2_02.09.2026 (ONLY Loader)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1DFKz_8X5ysMnL6I-efoTjuxcYhGVCI7v/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1Psm3HgmezmCMauPHRmZOyQ"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/JgUGjRKJ#GJc4euExUjV5JjOCFhsUBZj3dCR7gDAMYCHOJA_O2zA"
+            }
+          ]
+        },
+        {
+          "label": "UnlockTool_Loader_by_Amiiz_30.08.2026 (Setup+loader)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1pliC35nUtHOg4Ii02o1MCRFa0z5I_GoW/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://www.up-4ever.net/18hbpv83kcc5"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1DbTwXcdS_iNTKJkV1OtOpQ"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/hoUCTZTR#CSpA834d72mao947frXrorSTgsQeLn8ZhjsNTRgQnmY"
+            }
+          ]
+        },
+        {
+          "label": "UnlockTool_Loader_by_Amiiz 30.08.2026 (ONLY LOADER)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1PLll1JomC3mnGlbARdOMI7UyqYGn4E7m/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/kwkXBKTB#SQ1yB36IpsUY3sCBHFdpQsDlQyZHKUCk9GMWZUBUwk4"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1hsXpGxhzCiEqBBcp5m9lIA"
+            }
+          ]
+        },
+        {
+          "label": "Unlocktool Setup+Loader By Amiiz  29.08.2026 (Setup+loader)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/dtFlmbCY#d8PJotpELTzZSed8d8JozjwKwCFSm3oxBwoP2w1a5_k"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/192K8nV681rPQ3I7KK4phJQ"
+            }
+          ]
+        },
+        {
+          "label": "Official Website",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://telemirrorpro.com/devhub/unlocktool/#top"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Unlocktool Loader By Amiiz Tool",
+      "password": "",
+      "publishUrl": "unlocktool-loader-by-amiiz-tool",
+      "published": true,
+      "size": "2 GB",
+      "unrarPassword": ""
+    },
+    "f_mveq65kz_6l6zj1h5g": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqv8ssxCLY0TKdtTdSzQ01RXeg-HjyLWG3XE4zXj3sFmIsHphgE02zrnsHqLzJHU6YZOnG3nRIdFobffS6DVu9bw1L_1YWAQri_LhFyMrKboWF6qupx40Iorgw6JWrEj4nDNSptxVURxvE4oEzFPcwj7Tbqdd9V21cp-K-UalIGOmNgVCb4IoU1cWbKLWz/w640-h358/Spreadtrum%20PAC%20Repack%20Tool%20v1.0.3%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqv8ssxCLY0TKdtTdSzQ01RXeg-HjyLWG3XE4zXj3sFmIsHphgE02zrnsHqLzJHU6YZOnG3nRIdFobffS6DVu9bw1L_1YWAQri_LhFyMrKboWF6qupx40Iorgw6JWrEj4nDNSptxVURxvE4oEzFPcwj7Tbqdd9V21cp-K-UalIGOmNgVCb4IoU1cWbKLWz/w640-h358/Spreadtrum%20PAC%20Repack%20Tool%20v1.0.3%20Free.jpg"
+      ],
+      "createdAt": 1792382346179,
+      "description": "Spreadtrum PAC Repack Tool v1.0.3 Free Download  Features Spreadtrum - Unisoc PAC Firmware Repack Tool\nLoad PAC File: Select a PAC firmware file directly from the tool.\nRead SysInfo: The tool includes a Read SysInfo option when loading a PAC file.\nUnpack PAC: Extract the files from a PAC package into a selected directory.\nRepack to PAC: Create a PAC file again from the files in an unpacked directory.\nFile Information: The tool can show file, build.prop, and anticrack state information when loading a PAC file.\n\nHow to Use\nOpen Spreadtrum / Unisoc PAC Firmware Repack Tool.\nClick Select Pac and choose the PAC firmware file.\nUse the Read SysInfo option if you want to read the available system information.\nClick Unpack Pac to extract the PAC contents into a folder.\nAfter working with the unpacked files, use Repack To PAC file to create a PAC package again.",
+      "downloads": 0,
+      "folderId": "f_mq907z24_lahwuzvyt",
+      "isLink": false,
+      "lastModified": 1792382346179,
+      "link": "https://mega.nz/file/F4kj3LxL#2tW6WmpzbdeJsiGi56FdAyJqsACMp49lxexdozUUB08",
+      "links": [
+        {
+          "label": "PAC Repack Tool v1 0 3",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/F4kj3LxL#2tW6WmpzbdeJsiGi56FdAyJqsACMp49lxexdozUUB08"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/147k2ADGPAOMsuFSnebG1gtY3rogvZ5SX/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/B2VQWYWFNC#JaGtiqvHSuoJ"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1_j4f1o4xs6ssBIX2noRiPA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Spreadtrum PAC Repack Tool",
+      "password": "",
+      "publishUrl": "spreadtrum-pac-repack-tool",
+      "published": true,
+      "size": "3.3MB",
+      "unrarPassword": ""
+    },
+    "f_mveq8w49_p6xqd3uz7": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRAxYLYeK580ZKQO4Zuv7SZlXKL860HUqQUPraJLuOx2PBHRNhToTzjXHvDn5PEtLv85FnXAzXZjTkbJHnuzETVUOo8hEukGvgGx1GFsJJ8cohlV-qjGvQxrpEPzIJT2Zy2vDILmKBc_z6EeVMvo7KFGC3meee1Sez4NMG_sGodLH7QWWXOMTF50NeqFf/w640-h358/VoLTE%20VoIP%20Wi-Fi%20Tool%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRAxYLYeK580ZKQO4Zuv7SZlXKL860HUqQUPraJLuOx2PBHRNhToTzjXHvDn5PEtLv85FnXAzXZjTkbJHnuzETVUOo8hEukGvgGx1GFsJJ8cohlV-qjGvQxrpEPzIJT2Zy2vDILmKBc_z6EeVMvo7KFGC3meee1Sez4NMG_sGodLH7QWWXOMTF50NeqFf/w640-h358/VoLTE%20VoIP%20Wi-Fi%20Tool%20Free.jpg"
+      ],
+      "createdAt": 1792382473881,
+      "description": "VoLTE VoIP Wi-Fi Tool Free Download Features VoLTE + VoIP Wi-Fi Tool\nTurn VoLTE + VoIP Wi-Fi on or off with one click\nScan for ADB devices to connect your phone\nInstall Pixel IMS and Shizuku directly from the tool\nCheck IMS status on your connected device\nApply settings based on your phone brand (Samsung, Xiaomi, Oppo, Google)\nView activity logs showing what the tool is doing\nHow to Install\nDownload the file from the link provided below.\nExtract the downloaded files using 7-Zip or WinRAR.\nOpen the extracted folder and find the file named \"volte.exe\".\nRun the \"volte.exe\" file to launch the software.\nNo activation or sign-in is needed. The main interface opens instantly.\nConnect your Android device in ADB mode.\nThe tool is now ready to use.",
+      "downloads": 0,
+      "folderId": "f_mp6sjxdd_c186cvizt",
+      "isLink": false,
+      "lastModified": 1792382473881,
+      "link": "https://mega.nz/file/vhYDiYAR#Y1ZQrpQahsvb9o11aPl51kte4wdawtnpLzOtS3giams",
+      "links": [
+        {
+          "label": "VoLTE VoIP Wi-Fi Tools",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/vhYDiYAR#Y1ZQrpQahsvb9o11aPl51kte4wdawtnpLzOtS3giams"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/k1FnAJIZ#1SBOnWREalaVQN6c0Cvi-X72rYjjjwKgTZnWy4ijRkc"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1rwiedev95DYs566xJk1pRw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "VoLTE VoIP Wi-Fi Tools",
+      "password": "",
+      "publishUrl": "volte-voip-wi-fi-tools",
+      "published": true,
+      "size": "13.2mb",
+      "unrarPassword": ""
+    },
+    "f_mveqiil0_jhsqrqedu": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDYr-_FZHFX5Tnw2w_j5I4mznHfFAl3VwF2IrYcaOsb4-AjodhzaxMW2rAi_irwiqsQDAho3mKLL1WMZ9JZqSPwL1TM812wE0hThbML4fS0DOUN7NoAeddmiXeXpd6ss_-wqAnnunE1SSeqsZIRBTJLiMMtEcNrosTwdaZLCDhGSb0XpO3XenR-Jdh9x-K/w640-h358/FixHexa%20Tool%20CraQk%20365%20days%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDYr-_FZHFX5Tnw2w_j5I4mznHfFAl3VwF2IrYcaOsb4-AjodhzaxMW2rAi_irwiqsQDAho3mKLL1WMZ9JZqSPwL1TM812wE0hThbML4fS0DOUN7NoAeddmiXeXpd6ss_-wqAnnunE1SSeqsZIRBTJLiMMtEcNrosTwdaZLCDhGSb0XpO3XenR-Jdh9x-K/w640-h358/FixHexa%20Tool%20CraQk%20365%20days%20Free.jpg"
+      ],
+      "createdAt": 1792382922900,
+      "description": "FixHexa Tool CraQk 365 days Free Download . FixHexa Tool Features\nMoto Flasher: Flash Motorola stock firmware using XML files.\nClean Flash: Option available in the Motorola flashing section.\nSafe Flash: Flash option available for supported Motorola firmware work.\nFix CID Dead: Motorola Moto Flasher option.\nReboot After Flash: Automatically reboot after the flashing process.\nFlash Log: View the flashing log and related information.\nPartition Info: Display partition information in the Moto Flasher section.\nMTK FRP: Remove FRP lock on MTK devices.\nMTK Bootloader Unlock: Unlock the bootloader on MTK devices.\nADB to Fastboot: Convert an ADB-connected device to Fastboot mode.\nSlot Switching: Set Slot A or Slot B.\nRead Info: Read available device information.\nGet Unlock Data: Get unlock data from supported devices.\nErase FRP: Erase FRP when the bootloader is open.\nOEM Relock: Relock the OEM bootloader option.\nBL Relock: Relock the bootloader.\nXiaomi Fastboot Flasher: Flash Xiaomi fastboot ROM using flash_all.bat.\nXiaomi Slot Options: Set Slot A or Slot B during supported operations.\nSkip modem_a/b: Skip the modem partitions when using the Xiaomi flasher.\nSkip CUST: Skip the CUST partition.\nSkip opcust: Skip the opcust partition.\nXiaomi Erase FRP: Erase FRP from the available Fastboot Flasher options.\nACC Menu: Xiaomi Account Tools with Android 14, 15, and 16 support listed.\nPartition Tools: Options for Persist, Cust, Opcust, and Modem.\nADB Commands: Reboot to Fastboot, Recovery, restart device, disable OTA update, and list ADB devices.\nFastboot Commands: Read device info, reboot device, reboot to Fastboot, erase FRP, DM-Verity Fix, and slot switching.\nAndroid Info Extract: Load partition or tag files for Samsung, Oppo / Realme, Vivo, and Moto.\nPreloader EMI: Load MediaTek preloader.bin to check compatible memory chips.\nChip Info: Search eMMC and UFS chip specifications.\nENG ROM Search: Search engineering ROMs by file name.\nFind ISP: Search ISP pinouts using Fastboot mode or model search.\nFind Dump: Search and locate dump files.\nDownloader: Download files through the built-in download manager.What's New in the Latest ISP Data Update\nThe latest FixHexa update adds fresh ISP data for a number of device models. The new entries use different methods depending on the model, including Layer Scratch, CPU Drill, and No CPU Drill.\n\nvivo V40 Pro / T3 Ultra: New Layer Scratch ISP data added.\nvivo X300 Pro: New Layer Scratch ISP data added.\nF33: New No CPU Drill ISP data added.\nRedmi 15A: New CPU Drill ISP data added.\nSamsung SM7150: New CPU Drill ISP data added.\nSamsung SM7435: New CPU Drill ISP data added.\nvivo T4 Ultra: New Layer Scratch ISP data added.\nPOCO X6 Pro 5G: New Layer Scratch ISP data added.\nSamsung Galaxy S26+: New No CPU Drill ISP data added.\nMore ISP data: The update also mentions many more newly added solutions.\n\nNew ISP Solutions in FixHexa\nThe new update is mainly focused on ISP data. Several models now have a listed ISP method that can be checked from the FixHexa Tool.\n\nFor some models, the new data is marked as Layer Scratch. Other entries use CPU Drill or No CPU Drill. The method depends on the device model listed in the updated data.\n\nThe update covers devices from different brands, including vivo, Samsung, Redmi, POCO, and F33. It also includes data for the Samsung Galaxy S26+ and vivo X300 Pro.How to Install FixHexa Tool\nStep 1: Extract the Tool\nFirst, download the FixHexa Tool archive named FixhexaTool_Free_GSMYOGESH.rar. Right-click the downloaded RAR file and select the extract option.\n\nYou can use 7-Zip or WinRAR to extract the file. When the password window appears, enter gsmyogesh and click OK.\n\nStep 2: Open Loader.exe\nAfter extraction, open the newly created FixHexa folder. Find Loader.exe, right-click it, and select Run as administrator.\n\nStep 3: Get the Free Activation Key\nWhen the FIXHEXA TOOL popup appears, click the GET FREE ACTIVATION KEY button. This will open the activation page in your web browser.\n\nScroll down until you find the Generate 10 Days Free Activation Key section. The tool provides a hardware ID that can be copied into the HWID field.\n\nStep 4: Generate the LicenseRight-click inside the ENTER YOUR 16-CHAR HWID box and select Paste. The copied hardware ID will be entered into the field.\n\nNow click GENERATE KEY NOW. Once the key is generated, select and copy the license key shown above the button.\n\nStep 5: Register the License\nReturn to the FIXHEXA TOOL popup. Find the Paste License Token field and paste the license key into it.\n\nClick REGISTER LICENSE. Click OK or wait for the process to finish until the tool shows Activated Successfully!\n\nStep 6: Login to FixHexa\nAfter activation, the main FixHexa login window will appear. Enter gsmyogesh in the USERNAME / EMAIL field and use the same value in the PASSWORD field.Click LOGIN. If the tool asks you to join Telegram, click Later to continue.",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792382922900,
+      "link": "https://mega.nz/file/Clg2lZpb#SY6xynSyfy0xPyoIpPpjaei3i4viFjW6vApfwEX5Yec%20",
+      "links": [
+        {
+          "label": "FixHexa Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/Clg2lZpb#SY6xynSyfy0xPyoIpPpjaei3i4viFjW6vApfwEX5Yec%20"
+            },
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQAv2-gI_m2cQpmNMNSkD5sRAXXxtay6cuGjkdI1JBf7lf0?e=BpgWSm"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/UocAyTrI#XOiAKUdadJFhU68-_Za5NWd0UNta470Jz7FhktcSCFY"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1nW9TPHU9w-i-mFe2lDyT8A"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "FixHexa Tool Cracked Free",
+      "password": "",
+      "publishUrl": "fixhexa-tool-cracked-free",
+      "published": true,
+      "size": "33mb",
+      "unrarPassword": ""
+    },
+    "f_mveqqr5a_6ollk6iiz": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UoPP35dA1L55Rg5xz3clQIOqL9pggJx7Ucjo0sRUPwJ01u_lUchCntG6PXj3CZrK_pDFwaHfyl4oVX_YpCbakisbxtcee4AY2XZuFVygGnZBZiSB2nYC6sKpdimote8zi6WHWBXezw56pcl8BMtoOyySGpo-sVNOPLjnDnU8jE8Wp9hytMPIodSnQGZQ/w640-h426/GSM%20Family%20Tool%20v1.1.8%20Free%20.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UoPP35dA1L55Rg5xz3clQIOqL9pggJx7Ucjo0sRUPwJ01u_lUchCntG6PXj3CZrK_pDFwaHfyl4oVX_YpCbakisbxtcee4AY2XZuFVygGnZBZiSB2nYC6sKpdimote8zi6WHWBXezw56pcl8BMtoOyySGpo-sVNOPLjnDnU8jE8Wp9hytMPIodSnQGZQ/w640-h426/GSM%20Family%20Tool%20v1.1.8%20Free%20.jpg"
+      ],
+      "createdAt": 1792383307246,
+      "description": "GSM Family Tool v1.1.8 Free Download Brand and Chipset Support\nGSM Family Tool has separate tabs for several mobile brands and platforms. Samsung includes universal support and a list of specific Galaxy models. Huawei has its own section with P, Mate, Nova, Y, and Honor devices. SPD/Unisoc support is listed by chipset, while Motorola also has its own service section.\n\nSamsung\nHuawei\nSPD / Unisoc\nMotorola\nXiaomi\nOppo\nVivo\nRealme\nInfinix\nTecno\nMediaTek\nSamsung Support\nThe Samsung section includes universal Samsung support along with specific Galaxy models. The listed models include Galaxy A03, A12, A13, A14, A15, A24, A34, A54, A71, A72, A21s, A31, A32, A51, A52s, S20, and S21.\n\nHuawei Support\nThe Huawei section includes universal Huawei support and several device families. The listed P series covers P20 to P40 Pro, while the Mate section covers Mate 20 to Mate 40 Pro. Nova 5T, Nova 7i, Nova 9, Y6 2019, Y7a, Y9 Prime, and Honor 8X are also listed.SPD / Unisoc Chipsets\nThe SPD / Unisoc section lists support for SC9863A, T606, T610, T612, T616, and T700 chipsets.\n\nMotorola Support\nThe Motorola section includes Universal Moto support and Motorola XT2503-4 support.\n\nSamsung Tools\nThe Samsung section contains general device operations and a service area. The general options include KG Remove ADB, Read Device Info, Activate ADB, and different reboot options.\n\nKG Remove ADB\nRead Device Info\nActivate ADB\nReboot System\nReboot Recovery\nReboot Download\nDNS Credit Service\nBuy Credit\nGenerate DNS\nHuawei Tools\nHuawei has options for reading device information through different connection modes. The flash section also includes a Firmware Flasher with slots for Base, Cust, and Preload files.\n\nRead Device Info via ADB\nRead Device Info via Fastboot\nRead Device Info via Huawei USB Update Mode\nFirmware Flasher\nBase partition file slot\nCust partition file slot\nPreload partition file slot\nRepartition option\nXiaomi Tools\nThe Xiaomi section includes two listed general operations. Smart Patch is available along with an ADB option for removing Mi.Smart Patch\nADB Remove Mi\nOppo Tools\nThe Oppo section contains ADB and Oplusreserve patch options. The listed functions include ADB Remove and patches for Oplusreserve2 and Oplusreserve3.\n\nADB Remove\nPatch Oplusreserve2\nPatch Oplusreserve3\nSPD / Unisoc Tools\nThe SPD / Unisoc section has several groups for general operations, flashing, backup and restore, diagnostics, and package management. The General section includes device detection, information reading, factory reset, safe format, GPT reading, NV backup, dump reading, bootloader options, and device disconnect.\n\nDetect Device\nRead Info\nFactory Reset\nSafe Format\nRead GPT\nBackup NV\nRead Dump\nFRP Remove\nUnlock Bootloader\nRelock Bootloader\nDisconnect Device\nSPD / Unisoc Flash\nThe flash section works with PAC files and automatically identifies the listed FDL1 and FDL2 partitions.\n\nFlash PAC Files\nAutomatic FDL1 Identification\nAutomatic FDL2 Identification\nBackup and Restore\nThe Backup / Restore section contains options to search, read, write, and erase specific partitions. The supplied information also mentions loading .bin image files for these operations.\n\nSearch Partition\nRead Partition\nWrite Partition\nErase Partition\nLoad .bin Image\nDiagnostic Tools\nThe Diagnostic section includes Super APK Remover. The supplied details describe an Android dynamic-partition/EROFS editor that can scan, patch misc data, and remove specific APKs.\n\nPackage Management\nThe Advanced section includes package management controls for APK files. These options cover installing, uninstalling, disabling, enabling, backing up, and restoring APKs.\n\nInstall APK\nUninstall APK\nDisable APK\nEnable APK\nBackup APK\nRestore APK\nMediaTek META Service\nThe MediaTek section is focused on META Mode operations. It includes options to enter META Mode, perform the listed META services, and exit META Mode when the operation is finished.\n\nMETA Factory Reset\nMETA Reset FRP\nMETA Patch\nBoot in META\nExit META Mode\nMotorola Tools\nThe Motorola section includes bootloader, patching, ADB, and flashing options. The Fastboot Flasher supports flashfile.xml, servicefile.xml, and individual .img partition files.\n\nBootloader Unlock\nPatch Misc\nPatch FRP\nADB Process\nADB Activate\nFastboot Flasher\nflashfile.xml Support\nservicefile.xml Support\nSingle .img Partition Support\nApplication Navigation\nThe main application navigation contains several sections for moving between different parts of the software. The listed top navigation items are Dashboard, Utilities, Solution & File, Profile, and Settings.\n\nDashboard\nUtilities\nSolution & File\nProfile\nSettings\nLive Status Panel\nThe interface also has a live status area on the right side. It contains a Log Console for application messages, connection information for USB or COM Port, CPU usage monitoring, license information, and a progress bar.\n\nReal-time Log Console\nUSB / COM Port Connection Status\nCPU Usage Monitor\nPremium License Type\nProgress Bar\nHow to Install GSM Family Tool v1.1.8\nThe supplied installation process starts with the GSM Family Tool RAR archive on the Windows desktop. The archive needs to be extracted before opening the program.\n\nFind the GSM Family Tool.rar archive on the desktop.\nRight-click the archive and select Extract to “GSM Family Tool”.\nWhen the password window appears, enter Royal123@ and click OK.\nAfter extraction finishes, open the newly created GSM Family Tool folder.\nInside the folder, find Loader.exe.\nRight-click Loader.exe and select Open.\nThe GSM Family Tool License Manager window will appear with the credentials already filled in.\nClick the purple LOGIN button to continue.\nIf Windows Security Alert appears, click Allow access to allow the application through the network.\nWait for the main GSM Family Tool dashboard to load.",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792383307246,
+      "link": "https://mega.nz/file/KwA20DpC#2Siz9GX2wiTm0uxDmaWvXNiX9gBMh0R-Ar6RZDdjBHY",
+      "links": [
+        {
+          "label": "GSM Family Tool v1 1 8 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/KwA20DpC#2Siz9GX2wiTm0uxDmaWvXNiX9gBMh0R-Ar6RZDdjBHY"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1p-PaXGwlLtQMxBIHnRyyMQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "GSM Family Tool v1 1 8 Free",
+      "password": "",
+      "publishUrl": "gsm-family-tool-v1-1-8-free",
+      "published": true,
+      "size": "143 mb",
+      "unrarPassword": ""
+    },
+    "f_mveqxhmt_qt3oz2hyl": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw-u2V-Sp5HVQFkUIZ1-m7yfxborgBAZATgnfxX_xGr-hJ34qg2R4roNJ1up5esW6nmX2wWtav9VwCNIgnigpmeYD1TQEOUlo-pq3DrRjSxV-Ninaiq24HspDEmq00AMc6OCnRfKQ-imSLGu377T_PCLMLiQ1Ii2Vs1f1xjQmT2yPwHaYm5y-Tu8aKshiN/w640-h360/Mysterious-Dev%20Tool%20V1.2.7%20Free.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw-u2V-Sp5HVQFkUIZ1-m7yfxborgBAZATgnfxX_xGr-hJ34qg2R4roNJ1up5esW6nmX2wWtav9VwCNIgnigpmeYD1TQEOUlo-pq3DrRjSxV-Ninaiq24HspDEmq00AMc6OCnRfKQ-imSLGu377T_PCLMLiQ1Ii2Vs1f1xjQmT2yPwHaYm5y-Tu8aKshiN/w640-h360/Mysterious-Dev%20Tool%20V1.2.7%20Free.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkeBBRxy0KcTn6Wt0GBl5HMBcfQDWxKqk-I5zmLnct8Zq7e44s9swtEYzggMSGYayZNWeRtBS72ePRI92sM5_IBLHi0H-yqkwo7cYF8Bpi93pkfkqTs9Md3jEsfmuxrXM8v38corHrKFVugZ3Q4AV6ImFq09vmufplNALUBJUZ-JRnaqqykCbSPYnVb8c/w640-h272/Mysterious-Dev%20Tool%20V1.1.4%20Free%20Download.jpeg"
+      ],
+      "createdAt": 1792383621509,
+      "description": "OLD Token: 1499c38f6765c0608fa573e972bea22e\n\nNEW Token :: a87f2e19c0b4d588e6129fa43c5b881d\n\n🚀 Mysterious-Dev Tool Update V1.2.8 OTA Out Now\nA new OTA update is officially released with major engine upgrades, protocol enhancements, and stability fixes.\nWhat is New in V1.2.8 :\n\nDevice Locks and FRP Module\n* Enhanced Samsung FRP via Test Mode over MTP\n* Full optimized support for Samsung FRP Android 16 Direct via MTP\n* Upgraded Samsung USA Direct FRP via MTP with broad carrier coverage\n* Improved Universal FRP across all Android brands using QR Code via MTP\n* Accelerated Samsung FRP operations for Exynos chipsets via ADB\n\nEnterprise and Security Protections Module\n* Advanced Universal MDM and IT Admin lock removal\n* Enhanced Universal MDM and IT Admin bypass Method 2\n* Optimized Samsung KG state transition from Locked to Active\n* Improved Samsung KG Lock removal under GuardShield security\n\nSystem and Core Engine Fixes\n* Resolved SSL handshake and connection issues during login\n* Refined UI layout and optimized display sizing for all dialogs and log prompts\n* General performance enhancements for faster execution and rock-solid stability\n\nUpdate your tool now directly via OTA and enjoy the latest features.",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792383621509,
+      "link": "https://mysterious-dev.com/SetupMysteriousDev.rar?v=1789651935688",
+      "links": [
+        {
+          "label": "Mysterious-Dev Tool v1.2.8",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mysterious-dev.com/SetupMysteriousDev.rar?v=1789651935688"
+            },
+            {
+              "password": "",
+              "url": "https://mysterious-dev.com/download.html"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool V1.2.7 Update",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.androidfilehost.com/?fid=17900174959292978032"
+            },
+            {
+              "password": "",
+              "url": "https://transfer.it/t/vZMGsw0nQTRI"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/18O6AiZTiCb-S1SqYZZuEsA"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool v1.2.6",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mysterious-dev.com/SetupMysteriousDev.rar?v=1787810570019"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/suNkkAxD#q9YA98NgYtwLMAvFDZmpYNujuph5ZwFtOlIhgAL-Amo"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1SjUjnEBcZaLwzSJMDGGTNw"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool V1.1.4 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/jcbfr54ic97zgnf/SetupMysteriousDev_1.1.4.rar/file"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool V1.0.9",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/bad85040cc5844dc/IQB2wS6NwAj-SY_9NJAMgrozAa-NZPax0z5ZJI48CmZD8FU?e=aK0ETb"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool V1.0.8",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/bad85040cc5844dc/IQB5tIdkHbhMTpgWOH97BA1yASx9y_FBfTBl0rOs1lwcH1c?e=aIJeSX"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "a87f2e19c0b4d588e6129fa43c5b881d",
+      "name": "Mysterious-Dev Tools",
+      "password": "",
+      "publishUrl": "mysterious-dev-tools",
+      "published": true,
+      "size": "200 mb",
+      "unrarPassword": ""
+    },
+    "f_mveqzthv_m7oey23nv": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHS0ijeh8u88rkfgLaDb-K-zDv5J7zQgFee1ARhnFch5b48jkaTl77sMAKuAHsvjTsRf3kH22k5jC0VFnpBjCI7FVJuxzpmYgtwJLcMZGwmuu4qSNAXRceK68kel6AihtG4JhDmc9IjBa3WltXk0WLjh0AizWVrQni1YGgkrp4lPr5tnEmig-RJzWFYeg/w640-h426/ON%20FIRE%20TOOL%20v2.9%20Free%20Cra%23CK.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHS0ijeh8u88rkfgLaDb-K-zDv5J7zQgFee1ARhnFch5b48jkaTl77sMAKuAHsvjTsRf3kH22k5jC0VFnpBjCI7FVJuxzpmYgtwJLcMZGwmuu4qSNAXRceK68kel6AihtG4JhDmc9IjBa3WltXk0WLjh0AizWVrQni1YGgkrp4lPr5tnEmig-RJzWFYeg/w640-h426/ON%20FIRE%20TOOL%20v2.9%20Free%20Cra%23CK.jpg"
+      ],
+      "createdAt": 1792383730195,
+      "description": "ON FIRE TOOL v2.9 Free Cra#CK Download\nON FIRE TOOL v2.9 Features\nON FIRE TOOL includes different sections for Android servicing and device management. Below is the list of the operations mentioned for this version.\n\nADB Services & Management\nRead Device Info – Check Model, Serial Number, IMEI, OS Version, Country Code, Operator MCC/MNC, and Lock Status.\nTransfer File ADB – Transfer files through ADB.\nInstall APK ADB – Install APK files using ADB.\nDelete Virus APK / Read Packages – Read installed packages and delete virus APK.\nPackage Manager PRO – Scan, search, filter risky or user apps, and uninstall packages.\nFRP ADB Mode (12-14) Generic.\nFRP Google Account OS 16.\nEnable ADB 2026 With QR / Quick Share.\nInstall Apps Store.\nMi & Xiaomi Operations\nDisabled Mi Account.\nErase Persist (Xiaomi Mi Account).\nErase FRP + Userdata + Persist Xiaomi (Full Clean).\nXiaomi / Honor / Huawei – Delete Google Play + Aurora.\nIT Xiaomi / Honor / Huawei – Full Bypass + TestDPC.\nSamsung Operations\nDisabled CID Manager Samsung.\nKG Locked Bypass OS 14-15 DNS iDevice.\nKG Locked All Patch OS 14 (Latest Patches).\nKG Locked Bypass OS 13-14 Active KG.\nKG Locked Bypass OS 12-14 Locked.\nCreate DNS KG LOCKED (Samsung Knox Guard Bypass).\nMotorola Operations\nMotorola Fastboot Flash Tool – Model Selection, Download ROM, Load XML, Custom Partition Flashing, and Auto Flash.\nFastboot Utilities – Getvar All, Erase Data, and Reboot.\nMotorola MDM Bypass.\nMotorola Carrier MDM Remove.\nGenerate DNS OEM GRIS – MDM MOTOROLA WHITE SCREEN.\nGenerate DNS MOTOROLA MDM (All Versions).\nMediaTek (MTK) & Chipset Operations\nErase Userdata (Factory Reset).\nErase FRP + Userdata.\nMTK Security Bypass.\nSPD Device Plugin Remove-Bypass.\nInfinix / Tecno Security Plugin Remove.\nMDM & Carrier Bypass\nMDM_Bypass_SecPlugin.\nMDM Bypass Kiosko & ATT.\nClaro / Telcel Carrier MDM Removal.\nUniversal MDM Remover.\nBlack Screen Solution.\nPlay Store MDM Fix.\nNokia 2024 MDM Bypass.\nNokia Legacy MDM Remove.\nMDM Relock Protection.\nIT Admin Android 15 (Work Profile Method).\nRemove Payjoy (Financial Tracking Restriction Bypass).\nRemove Claro / Telcel MDM (Sitic).\nHonor / Other ATT & KIOSKO MDM Bypass.\nDNS & Network Control Manager v2.0\nPre-built DNS Generation Profiles – Samsung KG, KIOSKO/IT 2026, MDM/Claro, Motorola White Screen, and Payjoy.\nCustom DNS Profile Builder – Add custom domains using line, comma, or mixed formats.\nApply DNS directly to connected device via ADB.\nQR Anti Play Protect – Block DNS.\nBlock Factory Reset DNS Changes.\nON FIRE App & Device Control\nInstall / Uninstall ON FIRE APP – Manages Device Owner permissions.\nInstall NetPatch VPN – Firewall Network Control.\nApple / iOS Operations\nAutoremove iCloud Apple ID & Password.\nHow to Install ON FIRE TOOL v2.9 Free\nThe installation file comes in a RAR archive. First, extract the archive, then open the setup file and complete the installation. Follow the steps below.\n\nStep 1: Extract the Downloaded Archive\nFind the downloaded file named ONFIRETOOL_V2.9_Free.rar on your computer. Right-click the file and select Extract to “ONFIRETOOL_V2.9_Free”.\n\nAfter extraction, a new folder named ONFIRETOOL_V2.9_Free will appear in the same location.\nStep 2: Open the Setup Installer\nOpen the extracted folder and find the file named ONFIRETOOL.exe. Double-click this file to start the installation wizard.\n\nThe setup window titled ON FIRE TOOL 2.9 Installation will appear.\n\nStep 3: Enter the Password and Install\nClick Next on the welcome screen. When the password field appears, enter:\n\ngsmyogesh.com\n\nClick Next again. Make sure Create a Desktop icon is checked, then click Install.\n\nWait for the green progress bar to complete. The installer will show the installation progress.\n\nStep 4: Finish the Installation\nWhen the setup is complete, uncheck Visit product web site. Keep Launch ON FIRE TOOL checked and click Finish.\n\nThe setup window will close, and the ON FIRE TOOL launcher will open automatically.\n\nStep 5: Log Into ON FIRE TOOL\nWhen the Welcome to On Fire! popup appears, click OK.\n\nOn the login window, enter your account email and password. The example details provided for the login are:\n\nEmail: gsmyogesh@free.com\nPassword: gsmyogesh\nClick LOGIN after entering your details. The authorization log will verify the information and open the main dashboard.\n\nDownload ON FIRE TOOL v2.9 Free\nON FIRE TOOL v2.9 Free comes with the installation file ONFIRETOOL.exe inside the downloaded archive. Extract the RAR file and follow the installation steps given above.\n\nUse the download button below to get the software.\n\nDownload ON FIRE TOOL v2.9 Free",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792383730195,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQCEGSYzuC8yRpk79Tmtw4q_AbWIK0D8FAeZOqoEGE-jAu4?e=PZRiSS%20%20",
+      "links": [
+        {
+          "label": "ON FIRE TOOL v2.9 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQCEGSYzuC8yRpk79Tmtw4q_AbWIK0D8FAeZOqoEGE-jAu4?e=PZRiSS%20%20"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/G9w3XLwK#1rrd1fkeaYxRHiFnhIyhaJtU70ydfnR6ezm6v9RgZ0o"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1f05IcQaKY0txfdhpKnO_UA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "gsmyogesh",
+      "loginUsername": "gsmyogesh@free.com",
+      "name": "ON FIRE TOOL v2 9 Free",
+      "password": "",
+      "publishUrl": "on-fire-tool-v2-9-free",
+      "published": true,
+      "size": "280.2MB",
+      "unrarPassword": "gsmyogesh.com"
+    },
+    "f_mver2x1a_6xu283ujo": {
+      "name": "Anti Crack Sorgula Tool",
+      "folderId": "f_mp6sjxdd_c186cvizt",
+      "size": "35 mb",
+      "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/09/image-11-1024x576.png",
+      "covers": [
+        "https://gsmyogesh.com/wp-content/uploads/2026/09/image-11-1024x576.png"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "anti-crack-sorgula-tool",
+      "description": "Infinix Tecno itel Anti Crack Sorgula Tool Free Download",
+      "downloads": 0,
+      "link": "https://mega.nz/file/HwYllKDD#uT0v1gQj0clEdspzm83vhkdeiFqd7b4oO8_4s2Y0v1Q",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "Anti Crack Sorgula Tool",
+          "urls": [
+            {
+              "url": "https://mega.nz/file/HwYllKDD#uT0v1gQj0clEdspzm83vhkdeiFqd7b4oO8_4s2Y0v1Q",
               "password": ""
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZcC4bJZoataeQtXo8ViMkXcTOTC9SWMXnnV",
+              "url": "https://drive.google.com/file/d/16UDznG0RXtT_FSfp6Ulp1HpJf3NCE5Vo/view?usp=sharing",
               "password": ""
             },
             {
-              "url": "https://1024terabox.com/s/1DcdLqwEM6On5SQ7Q-dV14A",
+              "url": "https://1024terabox.com/s/1mcDP0LTIvxMRKzL8_HUyFQ",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1792289746407,
-      "lastModified": 1792289746407
+      "createdAt": 1792383874750,
+      "lastModified": 1792383874750
     }
   },
   "images": {
@@ -2923,7 +3951,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-18T02:16:11.151Z",
+    "createdAt": "2026-10-19T04:25:11.295Z",
     "version": "2.0",
     "sections": 4
   }
