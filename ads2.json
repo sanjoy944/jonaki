@@ -1073,6 +1073,12 @@
     "f_mq0tcrau_9d7taxg2d": {
       "downloads": 1
     },
+    "f_mq0tycav_zzj4m8jz8": {
+      "downloads": 9
+    },
+    "f_mq0w7kjs_q1ww1bixn": {
+      "downloads": 2
+    },
     "f_mq0wwu0y_zwhs4vflb": {
       "downloads": 2
     },
@@ -1108,6 +1114,9 @@
     },
     "f_mq1tn5l2_zpo83i3q2": {
       "downloads": 3
+    },
+    "f_mq1tpmbp_pxuskghp9": {
+      "downloads": 1
     },
     "f_mq2dsvfv_6ew3v7m4k": {
       "downloads": 2
@@ -1367,6 +1376,9 @@
     "f_mqzakq34_rksyex0pl": {
       "downloads": 1
     },
+    "f_mrfuozvu_1fcwpjsm9": {
+      "downloads": 1
+    },
     "f_mrmvg9ts_yn09w3gkv": {
       "downloads": 1
     },
@@ -1461,6 +1473,9 @@
       "downloads": 2
     },
     "f_mtjh7pkd_ztdrttq68": {
+      "downloads": 1
+    },
+    "f_mtmtpjva_b7zub7nqo": {
       "downloads": 1
     },
     "f_mtnxxyf5_iktt92bc2": {
@@ -2684,7 +2699,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 1132,
+      "downloads": 1153,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -3024,7 +3039,7 @@
       ],
       "createdAt": 1792289746407,
       "description": "Oxygen Forensics V18.3.0.270 Update With Keygen",
-      "downloads": 64,
+      "downloads": 70,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792289746407,
@@ -4041,7 +4056,7 @@
       ],
       "createdAt": 1792406559630,
       "description": "MT Bootloader Unlock / Mi Account Bypass Tool Free Download\n\nMT Bypass Tool Interface\nThe main window has a simple layout. At the top, it shows MT BOOTLOADER UNLOCK / MI ACCOUNT BYPASS.\n\nThe current ADB status, device name, Android version and MIUI information are displayed in the upper section. There are also two buttons, START BYPASS and REFRESH ADB.Supported Devices\nQualcomm devices with HyperOS Version 1\nQualcomm devices with HyperOS Version 2\nQualcomm devices with HyperOS Version 3\nMTK devices when TWRP is available\nThe information provided does not mention specific Xiaomi models, so I am not adding any model names here.\n\nWhat Is Included in the Package?\nThe supplied archive screenshot shows a portable folder with several files. The main executable is MTBypass.exe. Other visible files include ADB and Fastboot components and their related DLL files.\n\nMTBypass.exe\nadb.exe\nAdbWinApi.dll\nAdbWinUsbApi.dll\nfastboot.exe\nsfk.exe\nBackup folder\nThe archive screenshot shows an unpacked size of about 270 MB. I am mentioning this only because it is visible in the supplied screenshot.",
-      "downloads": 0,
+      "downloads": 2,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1792406559630,
@@ -4452,7 +4467,7 @@
       ],
       "createdAt": 1792577922446,
       "description": "UnlockTool is a mobile servicing software interface with tools organized by phone brand, chipset platform, and connection mode. The supplied feature reference includes Xiaomi, Samsung, Huawei, Oppo, Vivo, Meizu, Tecno, Asus, LG, Nokia, Lenovo, Qualcomm Snapdragon, MediaTek, Apple, Infinix, and Spreadtrum (SPD/Unisoc).\n\nHow to Install\nThe installation notes provided for this article say that the package is distributed as a 7z archive through a Google Drive download link. Extract the archive first, then locate the setup file inside the extracted folder.\n\nDownload the 7z package from the source you trust.\nExtract the archive with a compatible archive utility.\nOpen the extracted folder and run the setup file.\nFollow the installation wizard and select Next when prompted. Installation may take some time, so wait for it to finish.\nWhen setup is complete, launch the program.\nUse the login method provided by the official software provider. If credentials are prefilled in your legitimate package, check that they are authorized for your use before continuing.",
-      "downloads": 104,
+      "downloads": 135,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792579475778,
@@ -4495,7 +4510,7 @@
       "downloads": 0,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1792587341441,
+      "lastModified": 1792634281524,
       "link": "https://drive.google.com/file/d/13JMmsAudPIFG4FL7GITGTj5kF6vNTAoB/view",
       "links": [
         {
@@ -4508,6 +4523,10 @@
             {
               "password": "gsmyogesh.com",
               "url": "https://mega.nz/file/SgwliKAB#XDt7TUZeplZhpEOS_J8YTyZlS8nupKptl_4M063V0ms"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1BbCOtkmmeAPoDadMcTvcPg"
             }
           ]
         }
@@ -4785,7 +4804,7 @@
       ],
       "createdAt": 1792598072927,
       "description": "MCT V2.0.5 TOOL PRO Final Cracked Without HWID Keygan",
-      "downloads": 0,
+      "downloads": 2,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792598072927,
@@ -4885,6 +4904,2676 @@
       "published": true,
       "size": "900mb",
       "unrarPassword": ""
+    },
+    "f_mviwbds0_j50jryi56": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilTMoXtaZ9726fZ3E51bhXIjFdmVWOkSEG2Ko0Tc1HVEH4z5RQEyng7QikOqM7UkDkSJZlG5LvHwhTFQIcgshg_fV0Ez3MqabhPSAyQdvjBtgEyWSt4XKL5uFQEuNmDq6S9yO4lI0vKnz1PqZfZSjc_MLUepcu_B9w5866DpI6s60gNojx-qTfo0e8NO8/w640-h416/TSM%20Tool%20v2.4.1%20Cra%23ck%20features.jpeg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilTMoXtaZ9726fZ3E51bhXIjFdmVWOkSEG2Ko0Tc1HVEH4z5RQEyng7QikOqM7UkDkSJZlG5LvHwhTFQIcgshg_fV0Ez3MqabhPSAyQdvjBtgEyWSt4XKL5uFQEuNmDq6S9yO4lI0vKnz1PqZfZSjc_MLUepcu_B9w5866DpI6s60gNojx-qTfo0e8NO8/w640-h416/TSM%20Tool%20v2.4.1%20Cra%23ck%20features.jpeg"
+      ],
+      "createdAt": 1792634532480,
+      "description": "",
+      "downloads": 12,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792634532480,
+      "link": "https://1drv.ms/u/c/bad85040cc5844dc/IQAVCIqFIMUES7F2uIQrQ1JSAStWSdji_qNlhOLmyh-8pz0?e=WiIYFs",
+      "links": [
+        {
+          "label": "TSM Tool v2.4.1 Cra#ck",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/bad85040cc5844dc/IQAVCIqFIMUES7F2uIQrQ1JSAStWSdji_qNlhOLmyh-8pz0?e=WiIYFs"
+            }
+          ]
+        },
+        {
+          "label": "TSM Tool Loader",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/4pvp08esn2nea54/TSM_Tool_Loader.zip/file"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TSM Tool v2 4 1 Crack",
+      "password": "",
+      "publishUrl": "tsm-tool-v2-4-1-crack",
+      "published": true,
+      "size": "56mb",
+      "unrarPassword": ""
+    },
+    "f_mviwemem_liti2qqf1": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzG_DhkzzqVToWkgF-Ee4COMzxqiz0o5vYEjURAFwmZX_F6pCosi2BRCezDJPiMjk-Nh0sz8da_kpUJ9WaUEDdU4IDgKVp30MiStw9WT74dbtA04wOXcOgTCnAoy_0xQQYFYWC4sxoK1arEvT87puJzMctSHiYlf0TF3SnA_SiSUE9LWKDiXRhLczEYVk/w640-h342/KS%20Tool%20V4.4%20Cr0ck%20Login%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzG_DhkzzqVToWkgF-Ee4COMzxqiz0o5vYEjURAFwmZX_F6pCosi2BRCezDJPiMjk-Nh0sz8da_kpUJ9WaUEDdU4IDgKVp30MiStw9WT74dbtA04wOXcOgTCnAoy_0xQQYFYWC4sxoK1arEvT87puJzMctSHiYlf0TF3SnA_SiSUE9LWKDiXRhLczEYVk/w640-h342/KS%20Tool%20V4.4%20Cr0ck%20Login%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792634683630,
+      "description": "KS Tool V4 4 Crack FreeKS Tool 4.4 Feature List\nQualcomm Features\nErase FRP (Google Lock)\nFormat / Factory Reset (Remove Screen Lock)\nDisable Mi Account\nUnlock Bootloader\nErase Huawei ID\nFlash Firmware (rawprogram0.xml)\nRead / Write Partitions\nBackup / Restore / Erase NV (Network Data)\nReboot to EDL from Fastboot\nMediaTek (MTK) Features\nErase FRP (Google Lock)\nFormat / Factory Reset (Remove Screen Lock)\nDisable Mi Account (Bypass)\nUnlock / Relock Bootloader\nFlash Firmware (Scatter File)\nRead / Write / Erase Partitions\nBackup / Restore / Erase NV (Network Data)\nRepair IMEI\nAuth Bypass\nOPPO \"Download Not Complete\" Fix\nFastboot Features\nRead Device Info\nFlash Firmware (using flash_all.bat)\nErase FRP\nFactory Reset\nFix \"System is Destroyed\" Error\nFix DM-Verity (DM Fix)\nReboot to different modes (EDL, Recovery, etc.)\n\n<p>How to Use KS Tool V4.4</p>\n<ol>\n    <li>Download the RAR file from the source link.</li>\n    <li>Extract the RAR file using the password: <b class=\"copyid\" style=\"background-color: white;\"><span style=\"color: red;\">softwarecrackguru</span></b></li><li>Open the extracted folder.</li>\n    <li>Right-click on “Loader.exe” and select <b>Run as Administrator</b>.</li>\n   <li> Ligin Password Same: <b class=\"copyid\" style=\"background-color: #fcff01;\">gsmsanjoy@kstool.com</b></li><li><b><br /></b></li><li><b class=\"copyid\" style=\"background-color: #fcff01;\"><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRHpNgZ1Sgfgg3ItDEColf_NQeuWupuky5tS9eyUR34UcwpvRApPoAUMHEa7LPbHu7v4d41KEs7O_I7ZRRuhXyclwBCJ7Ynw5RrwBW6ZP1YWZzR2eXiX4glHQfotN9hsnE13tZ1Ak0KOpUjdAHSTLOSULPyKZX6iuchfj4eRltIvfWhs8rus-fDiXc8IU/s569/kslogin%20(1).jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"569\" data-original-width=\"517\" height=\"253\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRHpNgZ1Sgfgg3ItDEColf_NQeuWupuky5tS9eyUR34UcwpvRApPoAUMHEa7LPbHu7v4d41KEs7O_I7ZRRuhXyclwBCJ7Ynw5RrwBW6ZP1YWZzR2eXiX4glHQfotN9hsnE13tZ1Ak0KOpUjdAHSTLOSULPyKZX6iuchfj4eRltIvfWhs8rus-fDiXc8IU/w230-h253/kslogin%20(1).jpg\" width=\"230\" /></a></div></b></li></ol><ol>\n    <li>A small Microsoft Framework error popup may appear.</li></ol><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglxFvOICfnNucqqakibOob2NH7QRkfCsT4ygwQ2PEItMg9A-hBYH4LnGq8zrfyk8PYfxIM3D03j6XCit-kaZztn2laZAWb_0_K2wkeoP0yXVJouaEU-sX3gXQtMJzhe1r2awyA-bNavevFYL9Af4GXjIzmJH53xmg4NJTZhmZVx1Zw_UmKMLzzA9r5Owk/s456/kslogin%20(2).jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"393\" data-original-width=\"456\" height=\"184\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglxFvOICfnNucqqakibOob2NH7QRkfCsT4ygwQ2PEItMg9A-hBYH4LnGq8zrfyk8PYfxIM3D03j6XCit-kaZztn2laZAWb_0_K2wkeoP0yXVJouaEU-sX3gXQtMJzhe1r2awyA-bNavevFYL9Af4GXjIzmJH53xmg4NJTZhmZVx1Zw_UmKMLzzA9r5Owk/w213-h184/kslogin%20(2).jpg\" width=\"213\" /></a></div><ol>\n    <li>Click <b>Continue</b> and allow the tool to load.</li>\n    <li>Once opened, you can use all features without activation.</li>\n</ol>\n\n<p>Enjoy using KS Tool 4.4 with free credits.</p>",
+      "downloads": 2,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792634693486,
+      "link": "https://www.mediafire.com/file/gyx0tfry1z27ycq/KS_Tool_V4.4_NEW_Main_Tool.rar",
+      "links": [
+        {
+          "label": "KS Tool V4.4 Cr0ck Login Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/gyx0tfry1z27ycq/KS_Tool_V4.4_NEW_Main_Tool.rar"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/uidk1aud32f4soh/KS+Tool+V4.4+NEW+Main+Tool+softwarecrackguru.rar/file"
+            }
+          ]
+        },
+        {
+          "label": "KS Tool V4.3 (Free with Working Loader Inside)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.jioaicloud.com/l/?u=wW7nb76I07IiZGwJX22vFPWhcSZSLiQwQV8SW5l1I4M=XPz"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1flGPkJbCcTKvFox9OJsLtPojqtXWbuGx/view?usp=sharing"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "gsmsanjoy@kstool.com",
+      "loginUsername": "gsmsanjoy@kstool.com",
+      "name": "KS Tool V4 4 Crack Free",
+      "password": "",
+      "publishUrl": "ks-tool-v4-4-crack-free",
+      "published": true,
+      "size": "754mb",
+      "unrarPassword": "softwarecrackguru"
+    },
+    "f_mviwhnjo_d0yapvnyz": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha4V7AhsRFmu9hgvGze-VqWLsaUljQR3V-p8OucuQsTYXKxk8_fqd-gUB7Ky1MdqN86HaTiET0F8by3W5hEVAHWyqg95vG1X61QRJGkgXa43uID661c-b9_tMxLSVYM7Y0p7c45y3mjfw3SHpToL6kfWl6pOMi9SqjxHmgZItR0I-dGwZIx7vREaMMUBjH/w640-h344/XiaomiBD%20Auth%20V3.0%20Cr@cked%20Free%20Download.jpeg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha4V7AhsRFmu9hgvGze-VqWLsaUljQR3V-p8OucuQsTYXKxk8_fqd-gUB7Ky1MdqN86HaTiET0F8by3W5hEVAHWyqg95vG1X61QRJGkgXa43uID661c-b9_tMxLSVYM7Y0p7c45y3mjfw3SHpToL6kfWl6pOMi9SqjxHmgZItR0I-dGwZIx7vREaMMUBjH/w640-h344/XiaomiBD%20Auth%20V3.0%20Cr@cked%20Free%20Download.jpeg"
+      ],
+      "createdAt": 1792634825076,
+      "description": "Unlock Features\nRemove FRP\nFactory Reset + FRP\nFactory Reset + FRP + MiCloud (Clean)\nFactory Reset + FRP + MiCloud (Disable No Relock)\nRemove MiCloud (Clean)\nRemove MiCloud (Disable No Relock)\nEnable Mi Account\nReset Mi Account + FRP\nDisable Mi Account + Factory Reset + FRP\nErase NV\nErase EFS\nBackup EFS\nFlashing Features\nLoad firmware, patch, or firehose files\nRead GPT\nWrite flash\nBackup partitions\nErase partitions\nReboot device\nSelect storage type (eMMC)\nSkip or backup protected partitions",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792634825076,
+      "link": "https://www.mediafire.com/file/902lex5xpij2l58/XiaomiBD_Tool_V3.0.rar/file",
+      "links": [
+        {
+          "label": "XiaomiBD Auth V3.0 Cracked",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/902lex5xpij2l58/XiaomiBD_Tool_V3.0.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZh6pw5ZsGeMq7hhJOXxDMcDy4VxLfx9VUjX"
+            },
+            {
+              "password": "",
+              "url": "http://www.mediafire.com/file/nmdfhbllqbdjudc/XiaomiBD_Tool_V3.0.rar"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1fUntcAYKNu619pYNu_gWXO8Ujn3ljOlV/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/97ee356a5a1fa885/IQChsAg5uxQ-QY1lWDCfzC63ARK-4Ux0P-rkhxX9oYP-voc?e=hUuVW2"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "XiaomiBD Auth V3 0 Cracked",
+      "password": "",
+      "publishUrl": "xiaomibd-auth-v3-0-cracked",
+      "published": true,
+      "size": "256mb",
+      "unrarPassword": ""
+    },
+    "f_mviwon2o_wq9t7ck9c": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Gzu-YFXmYbpwT7pNGhXNRY-uLNKisPbCca5P2-FFOyWZm-u0W2yRJjVJA3SCyqzq795wNoeu7QKyeX6AECDQmN58prHQkzTtZ99vmwN59YBZ1GibIvh0QUWjcD_3nl-CllX5cCJywSNxUfn7uUCC4ZrTzZ6623Ga3a2PQghZg4DjxGEG5QaAZjVGNaGv/w640-h356/SK%20Unlocker%20V23%20Full%20Cracked%20Lifetime%202024%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Gzu-YFXmYbpwT7pNGhXNRY-uLNKisPbCca5P2-FFOyWZm-u0W2yRJjVJA3SCyqzq795wNoeu7QKyeX6AECDQmN58prHQkzTtZ99vmwN59YBZ1GibIvh0QUWjcD_3nl-CllX5cCJywSNxUfn7uUCC4ZrTzZ6623Ga3a2PQghZg4DjxGEG5QaAZjVGNaGv/w640-h356/SK%20Unlocker%20V23%20Full%20Cracked%20Lifetime%202024%20Download.jpg"
+      ],
+      "createdAt": 1792635151056,
+      "description": "S.K UNLOCKER V23 - Powerful Update with Exclusive Features\nKey Features Overview:\nSchools Tablet T505 - T509 Support:\n🛠️ Format Entire Device: Easily format T505-T509 Ministry tablets within Egypt with one click.\n🔄 T509 Exit & Skip: Seamless final exit or skip feature for T509.\n⚡ MDM Removal: Effortlessly remove MDM from T505 devices.\n📑 System Restore Option: Restore the systematic tablet configuration.\n🛠️ FRP Removal: Quickly remove FRP on T509 tablets.\nMediaTek Device Support:\n📑 Scatter File Reading: Read sections using scatter files for MediaTek devices.\n🔄 Advanced Device Reset: Perform factory reset, FRP removal, MiCloud bypass, and Display Mode settings.\n🟠 Fix Orange & Red State: Resolve protection state issues.\n🔄 Flash via Scatter or OFP Files: Flash MediaTek devices with ease using scatter or OFP files.\n❌ Delete EFS: Remove EFS with a single click.",
+      "downloads": 2,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792635151056,
+      "link": "https://www.mediafire.com/file/i64al1bdq5x73cq/S.K_unlocker_Setup.rar/file",
+      "links": [
+        {
+          "label": "SK Unlocker V23 Full Cracked",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/i64al1bdq5x73cq/S.K_unlocker_Setup.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/folder/3htno6djx7kr8/SK_UNLOCKER"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "SK Unlocker V23 Full Free",
+      "password": "",
+      "publishUrl": "sk-unlocker-v23-full-free",
+      "published": true,
+      "size": "606 MB",
+      "unrarPassword": ""
+    },
+    "f_mviwryhh_o8zfby3f1": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA_cPSo-EQ8y92VJeHLfW5Iqa2uzng1R8etDYefi-Gh43mhNf7j5ikMkF9skBQ8dbGbG1KICUe0z6A0hOW65YAk7U6rxrNaDlMKoLfk12FOi_zA7TOD9CiDD1uT7iyFd_uAVzOz7PjPTzxskXOh_iJ9FscxoWtdwKiLVf6DfthsL_01kpyORXDRDDbrwJi/w640-h356/MCT%20Dauk%20Hywee%20Pro%20V2.1.0%20Cracked%20Repack%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA_cPSo-EQ8y92VJeHLfW5Iqa2uzng1R8etDYefi-Gh43mhNf7j5ikMkF9skBQ8dbGbG1KICUe0z6A0hOW65YAk7U6rxrNaDlMKoLfk12FOi_zA7TOD9CiDD1uT7iyFd_uAVzOz7PjPTzxskXOh_iJ9FscxoWtdwKiLVf6DfthsL_01kpyORXDRDDbrwJi/w640-h356/MCT%20Dauk%20Hywee%20Pro%20V2.1.0%20Cracked%20Repack%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792635305813,
+      "description": "MCT Dauk Hywee Pro V2.1.0 Cracked",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792635305813,
+      "link": "https://drive.google.com/file/d/1BjiY9DvDEcBH1yR7jK1lgk-fhM5khcZy/view",
+      "links": [
+        {
+          "label": "MCT Dauk Hywee Pro V2.1.0 Cracked",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1BjiY9DvDEcBH1yR7jK1lgk-fhM5khcZy/view"
+            }
+          ]
+        },
+        {
+          "label": "Password link",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1xIsIywgKAjLBtL8qPoQfYd2oybcgnGpY/view"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MCT Dauk Hywee Pro V2 1 0 Cracked",
+      "password": "",
+      "publishUrl": "mct-dauk-hywee-pro-v2-1-0-cracked",
+      "published": true,
+      "size": "850mb",
+      "unrarPassword": ""
+    },
+    "f_mviwtmcc_1m348ieku": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhtNAQQyAcDh1CAt-BfuI6kz9tYOURIPpSvXo2japx-70kyXf8pgSvpBY0rRnV7tRGQFGTwVzUKpxHrH6425E9B5SWf4vDybpHPp0mmSH-POoDXtGqP9hYNBpjzKotH0NOp8tWfiv0sWHkaqgGYjqAGQYz0o7V5sL9Ai6tPLWX7vLWhXEy9sNn6R8OBR2U/w640-h360/UFT%20Tool%20V1.0%20With%20Activator%20Keygen%202024%20Download%20.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhtNAQQyAcDh1CAt-BfuI6kz9tYOURIPpSvXo2japx-70kyXf8pgSvpBY0rRnV7tRGQFGTwVzUKpxHrH6425E9B5SWf4vDybpHPp0mmSH-POoDXtGqP9hYNBpjzKotH0NOp8tWfiv0sWHkaqgGYjqAGQYz0o7V5sL9Ai6tPLWX7vLWhXEy9sNn6R8OBR2U/w640-h360/UFT%20Tool%20V1.0%20With%20Activator%20Keygen%202024%20Download%20.jpg"
+      ],
+      "createdAt": 1792635383388,
+      "description": "UFT Tool V1.0 With Activator Keygen features.\nFeatures Galore: MTK Flashing\nQualcomm Flashing\n9008 Rescue\nSPD UserLock:\nSAMSUNG FRP Bypass:\nEven More Free Goodness: Free Trial\nMTK Old Protocol Support\nADB and Fastboot Magic:\n\nPaid Subscription Unveils New Horizons: Advanced MTK Flashing:\nQualcomm Write Flash\nMediaTek DA File Manager",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792635383388,
+      "link": "https://www.mediafire.com/file/1r2uwsepdcy0nnb/UFT+Tool+Setup+Installer.rar/file",
+      "links": [
+        {
+          "label": "UFT Tool V1 0 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/1r2uwsepdcy0nnb/UFT+Tool+Setup+Installer.rar/file"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "UFT Tool V1 0 Free",
+      "password": "",
+      "publishUrl": "uft-tool-v1-0-free",
+      "published": true,
+      "size": "386mb",
+      "unrarPassword": ""
+    },
+    "f_mviwzgkj_dkjv60tdw": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgbvF_2ECbt5RE53o3c6zMfL_zoKgiHcwzP13GRPBiiPhY_zQLYb5yQwkd3u9CTfmtWZMgJEhSvtyxQozP5VOkBlAUpFBbbiT-JigRpXLvUeX4tPc_qyEfM_O9F5z1ECGQXzcGFVrFsrB8SYQa09Wev1xHyQ5NBtutffD-zX_3cARvafgZIbLLEC7Rc=s16000",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgbvF_2ECbt5RE53o3c6zMfL_zoKgiHcwzP13GRPBiiPhY_zQLYb5yQwkd3u9CTfmtWZMgJEhSvtyxQozP5VOkBlAUpFBbbiT-JigRpXLvUeX4tPc_qyEfM_O9F5z1ECGQXzcGFVrFsrB8SYQa09Wev1xHyQ5NBtutffD-zX_3cARvafgZIbLLEC7Rc=s16000"
+      ],
+      "createdAt": 1792635655843,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792635655843,
+      "link": "https://dm.terabox.com/sharing/link?surl=ra4GIOQdOd5s5xVTqy23bg&clearCache=1",
+      "links": [
+        {
+          "label": "OPPO FACTORY MODE V2.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://dm.terabox.com/sharing/link?surl=ra4GIOQdOd5s5xVTqy23bg&clearCache=1"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "OPPO FACTORY MODE V2.0",
+      "password": "",
+      "publishUrl": "oppo-factory-mode-v20",
+      "published": true,
+      "size": "45mb",
+      "unrarPassword": ""
+    },
+    "f_mvix5ixl_hnmhp30y6": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBC9u2vtUHZaIdtxCoMeLZZzijdfGs24zrTw&s",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBC9u2vtUHZaIdtxCoMeLZZzijdfGs24zrTw&s"
+      ],
+      "createdAt": 1792635938841,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mpjnbru1_u9b3mvn2y",
+      "isLink": false,
+      "lastModified": 1792635938841,
+      "link": "https://mega.nz/file/bGAwmIhY#07mkCGKHNTuD6TTdN937yzGUjx2Fdj5J0ZwPH0gCz6A",
+      "links": [
+        {
+          "label": "MCT_DH_STATIC_TOOL_V4.2401180130.00_MAIN_SN.exe.zip",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/bGAwmIhY#07mkCGKHNTuD6TTdN937yzGUjx2Fdj5J0ZwPH0gCz6A"
+            }
+          ]
+        },
+        {
+          "label": "loader MCT.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/qSQ1HLwL#5TuRRQvzkGAQbyU_vbKVJKYykghmv6zxRc1HhT4feZQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MCT Tool PAID",
+      "password": "",
+      "publishUrl": "mct-tool-paid",
+      "published": true,
+      "size": "1.8GB",
+      "unrarPassword": ""
+    },
+    "f_mvix76vg_0he6vckiw": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgEIFoQuuoJ__-SSRCe-1NSohRG-VPDTrg&s",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgEIFoQuuoJ__-SSRCe-1NSohRG-VPDTrg&s"
+      ],
+      "createdAt": 1792636016524,
+      "description": "TFM All Modules",
+      "downloads": 0,
+      "folderId": "f_mpjnbru1_u9b3mvn2y",
+      "isLink": false,
+      "lastModified": 1792636027236,
+      "link": "https://mega.nz/file/jeZ1iaCC#L2POa3BFN3m3kYp118c39zLvisox5NL3aMN502cPvf0",
+      "links": [
+        {
+          "label": "TFMQCModuleInstallerXiaomiAuth",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/jeZ1iaCC#L2POa3BFN3m3kYp118c39zLvisox5NL3aMN502cPvf0"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TFM All Modules PAID",
+      "password": "",
+      "publishUrl": "tfm-all-modules",
+      "published": true,
+      "size": "456mb",
+      "unrarPassword": ""
+    },
+    "f_mvix9r1e_o27li6eke": {
+      "coverUrl": "https://5.imimg.com/data5/SELLER/Default/2023/7/324744461/TB/RV/XN/37954117/eme-mobile-tool-emt-standard-edition-ramzangsm-500x500.png",
+      "covers": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/7/324744461/TB/RV/XN/37954117/eme-mobile-tool-emt-standard-edition-ramzangsm-500x500.png"
+      ],
+      "createdAt": 1792636135970,
+      "description": "EME EMT TOOL",
+      "downloads": 0,
+      "folderId": "f_mpjnbru1_u9b3mvn2y",
+      "isLink": false,
+      "lastModified": 1792636135970,
+      "link": "https://mega.nz/file/SKJmHBaQ#x-y557P3Q3FFh89tkkHc9jlUVEV-pYvT13tLNcD9e38",
+      "links": [
+        {
+          "label": "EME_TOOL_3.35_Fixed.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/SKJmHBaQ#x-y557P3Q3FFh89tkkHc9jlUVEV-pYvT13tLNcD9e38"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "EME EMT TOOL PAID",
+      "password": "",
+      "publishUrl": "eme-emt-tool-paid",
+      "published": true,
+      "size": "439.7 MB",
+      "unrarPassword": ""
+    },
+    "f_mvixsobz_lz3zwcipr": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_WBWpJ00I8e_TPiV2BjvzPvn26V2UMk9YQ&s",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_WBWpJ00I8e_TPiV2BjvzPvn26V2UMk9YQ&s"
+      ],
+      "createdAt": 1792637018927,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mpjnbru1_u9b3mvn2y",
+      "isLink": false,
+      "lastModified": 1792637018927,
+      "link": "https://mega.nz/file/ubp1QaoC#2_KYIEzUw5URzpKqHROgPVWHJh4bdXtqAPxNuy0BIs0",
+      "links": [
+        {
+          "label": "GCT_DFT_Pro_3.7.0_GCT Pack.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/ubp1QaoC#2_KYIEzUw5URzpKqHROgPVWHJh4bdXtqAPxNuy0BIs0"
+            }
+          ]
+        },
+        {
+          "label": "DFT_Pro_3.80.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/LLx1DRwY#tfo4wxEyBAwqk0BIcTnu7tDfluceIKPqFrhimh1mnRo"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "DFT Pro PAID",
+      "password": "",
+      "publishUrl": "dft-pro-paid",
+      "published": true,
+      "size": "145mb",
+      "unrarPassword": ""
+    },
+    "f_mvizbbs5_8kugn6qmg": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIj-xwoD9Sm2SkqTghT8Z-xNesKkjmgQ3b6IHSGtCyJA&s=10",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIj-xwoD9Sm2SkqTghT8Z-xNesKkjmgQ3b6IHSGtCyJA&s=10"
+      ],
+      "createdAt": 1792639568741,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mpjnbru1_u9b3mvn2y",
+      "isLink": false,
+      "lastModified": 1792639609534,
+      "link": "https://mega.nz/file/fSRzhbST#pcmCxHhyQ9wsYTkXRl6-WWaXGs2PYUXD7ASCXQMLaSE",
+      "links": [
+        {
+          "label": "E-GSM TOOL_2.5.1.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/fSRzhbST#pcmCxHhyQ9wsYTkXRl6-WWaXGs2PYUXD7ASCXQMLaSE"
+            }
+          ]
+        },
+        {
+          "label": "E-GSM Tool v1.7.2 Setup.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/KOxzTTpS#VOJi7ThWV5HLPO8Es9HzVtV_22j7oRuRs1YMLM2ahA0"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "E-GSM Tool PAID",
+      "password": "",
+      "publishUrl": "e-gsm-tool-paid",
+      "published": true,
+      "size": "74mb",
+      "unrarPassword": ""
+    },
+    "f_mvizfip9_g6za4nqam": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7OJeHdQHNQJ4xDwkIkQRCqTrdYQ0htf0ONnf_1Wm0Lc-ob2eYYm8W_1cTW65aDoQXb4LB8p7I2mLM3kZD-sZrPV6lf-M6GUd9N3gYthur_c7FXjgGvhNLTQ9JLcDNc26kghSJi8yGLbOWyHYjYIGtIeYcTHI-iSc-GSz4ymRQBzi6F-oa8-mrMOrkOik/s400/MI%2014%20ENG%20ROM%20No%20Wipe%20EFS%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7OJeHdQHNQJ4xDwkIkQRCqTrdYQ0htf0ONnf_1Wm0Lc-ob2eYYm8W_1cTW65aDoQXb4LB8p7I2mLM3kZD-sZrPV6lf-M6GUd9N3gYthur_c7FXjgGvhNLTQ9JLcDNc26kghSJi8yGLbOWyHYjYIGtIeYcTHI-iSc-GSz4ymRQBzi6F-oa8-mrMOrkOik/s400/MI%2014%20ENG%20ROM%20No%20Wipe%20EFS%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792639764333,
+      "description": "Why Use the ENG ROM?\nThere are several scenarios where you might need to use the MI 14 ENG ROM:\n\nTo troubleshoot software issues such as boot loops or crashes.\nTo unlock advanced debugging features for testing or development.\nTo recover a bricked device without losing EFS data.\nBy using the \"No Wipe EFS\" feature, you can flash the ROM without worrying about losing sensitive network configurations.\n\nImportant Precautions\nBefore proceeding with the flashing process, it is crucial to follow these precautions:\n\nBackup Your Data: Although this ROM doesn't wipe EFS data, it's always a good idea to back up your files and settings.\nUse the Correct Firmware: Ensure the downloaded ROM matches your device model to prevent compatibility issues.\nCharge Your Device: Keep your phone charged to at least 50% to avoid interruptions during the process.",
+      "downloads": 0,
+      "folderId": "f_mq7wdfcm_y223r29hq",
+      "isLink": false,
+      "lastModified": 1792639764333,
+      "link": "https://drive.usercontent.google.com/download?id=1VZjL9-CtJ7LTr7OfsHmljcNheIlIQ8Wp&export=download&authuser=0&fbclid=IwZXh0bgNhZW0CMTEAAR2CuHqT7mPtnnc5UH6ukxuBZMrgjNGBJPjKE_3Kfxa93EIQdwScZQniGoU_aem_ZVcDTHb6xt-VGPg_KBpJGA",
+      "links": [
+        {
+          "label": "MI 14 ENG ROM No Wipe EFS",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.usercontent.google.com/download?id=1VZjL9-CtJ7LTr7OfsHmljcNheIlIQ8Wp&export=download&authuser=0&fbclid=IwZXh0bgNhZW0CMTEAAR2CuHqT7mPtnnc5UH6ukxuBZMrgjNGBJPjKE_3Kfxa93EIQdwScZQniGoU_aem_ZVcDTHb6xt-VGPg_KBpJGA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MI 14 ENG ROM No Wipe EFS",
+      "password": "",
+      "publishUrl": "mi-14-eng-rom-no-wipe-efs",
+      "published": true,
+      "size": "2.5GB",
+      "unrarPassword": ""
+    },
+    "f_mviziznu_tp7qccsk5": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHTO5PO6VF58C4gNyyGWJoBDT3c8bbIRPPOxJF5pgpSNfCiNj9mzlglVQcoeXvaComgJ2tofCM_pfYtQqIFimUdCrqMv5UBn7vPvb2Xl48-l_7WpF3o6ZySC8Nl1MgtzMEsIn_2p6YDQU-DT2a8TZGtpUXGu2pPK2f7t4d4NraBKN1ea6zQwW09e3YIVW0/w640-h356/KRDT%20Utility%20Pro%20V1.5%20Free%20Cra%23ck%20by%20GCT%20TEAM.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHTO5PO6VF58C4gNyyGWJoBDT3c8bbIRPPOxJF5pgpSNfCiNj9mzlglVQcoeXvaComgJ2tofCM_pfYtQqIFimUdCrqMv5UBn7vPvb2Xl48-l_7WpF3o6ZySC8Nl1MgtzMEsIn_2p6YDQU-DT2a8TZGtpUXGu2pPK2f7t4d4NraBKN1ea6zQwW09e3YIVW0/w640-h356/KRDT%20Utility%20Pro%20V1.5%20Free%20Cra%23ck%20by%20GCT%20TEAM.jpg"
+      ],
+      "createdAt": 1792639926282,
+      "description": "KRDT Utility Pro V1.5 Free",
+      "downloads": 0,
+      "folderId": "f_mq91ikny_i8e89nq67",
+      "isLink": false,
+      "lastModified": 1792639926282,
+      "link": "https://drive.google.com/file/d/1YxIKV8bc3cDcchsCXHgFEKTEE-nH5N2K/view",
+      "links": [
+        {
+          "label": "KRDT Utility Pro V1.5 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1YxIKV8bc3cDcchsCXHgFEKTEE-nH5N2K/view"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/xhtjpa8b1evicr3/KRDT_Utility_Pro_v1.50_Free_By_GCT_Team.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/9Q773M89HC#MHsQ6iNRuCPw"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/IwJFQCjb#d6V-WX6ukHySgOAy6CUBURFoPjD0sH8joNQpQ1XZqtc"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "KRDT Utility Pro V1 5 Free",
+      "password": "",
+      "publishUrl": "krdt-utility-pro-v1-5-free",
+      "published": true,
+      "size": "60 mb",
+      "unrarPassword": ""
+    },
+    "f_mvizknld_l2j5cxqu2": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZV70JA8_nvyokZPafTCbal28OCPt8OoqOZcY5i5HDZbVzAaTn3Mnl33Ycx2mE35tKczalWufW2QdaostbR2L857ZfpQLPlAf00CC4M2VIdZZHMgr9vJbtN_EuSAP2PlM1edi9xIDgBCfrQYR8cuuMQ5tZWon-OldyS2_TNulAFmuvkTLceZLIBtyCcqic/w640-h360/TFM%20Main%20Module%20V2.7.4%20GCT%20RAM%20RAM%20JI%20Active%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZV70JA8_nvyokZPafTCbal28OCPt8OoqOZcY5i5HDZbVzAaTn3Mnl33Ycx2mE35tKczalWufW2QdaostbR2L857ZfpQLPlAf00CC4M2VIdZZHMgr9vJbtN_EuSAP2PlM1edi9xIDgBCfrQYR8cuuMQ5tZWon-OldyS2_TNulAFmuvkTLceZLIBtyCcqic/w640-h360/TFM%20Main%20Module%20V2.7.4%20GCT%20RAM%20RAM%20JI%20Active%20Download.jpg"
+      ],
+      "createdAt": 1792640003953,
+      "description": "TFM Main Module V2.7.4 GCT FREE",
+      "downloads": 0,
+      "folderId": "f_mq91ikny_i8e89nq67",
+      "isLink": false,
+      "lastModified": 1792640003953,
+      "link": "https://drive.google.com/file/d/1odV5RPZ6XuIfB1CS-sye1qBP33Hchz9k/view",
+      "links": [
+        {
+          "label": "TFM Main Module V2.7.4 GCT FREE",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1odV5RPZ6XuIfB1CS-sye1qBP33Hchz9k/view"
+            },
+            {
+              "password": "",
+              "url": "https://dm.terabox.com/sharing/link?surl=Cy17j_jsptdp44ilpveTDw&clearCache=1"
+            }
+          ]
+        },
+        {
+          "label": "Loader file",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1KSBpBFMgCytd-TonobDOHP3h-ThHUmub/view"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TFM Main Module V2 7 4 FREE",
+      "password": "",
+      "publishUrl": "tfm-main-module-v2-7-4-free",
+      "published": true,
+      "size": "481 mb",
+      "unrarPassword": ""
+    },
+    "f_mvizmr9q_x6f051qv2": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgqiRSM9oOAXLi4PEWCPjCtnOGLmp0C6Lhxl7TuiAdn5pTI8nK3K_lhtK8Cz9MvcA8IPqwxX1I3st5tcR7nz4ztXMh5iC9IIg_3xYeESifdHu9SnAy1Qo9ZeJaL5nT7DGAyUf3pHHUpZta6WRv4JN45ck56CW67Sf_RklTaFkKNSIsjv4eW9IVyc0KjYp/w640-h360/Cheetah%20Tool%20PRO%20V2023.10%20Free%20GCT%20Activation.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgqiRSM9oOAXLi4PEWCPjCtnOGLmp0C6Lhxl7TuiAdn5pTI8nK3K_lhtK8Cz9MvcA8IPqwxX1I3st5tcR7nz4ztXMh5iC9IIg_3xYeESifdHu9SnAy1Qo9ZeJaL5nT7DGAyUf3pHHUpZta6WRv4JN45ck56CW67Sf_RklTaFkKNSIsjv4eW9IVyc0KjYp/w640-h360/Cheetah%20Tool%20PRO%20V2023.10%20Free%20GCT%20Activation.jpg"
+      ],
+      "createdAt": 1792640102030,
+      "description": "Cheetah Tool PRO V2023.10 Free GCT Activation",
+      "downloads": 0,
+      "folderId": "f_mq91ikny_i8e89nq67",
+      "isLink": false,
+      "lastModified": 1792640102030,
+      "link": "https://drive.google.com/file/d/1ioamd9tdIhEQdUM-0x8PQauEce5HBHA0/view",
+      "links": [
+        {
+          "label": "Cheetah Tool PRO V2023.10 Free GCT Activation",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1ioamd9tdIhEQdUM-0x8PQauEce5HBHA0/view"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Cheetah Tool PRO V2023 10 Free",
+      "password": "",
+      "publishUrl": "cheetah-tool-pro-v2023-10-free",
+      "published": true,
+      "size": "106MB",
+      "unrarPassword": ""
+    },
+    "f_mvj057lf_48vnmlo04": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1xEVUAlYTPyP1mGTKsXUg906kusA7d0Id6BroVf04zEp6ToPcd-13xb0XRb-Pn-8NufYoDdlLUnmIji8doFNx86fTbTgbYgVY2Xjt5F__7EKadeH_F0MJ61YVYth-OInTYFwP9ge_w9a9n-dcRObw-whLJPR3m3k5OR7ULYGsvCdGjHgD1D9PG6bi0g2/w640-h404/TFM%20Tool%20Pro%20MTK%20V1.3.22%20Full%20GCT%20Cr@cked%20Download%20.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1xEVUAlYTPyP1mGTKsXUg906kusA7d0Id6BroVf04zEp6ToPcd-13xb0XRb-Pn-8NufYoDdlLUnmIji8doFNx86fTbTgbYgVY2Xjt5F__7EKadeH_F0MJ61YVYth-OInTYFwP9ge_w9a9n-dcRObw-whLJPR3m3k5OR7ULYGsvCdGjHgD1D9PG6bi0g2/w640-h404/TFM%20Tool%20Pro%20MTK%20V1.3.22%20Full%20GCT%20Cr@cked%20Download%20.jpg"
+      ],
+      "createdAt": 1792640962995,
+      "description": "TFM Tool Pro MTK V1.3.22 Full GCT Cr@cked\nFeatures OF TFM Tool Pro MTK V1.3.22 :\nRead Info\nFactory Reset (Safe Method)\nFactory Reset (Oppo/Realme)\nPatch DM Verify\nReset Privacy Lock\nReset Samsung KG Lock\nUnlock Bootlocxier\nRedmi 6A New Unlock(BL)\nRemove Huawei ld\nFactory Reset With FRP Lock\nFactory Reset (New Method)\nFactory Reset (VIVO)\nReset FRP\nReset MI Account\nReset Oppo ld\nRelock Bootlocxier\nNetwork Unlock(Oppo/Realme)\nDemo Remove (VIVO)\nRead RPMB\nNetwork Unlock (VIVO)\nWrite RPMB\nErase RPMB\nPatch Brom\nSecurity\nIMEI 1, IMEI 2 (Write IMEI (VIVO))\nFlashing, Partition Manager\n\nHow To Use\nFirst, you need to download the zip file from the below link\nNext, you can unzip all files at c: drive (important)\nEnsure you have disabled the antivirus before running the installation\n\n\nNext, open the folder and install the setup file with some basic instruction\n\n\n\nRun the shortcut from the desktop \"TFM Tool Pro MTK V1.3.22\"\nNext, you can install all drivers (included in the tool only need to one-click) if you already installed skip this step.\nConnect the phone and try to do any function.\n\n\nActivation Key\nkIDbi9viGBW9GUyj9uUQOiIOP7MXeuXdqoME2Iv+\nhmYYHlrHExY1UEdEWhVeZ5rDCsg7H3EeGw4zbsjH\n2wCIiBMwYGBkElFoAfrw7wTcmUuwYe7Fu2A67KHr\nesM6kAVM/DOV",
+      "downloads": 0,
+      "folderId": "f_mq91ikny_i8e89nq67",
+      "isLink": false,
+      "lastModified": 1792640962995,
+      "link": "https://dm.terabox.com/sharing/link?surl=cmFZInoyk1XK74WX4X2wpQ&clearCache=1",
+      "links": [
+        {
+          "label": "TFM Tool Pro MTK V1 3 22 Full",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://dm.terabox.com/sharing/link?surl=cmFZInoyk1XK74WX4X2wpQ&clearCache=1"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TFM Tool Pro MTK V1 3 22 Full",
+      "password": "",
+      "publishUrl": "tfm-tool-pro-mtk-v1-3-22-full",
+      "published": true,
+      "size": "340M",
+      "unrarPassword": ""
+    },
+    "f_mvj07ko9_63506d90s": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Le9GODTUsqAeJsVsbcxXLfJ993zmfYaes2MZ8faHVQl-nWCVshVe5OMRs0QRvXeCwtyLKGL1aDYvJ2oMD-rWyH4wJbO-VSzujk9Rbt9uTJdP5vdqz4SwVXF4v-Mj9pzc22nOh1fM9CS-c_pUKuFkZv1tJ5XmgKXT7t64n3GOMNPYxwztbLMB8yB6wI5q/w640-h408/Latest%20MCT%20Dongle%20V2.1.3%20Crack%202024%20Download%20(2).jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Le9GODTUsqAeJsVsbcxXLfJ993zmfYaes2MZ8faHVQl-nWCVshVe5OMRs0QRvXeCwtyLKGL1aDYvJ2oMD-rWyH4wJbO-VSzujk9Rbt9uTJdP5vdqz4SwVXF4v-Mj9pzc22nOh1fM9CS-c_pUKuFkZv1tJ5XmgKXT7t64n3GOMNPYxwztbLMB8yB6wI5q/w640-h408/Latest%20MCT%20Dongle%20V2.1.3%20Crack%202024%20Download%20(2).jpg"
+      ],
+      "createdAt": 1792641073257,
+      "description": "MCT Dongle V2.1.3 Crack Free",
+      "downloads": 0,
+      "folderId": "f_mq91ikny_i8e89nq67",
+      "isLink": false,
+      "lastModified": 1792641073257,
+      "link": "https://www.mediafire.com/file/e8yjc1m66he316h/MCTPro_Setup_2.1.3_offiline_20210324%25282%2529.exe/file",
+      "links": [
+        {
+          "label": "MCT Dongle V2.1.3 Crack Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/e8yjc1m66he316h/MCTPro_Setup_2.1.3_offiline_20210324%25282%2529.exe/file"
+            }
+          ]
+        },
+        {
+          "label": "Loader File",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/QTNzGbab#7qCnRkGoscDal44ZixbDdH3qq8LTSTg4bFyMcSfbyEo"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MCT Dongle V2 1 3 Crack Free",
+      "password": "",
+      "publishUrl": "mct-dongle-v2-1-3-crack-free",
+      "published": true,
+      "size": "45mb",
+      "unrarPassword": ""
+    },
+    "f_mvj09lq0_8ae71vel3": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ3nc1wTv1hqBDlYcTHh-57Nw9J4a0mC1I0XDCvE23nA_0rlQp_qRXtrx-hHVF7Sqt1NVSA0A8fYcg3E2Q4dGSnAGTeP-AIBT8GCGTIN_a197CCMxRHcmeie_JNExPDP7o55dIOWqHI78c_PkVNponUYaemSVVRw86sqaHuaZImMc_m_8vdcsZS03ze6T-/w640-h402/Latest%20GCT%20Pack%20Crack%20GCT-Pack.key%202024%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ3nc1wTv1hqBDlYcTHh-57Nw9J4a0mC1I0XDCvE23nA_0rlQp_qRXtrx-hHVF7Sqt1NVSA0A8fYcg3E2Q4dGSnAGTeP-AIBT8GCGTIN_a197CCMxRHcmeie_JNExPDP7o55dIOWqHI78c_PkVNponUYaemSVVRw86sqaHuaZImMc_m_8vdcsZS03ze6T-/w640-h402/Latest%20GCT%20Pack%20Crack%20GCT-Pack.key%202024%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792641167928,
+      "description": "GCT Pack Crack GCT-Pack.key ALLFeatures OF GCT Pack : Crack Tool List\n-------------------------\n1:-DFT PRO 3.8.0\n2:-MIRACLE THUNDER 3.40\n3:-CHEETAH TOOL PRO\n4:- TERA TOOL 1.0.8\n5:-AVENGER QUALCOMM 0.13.2\n6:-AVENGER MTK 0.8.5\n7:-AVENGER SPD 2.1.7\n8:-NOKIA EASY BOX SPD 0.62\n9:-MARVEL TOOL 7.3\n10:-E-GSM 1.7.2 OFFLINE\n11:-iBYPASER ANDROID TOOL\n12:-DT PRO MTK V5\n13:-DT PRO QUALCOMM\n14:-DT PRO MAINTENANCE\n15:-GRIFFIN UNLOCKER 5.01\n16:-QUALCOMM UNLOCK KEY\n17:-EVONDT TOOL 1.3.1\n18:-DF TOOL ALWAYS LATEST\n19:-TFM MTK OFFLINE 1.3.22\n20:-TFM SPD OFFLINE B16\n21:-TFM MAIN OFFLINE 2.7.4\n22 :-RTC Tool\n23=UAT Pro 153.02\n24=DFT pro 3.7\n25=EMT Tool\n26=TR Tool\n27=DZKJ Tool\n\n\nActivation Key\nkIDbi9viGBW9GUyj9uUQOiIOP7MXeuXdqoME2Iv+\nhmYYHlrHExY1UEdEWhVeZ5rDCsg7H3EeGw4zbsjH\n2wCIiBMwYGBkElFoAfrw7wTcmUuwYe7Fu2A67KHr\nesM6kAVM/DOV\n\n\nLogin DFT, RTC, and All Tool\nLogin: RAMSEVAK9180@GMAIL.COM\n\nPassword: RAMSEVAK9180",
+      "downloads": 0,
+      "folderId": "f_mq91ikny_i8e89nq67",
+      "isLink": false,
+      "lastModified": 1792641167928,
+      "link": "https://www.mediafire.com/folder/2htvhw7uqugev/GCT+PACK",
+      "links": [
+        {
+          "label": "GCT Pack Crack",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/folder/2htvhw7uqugev/GCT+PACK"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/drive/folders/1rM5LtVc3GQMccRBylF6uIEdQoHdtu4sr"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "RAMSEVAK9180",
+      "loginUsername": "RAMSEVAK9180@GMAIL.COM",
+      "name": "GCT Pack Crack GCT-Pack key ALL",
+      "password": "",
+      "publishUrl": "gct-pack-crack-gct-pack-key-all",
+      "published": true,
+      "size": "8gb",
+      "unrarPassword": ""
+    },
+    "f_mvj0erz9_w28znzrk6": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgONnwsHYdniLkiQn-NxzaL8etbSwmuJTe45f86JL3550VvXncd6dBmpBShAWMyUsiSdOApKFD1b8XTab8BrCwYAJulBmWy_Kycxk6fPNtMlggmkMWc0xYYC0d_IjzxZvqx13j3vC3sMzFS9lpHDoCuIb0cxEjBnjh0OzMGgoRqSw6R9MCz7Bsz_E3QgfY/w640-h474/WorldlinkGSM%20Pro%20Cr@cked%20Download.jpeg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgONnwsHYdniLkiQn-NxzaL8etbSwmuJTe45f86JL3550VvXncd6dBmpBShAWMyUsiSdOApKFD1b8XTab8BrCwYAJulBmWy_Kycxk6fPNtMlggmkMWc0xYYC0d_IjzxZvqx13j3vC3sMzFS9lpHDoCuIb0cxEjBnjh0OzMGgoRqSw6R9MCz7Bsz_E3QgfY/w640-h474/WorldlinkGSM%20Pro%20Cr@cked%20Download.jpeg"
+      ],
+      "createdAt": 1792641409317,
+      "description": "📌 Full Features List\nGeneralCommunication Port (Auto Detect)\nRefresh\nHistory\nLogs Panel\nClear Logs\nProgress Bar\nStop Operation\nModesMTP Mode\nADB Mode\nOdin Mode\nMETA Mode\nBROM / Preloader Mode\n\nMTP ModeRead Info (MTP)\nReboot Download\nReboot Recovery\nReboot Fastboot\nRemove FRP OS 16\nEnable ADB OS 16\nEnable ADB (QR Code)\nFactory Reset\nADB Mode (Samsung / Qualcomm)Samsung Unlock 2025\nNew Patch 2026\nKG Direct Injection\nKG Completed (ADB)\nPremium Bypass OS 16 (4CR)\nRead Info (ADB)\nReboot (ADB)\nKnox Guard Bypass (2026)\nMediatek – META ModeRead Info\nEnable ADB\nRemove PayJoy (MDM)\nKill Scorpio (MDM)\nFactory Reset\nRemove FRP\nPartition Manager\nBoot META (Preloader)\nBackup NV/Sec (Raw)\nCancel Operation",
+      "downloads": 0,
+      "folderId": "f_mp9833ht_tjotymfks",
+      "isLink": false,
+      "lastModified": 1792641409317,
+      "link": "https://www.mediafire.com/file/70b6ztxscuvntdm/WorldlinkGSMpro_Tester_Release_V1.2026.3.zip",
+      "links": [
+        {
+          "label": "WorldlinkGSM Pro Cracked",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/70b6ztxscuvntdm/WorldlinkGSMpro_Tester_Release_V1.2026.3.zip"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "WorldlinkGSM Pro Cracked",
+      "password": "",
+      "publishUrl": "worldlinkgsm-pro-cracked",
+      "published": true,
+      "size": "14mb",
+      "unrarPassword": ""
+    },
+    "f_mvj0g7h2_78s51o4ow": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjq6xqp0gAk3TAD4MKYpLmTepNhJkCe8JcXH3PIwoDF6oGt1zHm3mpyEMAhqRZORudEV3q_3W7Vs9OE9v5fCohAk52bZwd2kP97gyW-PIHu37EEGzlGJANspsWWbATu836IzjynTknOatxMTHvrVZA7KCQVSN2_UJl0yPOR3RaqO8fAqzNXR9NM_zOE=s16000",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjq6xqp0gAk3TAD4MKYpLmTepNhJkCe8JcXH3PIwoDF6oGt1zHm3mpyEMAhqRZORudEV3q_3W7Vs9OE9v5fCohAk52bZwd2kP97gyW-PIHu37EEGzlGJANspsWWbATu836IzjynTknOatxMTHvrVZA7KCQVSN2_UJl0yPOR3RaqO8fAqzNXR9NM_zOE=s16000"
+      ],
+      "createdAt": 1792641476054,
+      "description": "Miracle Box v3.38 Cr@ck By GSM X TEAM",
+      "downloads": 0,
+      "folderId": "f_mp9833ht_tjotymfks",
+      "isLink": false,
+      "lastModified": 1792641476054,
+      "link": "https://www.mediafire.com/file/x5i436xjznxx6vf/Free_Miracle_338.rar/file",
+      "links": [
+        {
+          "label": "Miracle Box v3 38 Crack By GSM X TEAM",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/x5i436xjznxx6vf/Free_Miracle_338.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://dm.terabox.com/sharing/link?surl=qpDd9mhZIefg50Ow4CUAqA&clearCache=1"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Miracle Box v3 38 Crack By GSM X TEAM",
+      "password": "",
+      "publishUrl": "miracle-box-v3-38-crack-by-gsm-x-team",
+      "published": true,
+      "size": "780mb",
+      "unrarPassword": ""
+    },
+    "f_mvj0hjmj_1kficxh06": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgmxnTr0F7G3y1HmaMX8tFvBzPlu-BX7Z_NnSjLbR8AjVdD25FtvMUZmyo874w0dEUxRbHHAMSENYwwyd3vaD8OEupkILYg8l0WJKO_v3wztuTcWOqQBRcSF3gI_bWH6G7EGuOxW1icG2CsXMUIEQzyTlMZfjUO3AD6yh9BsxQhGikU36uAm64vKBg4=s16000",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgmxnTr0F7G3y1HmaMX8tFvBzPlu-BX7Z_NnSjLbR8AjVdD25FtvMUZmyo874w0dEUxRbHHAMSENYwwyd3vaD8OEupkILYg8l0WJKO_v3wztuTcWOqQBRcSF3gI_bWH6G7EGuOxW1icG2CsXMUIEQzyTlMZfjUO3AD6yh9BsxQhGikU36uAm64vKBg4=s16000"
+      ],
+      "createdAt": 1792641538459,
+      "description": "Miracle Thunder v3.38 Full Cr@Ck",
+      "downloads": 0,
+      "folderId": "f_mp9833ht_tjotymfks",
+      "isLink": false,
+      "lastModified": 1792641538459,
+      "link": "https://dm.terabox.com/sharing/link?surl=PRLVERnGWV0LK-FdrRsZCQ&clearCache=1",
+      "links": [
+        {
+          "label": "Miracle Thunder v3 38 Full CraCk",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://dm.terabox.com/sharing/link?surl=PRLVERnGWV0LK-FdrRsZCQ&clearCache=1"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Miracle Thunder v3 38 Full CraCk",
+      "password": "",
+      "publishUrl": "miracle-thunder-v3-38-full-crack",
+      "published": true,
+      "size": "852mb",
+      "unrarPassword": ""
+    },
+    "f_mvj0ls0i_vfqpj2nzo": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj08NfKlxDzGofIRrbFMJu3x0E8Avubv4ueMvQD6oAH02exHci7BHEWJ93l8Lq19reJIqVN1UcFCa2Rp_RQaF1r9LDhTEItZ-DgskctSTM699g8oUpxD1K0p2SMs_gMYCj3KjNHuotTNtUlnKW7Lfkj141DFWYvNaCyqijJ2322x2O50e47zVamCmIjRJc/s320/GRT%20Dongle%20Qualcomm%20v1.0.0.3%20Cracked%20.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj08NfKlxDzGofIRrbFMJu3x0E8Avubv4ueMvQD6oAH02exHci7BHEWJ93l8Lq19reJIqVN1UcFCa2Rp_RQaF1r9LDhTEItZ-DgskctSTM699g8oUpxD1K0p2SMs_gMYCj3KjNHuotTNtUlnKW7Lfkj141DFWYvNaCyqijJ2322x2O50e47zVamCmIjRJc/s320/GRT%20Dongle%20Qualcomm%20v1.0.0.3%20Cracked%20.png"
+      ],
+      "createdAt": 1792641735954,
+      "description": "GRT Dongle Qualcomm v1 0 0 3 Cracked",
+      "downloads": 0,
+      "folderId": "f_mqem4hgx_hjv5ht0dl",
+      "isLink": false,
+      "lastModified": 1792641735954,
+      "link": "https://mega.nz/file/xvMgWaoB#UxygE9es-Uxahtjyogihv4iIZpHAdE2T5n-Tz01T7Os",
+      "links": [
+        {
+          "label": "GRT Dongle Qualcomm v1.0.0.3 Cracked",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/xvMgWaoB#UxygE9es-Uxahtjyogihv4iIZpHAdE2T5n-Tz01T7Os"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/16DOhpPA7cqDEovXFlVRsVw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "GRT Dongle Qualcomm v1 0 0 3 Cracked",
+      "password": "",
+      "publishUrl": "grt-dongle-qualcomm-v1-0-0-3-cracked",
+      "published": true,
+      "size": "58mb",
+      "unrarPassword": ""
+    },
+    "f_mvj0oj9j_fjx387f2o": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo8nSCCyIhInBhDvE-CnDrmuEMfNgi_6dHG4dI1luQf-3-IgBt9dEYQVB1NoU27cbTqCsyA0BOhnDCPrZuyYsWqMBGmwNp2Qh2HjrydHXKcY75O1JUWGO7RGycR5VUeQv11UlCGnfhLvPHcMsxAFWebdvaRcEx8EP1iSq1otK_vJKDhBZhwJBoVEPXgPx7/s16000/GSM%20FREE%20TOOLS%20v0.1%20by%20XTMJOHN.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo8nSCCyIhInBhDvE-CnDrmuEMfNgi_6dHG4dI1luQf-3-IgBt9dEYQVB1NoU27cbTqCsyA0BOhnDCPrZuyYsWqMBGmwNp2Qh2HjrydHXKcY75O1JUWGO7RGycR5VUeQv11UlCGnfhLvPHcMsxAFWebdvaRcEx8EP1iSq1otK_vJKDhBZhwJBoVEPXgPx7/s16000/GSM%20FREE%20TOOLS%20v0.1%20by%20XTMJOHN.jpg"
+      ],
+      "createdAt": 1792641864583,
+      "description": "GSM FREE TOOLS v0 1 XTMJOHN",
+      "downloads": 0,
+      "folderId": "f_mqem4hgx_hjv5ht0dl",
+      "isLink": false,
+      "lastModified": 1792641864583,
+      "link": "https://disk.yandex.com/d/Tjhl0nzQ8eqf2w",
+      "links": [
+        {
+          "label": "GSM FREE TOOLS v0.1 by XTMJOHN",
+          "urls": [
+            {
+              "password": "123",
+              "url": "https://disk.yandex.com/d/Tjhl0nzQ8eqf2w"
+            },
+            {
+              "password": "123",
+              "url": "https://mega.nz/file/t3cUUYIT#2gavWQakHeTnrKfBUGaygIx_C7DbSgZHggCuO8YcHFk"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "GSM FREE TOOLS v0 1 XTMJOHN",
+      "password": "",
+      "publishUrl": "gsm-free-tools-v0-1-xtmjohn",
+      "published": true,
+      "size": "1.7GB",
+      "unrarPassword": ""
+    },
+    "f_mvj0q0im_hhzyuqcl7": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwqPFZjGUl6YEoASbQhhd4emxTbGQxVOs2eVy9seTKWk1MIZCSWFhcb-Kdj-9PkMi4gfWFcPHfw0LYEEp8ud0adpGpqtwk6JohZzoFs5bhhJaNbaeN1ZDI5IC7tTIb7gQUHyZFDYgGP1a4k8YW-W_oCebEmmJtDcLlqzryp_jLMf6EqTOjGKW5ixYRwvXP/w400-h261/Avenger%20Box%20MTK%20V3.0%20Cracked%20Loader%20Free%202024%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwqPFZjGUl6YEoASbQhhd4emxTbGQxVOs2eVy9seTKWk1MIZCSWFhcb-Kdj-9PkMi4gfWFcPHfw0LYEEp8ud0adpGpqtwk6JohZzoFs5bhhJaNbaeN1ZDI5IC7tTIb7gQUHyZFDYgGP1a4k8YW-W_oCebEmmJtDcLlqzryp_jLMf6EqTOjGKW5ixYRwvXP/w400-h261/Avenger%20Box%20MTK%20V3.0%20Cracked%20Loader%20Free%202024%20Download.jpg"
+      ],
+      "createdAt": 1792641933598,
+      "description": "Avenger Box MTK V3 Cracked\n** Tools Information !!\n》Flash Firmware.\n》Safe flash.\n》Full flash.\n》Flash skip preloader.\n》Flash skip format.\n》Flash reset package.\n》Read info (Code).\n》Direct Unlock.\n》Reboot meta mode.\n》Formate User Data.\n》Format custom.\n》Reset Frp.\n》Reset Privacy.\n》Read flash by address.\n》Dump phone firmware.\n》Imei number Repair.\n\n\nModel Added:-\nAvvio 781*(MT6572) - Boot Info/Unlock/Read Codes/IMEI Repair AP Mode,Flash Mode,Meta,ADB/Flashing/Format/tc..Azumi A45T*(MT6572) - Boot Info/Unlock/Read Codes/IMEI Repair AP Mode,Flash",
+      "downloads": 0,
+      "folderId": "f_mqem4hgx_hjv5ht0dl",
+      "isLink": false,
+      "lastModified": 1792641933598,
+      "link": "https://1drv.ms/u/s!AhYbs96oL-wmgR4YV1X6UMnHdrhV?e=MrlXaK",
+      "links": [
+        {
+          "label": "Avenger Box MTK V3 Cracked",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/s!AhYbs96oL-wmgR4YV1X6UMnHdrhV?e=MrlXaK"
+            }
+          ]
+        },
+        {
+          "label": "Password link",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1xIsIywgKAjLBtL8qPoQfYd2oybcgnGpY/view"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Avenger Box MTK V3 Cracked",
+      "password": "",
+      "publishUrl": "avenger-box-mtk-v3-cracked",
+      "published": true,
+      "size": "321mb",
+      "unrarPassword": ""
+    },
+    "f_mvj0s65o_mqmglvzn2": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQsV3IyMx6zjHfBU6LyG61ecdIVbL0xonY9g_1piLPNZg196Vgt7gzzpiTb2IGcYp8FlLuLZPuna-7sQI-MhOBbVYf1sCTSxZMD79XQmF8XcfRh2tx7IQ4YlGQO53jgNV-2ws7VL0FD2d3bJoK3a6Sw5CV2mI4vbEpCm2VBpC6mTeeqQ85sT-2o0igNj31/w640-h414/GSM%20Tool%20Pack%20V1.0%20(GTP%20V1)%20Free%20Download%20(1).jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQsV3IyMx6zjHfBU6LyG61ecdIVbL0xonY9g_1piLPNZg196Vgt7gzzpiTb2IGcYp8FlLuLZPuna-7sQI-MhOBbVYf1sCTSxZMD79XQmF8XcfRh2tx7IQ4YlGQO53jgNV-2ws7VL0FD2d3bJoK3a6Sw5CV2mI4vbEpCm2VBpC6mTeeqQ85sT-2o0igNj31/w640-h414/GSM%20Tool%20Pack%20V1.0%20(GTP%20V1)%20Free%20Download%20(1).jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsj3SUgPuUo8Yj6qxRn5vh56StMGa_iZDOTvWx3xFeo_vc1uQvmPExGyAeoSjAclGMJew1pFSwHyKW2wDExzjfmlIAMO_6oVXYUNlXv_hEtHpeGyNInyDN4E7Ojn-nltEH-hgDSF0Cs8xLePxidmY_pSiaxoKiFRCUlyM6z2-p9nsqDFkDZV85YsE3uOp9/w640-h412/GSM%20Tool%20Pack%20V1.0%20(GTP%20V1)%20Free%20Download%20(2).jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNYdj2zUqO7Z70rbTD8nke4_OVsaF8uNgRF8xrWxnzBS_g3LVyqUNy2WUTakGUMs9HOQqzGO4p1MajER5opUpUI8g5uobs5jQNJs6604GLScaS0AQd84cagSyEXRnBloCvxq1P43yNuBJgMZL3TwvFxHeNGWMa15aJZLb6Pi1M-k5UXmGwupIUk_PLrQEi/w640-h412/GSM%20Tool%20Pack%20V1.0%20(GTP%20V1)%20Free%20Download%20(3).jpg"
+      ],
+      "createdAt": 1792642034220,
+      "description": "GSM Tool Pack V1.0 (GTP V1) Free\nGSM TOOL PACK GPT V1.0  INFORMATION\nDFT PRO v4.2.1 \n\nPremium Version \n\nMCTDaukHyweeTool V1.0.08 Not Online Free Versions\n\nMCT DAUK HYWEE TOOL PRO 2.0.5\n\nMCT DH Toolbox 4.2\n\nMCT DAUKHYWEETOOL PRO 2.0.5 Tera Tool v1.0.2.7\n\nMiracle Box 2.89\n\nTFM MTK 1.3.22\n\nTFM SPD B16\n\nTFM Main Module v2.7.4\n\nE-GSM Tool 2.5.1\n\nE-GSM Tool v1.5.5\n\nMRT Dongle 3.95\n\nCSTool Chinese SmartPhone Tool v1.60\n\nCSTool S-Module\n\nUAT FRP v5.01\n\nAvengerMain v1 8\n\nDFT PRO v4.2.1 \n\nPremium Version MCTDaukHyweeTool V1.0.08 Not Online Free Versions\n\nMCT DAUK HYWEE TOOL PRO 2.0.5 MCT DH Toolbox 4.2\n\nMCT DAUKHYWEETOOL PRO 2.0.5 Tera Tool v1.0.2.7\n\nMiracle Box 2.89\n\nE-GSM Tool v1.5.5\n\nMRT Dongle 3.95\n\nCSTool Chinese SmartPhoneTool v1.60\n\nCSTool S-Module\n\nUAT FRP v5.01\n\nAvengerMain v1.8\n\nNCK MTK Dongle 2.5.6.2\n\nAndroidMTK Avengers 0.3.0\n\nOSSClient 8.6\n\nQualcomm Flash Loader 2.0\n\nSecret Tool Pro v1.2\n\nUFT Tool v1.0\n\nZ3X Samsung Tool PRO 29.5\n\nSamfirm Aio v2.1\n\nVG Tool Premium v5.1\n\nNCK Dongle Generic MTK\n\nGPG Dragon v3.53C\n\nBMB Tool Pro v7.0\n\nAladdin Key loader\n\nNokia Best Tool v3.09\n\nNokia Infinity Best v2.29\n\nMiFlash Prime Edition\n\nAndroidUtility PRO v170 [Unlimited] AndroidUtility.v186.00.8016 No Card\n\nRyzTool\n\nIMEIWriteTool V7.20250106\n\nAll in One Samsung Flash Odin Tool\n\nAll In One SPD Factory Tool All In One SPD Research Tool All In One SPD Upgrade Tool MiFlash_Pro_v7.3.706.21_EN QPST 2.7.496 SP Flash Tool v5 Keyboard Mobile Flash Tool MMO Tool 1.2 Asus Flash Tool\n\nLenovo Downloader\n\nZenfone Flash Tool\n\nMTK Client GUI Tool 2.0\n\nMinimal ADB and Fastboot\n\n3uTools\n\niTunes\n\nSamsung Odin Flash Mode 350K\n\nf64 ultra Emmc UFX Repair Tool Modem M\n\nETA ver 10.2044.0.02 TMT MediaTek Universal v2 QST Tools Pro v4.0\n\nPreinstalled All Software\n\n7-Zip 24.03 (x64)\n\nahsProtector\n\nBlackBerry Desktop Software 4.7.\n\nEverything 1.4.1.1024 (64)\n\nHisuite\n\nFile Name: GSM Tool Pack V1.0  ( GTP V1.0) Free .ISO\n\nFile Size: 8.3GB",
+      "downloads": 0,
+      "folderId": "f_mp6sf7er_yrsiah0rt",
+      "isLink": false,
+      "lastModified": 1792642034220,
+      "link": "https://drive.google.com/drive/folders/1aUqQN85IyUDkiFpi6xQeIFaAWgedjioF?usp=sharing",
+      "links": [
+        {
+          "label": "GSM Tool Pack V1.0 (GTP V1) Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/drive/folders/1aUqQN85IyUDkiFpi6xQeIFaAWgedjioF?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1u8BX3DvgLN9y7uDR80Q7Bw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "GSM Tool Pack V1.0 GTP V1 Free",
+      "password": "",
+      "publishUrl": "gsm-tool-pack-v10-gtp-v1-free",
+      "published": true,
+      "size": "8.3GB",
+      "unrarPassword": ""
+    },
+    "f_mvj0t50k_herbll7ev": {
+      "coverUrl": "data:image/jpeg;base64,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",
+      "covers": [
+        "data:image/jpeg;base64,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"
+      ],
+      "createdAt": 1792642079396,
+      "description": "Office 10 Full Activator",
+      "downloads": 0,
+      "folderId": "f_mp6svh7k_05u4ub0r8",
+      "isLink": false,
+      "lastModified": 1792642079396,
+      "link": "https://mega.nz/file/UjFBVB6T#xkQ3BvWB-aGKB-ISdoHndHBbZvrjV_j59GUjCncmJyY",
+      "links": [
+        {
+          "label": "KMSPico 10.0.4 office 10 Full Active",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/UjFBVB6T#xkQ3BvWB-aGKB-ISdoHndHBbZvrjV_j59GUjCncmJyY"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1vpcjedX7cKJFQSd63D-NKA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Office 10 Full Activator",
+      "password": "",
+      "publishUrl": "office-10-full-activator",
+      "published": true,
+      "size": "3mb",
+      "unrarPassword": ""
+    },
+    "f_mvj0uoor_pwqoj3arq": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4ivkHuJg9LnagIAIPJhsza-QnnsWvXAFj3xtWHn2gw&s=10",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4ivkHuJg9LnagIAIPJhsza-QnnsWvXAFj3xtWHn2gw&s=10"
+      ],
+      "createdAt": 1792642151547,
+      "description": "Nokia Best Flash Tools",
+      "downloads": 0,
+      "folderId": "f_mq0tuka4_sqow7eta1",
+      "isLink": false,
+      "lastModified": 1792642151547,
+      "link": "https://mega.nz/file/YjtBnSYI#FUsmwlRZeE6bXCWJglrMvQ4DR4VWUiOVBn9NagnO1gA",
+      "links": [
+        {
+          "label": "Nokia Best Flash Tools",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/YjtBnSYI#FUsmwlRZeE6bXCWJglrMvQ4DR4VWUiOVBn9NagnO1gA"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1FL5cZVrb-kRaLA4-I7VSEg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Nokia Best Flash Tools",
+      "password": "",
+      "publishUrl": "nokia-best-flash-tools",
+      "published": true,
+      "size": "50mb",
+      "unrarPassword": ""
+    },
+    "f_mvj0xus1_hv5ohz760": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj6vslEvTTi_EmFvSNcNKekfal5H0dv-o2lFfG3d2x1CqrvOp9qyZqblGP7o4sR5suZCynCBFsbB6laH2LJoqEVJUFwdMNqmHCFuznM1dsp8V9lbMmUo3el0oyAzoWSkIzm95uzcXqcMPJR0MVc3wUonXSMBzQNIt5OaXEiCugvjWzQnsy5qkPBlWHGPhaj=w640-h430-rw",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEj6vslEvTTi_EmFvSNcNKekfal5H0dv-o2lFfG3d2x1CqrvOp9qyZqblGP7o4sR5suZCynCBFsbB6laH2LJoqEVJUFwdMNqmHCFuznM1dsp8V9lbMmUo3el0oyAzoWSkIzm95uzcXqcMPJR0MVc3wUonXSMBzQNIt5OaXEiCugvjWzQnsy5qkPBlWHGPhaj=w640-h430-rw"
+      ],
+      "createdAt": 1792642299409,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mq7f7s06_6p5wmh3aa",
+      "isLink": false,
+      "lastModified": 1792642299409,
+      "link": "https://mega.nz/file/cMFwiRQZ#Cji0FiBNOeHIIl6SfTQ0iTqOIlfp2I5qKOsq2izhrdM",
+      "links": [
+        {
+          "label": "Gsm Solution (Moto UBL + FRP)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/cMFwiRQZ#Cji0FiBNOeHIIl6SfTQ0iTqOIlfp2I5qKOsq2izhrdM"
+            },
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/0G20G506RM#95Q5dlzwy459"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1jiQnypH23XC_70n_AOKp0A"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Gsm Solution Moto UBL FRP",
+      "password": "",
+      "publishUrl": "gsm-solution-moto-ubl-frp",
+      "published": true,
+      "size": "19.2 MB",
+      "unrarPassword": ""
+    },
+    "f_mvj0zssc_l5z0d42ia": {
+      "coverUrl": "",
+      "createdAt": 1792642390140,
+      "description": "OppoA37F,F3,F3,F1S,F5,A71 Network Unlocker Country",
+      "downloads": 0,
+      "folderId": "f_mq7f7s06_6p5wmh3aa",
+      "isLink": false,
+      "lastModified": 1792642390140,
+      "link": "https://mega.nz/file/J6E2ULoL#aLZfKZZrzmvkqlzQv9eaDP28fJSiUD_5eyxXf1vrhpc",
+      "links": [
+        {
+          "label": "Oppo A37F,F3,F3,F1S,F5,A71 Network Unlocker Country",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/J6E2ULoL#aLZfKZZrzmvkqlzQv9eaDP28fJSiUD_5eyxXf1vrhpc"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1EjqZtVLBgujnTpHmmrHIFA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Oppo Network Unlocker Country",
+      "password": "",
+      "publishUrl": "oppo-network-unlocker-country",
+      "published": true,
+      "size": "6mb",
+      "unrarPassword": ""
+    },
+    "f_mvj113gv_hv4by5x18": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLQBMlvWZ1qPsBb-1ZSElosKGsuanL0mMC6q7M1Q9BbI7Y76EDy-SbfPQmsqf1ZxqCURiQq8dlWa8rB3fKTp12mqz5Aci0LkYxifApATE1TCoekwRVGywftzDEhfsZ6CkzAk-y55tyZH5lK17N99hnue6FD6tbLKP1s0GCf93CJCYDak6Kw3OvSXuPR24/s320/Oppo%20UserLock%20Remover%20CMD%20Tool%20v1.1%20By%20MobileflasherBD%20R%20%20Jonaki%20TelecoM.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLQBMlvWZ1qPsBb-1ZSElosKGsuanL0mMC6q7M1Q9BbI7Y76EDy-SbfPQmsqf1ZxqCURiQq8dlWa8rB3fKTp12mqz5Aci0LkYxifApATE1TCoekwRVGywftzDEhfsZ6CkzAk-y55tyZH5lK17N99hnue6FD6tbLKP1s0GCf93CJCYDak6Kw3OvSXuPR24/s320/Oppo%20UserLock%20Remover%20CMD%20Tool%20v1.1%20By%20MobileflasherBD%20R%20%20Jonaki%20TelecoM.png"
+      ],
+      "createdAt": 1792642450639,
+      "description": "Oppo UserLock Remover CMD Tool v1.1",
+      "downloads": 0,
+      "folderId": "f_mq7f7s06_6p5wmh3aa",
+      "isLink": false,
+      "lastModified": 1792642450639,
+      "link": "https://mega.nz/file/9iFVXKhJ#X22YHl6VXQLXkalEuI1MjadQEZAvKJb4m2bFMIRL-bM",
+      "links": [
+        {
+          "label": "Oppo UserLock Remover CMD Tool v1.1",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/9iFVXKhJ#X22YHl6VXQLXkalEuI1MjadQEZAvKJb4m2bFMIRL-bM"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1fRnUZkXNL-2s8tifylt14Q"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Oppo UserLock Remover CMD Tool v1.1",
+      "password": "",
+      "publishUrl": "oppo-userlock-remover-cmd-tool-v11",
+      "published": true,
+      "size": "2mb",
+      "unrarPassword": ""
+    },
+    "f_mvj12ik6_xrq88f13a": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdqYOK6qJ27w5YdJ3uRozAklpU0Q-Ts-A4obzAswAAwSnMHSaHYvJ6Be7nF4-yQP3otTfS-XjEzncPOum9Kgd4ZXnWRs7B19PXVIeHYqxPea3RplSCycNtihS9Es7nv55E7KDOyIsWTMeR_CtG_T3KxcZCB98aM4src5TeKq8XWn51YJPtqHgKnqnwHJ65/w320-h320/Infinix%20Hot%2040%20Pro%20X6837%20MDM%20Remove%20File(Just%20Flashing).jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdqYOK6qJ27w5YdJ3uRozAklpU0Q-Ts-A4obzAswAAwSnMHSaHYvJ6Be7nF4-yQP3otTfS-XjEzncPOum9Kgd4ZXnWRs7B19PXVIeHYqxPea3RplSCycNtihS9Es7nv55E7KDOyIsWTMeR_CtG_T3KxcZCB98aM4src5TeKq8XWn51YJPtqHgKnqnwHJ65/w320-h320/Infinix%20Hot%2040%20Pro%20X6837%20MDM%20Remove%20File(Just%20Flashing).jpg"
+      ],
+      "createdAt": 1792642516854,
+      "description": "Infinix Hot 40 Pro X6837 MDM Remove File",
+      "downloads": 0,
+      "folderId": "f_mq7f7s06_6p5wmh3aa",
+      "isLink": false,
+      "lastModified": 1792642516854,
+      "link": "https://drive.usercontent.google.com/download?id=15j5123maXVDzt5MA6_MTa7pcTeJS30hS&export=download&authuser=0",
+      "links": [
+        {
+          "label": "Infinix Hot 40 Pro X6837 MDM Remove File",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.usercontent.google.com/download?id=15j5123maXVDzt5MA6_MTa7pcTeJS30hS&export=download&authuser=0"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Infinix Hot 40 Pro X6837 MDM Remove File",
+      "password": "",
+      "publishUrl": "infinix-hot-40-pro-x6837-mdm-remove-file",
+      "published": true,
+      "size": "6.5G",
+      "unrarPassword": ""
+    },
+    "f_mvj13l8g_vprvw2al3": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4LvCpQ8DEbJFCuNcHhfoGC1A03qXd-rMfWrysvK0O0ZYvFQMKLXNaWATStciRxCUj59KcWEfU_fQj75mSY8oaGqNHEJh8T2DHei4Glez8HhBD1gkxpGZE9_onQOXYFo9DL4qsE2zx_3v63SaK5fk7eMd70mbfnIpGDjpb4pNtF6RxfJX4MtEDVu2IpPSx/s600/itel%20A70%20A665L%20Permanent%20MDM%20v1181%20Unlock%20File%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4LvCpQ8DEbJFCuNcHhfoGC1A03qXd-rMfWrysvK0O0ZYvFQMKLXNaWATStciRxCUj59KcWEfU_fQj75mSY8oaGqNHEJh8T2DHei4Glez8HhBD1gkxpGZE9_onQOXYFo9DL4qsE2zx_3v63SaK5fk7eMd70mbfnIpGDjpb4pNtF6RxfJX4MtEDVu2IpPSx/s600/itel%20A70%20A665L%20Permanent%20MDM%20v1181%20Unlock%20File%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792642566976,
+      "description": "itel A70 A665L Permanent MDM v1181 Unlock File\nHow to Permanently Unlock MDM on itel A70 A665L\nTo unlock MDM on your device, follow these detailed steps. Ensure that your device is charged, and that you have backed up all important data:\n\nDownload the MDM unlock file for itel A70 A665L from the link provided below.\nExtract the file on your computer. You may need the password Selema 250Hondeka255 for extraction.\nConnect your device to your computer using a USB cable.\nFollow the instructions to flash the device with the v1181 firmware file, which will remove the MDM restrictions.\nPrecautions and Requirements\nBefore proceeding with the unlock process, please consider the following precautions:\n\nEnsure that the file is downloaded from a trusted source.\nUse an updated firmware flashing tool to avoid compatibility issues.\nBackup all data to prevent data loss during the process.",
+      "downloads": 0,
+      "folderId": "f_mq7f7s06_6p5wmh3aa",
+      "isLink": false,
+      "lastModified": 1792642566976,
+      "link": "https://terabox.com/s/1MkYpgsgdeAPXnulBHsF32A",
+      "links": [
+        {
+          "label": "itel A70 A665L Permanent MDM v1181 Unlock File",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://terabox.com/s/1MkYpgsgdeAPXnulBHsF32A"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "itel A70 A665L Permanent MDM v1181 Unlock File",
+      "password": "",
+      "publishUrl": "itel-a70-a665l-permanent-mdm-v1181-unlock-file",
+      "published": true,
+      "size": "77mb",
+      "unrarPassword": ""
+    },
+    "f_mvj165c4_m8pxsg3xi": {
+      "coverUrl": "",
+      "createdAt": 1792642686340,
+      "description": "Griffin All Software Driver",
+      "downloads": 0,
+      "folderId": "f_mp6srgy8_f9jfn40k3",
+      "isLink": false,
+      "lastModified": 1792642686340,
+      "link": "https://mega.nz/file/UmlUhTyA#iQc2NTUQ3oQ1ej1VMt0jvYiEkjdxpnvfz1_JW6c3UKE",
+      "links": [
+        {
+          "label": "Mobile USB All Software Driver Offline",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/UmlUhTyA#iQc2NTUQ3oQ1ej1VMt0jvYiEkjdxpnvfz1_JW6c3UKE"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1050kowMgfWgxChxMzhZtmQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Griffin All Software Driver",
+      "password": "",
+      "publishUrl": "griffin-all-software-driver",
+      "published": true,
+      "size": "98mb",
+      "unrarPassword": ""
+    },
+    "f_mvj181wk_c9s2zuy4w": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqv8ssxCLY0TKdtTdSzQ01RXeg-HjyLWG3XE4zXj3sFmIsHphgE02zrnsHqLzJHU6YZOnG3nRIdFobffS6DVu9bw1L_1YWAQri_LhFyMrKboWF6qupx40Iorgw6JWrEj4nDNSptxVURxvE4oEzFPcwj7Tbqdd9V21cp-K-UalIGOmNgVCb4IoU1cWbKLWz/w640-h358/Spreadtrum%20PAC%20Repack%20Tool%20v1.0.3%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqv8ssxCLY0TKdtTdSzQ01RXeg-HjyLWG3XE4zXj3sFmIsHphgE02zrnsHqLzJHU6YZOnG3nRIdFobffS6DVu9bw1L_1YWAQri_LhFyMrKboWF6qupx40Iorgw6JWrEj4nDNSptxVURxvE4oEzFPcwj7Tbqdd9V21cp-K-UalIGOmNgVCb4IoU1cWbKLWz/w640-h358/Spreadtrum%20PAC%20Repack%20Tool%20v1.0.3%20Free.jpg"
+      ],
+      "createdAt": 1792642775204,
+      "description": "Spreadtrum PAC Repack Tool v1.0.3 Free Download. Spreadtrum PAC Repack Tool v1.0.3 Free Download  Features Spreadtrum - Unisoc PAC Firmware Repack Tool\nLoad PAC File: Select a PAC firmware file directly from the tool.\nRead SysInfo: The tool includes a Read SysInfo option when loading a PAC file.\nUnpack PAC: Extract the files from a PAC package into a selected directory.\nRepack to PAC: Create a PAC file again from the files in an unpacked directory.\nFile Information: The tool can show file, build.prop, and anticrack state information when loading a PAC file.\n\nHow to Use\nOpen Spreadtrum / Unisoc PAC Firmware Repack Tool.\nClick Select Pac and choose the PAC firmware file.\nUse the Read SysInfo option if you want to read the available system information.\nClick Unpack Pac to extract the PAC contents into a folder.\nAfter working with the unpacked files, use Repack To PAC file to create a PAC package again.",
+      "downloads": 0,
+      "folderId": "f_mq907z24_lahwuzvyt",
+      "isLink": false,
+      "lastModified": 1792642775204,
+      "link": "https://mega.nz/file/F4kj3LxL#2tW6WmpzbdeJsiGi56FdAyJqsACMp49lxexdozUUB08",
+      "links": [
+        {
+          "label": "PAC Repack Tool v1.0.3",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/F4kj3LxL#2tW6WmpzbdeJsiGi56FdAyJqsACMp49lxexdozUUB08"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/147k2ADGPAOMsuFSnebG1gtY3rogvZ5SX/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/B2VQWYWFNC#JaGtiqvHSuoJ"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1_j4f1o4xs6ssBIX2noRiPA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Spreadtrum PAC Repack Tool v1 0 3 Free",
+      "password": "",
+      "publishUrl": "spreadtrum-pac-repack-tool-v1-0-3-free",
+      "published": true,
+      "size": "3.3MB",
+      "unrarPassword": ""
+    },
+    "f_mvj23x94_5l5mkdjgu": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3FIx8IWtwmQmC_j6L6nqfC-_D_mQoH3n27-6N_0YqrdONoJue8Tu6Cp5kxDZmH6Hkr5u4eYJeYxcvEhV2LUPWWRudEzEW5HByrWiOVFll8wXerDvqVHrWfNYR0UN3o_iW99OS7ZpqPQfp_DHV841MhcDp395VLZiiudn4g19qjV7MnnMmziQaA463svly/s400/Download%20ModemMeta%20Tool%20%28All%20Versions%29%20-%20IMEI%20Repair%20Tool%20for%20Mediatek.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3FIx8IWtwmQmC_j6L6nqfC-_D_mQoH3n27-6N_0YqrdONoJue8Tu6Cp5kxDZmH6Hkr5u4eYJeYxcvEhV2LUPWWRudEzEW5HByrWiOVFll8wXerDvqVHrWfNYR0UN3o_iW99OS7ZpqPQfp_DHV841MhcDp395VLZiiudn4g19qjV7MnnMmziQaA463svly/s400/Download%20ModemMeta%20Tool%20%28All%20Versions%29%20-%20IMEI%20Repair%20Tool%20for%20Mediatek.jpg"
+      ],
+      "createdAt": 1792644262168,
+      "description": "Key Features of ModemMeta Tool\nHere are the standout features of ModemMeta Tool:\n\nEasy Installation: Comes with a user-friendly installer for quick setup.\nIMEI Repair: Supports restoring and repairing IMEI on a range of Mediatek devices.\nIMEI Backup and Restore: Allows secure backup and restoration of IMEI to prevent data loss.\nWide Compatibility: Exclusively supports all Mediatek chipset devices, including smartphones, tablets, and feature phones.",
+      "downloads": 0,
+      "folderId": "f_mppfwio0_8fjdnqv24",
+      "isLink": false,
+      "lastModified": 1792644262168,
+      "link": "https://mega.nz/file/ljl1hLaS#-WlInBnrdR2NgjTlZ61dKZmAaBaOfjI19XSDsBMB2U4",
+      "links": [
+        {
+          "label": "ModemMETA x64 v10.2340.0.05",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/ljl1hLaS#-WlInBnrdR2NgjTlZ61dKZmAaBaOfjI19XSDsBMB2U4"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1Ehfe7XZlK2PqiL2UnsSbMQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "ModemMeta Tool All Versions",
+      "password": "",
+      "publishUrl": "modemmeta-tool-all-versions",
+      "published": true,
+      "size": "136mb",
+      "unrarPassword": ""
+    },
+    "f_mvj25n4m_mjn0o2yrt": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9sZiE5vf_UJ6zK_wA55gqFjRmgwKw3vwI8eB7xK_Rz2dDd7HSKHDdquSeHZLyWyu8jQQwLwV-C3mKFb-Of-Si_UHlO6TDD7r17LKMHmHAWGqn1k0Q5K8ZExKqLYyCVBpsHdT13_eR8-nBQMJjCx04PYUPHsCPXxEGrlcyika4UEIxd_sJyawuEZM_IRg/s320/MauiMETA_v10.1816.0.01%20by%20.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9sZiE5vf_UJ6zK_wA55gqFjRmgwKw3vwI8eB7xK_Rz2dDd7HSKHDdquSeHZLyWyu8jQQwLwV-C3mKFb-Of-Si_UHlO6TDD7r17LKMHmHAWGqn1k0Q5K8ZExKqLYyCVBpsHdT13_eR8-nBQMJjCx04PYUPHsCPXxEGrlcyika4UEIxd_sJyawuEZM_IRg/s320/MauiMETA_v10.1816.0.01%20by%20.png"
+      ],
+      "createdAt": 1792644342358,
+      "description": "Mediatek Imei Repair Tool Maui META v10.1816.0.01",
+      "downloads": 0,
+      "folderId": "f_mppfwio0_8fjdnqv24",
+      "isLink": false,
+      "lastModified": 1792644342358,
+      "link": "https://mega.nz/file/Yq8HlYQY#8K-y_0CKYbk7SHefuN9bR3bemHh6DPRf-raDB5MY3DM",
+      "links": [
+        {
+          "label": "Mediatek Imei Repair Tool Maui META v10.1816.0.01",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/Yq8HlYQY#8K-y_0CKYbk7SHefuN9bR3bemHh6DPRf-raDB5MY3DM"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1AgcyBGv46ycE1gsaqKqSPQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Mediatek Imei Repair Tool",
+      "password": "",
+      "publishUrl": "mediatek-imei-repair-tool",
+      "published": true,
+      "size": "45mb",
+      "unrarPassword": ""
+    },
+    "f_mvj277ty_gtgww1qwh": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmr5_iSUcRnMI5iLth5d_CqNPQ_Ou0-y8Q2DXmxfA2Z_JVweqJpdcj15Erzya1inqAFuqXMt5hJaV-EIVaTMwLozfrxHCYisyPdSOBCldAll8YvP4_D4pBY5SFk3bM0uqCYhDkCyQ6jx1lupCzXUUQw1ra3MIdDN9MPsM54PFfKmXcIKAMfQrMMP_vcraX/s600/latest%20Pixel%20Tool%20By%20Aamir%20Buneri%202024%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmr5_iSUcRnMI5iLth5d_CqNPQ_Ou0-y8Q2DXmxfA2Z_JVweqJpdcj15Erzya1inqAFuqXMt5hJaV-EIVaTMwLozfrxHCYisyPdSOBCldAll8YvP4_D4pBY5SFk3bM0uqCYhDkCyQ6jx1lupCzXUUQw1ra3MIdDN9MPsM54PFfKmXcIKAMfQrMMP_vcraX/s600/latest%20Pixel%20Tool%20By%20Aamir%20Buneri%202024%20Download.jpg"
+      ],
+      "createdAt": 1792644415846,
+      "description": "Pixel Tool IMEI by Aamir Buneri Supported Devices\nPixel 6\nPixel 6A\nPixel 6 Pro\nHow to Use the Pixel Tool by Aamir Buneri\nDownload the tool by using the download link provided below.\nExtract all files to your desktop to ensure accessibility.\nRun the tool as an administrator to give it necessary permissions.\nOnce open, select the device model from the interface, which doesn't require the device to be connected.\nThe Current IMEI for both slots (1 and 2) will display automatically.\nInput the new IMEI numbers for both slots.\nClick on the \"Replace IMEIs\" button to initiate the update.\nAfter the success message, locate the “devinfo.img” file in the model’s folder for flashing.\n\nHow to Flash the \"devinfo.img\" File\nOnce the \"devinfo.img\" file is prepared, follow these steps to flash it onto your device:\n\nReboot into Fastboot Mode: Open a command prompt or terminal and run the command adb reboot bootloader.\nVerify Fastboot Connection: Ensure the device is detected with fastboot devices. Troubleshoot any connection issues if necessary.\nFlash the devinfo.img: Use the command fastboot flash devinfo devinfo.img.\nReboot: Restart your device by typing fastboot reboot.\nVerify Changes (Optional)\nAfter rebooting, you may confirm that the new IMEI information is in effect by navigating to the device settings or using diagnostic tools.",
+      "downloads": 0,
+      "folderId": "f_mppfwio0_8fjdnqv24",
+      "isLink": false,
+      "lastModified": 1792644415846,
+      "link": "https://1drv.ms/u/c/6f949e23cca0d0c9/EVc21NdRbZVBntjbTabWT7QBBcjGmoPWUB_iZkqu48QYBA?e=4dF5qs",
+      "links": [
+        {
+          "label": "Pixel Tool IMEI",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/6f949e23cca0d0c9/EVc21NdRbZVBntjbTabWT7QBBcjGmoPWUB_iZkqu48QYBA?e=4dF5qs"
+            },
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/6f949e23cca0d0c9/EVc21NdRbZVBntjbTabWT7QBBcjGmoPWUB_iZkqu48QYBA?e=4dF5qs"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Pixel Tool IMEI by Aamir Buneri",
+      "password": "",
+      "publishUrl": "pixel-tool-imei-by-aamir-buneri",
+      "published": true,
+      "size": "35.2 MB",
+      "unrarPassword": ""
+    },
+    "f_mvj2edei_w0cvja59s": {
+      "coverUrl": "https://i.ytimg.com/vi/FY3dDJfpl1Y/maxresdefault.jpg",
+      "covers": [
+        "https://i.ytimg.com/vi/FY3dDJfpl1Y/maxresdefault.jpg"
+      ],
+      "createdAt": 1792644749658,
+      "description": "Micromax Drivers x86 zip",
+      "downloads": 0,
+      "folderId": "f_mp6spbfl_unyekccyd",
+      "isLink": false,
+      "lastModified": 1792644749658,
+      "link": "https://mega.nz/file/d6Ny2CbS#cmd8a60hndknKG_dasfxm7-wUZpAQmMS63q24cxw15o",
+      "links": [
+        {
+          "label": "Micromax_Drivers_x86.zip",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/d6Ny2CbS#cmd8a60hndknKG_dasfxm7-wUZpAQmMS63q24cxw15o"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1Jig8w7jbQ3QP4Chlys1Vnw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Micromax Drivers x86",
+      "password": "",
+      "publishUrl": "micromax-drivers-x86",
+      "published": true,
+      "size": "12mb",
+      "unrarPassword": ""
+    },
+    "f_mvj2hkhb_b9moldvy8": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsXBy3aZgUBVf636DTiYBFdU1uQIueGNLCCnSIk2aaA8fOREJMMMbs8CJ&s=10",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsXBy3aZgUBVf636DTiYBFdU1uQIueGNLCCnSIk2aaA8fOREJMMMbs8CJ&s=10"
+      ],
+      "createdAt": 1792644898799,
+      "description": "All MTK USB Driver.rar",
+      "downloads": 0,
+      "folderId": "f_mp6spbfl_unyekccyd",
+      "isLink": false,
+      "lastModified": 1792644898799,
+      "link": "https://mega.nz/file/s29iBRbQ#sTh_qYPyEm0s9wuFdBcg4oJYxQZS9d-CNTRi25wfix4",
+      "links": [
+        {
+          "label": "All MTK USB Driver.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/s29iBRbQ#sTh_qYPyEm0s9wuFdBcg4oJYxQZS9d-CNTRi25wfix4"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1YME5v3h5fZ7sg0E_9-ykHQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "All MTK USB Driver",
+      "password": "",
+      "publishUrl": "all-mtk-usb-driver",
+      "published": true,
+      "size": "14mb",
+      "unrarPassword": ""
+    },
+    "f_mvj2ij66_80y0yqqzp": {
+      "coverUrl": "",
+      "createdAt": 1792644943758,
+      "description": "Andriod CDC VCOM Driver",
+      "downloads": 0,
+      "folderId": "f_mp6spbfl_unyekccyd",
+      "isLink": false,
+      "lastModified": 1792644943758,
+      "link": "https://mega.nz/file/gu8lkYyK#Kzsj3puWuuQxLe5tCnNeW2hGNYEqtKf-9ZPmTo6lzvI",
+      "links": [
+        {
+          "label": "Andriod CDC VCOM Driver",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/gu8lkYyK#Kzsj3puWuuQxLe5tCnNeW2hGNYEqtKf-9ZPmTo6lzvI"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1sdT-v0-SRoLYdgh1AD65Lg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Andriod CDC VCOM Driver",
+      "password": "",
+      "publishUrl": "andriod-cdc-vcom-driver",
+      "published": true,
+      "size": "45mb",
+      "unrarPassword": ""
+    },
+    "f_mvj2k8sj_3p00zdwqb": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1cuQozl1pPGmmRnVRKh78n04rx5g1DzbtS2nhmxt4f5fPbAchwCEO6P4&s=10",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1cuQozl1pPGmmRnVRKh78n04rx5g1DzbtS2nhmxt4f5fPbAchwCEO6P4&s=10"
+      ],
+      "createdAt": 1792645023619,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mp6spbfl_unyekccyd",
+      "isLink": false,
+      "lastModified": 1792645023619,
+      "link": "https://www.mediafire.com/file/rb62lq4yegj5tr7/MTK_USB_ALL_v1.0.8.zip/file",
+      "links": [
+        {
+          "label": "MTK USB Drivers For Windows 11",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/rb62lq4yegj5tr7/MTK_USB_ALL_v1.0.8.zip/file"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MTK USB Drivers For Windows 11",
+      "password": "",
+      "publishUrl": "mtk-usb-drivers-for-windows-11",
+      "published": true,
+      "size": "55 mb",
+      "unrarPassword": ""
+    },
+    "f_mvj2ld88_yqo9wz59r": {
+      "coverUrl": "",
+      "createdAt": 1792645076024,
+      "description": "ZTE Modem Drivers",
+      "downloads": 0,
+      "folderId": "f_mq1t8ddy_xk2kid7y6",
+      "isLink": false,
+      "lastModified": 1792645076024,
+      "link": "https://mega.nz/file/I7sgnJjD#QL2JB1TqqTRKF9hL0uGu4F7B09CvWva4Mu20HVt4lRo",
+      "links": [
+        {
+          "label": "ZTE Modem Drivers",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/I7sgnJjD#QL2JB1TqqTRKF9hL0uGu4F7B09CvWva4Mu20HVt4lRo"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/11ZUmor1QIewqk42_Urotdw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "ZTE Modem Drivers",
+      "password": "",
+      "publishUrl": "zte-modem-drivers",
+      "published": true,
+      "size": "20mb",
+      "unrarPassword": ""
+    },
+    "f_mvj2rav5_rzq68pu1u": {
+      "coverUrl": "https://i.ytimg.com/vi/zPRRJh-bjPI/maxresdefault.jpg",
+      "covers": [
+        "https://i.ytimg.com/vi/zPRRJh-bjPI/maxresdefault.jpg"
+      ],
+      "createdAt": 1792645352897,
+      "description": "QCOM 9008 Diag",
+      "downloads": 0,
+      "folderId": "f_mp6spqix_kgvowfy1q",
+      "isLink": false,
+      "lastModified": 1792645352897,
+      "link": "https://mega.nz/file/NncSWYrR#N7iEOr0EL5OIj6h75w03i-ft660wltRIo1vDmgWRYAQ",
+      "links": [
+        {
+          "label": "QCOM 9008 Diag",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/NncSWYrR#N7iEOr0EL5OIj6h75w03i-ft660wltRIo1vDmgWRYAQ"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/12ewxhM-QWhqE5Pz1CRjMOw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "QCOM 9008 Diag",
+      "password": "",
+      "publishUrl": "qcom-9008-diag",
+      "published": true,
+      "size": "85mb",
+      "unrarPassword": ""
+    },
+    "f_mvj2t0nf_u12ty6jh5": {
+      "coverUrl": "",
+      "createdAt": 1792645432971,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mp6spqix_kgvowfy1q",
+      "isLink": false,
+      "lastModified": 1792645432971,
+      "link": "https://mega.nz/file/dycCjIoR#QqfmDK7uLcEmoXqfMMb-FyCV5VgivelUk-HSBr-FU1c",
+      "links": [
+        {
+          "label": "Qualcomm Drivers rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/dycCjIoR#QqfmDK7uLcEmoXqfMMb-FyCV5VgivelUk-HSBr-FU1c"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/w3lSXI7Z#JV5pEKB5FUdaqd-4RGpGk9upjvbmmHfNfwsp1MllWaQ"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1zM1q5avYPst-kNiiybc9gg"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1tw3xX76DbbT1E2nn2_HRfQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Qualcomm Drivers",
+      "password": "",
+      "publishUrl": "qualcomm-drivers",
+      "published": true,
+      "size": "5mb",
+      "unrarPassword": ""
+    },
+    "f_mvj2wcli_02ezvbjrn": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncc_1SNV1uSu4XLIB-PCXca3P_gniFPjLl6V3tMaz69icPQG8alj7h9uB&s=10",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncc_1SNV1uSu4XLIB-PCXca3P_gniFPjLl6V3tMaz69icPQG8alj7h9uB&s=10"
+      ],
+      "createdAt": 1792645588422,
+      "description": "Nice Unlocker MDM Tool 3.5 Free By GCT Team",
+      "downloads": 0,
+      "folderId": "f_mpl8jx22_ghntv5g57",
+      "isLink": false,
+      "lastModified": 1792645588422,
+      "link": "https://mega.nz/file/3TpG2IyZ#Rv54SMVKHooo2_VrSzf5b5r4qhT4WZGx41SoPD438ZM",
+      "links": [
+        {
+          "label": "Nice Unlocker MDM Tool 3 5 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/3TpG2IyZ#Rv54SMVKHooo2_VrSzf5b5r4qhT4WZGx41SoPD438ZM"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1Q_y6NT40oPtvlZM4RouGPw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Nice Unlocker MDM Tool 3 5 Free",
+      "password": "",
+      "publishUrl": "nice-unlocker-mdm-tool-3-5-free",
+      "published": true,
+      "size": "543mb",
+      "unrarPassword": ""
+    },
+    "f_mvj2zwxw_276qgm7z5": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToUfDU2hdmQx_5t5Q_I69oiG4ZB560d4l_NqqMHBRLPLZzZohY-L3krb0&s=10",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToUfDU2hdmQx_5t5Q_I69oiG4ZB560d4l_NqqMHBRLPLZzZohY-L3krb0&s=10"
+      ],
+      "createdAt": 1792645754756,
+      "description": "AnonySHU Tool MDM IT",
+      "downloads": 0,
+      "folderId": "f_mpl8jx22_ghntv5g57",
+      "isLink": false,
+      "lastModified": 1792645754756,
+      "link": "https://mega.nz/file/SP4W2bwL#8F73uQr9vBdIqXNI_vyRfrXAc7hhiUq1jJgvBMvG4-w",
+      "links": [
+        {
+          "label": "Setup_GCT_SRS_AUTH_TOOL_4.02",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/SP4W2bwL#8F73uQr9vBdIqXNI_vyRfrXAc7hhiUq1jJgvBMvG4-w"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1spnLVsgWhKNe4ZcdkcDjYA"
+            }
+          ]
+        },
+        {
+          "label": "Setup_AnonySHU_v4.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/yOR2DCiZ#aVWvvPDGGRDNgvcYgB_RDND_dKsYfwOuRrc_pjiJ8I4"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1Cz4zRX5v-L4amdxJMAGkQw"
+            }
+          ]
+        },
+        {
+          "label": "Setup_AnonySHU_v2.0.24.22_Pack.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/SK5l0ABR#olF1wCDxdFKJQZis7ugos6r-Rtsq0Zf3dNBpLdb0dOU"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1DejV_00NZkfg4SWtEyeb6A"
+            }
+          ]
+        },
+        {
+          "label": "Setup_AnonySHU_v2.0.24.15_Pack.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/PHRlVKpY#wnLXF6q_3rOK-3s6EsZt0nSq0kO82rYtqE_aHE33Ob4"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1rEw2UMfO-IuhZIb3nyeerg"
+            }
+          ]
+        },
+        {
+          "label": "Setup_AnonySHU_v2.0.24.10_Pack all fix.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/WK5j0TiA#yfHj11Prz5goKnBxbH87vSdSYp0pM3rL6BLeLSEX_8E"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1EaEpX6NSwJmQg3ROnOaRnA"
+            }
+          ]
+        },
+        {
+          "label": "GCT_AnonySHU_MDM_FIx.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/CKJUVZ4Z#77HmOR81nXCWMak-kGbbr3Hh89uJPPoje0ruPOsSLh8"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/18VWVgqTfR99L_3avSDsDqQ"
+            }
+          ]
+        },
+        {
+          "label": "GCT_AnonySHU_MDM_FIx_v2.0.24_Beta.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/2SgzQYyD#Qhafbv1xI5-FziegTyQ_rdKWzI5gyQctTy5sExeU6C8"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1EQh1s3eMuilcPP-2-M42XQ"
+            }
+          ]
+        },
+        {
+          "label": "GCT_AnonySHU_2.4.7.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/KTYUQLKY#BA64lc--8YZLiuV4-xQmxwewzKTLLJ-TdSX5wZ9rSzw"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1gBu89afMwUOY4QluPS2m-g"
+            }
+          ]
+        },
+        {
+          "label": "AnonySHU Tool v2.0.24.16.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/mXQFRSaJ#9v7glKs2ttMnP0inEM8_w84wkRkMO3aK0mk_POCvDK0"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1-lyuElsYf77X03dbYT8VyA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "AnonySHU Tool MDM IT",
+      "password": "",
+      "publishUrl": "anonyshu-tool-mdm-it",
+      "published": true,
+      "size": "50mb",
+      "unrarPassword": ""
+    },
+    "f_mvj34fjd_eu0367tts": {
+      "coverUrl": "https://updateborneo.com/assets/campaign/hero/2708e8876c2833f973ecd1286f9cb78d.jpg",
+      "covers": [
+        "https://updateborneo.com/assets/campaign/hero/2708e8876c2833f973ecd1286f9cb78d.jpg"
+      ],
+      "createdAt": 1792645965481,
+      "description": "Borneo Schematics Tools\nBorneo Installer v1.0.9700.19381\n2026-09-09\nAdd Multiview and fix bugs\n\nFullSetup Borneo Schematics 1.0.9659.13774 REV_2\n2026-06-17\nInstaller\n\nFullSetup_Borneo_Schematics 1.0.9659.13774\n2026-06-13\nInstaller",
+      "downloads": 0,
+      "folderId": "f_mqac0g2n_z22j9hons",
+      "isLink": false,
+      "lastModified": 1792645965481,
+      "link": "https://drive.google.com/file/d/1E_dJI6LVSpxbz7qDQqRyR12i_x-eGOmq/view",
+      "links": [
+        {
+          "label": "Borneo Installer v1.0.9700.19381",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1E_dJI6LVSpxbz7qDQqRyR12i_x-eGOmq/view"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/j77nra8bdh5oihu/Borneo_Installer_v1.0.9700.19381.zip/file"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/VZFH1AJC#D7NaSpyT-N3DLOqCAsIuls9gFRzyXT2FIqpxTQ-L3tg"
+            }
+          ]
+        },
+        {
+          "label": "Borneo Schematics 1.0.9659.13774 - New",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/wI90nTDY#yD_taV3DjpxP1lmBj-QA4y-YA1S9QtkVDxABZCfQMKg"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1ASviLm1pJHVrA3wJ9wzTLopHF_0SY_xY/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/bfrwsjojh24b7oh/Borneo_Installer_v1.0.9659.13774_-_New.rar/file"
+            }
+          ]
+        },
+        {
+          "label": "Borneo Schematics 1.0.9659.13774 REV_2",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/BYkEBSZL#fYNiNbHHDpn1dBnT4W1oMSfWGZXKrbSsbHgAAHkBnBg"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1mZOTkZNEkLFG0S5M6UdggzNT_zgZKB9E/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/esiv9onwtnr4d2c/Borneo_Installer_v1.0.9659.13774_[REV-2].rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/xYsWxJpD#wH2WWCwpOoOoglFeD8Pykf6NVuycF6QfmfPOwSHenyc"
+            }
+          ]
+        },
+        {
+          "label": "FullSetup_Borneo_Schematics 1.0.9  2026",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1ntxJwYjvdNXWFdTRcymW692AD4LKV4TH/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/hcVhhDZD#-3xkdJ6Au8n9Mwm4DbsiO3TwdZJNEzmY6uZg_l01RUQ"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/z6iu3xukqpizzdc/Borneo_Installer_v1.0.9659.13774.rar/file"
+            }
+          ]
+        },
+        {
+          "label": "Borneo support tools 2.0.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/wra4h2n5yh7i07f/BORNEO_SUPPORT_TOOL__v2.0.0.rar/file"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Borneo Schematics Tools All",
+      "password": "",
+      "publishUrl": "borneo-schematics-tools-all",
+      "published": true,
+      "size": "64.57MB",
+      "unrarPassword": ""
+    },
+    "f_mvj36fqx_b04751nsz": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy_mNryRS1PoWSsl9vzIk8Z4EKIpooTWMfuvzVgFDgim3eZLQXPAEfsr6GvfHtChdb4qLAg4-vfsqBCMKAAkCdNcm99QSYrs0iRBSH2HoBtFqbDEPfg773Cf4Ep0GkoEmrJF4OV10nzeO_ceaF44kiXsXhvQSLQKx0lOeqyxzE4jlM3SYGKuhgXoIu3WU/w640-h322/MaAnt%20Schematic%20V2.0.1.33%20FREE%20Bitmap.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy_mNryRS1PoWSsl9vzIk8Z4EKIpooTWMfuvzVgFDgim3eZLQXPAEfsr6GvfHtChdb4qLAg4-vfsqBCMKAAkCdNcm99QSYrs0iRBSH2HoBtFqbDEPfg773Cf4Ep0GkoEmrJF4OV10nzeO_ceaF44kiXsXhvQSLQKx0lOeqyxzE4jlM3SYGKuhgXoIu3WU/w640-h322/MaAnt%20Schematic%20V2.0.1.33%20FREE%20Bitmap.jpg"
+      ],
+      "createdAt": 1792646059065,
+      "description": "MaAnt Schematic V2.0.1.33 FREE",
+      "downloads": 0,
+      "folderId": "f_mqac0g2n_z22j9hons",
+      "isLink": false,
+      "lastModified": 1792646059065,
+      "link": "https://www.mediafire.com/file/dhnawztj7qn6q22/MaAnt2.0.1.33%25EF%25BC%2588%25E6%25B5%25B7%25E5%25A4%2596%25EF%25BC%2589.zip/file",
+      "links": [
+        {
+          "label": "MaAnt Schematic V2.0.1.33 FRE",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/dhnawztj7qn6q22/MaAnt2.0.1.33%25EF%25BC%2588%25E6%25B5%25B7%25E5%25A4%2596%25EF%25BC%2589.zip/file"
+            },
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/1c8bfd6ab984117e/IQBcqVqDp2wZT6sV04mrDeDRAeEUmqM-g2cM-GCn7eAB1ns?e=55cFLm"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MaAnt Schematic",
+      "password": "",
+      "publishUrl": "maant-schematic",
+      "published": true,
+      "size": "411mb",
+      "unrarPassword": ""
+    },
+    "f_mvj3y2a6_5wee6w6al": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSx1ksTMwmWO9ORJSozJT-xI63CDnSoXZCf9pZRlA1fj35GykbVWVIONZ39BLL7uhQ0UCK3qPy_DuPrFE5hC_vQgJsReKHgEbX1IpyhpqAQ8WX79Pm1_TqpNClOc36T1MZ15KOpBEh0PHgE1rnQ2Vhi_JMQI4thYR5QjJ53TwdN9NCEXxbbUkWrFnGkvsy/w640-h358/iOS%20Toolkit%20Apple%20Device%20Tools.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSx1ksTMwmWO9ORJSozJT-xI63CDnSoXZCf9pZRlA1fj35GykbVWVIONZ39BLL7uhQ0UCK3qPy_DuPrFE5hC_vQgJsReKHgEbX1IpyhpqAQ8WX79Pm1_TqpNClOc36T1MZ15KOpBEh0PHgE1rnQ2Vhi_JMQI4thYR5QjJ53TwdN9NCEXxbbUkWrFnGkvsy/w640-h358/iOS%20Toolkit%20Apple%20Device%20Tools.jpg"
+      ],
+      "createdAt": 1792647347982,
+      "description": "iOS Toolkit Apple Device Tools  Dashboard – Check Connected Apple Device\nThe Dashboard is the main place to start after connecting an Apple device. A connected device appears in the device selection area, and the toolkit can show detailed information about it.\n\nThere is also a Rescan Hardware button. This can be useful when you connect a device after the toolkit has already been opened.\n\nThe information area includes several fields, including:\n\nDevice Name – Shows the name of the connected device.\nModel Name – Displays the detected model.\nProduct Type – Shows the device product identifier.\niOS / Build – Displays the available iOS and build information.\nSerial Number – Shows the device serial number.\nUDID – Displays the device UDID.\nIMEI – Shows the available IMEI information.\nMEID – Displays the available MEID information.\nWi-Fi MAC – Shows the Wi-Fi address.\nBluetooth MAC – Shows the Bluetooth address.\nCPU Arch – Displays the CPU architecture information.\nHW Model – Shows the hardware model.\nSIM Status – Displays the available SIM status.\nLock Screen – Shows the available lock screen status.\nBattery and storage are also shown separately on the Dashboard using progress indicators.",
+      "downloads": 0,
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "isLink": false,
+      "lastModified": 1792647347982,
+      "link": "https://drive.google.com/file/d/1ZBRS1BNOY3luahufbIxITI7wGqACqVdh/view?usp=sharing",
+      "links": [
+        {
+          "label": "iOS Toolkit Apple Device Tools",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1ZBRS1BNOY3luahufbIxITI7wGqACqVdh/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/hydCVb5J#xjyYKDAa9NHrOU_0l69p3V0E727i-VYolTPpbDawiWQ"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1ha6MYggtsz8W2gEOq2pF4w"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iOS Toolkit Apple Device Tools",
+      "password": "",
+      "publishUrl": "ios-toolkit-apple-device-tools",
+      "published": true,
+      "size": "62mb",
+      "unrarPassword": ""
+    },
+    "f_mvj4gj8b_tegzqy5bh": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEitnHvwk24tpUe0TgNy6dEoRRZtxNVLEl22s5C4JJc7CJsLarX-aPeAa_hp3ohSRyo5r3Uxe5BsUP05htBUgAHOouuFRHdCkXMEPWAUch0D0WTAPT72oQFupK1Wz0Bxj7j7SVM75XEjSv28LCiwlje7p8TEpSIlZMxb4-8Z9AZl6YUKOTm-VHPR0mfYEEKK=w480-h640-rw",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEitnHvwk24tpUe0TgNy6dEoRRZtxNVLEl22s5C4JJc7CJsLarX-aPeAa_hp3ohSRyo5r3Uxe5BsUP05htBUgAHOouuFRHdCkXMEPWAUch0D0WTAPT72oQFupK1Wz0Bxj7j7SVM75XEjSv28LCiwlje7p8TEpSIlZMxb4-8Z9AZl6YUKOTm-VHPR0mfYEEKK=w480-h640-rw"
+      ],
+      "createdAt": 1792648209755,
+      "description": "What I Found\nThe developer has kept the information simple. Instead of saying every feature works perfectly, they mention exactly what is supported and what still has limitations. I actually prefer that because it gives a better idea of what to expect.\n\nSupports A12 and A13 devices.\nUses the usbliter8 exploit.\nSignal should remain working.\nFace ID is listed as working.\nCamera is also supported.\nUntethered bypass.\niCloud Sign-In may or may not work.\n\nInstallation Steps\nDownload the ZIP package.\nExtract the archive.\nEnter the password 123.\nOpen the extracted folder.\nRun Osiris Ramdisk.exe as Administrator.\nIf SmartScreen appears, click More Info.\nSelect Run Anyway.\n\nRegistration\n\nWebsite: http://iosnemes1s.org\nTelegram: @iosnemes1s\nTelegram: @sulegsm\nCurrent Price\n\n$5 per device during the first 24 hours.\nAfter that the price returns to $10 per device.\nThis is not a any sponsor post i have only review with all users.",
+      "downloads": 0,
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "isLink": false,
+      "lastModified": 1792648209755,
+      "link": "https://www.mediafire.com/folder/pcqe0314vaomo/Osiris+Ramdisk",
+      "links": [
+        {
+          "label": "Osiris Ramdisk v1.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/folder/pcqe0314vaomo/Osiris+Ramdisk"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Osiris Ramdisk v1 0",
+      "password": "",
+      "publishUrl": "osiris-ramdisk-v1-0",
+      "published": true,
+      "size": "12mb",
+      "unrarPassword": ""
+    },
+    "f_mvj4i2kq_rz5s4nxzl": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYzmXRrNrwXrgRPIkCl-V4ZnpZZIZkLSKcUsPyDbZ151UEMi45txTFq-eXIywLea9cQlC-nIVqFYDu72Nm3SOI8JxdpBy6OWqtuNbVbnFKdY0gUy00IRZ4meY7REBvysIGFKXPjDArh_xAcc73QnavFlUrXIHpYqBl8mBJRcS7yT-7NVOr0bJ3xAMUrk/s320/ByeiCloud%20v4.4.1.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYzmXRrNrwXrgRPIkCl-V4ZnpZZIZkLSKcUsPyDbZ151UEMi45txTFq-eXIywLea9cQlC-nIVqFYDu72Nm3SOI8JxdpBy6OWqtuNbVbnFKdY0gUy00IRZ4meY7REBvysIGFKXPjDArh_xAcc73QnavFlUrXIHpYqBl8mBJRcS7yT-7NVOr0bJ3xAMUrk/s320/ByeiCloud%20v4.4.1.png"
+      ],
+      "createdAt": 1792648281482,
+      "description": "ByeiCloud v4.4.1",
+      "downloads": 0,
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "isLink": false,
+      "lastModified": 1792648349177,
+      "link": "https://mega.nz/file/V29iBTaZ#FFucI2U7XwwXM4eOKWnIkYERA5dbh2OPuFUXPq9GUfI",
+      "links": [
+        {
+          "label": "ByeiCloud v4.4.1",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/V29iBTaZ#FFucI2U7XwwXM4eOKWnIkYERA5dbh2OPuFUXPq9GUfI"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1AfrtfhMqGsDArzC3HcmcCw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "ByeiCloud v4 4 1",
+      "password": "",
+      "publishUrl": "byeicloud-v4-4",
+      "published": true,
+      "size": "3mb",
+      "unrarPassword": ""
+    },
+    "f_mvj4kq5e_xxjn1v1yd": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIJ3zowM6PXxst-cN1g1CJw2ZYHDWV1BeozUjv5KQOaCfKr6yE_W2v0MCkmNQjM9TY9eu8zAbsHlSdZOySNrLKVxYGKa-lgjXk8OlsccoYNJ7HO0qugt3874oVrYY-xJ5oMsvuwAhxpSey0RIjWa6f7dNK1UsLpKGf2mj_Sg7X1E7kpA0kT8PiL8YQlbc/s600/Actived%20MR%20GSM%20PRO%20v9.1%20CrQck%20Download%20.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIJ3zowM6PXxst-cN1g1CJw2ZYHDWV1BeozUjv5KQOaCfKr6yE_W2v0MCkmNQjM9TY9eu8zAbsHlSdZOySNrLKVxYGKa-lgjXk8OlsccoYNJ7HO0qugt3874oVrYY-xJ5oMsvuwAhxpSey0RIjWa6f7dNK1UsLpKGf2mj_Sg7X1E7kpA0kT8PiL8YQlbc/s600/Actived%20MR%20GSM%20PRO%20v9.1%20CrQck%20Download%20.png"
+      ],
+      "createdAt": 1792648405346,
+      "description": "MR GSM PRO v9.1 CrQck MR GSM PRO v9.1 RAMDisk Options\nThe MR GSM PRO v9.1 tool offers powerful RAMDisk features that allow users to boot their devices into RAMDisk mode for various advanced operations. These RAMDisk options in MR GSM PRO v9.1 support multiple iOS versions and device models.\n\nCheck Device\nCheck Device 6/6P\nBoot RAM iPhone/iPad iOS 12 To 15\nBoot RAM iPhone iOS 16x\nBoot RAM iPad iOS 16 To 17x\nRAMDisk Passcode Backup\nRAMDisk Passcode Activate\nRAMDisk Erase",
+      "downloads": 8,
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "isLink": false,
+      "lastModified": 1792648405346,
+      "link": "https://mega.nz/file/wIERQIzQ#Tu-CqsJ-tPC19WD2DAsBPfB3Qoq145wqGdHHxI4vOII",
+      "links": [
+        {
+          "label": "MR GSM PRO v9 1 CrQck",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/wIERQIzQ#Tu-CqsJ-tPC19WD2DAsBPfB3Qoq145wqGdHHxI4vOII"
+            },
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/3c985ce697e29976/IQCMDpnYCJedSpvrSDKjhafFATwjHC3wkP2fdRXJt7FqQAQ?e=CxLkfi"
+            },
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/6AKTNHPWS0#106NvriPVCwv"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MR GSM PRO v9 1 CrQck",
+      "password": "",
+      "publishUrl": "mr-gsm-pro-v9-1-crqck",
+      "published": true,
+      "size": "14mb",
+      "unrarPassword": ""
+    },
+    "f_mvj4ljs2_4oyzku8id": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMvxu0nL529h7RUEnimooQ4vCvPkBHsRtbRfQfHGmF3pdafYTZumRpdLfu-QhwHO696khC2sfdC0hlrtptwpw3yt3zdLcmpnD98OHlffrfQzO38N1TCwjC429DsyW1nJv8wuXRJJRjoYY30DkcUnvOlZgNshfyQL6ROqoxnhmsb98N6MxHFMi8WdByWm-E/w640-h450/FrpFile%20MagicCFG%20V1.2%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMvxu0nL529h7RUEnimooQ4vCvPkBHsRtbRfQfHGmF3pdafYTZumRpdLfu-QhwHO696khC2sfdC0hlrtptwpw3yt3zdLcmpnD98OHlffrfQzO38N1TCwjC429DsyW1nJv8wuXRJJRjoYY30DkcUnvOlZgNshfyQL6ROqoxnhmsb98N6MxHFMi8WdByWm-E/w640-h450/FrpFile%20MagicCFG%20V1.2%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792648443746,
+      "description": "FrpFile MagicCFG V2.0 Free",
+      "downloads": 0,
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "isLink": false,
+      "lastModified": 1792648443746,
+      "link": "https://www.mediafire.com/folder/269k4tige5ue5/magic_cfg",
+      "links": [
+        {
+          "label": "FrpFile MagicCFG V2.0 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/folder/269k4tige5ue5/magic_cfg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "FrpFile MagicCFG V2 0 Free",
+      "password": "",
+      "publishUrl": "frpfile-magiccfg-v2-0-free",
+      "published": true,
+      "size": "5mb",
+      "unrarPassword": ""
+    },
+    "f_mvj4nyzb_arcobatbh": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvrFY0hZ-1XOIMMXZV7Bs0HvH3sGIGZKsRt42TqjyT9O197ttsOEEN8hZu1QI4PFY5wcs1HEJS5YdVKWOxnnykvDjMbeVe6p0mXhPGVL17E3Z5KciA0wdN4UW0fVaH4EcaehTIG02Hs-aRDbKBRWTWUhXZJMGpwSwe8hOk7lm-93_GhUvJFQz7bRHxe9S/w400-h225/iRFT%20Pro%20Tool%20V1.6%20Jailbreak%202024%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvrFY0hZ-1XOIMMXZV7Bs0HvH3sGIGZKsRt42TqjyT9O197ttsOEEN8hZu1QI4PFY5wcs1HEJS5YdVKWOxnnykvDjMbeVe6p0mXhPGVL17E3Z5KciA0wdN4UW0fVaH4EcaehTIG02Hs-aRDbKBRWTWUhXZJMGpwSwe8hOk7lm-93_GhUvJFQz7bRHxe9S/w400-h225/iRFT%20Pro%20Tool%20V1.6%20Jailbreak%202024%20Download.jpg"
+      ],
+      "createdAt": 1792648556759,
+      "description": "iRFT Pro Tool V1.6 Proxy FMI OffKey Features of iRFT Pro Tool V1.6\nThis tool brings advanced capabilities, including support for a wide range of Apple devices:\n\nSupport for iPhone/iPad models with advanced proxy FMI Off\nBypass GSM Signal for iOS 12-14.5.1 and signal-free bypass for iOS 12-14.8\nMDM bypass for all models, including iOS versions 7-17.4\nSupports passcode jailbreak, RAMDisk bypass, and hello screen bypass on iOS 15-17.x\nCompatible with Intel processors and optimized for checkm8BOT access on A7-A11 devices\nLifetime unlimited FMI Off, and verified support for iOS 10 through iOS 15",
+      "downloads": 0,
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "isLink": false,
+      "lastModified": 1792648556759,
+      "link": "https://mega.nz/file/xAYAWSga#RHi3riLcUvs2DprmUsFw81wXkWizS3BKPBp15yaupIM",
+      "links": [
+        {
+          "label": "iRFT Pro Tool V1.6 Proxy FMI Off",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/xAYAWSga#RHi3riLcUvs2DprmUsFw81wXkWizS3BKPBp15yaupIM"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1xKBS2KXboJNKSFp1j0DOCZ4ntwg-avmJ/view"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iRFT Pro Tool V1 6 Proxy FMI Off",
+      "password": "",
+      "publishUrl": "irft-pro-tool-v1-6-proxy-fmi-off",
+      "published": true,
+      "size": "104 mb",
+      "unrarPassword": ""
+    },
+    "f_mvj4yy7d_tb32kuhs8": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht6EUrPunFwfh7fWgzx9OqcOi_WqS2DpAj0jrSAzilcpZ06thyTagst1_UqBS9zMLZibhrVmZ2PAeQENmZRuXHQiX5K3C4eFljbufEbjdOUsCJCUWLYrA8QUcqXdjzZWI9xNmzVgQN9JM2MoBGe4k_uPLlU5YdcFTUAWV9tTn9zfmg6CigjPffeoR0XwXp/s600/HTH%20ND%20AIO%20Latest%20V2.7.4%20Released%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht6EUrPunFwfh7fWgzx9OqcOi_WqS2DpAj0jrSAzilcpZ06thyTagst1_UqBS9zMLZibhrVmZ2PAeQENmZRuXHQiX5K3C4eFljbufEbjdOUsCJCUWLYrA8QUcqXdjzZWI9xNmzVgQN9JM2MoBGe4k_uPLlU5YdcFTUAWV9tTn9zfmg6CigjPffeoR0XwXp/s600/HTH%20ND%20AIO%20Latest%20V2.7.4%20Released%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792649068969,
+      "description": "Ramdisk Functions: Access advanced iOS functions including boot ramdisk, factory resets, passcode backups, and Apple ID recovery.\nJailbreak Compatibility: Supports CheckRa1n and WinRa1n methods for jailbreaking iOS 11-17 versions.\nOTA Blocking: Prevent over-the-air updates to maintain device stability and bypass restrictions efficiently.\nApple ID and iCloud Features: Easily access, read, and manage Apple ID data, hidden iCloud features, and device restrictions.",
+      "downloads": 0,
+      "folderId": "f_mp6sunl4_or57y3gxd",
+      "isLink": false,
+      "lastModified": 1792649068969,
+      "link": "https://www.mediafire.com/file/tw5ic7ftaubf0ih/HTH_ND_AIO_2.7.0%2528Password_123%2529.zip/file",
+      "links": [
+        {
+          "label": "HTH ND AIO Latest V2.7.4 Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/tw5ic7ftaubf0ih/HTH_ND_AIO_2.7.0%2528Password_123%2529.zip/file"
+            },
+            {
+              "password": "",
+              "url": "https://workupload.com/file/uDH3rCNEsVC"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "HTH ND AIO Latest V2 7 4",
+      "password": "",
+      "publishUrl": "hth-nd-aio-latest-v2-7-4",
+      "published": true,
+      "size": "131mb",
+      "unrarPassword": ""
+    },
+    "f_mvj51d66_pxt968emp": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_y24sSWKhJF9REauhRANd-9FSaRN1EbloUf-0Q_R3IqFVT9YVKpaOu26Mxye0O52fiqImdgbRUWE69EvW9mqRK-u8683DqSd3LCEzWSqmVu-KkwHy4YcUniLUtSy8gRHGPnnS7akWfSvZZiwg8kXdSgIcvy9ucMTrRhjaWRqZaLMDtfJYY5Ag3iyLFHh/s1600/Sharp%20Odin%20Protocol%20By%20Anas%20v1.0.0.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_y24sSWKhJF9REauhRANd-9FSaRN1EbloUf-0Q_R3IqFVT9YVKpaOu26Mxye0O52fiqImdgbRUWE69EvW9mqRK-u8683DqSd3LCEzWSqmVu-KkwHy4YcUniLUtSy8gRHGPnnS7akWfSvZZiwg8kXdSgIcvy9ucMTrRhjaWRqZaLMDtfJYY5Ag3iyLFHh/s1600/Sharp%20Odin%20Protocol%20By%20Anas%20v1.0.0.jpg"
+      ],
+      "createdAt": 1792649181678,
+      "description": "Sharp Odin Protocol By Anas v1.0.0 Free Download\nFeatures\nLoad BL firmware packages\nLoad AP firmware packages\nLoad CP firmware packages\nLoad CSC firmware packages\nSupport TAR, MD5 and LIMRA firmware bundles\nSelect a PIT file\nRead PIT from the connected device\nLZ4-aware partition detection\nLZ4 partition flashing\nAuto Reboot option\nRepartition option\nUpdate BOOT option\nClear EFS option\nLive color-coded console log\nPer-file progress bar\nDark Guna.UI2 interface\nFrameless window design\nRounded interface controls\nWhat's New in Sharp Odin Protocol v1.0.0\nFirst public open-source release of Sharp Odin Protocol By Anas.\nAdded support for loading BL, AP, CP and CSC firmware bundles.\nAdded support for TAR, MD5 and LIMRA packages.\nAdded PIT file selection and Read PIT from device.\nAdded LZ4-aware partition detection and flashing.\nAdded Auto Reboot, Repartition, Update BOOT and Clear EFS options.\nAdded a live color-coded console log with per-file progress information.\nAdded a dark Guna.UI2 interface with a frameless window and rounded corners.\nHow to Install Sharp Odin Protocol v1.0.0\nDownload the Sharp Odin Protocol v1.0.0 package.\nExtract the downloaded archive if it is provided as a ZIP file.\nOpen the extracted tool folder.\nRun the Sharp Odin Protocol application.\nIf Windows asks for permission, allow the application to run.\nThe Samsung Advanced Flasher interface will open and you can start loading the required firmware files.",
+      "downloads": 0,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792649181678,
+      "link": "https://mega.nz/file/SxQQiKaS#8LOQD9XsugxpWPST0LVZD9NUdaA1AkuVGs16LvZrwoQ",
+      "links": [
+        {
+          "label": "Sharp Odin Protocol By Anas v1.0.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/SxQQiKaS#8LOQD9XsugxpWPST0LVZD9NUdaA1AkuVGs16LvZrwoQ"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZq2SRJZy29YTv0v5AV3SxfDWYw5E4GQn9Hk"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1w6E6Ymn8hHhLWX2jBAX4Iw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Sharp Odin Protocol By Anas v1",
+      "password": "",
+      "publishUrl": "sharp-odin-protocol-by-anas-v1",
+      "published": true,
+      "size": "3.5mb",
+      "unrarPassword": ""
+    },
+    "f_mvj542bq_70rk7pi94": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpT2QCO8KhKKVjd0T3ePRQ0vz48FiT9_eKGGyB245WTMHeweebrtFoSk4gKBZ12G_W39hhZPJlYk0RN7To7FmrjVvz7BW49kzc0UJtwdaXckDTWt6VCMZmNgJpCE6nOG_m4F_JeG3THQ0Rw_i8OWH0PvqBqwAamlKjTar1-kirXKgiFSNSgRX8hhf24nT/w640-h360/Samsung%20PIT%20to%20Qualcomm%20XML%20Tool.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpT2QCO8KhKKVjd0T3ePRQ0vz48FiT9_eKGGyB245WTMHeweebrtFoSk4gKBZ12G_W39hhZPJlYk0RN7To7FmrjVvz7BW49kzc0UJtwdaXckDTWt6VCMZmNgJpCE6nOG_m4F_JeG3THQ0Rw_i8OWH0PvqBqwAamlKjTar1-kirXKgiFSNSgRX8hhf24nT/w640-h360/Samsung%20PIT%20to%20Qualcomm%20XML%20Tool.jpg"
+      ],
+      "createdAt": 1792649307590,
+      "description": "Samsung PIT to Qualcomm XML Tool Samsung PIT to Qualcomm XML Tool Free Download\nFeatures\nConvert Samsung firmware information into Qualcomm XML.\nUse GPT dumps from the device or a dump during the XML conversion.\nUse a PIT file to get accurate partition names.\nExtract BL, AP, CP and CSC files from Samsung firmware.\nDecompress the extracted firmware files, including LZ4 files.\nCreate XML files with partition addresses and names from the firmware information.\nFlash Device section with UFS and eMMC memory type options.\nSupport for Firehose loader, QSaharaServer.exe and fh_loader.exe.\nWork with rawprogram XML files and extracted firmware folders.\nUse a sector size of 4096 bytes.\nHow to Install\nDownload the tool file from the link given below.\nExtract the downloaded archive if it is provided in a compressed format.\nOpen the extracted tool folder.\nRun the tool application.\nUse the Convert to XML, Flash Device or Extract All section as needed.",
+      "downloads": 0,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792649307590,
+      "link": "https://www.androidfilehost.com/?fid=17900174959292978036",
+      "links": [
+        {
+          "label": "Samsung PIT to Qualcomm XML Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.androidfilehost.com/?fid=17900174959292978036"
+            },
+            {
+              "password": "",
+              "url": "https://transfer.it/t/vy8nV58T1RDK"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1lCavT9UyOO50NdgHbU2XLg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Samsung PIT to Qualcomm",
+      "password": "",
+      "publishUrl": "samsung-pit-to-qualcomm",
+      "published": true,
+      "size": "3 Mb",
+      "unrarPassword": ""
+    },
+    "f_mvj58xpe_l051lo2cv": {
+      "coverUrl": "https://windows-cdn.softpedia.com/screenshots/Odin-3_1.png",
+      "covers": [
+        "https://windows-cdn.softpedia.com/screenshots/Odin-3_1.png"
+      ],
+      "createdAt": 1792649534882,
+      "description": "odin3_v3.14.1.zip",
+      "downloads": 0,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792649534882,
+      "link": "https://mega.nz/file/17tjFa5C#7L7aG15ytLQq0vJzREnZkQ8AulqPU3kPkmHJjKigXy0",
+      "links": [
+        {
+          "label": "odin3_v3.14.1.zip",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/17tjFa5C#7L7aG15ytLQq0vJzREnZkQ8AulqPU3kPkmHJjKigXy0"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1hd5POPNUcdCWiHQ1ll3PUg"
+            }
+          ]
+        },
+        {
+          "label": "odin-3-12-3.zip",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/d2NBEKBC#YMWizggI-4xsfLByLI-WFFtHAG2kkHr7tAmllGH69JM"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1k10YDDymQBTb3PsaFu6BNg"
+            }
+          ]
+        },
+        {
+          "label": "Odin3_v3.10.7.zip",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/o2d21aza#Erb1EtUJvHrRWUdCuPguu0nRTMA4hinrwjPk91RiRWY"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1fNd3IE8cqEQorblH49BffQ"
+            }
+          ]
+        },
+        {
+          "label": "Odin307.zip",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/d7c2waZR#azBXPF1Cc93637Lgg8TJOunAm1Z6HJ98MCBTE2VMX9Q"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1wGuXDGNsMar12aIN5RmeKg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "odin3 v3 14 1",
+      "password": "",
+      "publishUrl": "odin3-v3-14-1",
+      "published": true,
+      "size": "2.5MB",
+      "unrarPassword": ""
+    },
+    "f_mvj5afle_av6lw5rg3": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdHSy1DtszpisIonUr9oI5PpUvU_wGd9MzlKklfSPG04ms34ba-KkVsYF0AR0BlmpAQ2nKY0h_l9OEs9Tg8l_09p5dgLoc1MqBSi4WeQrnXUrP00W83ve368S1eigxT2HNgqtMRl8Tvs8NMaD5x07YVl60J4KgD0Xmn7M7Paz8eROPx7VJAdI_1WFqdsQ/s320/SamsungFrp%20Tool.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdHSy1DtszpisIonUr9oI5PpUvU_wGd9MzlKklfSPG04ms34ba-KkVsYF0AR0BlmpAQ2nKY0h_l9OEs9Tg8l_09p5dgLoc1MqBSi4WeQrnXUrP00W83ve368S1eigxT2HNgqtMRl8Tvs8NMaD5x07YVl60J4KgD0Xmn7M7Paz8eROPx7VJAdI_1WFqdsQ/s320/SamsungFrp%20Tool.png"
+      ],
+      "createdAt": 1792649604722,
+      "description": "Samsung Frp Tool",
+      "downloads": 0,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792649604722,
+      "link": "https://mega.nz/file/tyEi1BZR#7x9A4Nmpqp9eehHQzNQel8EFIJbquZAtsywUhl4WqnM",
+      "links": [
+        {
+          "label": "SamsungFrp Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/tyEi1BZR#7x9A4Nmpqp9eehHQzNQel8EFIJbquZAtsywUhl4WqnM"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1JfTnRfOdf3pz_dc-FaZMxg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Samsung Frp Tool",
+      "password": "",
+      "publishUrl": "samsung-frp-tool",
+      "published": true,
+      "size": "2mb",
+      "unrarPassword": ""
+    },
+    "f_mvj5cmsi_thm7cjfgy": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWQ3D00zJAosUyJ4wqXoQVOtnB2cIjCQgwzXypJo78mgRwctJLDbehhNSp3eGFvPgJ4WzA7ZVvtTeddclDkAr0D8B8FUt3Uhgs4sYjHOZKyeO3nMKAtb_Tf5ung_s8kr4PiLX6Mo61Ro_y_1eDsr5T2Zl-o1X7MSP5AfG-w-2ftks6F7YUiOYDHMTy1Zk/w640-h386/Samsung%20Flashing%20Utility%20Free%20Downloadd.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWQ3D00zJAosUyJ4wqXoQVOtnB2cIjCQgwzXypJo78mgRwctJLDbehhNSp3eGFvPgJ4WzA7ZVvtTeddclDkAr0D8B8FUt3Uhgs4sYjHOZKyeO3nMKAtb_Tf5ung_s8kr4PiLX6Mo61Ro_y_1eDsr5T2Zl-o1X7MSP5AfG-w-2ftks6F7YUiOYDHMTy1Zk/w640-h386/Samsung%20Flashing%20Utility%20Free%20Downloadd.png"
+      ],
+      "createdAt": 1792649707362,
+      "description": "Samsung Flashing Utility Free",
+      "downloads": 0,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792649707362,
+      "link": "https://www.mediafire.com/file/ng6pycip52p963f/Samsung_Flashing_Utility.7z/file",
+      "links": [
+        {
+          "label": "Samsung Flashing Utility Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/ng6pycip52p963f/Samsung_Flashing_Utility.7z/file"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/9j9QzAYK#FE3zKCkMSoA9beiWXMwe7z3oGq_on_aV9wi6GI-oLBo"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1oUiBwcW-3iyxu8rKHS0i4Q"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Samsung Flashing Utility Free",
+      "password": "",
+      "publishUrl": "samsung-flashing-utility-free",
+      "published": true,
+      "size": "2mb",
+      "unrarPassword": ""
+    },
+    "f_mvj5dl5i_zu1d82cni": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNOUnomawaIzxrdTxeP0evrScl7N9FC53Yq9teMoeyX-qAqFJTnZXyzdE6V-nUk_dfQsu42fOAUvnBSQdKzo2m-rsfK0stKlNvWF4qmcz2z39QXqadH0JbBzClU-IgCE2qTg4SDnk2GfRAgT4ONzuJztmozBRZ8KeRgzDVBRxs1kYRmmSePci36GyLgU/s320/Samsung%20Service%20Tool%20V1.0.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNOUnomawaIzxrdTxeP0evrScl7N9FC53Yq9teMoeyX-qAqFJTnZXyzdE6V-nUk_dfQsu42fOAUvnBSQdKzo2m-rsfK0stKlNvWF4qmcz2z39QXqadH0JbBzClU-IgCE2qTg4SDnk2GfRAgT4ONzuJztmozBRZ8KeRgzDVBRxs1kYRmmSePci36GyLgU/s320/Samsung%20Service%20Tool%20V1.0.jpg"
+      ],
+      "createdAt": 1792649751894,
+      "description": "Samsung Service Tool V1.0",
+      "downloads": 0,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792649751894,
+      "link": "https://mega.nz/file/0rNiHYAC#aUfnwJre1zce4o0eSRbGHHOp8jPYV4cCulFLg3N7jqU",
+      "links": [
+        {
+          "label": "Samsung Service Tool V1.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/0rNiHYAC#aUfnwJre1zce4o0eSRbGHHOp8jPYV4cCulFLg3N7jqU"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/18hsAFy4j-6iIobDwZFYjgw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Samsung Service Tool V1 0",
+      "password": "",
+      "publishUrl": "samsung-service-tool-v1-0",
+      "published": true,
+      "size": "87mb",
+      "unrarPassword": ""
+    },
+    "f_mvj5hll8_z1ul42zrd": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_euDnecUmIZbn_cc0JED9phzHiPgMeslqmVSzfN_UK2sAs2Q2z0OgnSINYZLQRgz0bqivVXGygC7ERNKGXfWOvL6MQ0sH4fqBAVFodoTmQ_qmpjaHSLnOfe04dSOzc9t8NU0avrNENy_ujTISHQ1DlrCI3SoGKmB21aloKq8mYMnBwNxKT9Yo3DBvT74/s320/GSM%20Crack%20Hunter%20Team%20FRP%20Tool%202018By%20MobileFlasherbd%20R%20Jonaki%20Telecom.exe.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_euDnecUmIZbn_cc0JED9phzHiPgMeslqmVSzfN_UK2sAs2Q2z0OgnSINYZLQRgz0bqivVXGygC7ERNKGXfWOvL6MQ0sH4fqBAVFodoTmQ_qmpjaHSLnOfe04dSOzc9t8NU0avrNENy_ujTISHQ1DlrCI3SoGKmB21aloKq8mYMnBwNxKT9Yo3DBvT74/s320/GSM%20Crack%20Hunter%20Team%20FRP%20Tool%202018By%20MobileFlasherbd%20R%20Jonaki%20Telecom.exe.jpg"
+      ],
+      "createdAt": 1792649939084,
+      "description": "GSM Crack Hunter Team FRP Tool",
+      "downloads": 2,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792649939084,
+      "link": "https://mega.nz/file/IjVigSBa#v8bQGas9oI3f4c0OaHbleXcQdt3hNw6VHDz0U9UZdFU",
+      "links": [
+        {
+          "label": "GSM Crack Hunter Team FRP Tool",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/IjVigSBa#v8bQGas9oI3f4c0OaHbleXcQdt3hNw6VHDz0U9UZdFU"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1LvhCnoMGkko5DN5jvuZ4rg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "GSM Crack Hunter Team FRP Tool",
+      "password": "",
+      "publishUrl": "gsm-crack-hunter-team-frp-tool",
+      "published": true,
+      "size": "2mb",
+      "unrarPassword": ""
+    },
+    "f_mvj5konm_1n9t9y15s": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xDloETX_uyHXw_IVeLE0Y6wEiZOUjYiui-BW3ZVKeRjEZV9R5G0omOiNX-7nYSe_0Q_VA1u_PmUnfC2IPl68xBvp11v7fNf3Bv-Qqb2pjE77EefnFXvmDTeDfdxkbAE1MgNYjWElo32RMhr9cv_3J-7HFlkX-O707LVjmI7Nr5szQo_Oy9pvyCfSzRkH/w640-h492/Samsung%20Firehose%20Tools.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xDloETX_uyHXw_IVeLE0Y6wEiZOUjYiui-BW3ZVKeRjEZV9R5G0omOiNX-7nYSe_0Q_VA1u_PmUnfC2IPl68xBvp11v7fNf3Bv-Qqb2pjE77EefnFXvmDTeDfdxkbAE1MgNYjWElo32RMhr9cv_3J-7HFlkX-O707LVjmI7Nr5szQo_Oy9pvyCfSzRkH/w640-h492/Samsung%20Firehose%20Tools.jpg"
+      ],
+      "createdAt": 1792650083026,
+      "description": "Samsung Firehose Downloader Tools",
+      "downloads": 1,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792650083026,
+      "link": "https://www.mediafire.com/file/zvpwkbpuoxrer46/Samsung+Firehose+Tools.rar/file",
+      "links": [
+        {
+          "label": "Samsung Firehose Downloader Tools",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/zvpwkbpuoxrer46/Samsung+Firehose+Tools.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZrXeb5Zor87pBU1EV4j8X9s8Bo3fmMpQ0rX"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Samsung Firehose Downloader Tools",
+      "password": "",
+      "publishUrl": "samsung-firehose-downloader-tools",
+      "published": true,
+      "size": "50 MB",
+      "unrarPassword": ""
+    },
+    "f_mvj5nps2_uaaydai1h": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjliP08XEdk_FQhOT9ViYIG7V_bpZ66eNFOMF_JOOYSvMKi31vyLhsXkazuJDUk7rmZIkGlcDkAmIllr37zT158y_82NoeGPgx6ptat48rK_5PG9sc2cI5tWD9HL4925dwfZNso6XjWci7W5H8Ipc0tsPwuuIW1-qIFLcTo4p6amxc2WP4hJ6wnuoJYpZTZ/w640-h312/ZeroKnox%20Removal%20V2.1%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjliP08XEdk_FQhOT9ViYIG7V_bpZ66eNFOMF_JOOYSvMKi31vyLhsXkazuJDUk7rmZIkGlcDkAmIllr37zT158y_82NoeGPgx6ptat48rK_5PG9sc2cI5tWD9HL4925dwfZNso6XjWci7W5H8Ipc0tsPwuuIW1-qIFLcTo4p6amxc2WP4hJ6wnuoJYpZTZ/w640-h312/ZeroKnox%20Removal%20V2.1%20Download.jpg"
+      ],
+      "createdAt": 1792650224450,
+      "description": "ZeroKnox Removal Tool",
+      "downloads": 1,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792650224450,
+      "link": "https://vexfile.com/download/jpz9Ee7arh",
+      "links": [
+        {
+          "label": "ZeroKnox Removal V2.3",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://vexfile.com/download/jpz9Ee7arh"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/flfaz3i8ydvjavq/zeroknoxremoval_setup_v2.3.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZHgdx5Z1YCtY9EK68fEY2uP8fcmjLBkcbOy"
+            },
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/193A6G9DD8#gWXU5wPhNX1a"
+            }
+          ]
+        },
+        {
+          "label": "ZeroKnox Removal V2.1",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/WQTE0NW1RM#4ONDkkDCLQh2"
+            },
+            {
+              "password": "",
+              "url": "http://www.mediafire.com/file/m88qlzkbahj3udy/zeroknox_setup_2.1.7z"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1yGCJSNHfczm8JsH0n_Sb7jtRYop39nvW/view?usp=sharing"
+            }
+          ]
+        },
+        {
+          "label": "ZeroKnox Removal Tool  V1.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/ect6humdi2543gi/ZeroKnox+Removal+v1.6.rar/file"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "ZeroKnox Removal Tool",
+      "password": "",
+      "publishUrl": "zeroknox-removal-tool",
+      "published": true,
+      "size": "65mb",
+      "unrarPassword": ""
+    },
+    "f_mvjgxfri_s7nvb11wv": {
+      "coverUrl": "https://samfw.com/blog_images/samfw-frp-tool-32-remove-samsung-frp-one-click-1000x400.png",
+      "covers": [
+        "https://samfw.com/blog_images/samfw-frp-tool-32-remove-samsung-frp-one-click-1000x400.png",
+        "https://samfw.com/blog_images/samfwtool/nO1uzkG.png"
+      ],
+      "createdAt": 1792669153806,
+      "description": "Today, we introducing SamFw FRP Tool version 6.2\n\nMain function:\n\nRemove FRP with one click\nChange CSC with one click \nRemove FRP for new security patch (Aug 2022)\nRemove FRP paid method\nRead info, Factory reset, Reset FRP\nRemove FRP with one click\n\nConnect the phone to the PC, and install the Samsung driver if you have not yet installed\nGo to emergency call then type *#0*#\nClick Remove FRP on the Tool\nClick Accept USB debugging on the phone if it appears\nThe phone will finish and reboot after removing FRP\n\nMD5 SamFwTool.exe: 80661ebbd6e36e29e245a92bbe9108b8\n\nMD5 SamFwToolSetup_v6.2.zip: 8e86f089cb48b1601ee41fb83863df06",
+      "downloads": 0,
+      "folderId": "f_mppfc768_ya5wj6h2f",
+      "isLink": false,
+      "lastModified": 1792669153806,
+      "link": "https://transfer.it/t/IxFL0XtHUDaB",
+      "links": [
+        {
+          "label": "SamFw Tool 6.2",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://transfer.it/t/IxFL0XtHUDaB"
+            },
+            {
+              "password": "",
+              "url": "https://samfw.com/SamFwToolSetup_v6.2.zip"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "SamFw Tool 6.2",
+      "password": "",
+      "publishUrl": "samfw-tool-62",
+      "published": true,
+      "size": "72.03mb",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -4915,7 +7604,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-22T01:41:44.832Z",
+    "createdAt": "2026-10-22T11:46:00.065Z",
     "version": "2.0",
     "sections": 4
   }
