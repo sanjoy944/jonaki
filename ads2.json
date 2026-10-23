@@ -1265,6 +1265,9 @@
     "f_mqesd3up_bjr1ni0dl": {
       "downloads": 1
     },
+    "f_mqesg82b_1cuuiugol": {
+      "downloads": 2
+    },
     "f_mqf4wq7k_zpj20j7c5": {
       "downloads": 2
     },
@@ -1692,7 +1695,7 @@
       ],
       "createdAt": 1790428284306,
       "description": "TTA Fastboot Flasher V2.0 Free Download\nWhat I Found in the Tool\nThe main window has a simple flashing panel. At the top, there are buttons for Load .bat and Refresh devices. There is also a dropdown showing (auto) and an Extra args field with -w (optional).\n\nThe flashing list shows different partitions and their status. In the provided screenshot, several entries are marked as OK, including boot_a, hyp_ab, uefi_ab, uefisecapp_ab, spu service_ab, modem_ab, modemfirmware_ab, bluetooth_ab, dsp_ab, keymaster_ab, qupfw_ab, multimgoin_ab, multimqti_ab, cpucp_ab, logfs, rescue, storsec, and toolsfv.\n\nThe right side of the window displays the fastboot output. It shows boot_a being written, followed by a successful partition message. The tool then runs fastboot set_active a and changes the current slot to a. After that, fastboot reboot is shown and the device is rebooted.Fastboot Flashing Process Shown in the Screenshot\nThe screenshot shows the tool working through a flashing job using the loaded batch file. Each partition appears in the list with its file path and result. Several operations are marked OK, showing that those steps completed in the displayed session.\n\nAt the bottom of the window, there is a Start button and a Stop button. A green progress bar is also visible while the flashing process is running.\n\nOn the right side, the console ends with the device reboot command and the message ===== END =====. The supplied information also reports the K80 flashing process as done.\n\nUsing TTA Fastboot Flasher\nOpen TTA Fastboot Flasher.\nUse Load .bat to load the required batch file.\nConnect the device in the required fastboot mode.\nUse Refresh devices if the device needs to be detected again.\nCheck the flashing entries shown in the tool.\nUse the Start button to begin the process.\nThe screenshot shows the batch file name as flash_all.bat. The tool also has an optional Extra args field where -w is shown.\n\nFor K80 Flashing\nThe provided information specifically mentions using TTA Fastboot Flasher for a K80 where the process was getting stuck at super. The supplied note says that users with a 4GB RAM PC who are facing this kind of super-related stuck issue can try the tool.\n\nFastboot Flasher V2.0 Changelog\nMain Uses\nAdded support for Temporary Bootloader Unlock (Temp BL).\nCan be used to flash ENG firmware after Temp BL.\nCan help with safe flashing of Locked Global firmware after ENG flashing.\nSupports removing ABL and flashing it back later.\nUseful for different Fastboot firmware flashing tasks.\nNote\nContact via CB to get the Fastboot Flasher.\nDownload TTA Fastboot Flasher\nThe download link provided for TTA Fastboot Flasher is available below. The password supplied with the file is tta.",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1790428284306,
@@ -2017,7 +2020,7 @@
       ],
       "createdAt": 1790593448128,
       "description": "How to Install\nDownload the TF MTK Tool package.\nExtract the downloaded ZIP file.\nOpen the extracted TF MTK Tool folder.\nRun the TF MTK Tool executable.\nWhen the login window opens, create a new account if you do not already have one.\nEnter your username, email and password during registration.\nReturn to the login screen after successful registration.\nEnter your login details.\nUse the remember login option if you want the tool to save your login details.\nClick the Login button to open the main TF MTK Tool interface.\nAdded Meta Mode option.\nAdded option for reboot to normal \nAdded Automatically Usb Detection\nAdded More Brand & Model\nFixed Some Known Bugs \nPowerful MediaTek Tool for Mobile Technicians | New MTK Flash & Service Tool\nToday we introduce TF MTK Tool v1.0, a powerful MTK tool with multiple servicing functions in one simple interface.\n\n🔥 TF MTK Tool Features :\n✅ MediaTek Firmware Flashing\n✅ Download Agent (DA) Support\n✅ AUTH File Support\n✅ Preloader Selection\n✅ Patch DA\n✅ SLA / DAA / SBC-related functions\n✅ Crash Preloader\n✅ FRP-related service functions\n✅ Format Device\n✅ Bootloader Unlock / Relock\n✅ Read / Write functions\n✅ Partition functions \n✅ RPMB\n✅ Keys\n✅ Network functions\n✅ Clean and easy-to-use interface\nThe tool is being developed with mobile technicians in mind, and more device support and features will be added in future updates.\n📌 Tool: TF MTK Tool\n📌 Version: 1.0\n📍 Developer/Brand: Techno Fayez",
-      "downloads": 2,
+      "downloads": 3,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1792332552476,
@@ -2123,7 +2126,7 @@
       ],
       "createdAt": 1790824309371,
       "description": "Unlock Tool Cracked BY EVW88  inks:\n- Bot: https://t.me/evw88_bot\n- Group: https://t.me/evw88_chat\n- Channel: https://t.me/evw88_channel\n- uTool download: [DOWNLOAD LINK]\n\n1) Download uTool (utool.rar) from the link above.\n2) Extract the archive with password: evw88\n3) Open the extracted \"last\" folder and run \"unlocktool loader.exe\".\n4) In the tool, open the License window and copy your HWID shown there.\n5) Open the bot: https://t.me/evw88_bot and press Start.\n   Joining the channel is required to use the bot: https://t.me/evw88_channel\n6) In the bot menu choose one option:\n   - \"Get license\": share your link — each friend who joins the channel gives\n     you +1 day — then choose how many days you need.\n   - \"Redeem code\": if you already have a code (evw88-XXXX-XXXX).\n7) When the bot asks for your HWID — paste the HWID you copied in step 4.\n8) The bot sends you a serial. Copy it.\n9) Back in the tool: License window -> paste the serial -> Activate.\n10) Done — the tool runs.\n\nNeed help? Group: https://t.me/evw88_chat\n\n\n>> FRANCAIS <<\n\nLiens :\n- Bot : https://t.me/evw88_bot\n- Groupe : https://t.me/evw88_chat\n- Canal : https://t.me/evw88_channel\n- Telechargement uTool : [LIEN DE TELECHARGEMENT]\n\n1) Telechargez uTool (utool.rar) depuis le lien ci-dessus.\n2) Extrayez l'archive avec le mot de passe : evw88\n3) Ouvrez le dossier \"last\" extrait et lancez \"unlocktool loader.exe\".\n4) Dans l'outil, ouvrez la fenetre License et copiez votre HWID affiche.\n5) Ouvrez le bot : https://t.me/evw88_bot et appuyez sur Start.\n   L'adhesion au canal est obligatoire : https://t.me/evw88_channel\n6) Dans le menu du bot choisissez une option :\n   - \"Get license\" : partagez votre lien — chaque ami qui rejoint le canal\n     vous donne +1 jour — puis choisissez le nombre de jours.\n   - \"Redeem code\" : si vous avez deja un code (evw88-XXXX-XXXX).\n7) Quand le bot demande votre HWID — collez celui copie a l'etape 4.\n8) Le bot vous envoie un serial. Copiez-le.\n9) Retour dans l'outil : fenetre License -> coller le serial -> Activate.\n10) C'est fait — l'outil fonctionne.\n\nBesoin d'aide ? Groupe : https://t.me/evw88_chat",
-      "downloads": 48,
+      "downloads": 50,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1790849799088,
@@ -2210,7 +2213,7 @@
       ],
       "createdAt": 1790992193697,
       "description": "ZS Smart Detect V4 Powered by Zia Shaheen.exe",
-      "downloads": 1,
+      "downloads": 5,
       "folderId": "f_mp6svh7k_05u4ub0r8",
       "isLink": false,
       "lastModified": 1790993108408,
@@ -2542,7 +2545,7 @@
       ],
       "createdAt": 1791514105333,
       "description": "EFT PRO CraCked Limit Free Download and Test Now.\n\nLOGIN INFO :: \nFirst of all signup here with your gmail account.\nThen download launcher 0.3.exe\nRun launcher as admin\nClick on start and then run eft pro exe.\nIt will show wrong email and password.\nEnter your own gmail address to eft pro and password type randomly.\nEnjoy",
-      "downloads": 68,
+      "downloads": 72,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1791520677938,
@@ -2735,7 +2738,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 1223,
+      "downloads": 1232,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -3022,7 +3025,7 @@
       ],
       "createdAt": 1792247408913,
       "description": "Vnboard schematic diagram Free Download Software update v1.2.250\n📥 Which file do I download?\nNew user (first install): download VNboards_Setup.exe and run it — the installer asks where to install, creates a Desktop shortcut, then opens the app.\nAlready installed: you do not need anything here — open the app and click ⟳ Update; it updates itself.\nIgnore VNboards_Update.zip (used internally by the self-update mechanism) and the two Source code entries (GitHub generates those for every release; they are not the app).\n📥 Which file should I download?\nNEW users (never installed before): download VNboards_Setup.exeand run — the installer will ask where to save and create a desktop shortcut, then automatically open the app.\nAlready installed: no need to download anything here — open the app, tap the ⟳ Update button and the app will download automatically.\nIgnore VNboards_Update.zip(the HIDDEN file for the auto-update mechanism, not for manual downloading) and the two Source code sections (GitHub automatically generates this for all releases, not the app).",
-      "downloads": 3,
+      "downloads": 4,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1792381149179,
@@ -3914,7 +3917,7 @@
       ],
       "createdAt": 1792383621509,
       "description": "OLD Token: 1499c38f6765c0608fa573e972bea22e\n\nNEW Token :: a87f2e19c0b4d588e6129fa43c5b881d\n\n🚀 Mysterious-Dev Tool Update V1.2.8 OTA Out Now\nA new OTA update is officially released with major engine upgrades, protocol enhancements, and stability fixes.\nWhat is New in V1.2.8 :\n\nDevice Locks and FRP Module\n* Enhanced Samsung FRP via Test Mode over MTP\n* Full optimized support for Samsung FRP Android 16 Direct via MTP\n* Upgraded Samsung USA Direct FRP via MTP with broad carrier coverage\n* Improved Universal FRP across all Android brands using QR Code via MTP\n* Accelerated Samsung FRP operations for Exynos chipsets via ADB\n\nEnterprise and Security Protections Module\n* Advanced Universal MDM and IT Admin lock removal\n* Enhanced Universal MDM and IT Admin bypass Method 2\n* Optimized Samsung KG state transition from Locked to Active\n* Improved Samsung KG Lock removal under GuardShield security\n\nSystem and Core Engine Fixes\n* Resolved SSL handshake and connection issues during login\n* Refined UI layout and optimized display sizing for all dialogs and log prompts\n* General performance enhancements for faster execution and rock-solid stability\n\nUpdate your tool now directly via OTA and enjoy the latest features.",
-      "downloads": 3,
+      "downloads": 9,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1792383621509,
@@ -4011,7 +4014,7 @@
       ],
       "createdAt": 1792383730195,
       "description": "ON FIRE TOOL v2.9 Free Cra#CK Download\nON FIRE TOOL v2.9 Features\nON FIRE TOOL includes different sections for Android servicing and device management. Below is the list of the operations mentioned for this version.\n\nADB Services & Management\nRead Device Info – Check Model, Serial Number, IMEI, OS Version, Country Code, Operator MCC/MNC, and Lock Status.\nTransfer File ADB – Transfer files through ADB.\nInstall APK ADB – Install APK files using ADB.\nDelete Virus APK / Read Packages – Read installed packages and delete virus APK.\nPackage Manager PRO – Scan, search, filter risky or user apps, and uninstall packages.\nFRP ADB Mode (12-14) Generic.\nFRP Google Account OS 16.\nEnable ADB 2026 With QR / Quick Share.\nInstall Apps Store.\nMi & Xiaomi Operations\nDisabled Mi Account.\nErase Persist (Xiaomi Mi Account).\nErase FRP + Userdata + Persist Xiaomi (Full Clean).\nXiaomi / Honor / Huawei – Delete Google Play + Aurora.\nIT Xiaomi / Honor / Huawei – Full Bypass + TestDPC.\nSamsung Operations\nDisabled CID Manager Samsung.\nKG Locked Bypass OS 14-15 DNS iDevice.\nKG Locked All Patch OS 14 (Latest Patches).\nKG Locked Bypass OS 13-14 Active KG.\nKG Locked Bypass OS 12-14 Locked.\nCreate DNS KG LOCKED (Samsung Knox Guard Bypass).\nMotorola Operations\nMotorola Fastboot Flash Tool – Model Selection, Download ROM, Load XML, Custom Partition Flashing, and Auto Flash.\nFastboot Utilities – Getvar All, Erase Data, and Reboot.\nMotorola MDM Bypass.\nMotorola Carrier MDM Remove.\nGenerate DNS OEM GRIS – MDM MOTOROLA WHITE SCREEN.\nGenerate DNS MOTOROLA MDM (All Versions).\nMediaTek (MTK) & Chipset Operations\nErase Userdata (Factory Reset).\nErase FRP + Userdata.\nMTK Security Bypass.\nSPD Device Plugin Remove-Bypass.\nInfinix / Tecno Security Plugin Remove.\nMDM & Carrier Bypass\nMDM_Bypass_SecPlugin.\nMDM Bypass Kiosko & ATT.\nClaro / Telcel Carrier MDM Removal.\nUniversal MDM Remover.\nBlack Screen Solution.\nPlay Store MDM Fix.\nNokia 2024 MDM Bypass.\nNokia Legacy MDM Remove.\nMDM Relock Protection.\nIT Admin Android 15 (Work Profile Method).\nRemove Payjoy (Financial Tracking Restriction Bypass).\nRemove Claro / Telcel MDM (Sitic).\nHonor / Other ATT & KIOSKO MDM Bypass.\nDNS & Network Control Manager v2.0\nPre-built DNS Generation Profiles – Samsung KG, KIOSKO/IT 2026, MDM/Claro, Motorola White Screen, and Payjoy.\nCustom DNS Profile Builder – Add custom domains using line, comma, or mixed formats.\nApply DNS directly to connected device via ADB.\nQR Anti Play Protect – Block DNS.\nBlock Factory Reset DNS Changes.\nON FIRE App & Device Control\nInstall / Uninstall ON FIRE APP – Manages Device Owner permissions.\nInstall NetPatch VPN – Firewall Network Control.\nApple / iOS Operations\nAutoremove iCloud Apple ID & Password.\nHow to Install ON FIRE TOOL v2.9 Free\nThe installation file comes in a RAR archive. First, extract the archive, then open the setup file and complete the installation. Follow the steps below.\n\nStep 1: Extract the Downloaded Archive\nFind the downloaded file named ONFIRETOOL_V2.9_Free.rar on your computer. Right-click the file and select Extract to “ONFIRETOOL_V2.9_Free”.\n\nAfter extraction, a new folder named ONFIRETOOL_V2.9_Free will appear in the same location.\nStep 2: Open the Setup Installer\nOpen the extracted folder and find the file named ONFIRETOOL.exe. Double-click this file to start the installation wizard.\n\nThe setup window titled ON FIRE TOOL 2.9 Installation will appear.\n\nStep 3: Enter the Password and Install\nClick Next on the welcome screen. When the password field appears, enter:\n\ngsmyogesh.com\n\nClick Next again. Make sure Create a Desktop icon is checked, then click Install.\n\nWait for the green progress bar to complete. The installer will show the installation progress.\n\nStep 4: Finish the Installation\nWhen the setup is complete, uncheck Visit product web site. Keep Launch ON FIRE TOOL checked and click Finish.\n\nThe setup window will close, and the ON FIRE TOOL launcher will open automatically.\n\nStep 5: Log Into ON FIRE TOOL\nWhen the Welcome to On Fire! popup appears, click OK.\n\nOn the login window, enter your account email and password. The example details provided for the login are:\n\nEmail: gsmyogesh@free.com\nPassword: gsmyogesh\nClick LOGIN after entering your details. The authorization log will verify the information and open the main dashboard.\n\nDownload ON FIRE TOOL v2.9 Free\nON FIRE TOOL v2.9 Free comes with the installation file ONFIRETOOL.exe inside the downloaded archive. Extract the RAR file and follow the installation steps given above.\n\nUse the download button below to get the software.\n\nDownload ON FIRE TOOL v2.9 Free",
-      "downloads": 5,
+      "downloads": 7,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792383730195,
@@ -4225,7 +4228,7 @@
       ],
       "createdAt": 1792406947898,
       "description": "Valhalla Unlock Tool Free Download  What Valhalla Unlock Tool Does\nThe main purpose of Valhalla is to work with Motorola phones using MediaTek chipsets. The program has separate options for bootloader unlocking and experimental FRP erase.\n\nThe bootloader unlock option performs a factory reset. The FRP option is separate and attempts to erase FRP using the Val Protocol erase-serial method.\n\nThere is also a combined mode that performs bootloader unlocking and FRP bypass. The tool does not simply report a successful command as proof that FRP was removed. It checks the device’s frp-state and expects it to no longer show protected.\n\nThis is important because the project information specifically says that a successful fastboot command does not always mean that FRP has actually been erased.\n\nOperation Modes Visible in the Tool\nWhen I checked the supplied screenshot, the main window showed three operation modes. These are presented as radio button options under the Select Operation Mode section.\n\nBootloader Unlock (Factory Reset) – Used for the bootloader unlock workflow and includes a factory reset.\nFRP Bypass Only (No Factory Reset) – The interface lists this as an FRP-only mode without a factory reset.\nBootloader Unlock + FRP Bypass – Combines the bootloader unlock and FRP workflow.\nThe project documentation also warns that the FRP erase process itself is destructive. The erase-only flow targets device partitions related to metadata and user data, while Valhalla rewrites md_udc to frp. Because of this, the FRP mode should be treated as a factory reset and data erase.\n\nSimple Interface\nThe supplied screenshot shows a dark interface with the Valhalla Unlock Tool name at the top. It also displays the creator name, the Val Protocol credit, and support for Motorola MediaTek devices.\n\nAt the bottom of the main window there is a log area. The log displays information about the tool, credits, and warnings. This is useful for seeing what the program is reporting during the workflow.\n\nThe main controls shown in the screenshot are Check Device, Run Valhalla, and Reset.\n\nThe program also shows a status bar at the bottom with a Ready message when it is waiting for an operation.\n\nFeatures\nBootloader Unlock – The tool includes a bootloader unlock workflow for supported Motorola MediaTek devices. The project states that this process performs a factory reset.\nExperimental FRP Erase – Valhalla attempts an FRP erase using the Val Protocol erase-serial method.\nFRP State Verification – The tool checks the device’s frp-state instead of treating a successful command as automatic proof of FRP removal.\nCombined Unlock and FRP Mode – A combined operation is available for bootloader unlocking and FRP bypass.\nExploit Download – The Val Protocol exploit can be downloaded automatically from GitHub.\nAutomatic Linux Dependencies – Required dependencies can be installed automatically on Linux.\nLinux USB Setup – The tool can automatically set up udev rules on Linux.\nVerbose Logs – The program displays detailed messages so the operation can be followed in the log window.\nOEM Unlock Workaround – The project states that it can work even when OEM unlocking is grayed out in Developer Options.\nSupported Motorola Devices\nThe project is focused on Motorola MediaTek devices. The supplied information specifically lists several devices where bootloader unlocking has been reported or confirmed.\n\nMoto G Play 2026 (XT2615V, XT2615-1)\nMotorola Milan (XT2211DL)\nMoto G Play 2023\nMoto G 2025\nMoto G Power 2026\nMoto G series with MediaTek chipsets\nMotorola Edge series with MediaTek chipsets\nMotorola Razr series with MediaTek chipsets\nThe project also says that other Motorola MediaTek devices may work. That should not be treated as confirmation for every model.\n\nReported Device Results\nThe project author reports that the Moto G Play 2026, including models XT2615V and XT2615-1, has working bootloader unlocking.\n\nMotorola Milan XT2211DL was also verified for bootloader unlocking on stock Android 12 LK. However, there is an important difference with the FRP process on this model. The original Valhalla FRP run falsely reported success while the device still showed protected (277).\n\nA separate firmware-specific post-unlock experiment later cleared FRP on the Milan. According to the supplied project information, that experiment is documented separately and is not automatically applied by Valhalla.\n\nThe project also lists the Moto G Play 2023, Moto G 2025, and Moto G Power 2026 as having confirmed bootloader unlock results.\n\nFRP Support Is Experimental\nOne point I would keep in mind before using the FRP option is that the project itself describes this support as device-specific and experimental.\n\nValhalla now checks the device’s frp-state before reporting that the FRP erase worked. If the state still says protected, the tool does not treat the operation as successfully verified.\n\nThe combined mode also stops when the FRP erase cannot be verified. This prevents the combined workflow from simply continuing after an unsuccessful FRP check.\n\nImportant Motorola Milan Note\nThe supplied project details contain a specific warning about the Motorola Milan XT2211DL. When the device is already unlocked, the normal erase-serial flow exits through the Already unlocked branch before reaching its token and erase path.\n\nThe separate ARM32 erase-token patcher rejected the LK control-flow structure on this model. The project specifically says that its safety check should not be bypassed or force-patched.\n\nSo the Milan result should not be treated as a general FRP method for every Motorola device.\n\nLK Image Warning\nThe biggest warning shown by the program is about LK flashing. The tool clearly states that using a bad LK can permanently brick the device.\n\nFlashing an incorrect LK can hard-brick the phone.\nThe LK image must exactly match the device and firmware.\nKeep the stock LK backed up.\nKeep every successfully booted patched LK backed up.\nKeep a full stock firmware backup ready.\nUse the tool at your own risk.\nThe warning is also visible directly in the supplied screenshot. The program asks users not to flash the original LK back after unlocking and states that no responsibility is accepted for damage.",
-      "downloads": 2,
+      "downloads": 5,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1792406947898,
@@ -4503,7 +4506,7 @@
       ],
       "createdAt": 1792577922446,
       "description": "UnlockTool is a mobile servicing software interface with tools organized by phone brand, chipset platform, and connection mode. The supplied feature reference includes Xiaomi, Samsung, Huawei, Oppo, Vivo, Meizu, Tecno, Asus, LG, Nokia, Lenovo, Qualcomm Snapdragon, MediaTek, Apple, Infinix, and Spreadtrum (SPD/Unisoc).\n\nHow to Install\nThe installation notes provided for this article say that the package is distributed as a 7z archive through a Google Drive download link. Extract the archive first, then locate the setup file inside the extracted folder.\n\nDownload the 7z package from the source you trust.\nExtract the archive with a compatible archive utility.\nOpen the extracted folder and run the setup file.\nFollow the installation wizard and select Next when prompted. Installation may take some time, so wait for it to finish.\nWhen setup is complete, launch the program.\nUse the login method provided by the official software provider. If credentials are prefilled in your legitimate package, check that they are authorized for your use before continuing.",
-      "downloads": 164,
+      "downloads": 167,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792579475778,
@@ -5999,7 +6002,7 @@
       ],
       "createdAt": 1792642299409,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mq7f7s06_6p5wmh3aa",
       "isLink": false,
       "lastModified": 1792642299409,
@@ -6140,7 +6143,7 @@
       ],
       "createdAt": 1792642566976,
       "description": "itel A70 A665L Permanent MDM v1181 Unlock File\nHow to Permanently Unlock MDM on itel A70 A665L\nTo unlock MDM on your device, follow these detailed steps. Ensure that your device is charged, and that you have backed up all important data:\n\nDownload the MDM unlock file for itel A70 A665L from the link provided below.\nExtract the file on your computer. You may need the password Selema 250Hondeka255 for extraction.\nConnect your device to your computer using a USB cable.\nFollow the instructions to flash the device with the v1181 firmware file, which will remove the MDM restrictions.\nPrecautions and Requirements\nBefore proceeding with the unlock process, please consider the following precautions:\n\nEnsure that the file is downloaded from a trusted source.\nUse an updated firmware flashing tool to avoid compatibility issues.\nBackup all data to prevent data loss during the process.",
-      "downloads": 0,
+      "downloads": 5,
       "folderId": "f_mq7f7s06_6p5wmh3aa",
       "isLink": false,
       "lastModified": 1792642566976,
@@ -7698,7 +7701,7 @@
       ],
       "createdAt": 1792670646162,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1792670646162,
@@ -7730,7 +7733,7 @@
       ],
       "createdAt": 1792670772033,
       "description": "Android Multi Tools v1.02b pattan Unlocker",
-      "downloads": 0,
+      "downloads": 2,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1792670783040,
@@ -7807,7 +7810,7 @@
       ],
       "createdAt": 1792677125446,
       "description": "TSM PRO Cracked BY GsmHeroTeam \n\nYour Purchased Tools\nKeY :: TSM_FREE_BY_GSMHERO_TEAM_FB\nPassword: your Login Password Add",
-      "downloads": 171,
+      "downloads": 187,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792677326729,
@@ -7868,48 +7871,1369 @@
       "unrarPassword": ""
     },
     "f_mvkdwhpe_jlhlec3mr": {
-      "name": "U FRP UNISOC Tool V1 Free",
-      "folderId": "f_mpajwfy2_5pvx4efm9",
-      "size": "80.6 MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI-DZ5TCBe3TsclbCq0Jq7fkiFr8Pc3HcjQKGAeVVtmPcGkbW6esbBNR89SovcIxWCy5JEl2Cb7XWomDF4PP8lbmczKtnNx3munfKH5QQB7dQuayv42MAdhntisKLjjBry91YHJRczGh8sjB4Dd1Uf6q20ZMg-yuCIZzvF0dQDW9fyimfglIQlHZDjvh2y/w640-h426/U%20FRP%20UNISOC%20Tool%20V1%20Free.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI-DZ5TCBe3TsclbCq0Jq7fkiFr8Pc3HcjQKGAeVVtmPcGkbW6esbBNR89SovcIxWCy5JEl2Cb7XWomDF4PP8lbmczKtnNx3munfKH5QQB7dQuayv42MAdhntisKLjjBry91YHJRczGh8sjB4Dd1Uf6q20ZMg-yuCIZzvF0dQDW9fyimfglIQlHZDjvh2y/w640-h426/U%20FRP%20UNISOC%20Tool%20V1%20Free.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "u-frp-unisoc-tool-v1-free",
+      "createdAt": 1792724536994,
       "description": "U FRP UNISOC Tool V1 Free Free Download.\nMy Installation Walkthrough\nDownloading was simple. I got the loader as a single EXE file. There is nothing to install. I dropped it into a new folder on my desktop and placed the original U-FRP UNISOC tool.exe right next to it.\n\nOne thing I want to point out because I hit it myself. The target tool needs its own Devices and Driver subfolders next to it. If those folders are missing, the tool opens but cannot find any device scripts. The loader looks for the target EXE in the same folder it sits in, so do not move things around after setup.\n\nDownload the loader EXE.\nCreate a new folder, for example on your Desktop.\nPlace the loader EXE inside that folder.\nCopy your U-FRP UNISOC tool.exe and its Devices and Driver folders into the same location.\nRight-click the loader and choose Run as administrator. It will also ask for admin rights on its own if you forget.\nFirst Launch And License Registration\nWhen I opened the loader, Windows asked for administrator permission. That is normal because the loader needs to modify the hosts file and install a certificate to route the tool’s login traffic.\n\nThe window that opened is small and clean. It shows a 16-character hardware ID in green. I clicked Copy Hardware ID, went to the developer’s activation page, and pasted the ID there. In a few seconds I had a license token. I pasted it into the box on the loader and clicked Register License.\n\nThe moment the token was accepted, the activation panel disappeared. A green bar at the top said LICENSE ACTIVE with the number of days left. Then the log panel below started filling up with routing steps.",
-      "downloads": 0,
-      "link": "https://mega.nz/file/mpJ1mZrI#Tl5dijgpdhs1w32-Ci70T77DTk-QPRH1w4-y3lhzY5c",
+      "downloads": 17,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "published": true,
+      "lastModified": 1792724536994,
+      "link": "https://mega.nz/file/mpJ1mZrI#Tl5dijgpdhs1w32-Ci70T77DTk-QPRH1w4-y3lhzY5c",
       "links": [
         {
           "label": "U-FRP UNISOC Tool V1 Free",
           "urls": [
             {
-              "url": "https://mega.nz/file/mpJ1mZrI#Tl5dijgpdhs1w32-Ci70T77DTk-QPRH1w4-y3lhzY5c",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/mpJ1mZrI#Tl5dijgpdhs1w32-Ci70T77DTk-QPRH1w4-y3lhzY5c"
             },
             {
-              "url": "https://www.mediafire.com/file/cxw22ifwgqiqadh/U-FRP+UNISOC+tool+GsmSanjoy.com+.7z/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/cxw22ifwgqiqadh/U-FRP+UNISOC+tool+GsmSanjoy.com+.7z/file"
             },
             {
-              "url": "https://1024terabox.com/s/1B0UBVDdHOmbovI82KV5qtw",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1B0UBVDdHOmbovI82KV5qtw"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZDpEbJZqKS9G218hCRhtQ0Eb7UrEBuh2aVV",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZDpEbJZqKS9G218hCRhtQ0Eb7UrEBuh2aVV"
             }
           ]
         }
       ],
-      "createdAt": 1792724536994,
-      "lastModified": 1792724536994
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "U FRP UNISOC Tool V1 Free",
+      "password": "",
+      "publishUrl": "u-frp-unisoc-tool-v1-free",
+      "published": true,
+      "size": "80.6 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkwj8ic_iadm9q1c9": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDuhGGHjDMF_bqqiDsEV39M-cafigyXJXqpZuD_qQMtNmEO-gzgZIckaLW6KqD5fIUlRjaOeH_HaKLls0V7wZUhOV8JzUauDf4xZ926K_VATZonNRz-HlcxVVriTDa0wKrj-6MTqxHgo5A8XLJLeUQTWX_YMP4g_Jmkh_ZpBD7PeI_tCcA85W724hyNSKX/w640-h424/OPLUS%20EDL%20Tool%20V3.2%20DOwnload.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDuhGGHjDMF_bqqiDsEV39M-cafigyXJXqpZuD_qQMtNmEO-gzgZIckaLW6KqD5fIUlRjaOeH_HaKLls0V7wZUhOV8JzUauDf4xZ926K_VATZonNRz-HlcxVVriTDa0wKrj-6MTqxHgo5A8XLJLeUQTWX_YMP4g_Jmkh_ZpBD7PeI_tCcA85W724hyNSKX/w640-h424/OPLUS%20EDL%20Tool%20V3.2%20DOwnload.jpg"
+      ],
+      "createdAt": 1792755831252,
+      "description": "OPLUS EDL Tool V3.2 DOwnload. \nOPLUS EDL Tool v3.2026.028 Changelog\nFixes\nFixed the Cloud ELF problem from the previous version.\nFixed an issue where the cloud-based bootstrapping feature could not be activated properly.\nImproved software stability after the fix.\nV3 Series Status\nThis is the final maintenance update for the V3 series.\nNo more new features will be added to V3.\nDevelopment has now moved to the upcoming V4 major release.\nThe team will now focus on preparing and releasing V4.",
+      "downloads": 0,
+      "folderId": "f_mpphzpaq_kkd8xpdsf",
+      "isLink": false,
+      "lastModified": 1792755831252,
+      "link": "https://mega.nz/file/XpITCQoJ#2A_xFGCcGwJt9CgB5VbQXszNiQ-G4p6QMr-MV18LuSI",
+      "links": [
+        {
+          "label": "OPLUS EDL Tool V3.2",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/XpITCQoJ#2A_xFGCcGwJt9CgB5VbQXszNiQ-G4p6QMr-MV18LuSI"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1h6KrK5KSo4hFj2yIX9ORkviO5o_Gw8u3/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1ECdZaaFJ2Mm5wC1HtKmnyg"
+            }
+          ]
+        },
+        {
+          "label": "OplusEDLTool_release_v2.0.1",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1UZbWXLm9BMznIzjIJRvOaKtZ3GVXcBjP/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "http://www.mediafire.com/file/zawzdsnermo046u/OplusEDLTool_release_v2.0.1.zip"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "OPLUS EDL Tool V3 2",
+      "password": "",
+      "publishUrl": "oplus-edl-tool-v3-2",
+      "published": true,
+      "size": "40.6mb",
+      "unrarPassword": ""
+    },
+    "f_mvkwle8x_ll19vtxdm": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh79xL-VENxzyQpFUyabaJLSm84guwWS2LDHuNP1F_eD95mlqF3j1gignZiONbNragmNKGQDn7gErIjD54Km9TgwiH67sAktGJfkHLt0Ie9tyKUm3zmyV-aQCTdRItdZwWE1s4fsPsK3_wOP09_634xb7nlHWIZyxwS8z5ScMb4-sgX0Ny3rfZeluMjbzc/s320/Tecno%20Flash%20USB%20Tool%20v4.1901.23.17.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh79xL-VENxzyQpFUyabaJLSm84guwWS2LDHuNP1F_eD95mlqF3j1gignZiONbNragmNKGQDn7gErIjD54Km9TgwiH67sAktGJfkHLt0Ie9tyKUm3zmyV-aQCTdRItdZwWE1s4fsPsK3_wOP09_634xb7nlHWIZyxwS8z5ScMb4-sgX0Ny3rfZeluMjbzc/s320/Tecno%20Flash%20USB%20Tool%20v4.1901.23.17.png"
+      ],
+      "createdAt": 1792755932001,
+      "description": "Tecno Flash USB Tool v4.1901.23.17",
+      "downloads": 1,
+      "folderId": "f_mpphzpaq_kkd8xpdsf",
+      "isLink": false,
+      "lastModified": 1792755932001,
+      "link": "https://mega.nz/file/hnlwxagK#QLgIp3vKneShvtlznaH_c310BuAqSAogVEkcd13LPgA",
+      "links": [
+        {
+          "label": "Tecno Flash USB Tool v4.1901.23.17",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/hnlwxagK#QLgIp3vKneShvtlznaH_c310BuAqSAogVEkcd13LPgA"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Tecno Flash USB Tool v4 1",
+      "password": "",
+      "publishUrl": "tecno-flash-usb-tool-v4-1",
+      "published": true,
+      "size": "22mb",
+      "unrarPassword": ""
+    },
+    "f_mvkwr85u_4hruzbmxp": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6cjP6bs8nIqCs5byhirHM6EqYka6d8-fjyG7bvIilEMo9wCACP91rRev5EiznzD6hlCrHB2ra-J1lOwfqb3i-wVhXPEHfJa2sjDfTRHJBpjSMEwk9jZCyRDmiEQ_isanwoODdZQzJ1X0ilQiKiPmGE1gJpGHeXU3PYisoodSf3lNtxSKevGNk5eQVWBlI/w640-h446/MediaTek%20GSM%20Tool%20By%20Sahirl%20Techno%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6cjP6bs8nIqCs5byhirHM6EqYka6d8-fjyG7bvIilEMo9wCACP91rRev5EiznzD6hlCrHB2ra-J1lOwfqb3i-wVhXPEHfJa2sjDfTRHJBpjSMEwk9jZCyRDmiEQ_isanwoODdZQzJ1X0ilQiKiPmGE1gJpGHeXU3PYisoodSf3lNtxSKevGNk5eQVWBlI/w640-h446/MediaTek%20GSM%20Tool%20By%20Sahirl%20Techno%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792756204050,
+      "description": "MediaTek GSM Tool By Sahirl Techno\nFeatures:\nREMOVE FRP\nFACTORY RESET\nBYPASS AUTH\nUNLOCK BOOTLOADER\nRESET PASSCODE (KEEP DATA)\nVIVO REMOVE DEMO\nSAMSUNG REMOVE FRP\nRELOCK BOOTLOADER\nOPPO REMOVE DEMO\nREDMI 6A RESET MI ACC\nBACKUP IMEI\nRESTORE IMEI\nHUAWEI BACKUP OEMINFO\nHUAWEI WRITE OEMINFO\nSAMSUNG BACKUP IMEI\nSAMSUNG RESTORE IMEI\nREAD RPMB\nREAD BUILT.PROP\nREAD BOOT - VBMETA\nRESTORE BOOT - VBMETA\nFIX UNKNOWN BASEBAND\nNO CONNECTION",
+      "downloads": 0,
+      "folderId": "f_mq90y5hx_pgeh8l0ya",
+      "isLink": false,
+      "lastModified": 1792756204050,
+      "link": "https://drive.google.com/file/d/1AU6muRyBbKI4j2Z8XzULZNt1mi2wdCIK/view",
+      "links": [
+        {
+          "label": "MediaTek GSM Tool By Sahirl Techno",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1AU6muRyBbKI4j2Z8XzULZNt1mi2wdCIK/view"
+            }
+          ]
+        },
+        {
+          "label": "Password File",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1xIsIywgKAjLBtL8qPoQfYd2oybcgnGpY/view"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MediaTek GSM Tool By Sahirl Techno",
+      "password": "",
+      "publishUrl": "mediatek-gsm-tool-by-sahirl-techno",
+      "published": true,
+      "size": "35mb",
+      "unrarPassword": ""
+    },
+    "f_mvkwtqz9_a0k6z1y5l": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGs79JYhQEIpeqLqKBz_HiC2M1hJK1ydvf2DVgKpbLLkSpwvKci1JwexgXfPbqoGuWWjX_0ZEGEI8q8v8B-n-fTo0WSK-sZEb3KccQ22B4tPv0mm8_z9SrCG0B43kPuknppPXd0RBSzIbFGcmFT5WK8jpjzwsElIqQ4mbvoBIxeZ5gSFkE-qcV9abqO0r1/w640-h426/Public%20FRP%20Tool%20v2.9.1%20free.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGs79JYhQEIpeqLqKBz_HiC2M1hJK1ydvf2DVgKpbLLkSpwvKci1JwexgXfPbqoGuWWjX_0ZEGEI8q8v8B-n-fTo0WSK-sZEb3KccQ22B4tPv0mm8_z9SrCG0B43kPuknppPXd0RBSzIbFGcmFT5WK8jpjzwsElIqQ4mbvoBIxeZ5gSFkE-qcV9abqO0r1/w640-h426/Public%20FRP%20Tool%20v2.9.1%20free.png",
+        "https://gsmyogesh.com/wp-content/uploads/2026/09/image-26-1024x576.png"
+      ],
+      "createdAt": 1792756321749,
+      "description": "Public FRP Tool v2.9.1 Latest Version Download [Credit Added] .\nPublic FRP Tool v2.9.1 Features\nXiaomi Section\nRead Device Info: This option is available for reading device information.\nRemove FRP: The Xiaomi panel includes an FRP operation.\nServer Status: There is a separate button for checking the server status.\nReboot to EDL: The Xiaomi section includes a Reboot to EDL option.\nEnable ADB (QR): An ADB enabling option is available under the bootloader section.\nBootloader Unlock Permanent: The Xiaomi panel includes a permanent bootloader unlock option.\nThe screenshot also shows Xiaomi model selection, with Redmi K90 Ultra visible in the model field.\n\nRealme, OPLUS and MTK/QC\nThe Realme section supports chipset selection between Qualcomm and MediaTek. The interface also contains options for FORMAT USERDATA + FRP and Demo Remove (All OS).\n\nFor Qualcomm devices, the screenshots show a model selection area. One visible example is Realme 14 5G with model number RMX5070 Global.\n\nThe MediaTek section has Auto Detect options and several chipset choices, including MT6897, MT6877, MT6877 v2, MT6877 v3, MT6835, MT6855, MT6878, MT6899 and MT6899+ selections.\n\nSamsung Section\nThe Samsung panel contains three main options. These are READ INFO (DOWNLOAD MODE), Remove FRP EXYNOS ANDROID 15-16, and Enable ADB (MTP MODE, QR).\n\nThe FRP option shown in the interface specifically says that ADB must be enabled.\n\nMotorola Section\nThe Moto section includes a Bootloader Unlocker. There is a Browse LK File button where an LK file can be selected, followed by the Patch + Remove FRP option.\n\nSupported Xiaomi and Redmi Models\nRedmi K90\nRedmi K90 Ultra\nXiaomi 15\nXiaomi 15 Pro\nXiaomi 15 Ultra\nXiaomi Pad 8\nXiaomi Pad 8 Pro\nPOCO F7\nPOCO F7 Pro\nSupported Realme and OnePlus Qualcomm Models\nOnePlus Nord CE 3 Lite 5G: CPH2465\nRealme GT 5G: RMX2202 India\nRealme GT 5G: RMX2202 Global\nRealme 14 5G: RMX5070 Global\nRealme 14 5G: RMX5070 India\nRealme GT 6T: RMX3853 India\nRealme GT 6 Neo: RMX3850 India\nRealme GT 7 Pro: RMX5010\nRealme P2 Pro 5G: RMX3987 India\nRealme GT Master Edition 5G: RMX3360 India\nRealme GT Master Edition 5G: RMX3363 Global\nRealme GT Neo 3T: RMX3371 India\nRealme 9 Pro+ 5G: RMX3392 India\nRealme 13 Pro+ 5G: RMX3921 India\nRealme 13 Pro 5G: RMX3989 India\nRealme P4 Pro 5G: RMX5110 India\nRealme P4 5G: RMX5118 India\nRealme GT 8 Pro Dream Edition 5G: RMX5210 India\nRealme GT 8 Pro Dream Edition 5G: RMX5210 BD\nRealme C85 Pro 5G: RMX5030 BD\nRealme 16 Pro+ 5G: RMX5111 India\nRealme MediaTek Models and Chipsets\nAuto Detect\nAuto Detect MT6897\nAuto Detect MT6877\nAuto Detect MT6877 v2\nAuto Detect MT6877 v3\nMT6835 Dimensity 6100 Turbo\nMT6855 Dimensity 930\nMT6878 Dimensity 7050 Ultra\nMT6899 Dimensity 9400\nMT6899 Dimensity 9400+\nRealme 9i 5G RMX3612 India\nRealme Narzo 70 Pro 5G RMX3868\nRealme 14 5G RMX5075\nRealme GT 7 Dream Edition RMX5011\nRealme GT 7T RMX5003\nRealme C71 5G RMX5008\nRealme P4 Power RMX5187\nRealme C65 4G RMX3890",
+      "downloads": 0,
+      "folderId": "f_mqdrga34_wfiqp3gsz",
+      "isLink": false,
+      "lastModified": 1792756321749,
+      "link": "https://mega.nz/file/aowViQRK#gtC42-ySpPujnI0-8pSfSZrji4qyGWY46wTb2NzctmI",
+      "links": [
+        {
+          "label": "Public FRP Tool v2.9.1 free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/aowViQRK#gtC42-ySpPujnI0-8pSfSZrji4qyGWY46wTb2NzctmI"
+            },
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQD1NRML5x21RJoUjXpS0cBSAbn1JQA8Fwnknv8BNpBhm9s?e=bBe6y6"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1KVQTufM_G5Lqh57wKiGKYQ"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZgQ3LJZMCB5HMJxtzbPx6camL55cSjJ1Ys7"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Public FRP Tool v2 9 1 free",
+      "password": "",
+      "publishUrl": "public-frp-tool-v2-9-1-free",
+      "published": true,
+      "size": "51.2MB",
+      "unrarPassword": ""
+    },
+    "f_mvkww5vj_gm547z2sn": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtix4gXyBw4uiA7nToTfo-PYXDhZNO5PO1p-DVMM6N5lcw8Um95FAq3JXFGzyiG3R1HmiiS4I_TBtglt5KSzMbRcntud2eA_fk3Dvnmj31XxZI9WoRz_WvoskJ3GYs0VZmjPYi7qIbyEaGaPwWrnYBlwBTO1r4QgPJFtEeeiEg8Zc-BFADK0XqmMASBIE/w400-h225/QCOM%20EDL%20Master%20Pro%20V1.0.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtix4gXyBw4uiA7nToTfo-PYXDhZNO5PO1p-DVMM6N5lcw8Um95FAq3JXFGzyiG3R1HmiiS4I_TBtglt5KSzMbRcntud2eA_fk3Dvnmj31XxZI9WoRz_WvoskJ3GYs0VZmjPYi7qIbyEaGaPwWrnYBlwBTO1r4QgPJFtEeeiEg8Zc-BFADK0XqmMASBIE/w400-h225/QCOM%20EDL%20Master%20Pro%20V1.0.png"
+      ],
+      "createdAt": 1792756434367,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mqdrga34_wfiqp3gsz",
+      "isLink": false,
+      "lastModified": 1792756434367,
+      "link": "http://www.mediafire.com/file/y7ce8owvq0s5owu/QcomEdlMaster.rar",
+      "links": [
+        {
+          "label": "QCOM EDL Master Pro V1.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "http://www.mediafire.com/file/y7ce8owvq0s5owu/QcomEdlMaster.rar"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "QCOM EDL Master Pro V1 0",
+      "password": "",
+      "publishUrl": "qcom-edl-master-pro-v1-0",
+      "published": true,
+      "size": "25mb",
+      "unrarPassword": ""
+    },
+    "f_mvkwyskj_3lppoaee5": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxVHb2sFbP86SS7IO15aZhpmCtfdycWx4BPxSP5jWenH6x9Bskt7POV6QRqJ33ziTLdhMtvnSfQSRZnSb0G3x0eDUpUci9R7aWWD85M1QgHPntF9d8CIEgCv2ddGzxl9lkMtL65hGtNSezjLfQ1YxW-dQT-EQI6tsogU6gB3mgGgdn5eapp4VRYzNKQrZU/w640-h462/360%20Tool%20by%20GSMYOGESH.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxVHb2sFbP86SS7IO15aZhpmCtfdycWx4BPxSP5jWenH6x9Bskt7POV6QRqJ33ziTLdhMtvnSfQSRZnSb0G3x0eDUpUci9R7aWWD85M1QgHPntF9d8CIEgCv2ddGzxl9lkMtL65hGtNSezjLfQ1YxW-dQT-EQI6tsogU6gB3mgGgdn5eapp4VRYzNKQrZU/w640-h462/360%20Tool%20by%20GSMYOGESH.png"
+      ],
+      "createdAt": 1792756557091,
+      "description": "360 Tool by GSMYOGESH360 Tool by GSMYOGESH Why I Made This Tool\nMost tools in this space are heavy, cluttered, and hard to read. I wanted something clean. Something that opens fast, shows what is happening in plain language, and does not hide anything behind a wall of buttons.\n\nSo I built 360 Tool with three things in mind. First, every action should be visible in a log. Second, every button should do one job only. Third, the tool should feel modern on Windows without needing any heavy setup.\n\nWhat You See When You Open It\nWhen you launch the tool, a small splash screen appears first. It shows the brand name, a short progress bar, and a few loading messages. This gives the tool a moment to prepare ADB before the main window opens.\n\nAfter the splash screen, a login window comes up. The username and password are both gsmyogesh. Once you sign in, the main window opens with a tab bar at the top and a large log panel at the bottom.\n\nThe design uses a dark theme with green accents. Every button has a small icon on the left. The status bar at the bottom shows the current ADB connection state. When a phone is connected and authorised, the serial number is shown there.\n\nHow The Log System Works\nThe log panel is the heart of the tool. Every button you press writes a line into it. Each line has a timestamp, a short tag, and the message. The tags are OK, INFO, WARN, and FAIL. That way you can scan the log quickly and know what worked and what did not.\n\nThe log clears itself every time you start a new action. This keeps the area tidy. You can also clear it manually with the Clear button, or save it as a text file with the Save button. Saved logs go into the logs folder next to the tool.\n\nEvery Feature Explained\nThis is the part I want people to read carefully. I have split the features by tab so it is easy to follow.\n\nHome Tab\nThe Home tab is the first thing you see after login. It has the most common actions.\n\nDevice Info — reads a set of properties from the connected phone. It shows the brand, model, serial number, Android version, security patch, hardware, bootloader state, SIM state, network type, timezone, build number, and device codename. Every value is printed in the log so you can copy it anywhere.\nLaunch Scrcpy (Live Screen) — opens a live screen viewer for the connected phone. The tool looks for scrcpy inside its live folder and starts it for you. This is the fastest way to mirror a phone to your PC.\nReboot — reboots the phone normally.\nBootloader — reboots the phone into bootloader mode.\nRecovery — reboots the phone into recovery mode.\nAll three reboot buttons use standard ADB commands. They work on any phone that ADB can reach.\n\nFRP Tab\nThis tab is for factory reset protection. Two buttons are inside.\n\nFRP Bypass (Generic) — runs three ADB commands on the phone. The first marks setup as complete. The second marks the device as provisioned. The third opens the home screen. This is the same approach most ADB based tools use.\nPush frp.bin — copies a file called frp.bin from the tool’s bin folder to the phone and makes it executable. If the file is not there, the log tells you clearly.\nMDM Tab\nMDM stands for Mobile Device Management. The tab collects every MDM related action in one place.\n\nSamsung MDM — removes nine packages from Samsung phones that MDM providers often use. The list covers update centre, config updater, SDM config, CID manager, Dynsystem, GRU, so agent, ONS, and wssyncmldm.\nMTK / Transsion — removes twelve packages from Transsion brands like Infinix, Tecno, and itel. The list includes system update, ONS, desk clock, webview, CTS shims, proxy handler, vending, transsnet store, keychain, dynsystem, and config updater.\nBlack Screen — removes twelve packages known to cause a black screen on some Transsion phones. It also clears the overlay data of one package at the end.\nReset DNS — turns off private DNS on the phone and removes any specified DNS server.\nDisable Bloat — disables seven common bloatware packages with a single click.\nSamsung Tab\nThis tab is dedicated to Samsung phones. It has three buttons.\n\nSamsung MDM Bypass — the same MDM removal as on the MDM tab, but placed here for quick access.\nDisable Samsung Account — disables three Samsung packages related to the Samsung account and cloud sync.\nReboot Recovery — sends the phone to recovery mode.\nMTK / SPD Tab\nThis tab is for MediaTek and Spreadtrum devices.\n\nMTK / Transsion MDM — same package removal as the MDM tab.\nBlack Screen Fix — same package removal for black screen issues.\nSet DNS (ControlD) — sets the phone’s private DNS to a ControlD hostname.\nSet DNS (PayMDM) — sets the phone’s private DNS to a PayMDM hostname.\nKG Tab\nThis tab handles Knox Guard on Samsung phones.\n\nCheck KG Status — reads one property from the phone to see if Knox Guard is active.\nCheck Root — looks for a su binary on the phone and tells you if the device is rooted.\nNCK Tab\nThis tab calculates an NCK code from a fifteen digit IMEI. The tool runs a Luhn check on the IMEI first. Then it prints an NCK code in the log. I want to be honest here. The real NCK for most devices is computed on the manufacturer’s server side. What this tab does is a local calculation. It is useful as a demo but it may not match the code that a real server would produce.\n\nTools Tab\nThis tab has a small grid of buttons for quick access to the most used features.\n\nRoot Check — the same root check as the KG tab.\nList Packages — prints every package installed for the main user on the phone. Useful when you want to see what is installed.\nKG Status — reads the Knox Guard state.\nDevice Info — the same info block as the Home tab.\nUtility Tab\nThe last tab collects helper actions.\n\nWindows WiFi Passwords — reads every saved WiFi profile from your Windows PC and shows the stored password of each one. This works entirely on the PC. No phone needed.\nInstall APK — opens a file picker. After you choose an APK, the tool installs it on the connected phone.\nUninstall Package — asks for a package name and removes it from the phone for the main user.\nClear Log — wipes the log panel.\nSave Log to File — saves the current log as a text file.\nOpen files Folder — opens the tool’s files directory in Windows Explorer.",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792756557091,
+      "link": "https://mega.nz/file/T5QzFb4K#yB4rvD5TMcQXgE9wbZ4LTgKDzbsN57sjVSn_XQNub-0",
+      "links": [
+        {
+          "label": "360 Tool by GSMYOGESH",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/T5QzFb4K#yB4rvD5TMcQXgE9wbZ4LTgKDzbsN57sjVSn_XQNub-0"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZDsI4JZwdeGkOmOhpk9f7BgO1rlyR96bNCV"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1fbKcwTklHZaKsDM5kk7Zww"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "360 Tool by GSMYOGESH",
+      "password": "",
+      "publishUrl": "360-tool-by-gsmyogesh",
+      "published": true,
+      "size": "182.6 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkx00hm_j14fvlgq9": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZGsY-AY4kKSrAXoTRX5djpclXKkYjtzJ8Ip57npksHL38ZJEXtUn34OHhx_AUyfr5bXlhf7yXwi2UuNQSoQULrWnrfIiNW4JjXj1ddHAg0DHgyjN5KGkoCFDLSRiZsB5GbbzhTpOMYmqpyxCNNPzefLIrUI8BNubb1ih1FBHXk-AUK4fRQoISP1kfChuM/w640-h426/Valhalla%20Unlock%20Tool.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZGsY-AY4kKSrAXoTRX5djpclXKkYjtzJ8Ip57npksHL38ZJEXtUn34OHhx_AUyfr5bXlhf7yXwi2UuNQSoQULrWnrfIiNW4JjXj1ddHAg0DHgyjN5KGkoCFDLSRiZsB5GbbzhTpOMYmqpyxCNNPzefLIrUI8BNubb1ih1FBHXk-AUK4fRQoISP1kfChuM/w640-h426/Valhalla%20Unlock%20Tool.png"
+      ],
+      "createdAt": 1792756614010,
+      "description": "Valhalla Unlock Tool Free Valhalla Unlock Tool Free Download  What Valhalla Unlock Tool Does\nThe main purpose of Valhalla is to work with Motorola phones using MediaTek chipsets. The program has separate options for bootloader unlocking and experimental FRP erase.\n\nThe bootloader unlock option performs a factory reset. The FRP option is separate and attempts to erase FRP using the Val Protocol erase-serial method.\n\nThere is also a combined mode that performs bootloader unlocking and FRP bypass. The tool does not simply report a successful command as proof that FRP was removed. It checks the device’s frp-state and expects it to no longer show protected.\n\nThis is important because the project information specifically says that a successful fastboot command does not always mean that FRP has actually been erased.\n\nOperation Modes Visible in the Tool\nWhen I checked the supplied screenshot, the main window showed three operation modes. These are presented as radio button options under the Select Operation Mode section.\n\nBootloader Unlock (Factory Reset) – Used for the bootloader unlock workflow and includes a factory reset.\nFRP Bypass Only (No Factory Reset) – The interface lists this as an FRP-only mode without a factory reset.\nBootloader Unlock + FRP Bypass – Combines the bootloader unlock and FRP workflow.\nThe project documentation also warns that the FRP erase process itself is destructive. The erase-only flow targets device partitions related to metadata and user data, while Valhalla rewrites md_udc to frp. Because of this, the FRP mode should be treated as a factory reset and data erase.\n\nSimple Interface\nThe supplied screenshot shows a dark interface with the Valhalla Unlock Tool name at the top. It also displays the creator name, the Val Protocol credit, and support for Motorola MediaTek devices.\n\nAt the bottom of the main window there is a log area. The log displays information about the tool, credits, and warnings. This is useful for seeing what the program is reporting during the workflow.\n\nThe main controls shown in the screenshot are Check Device, Run Valhalla, and Reset.\n\nThe program also shows a status bar at the bottom with a Ready message when it is waiting for an operation.\n\nFeatures\nBootloader Unlock – The tool includes a bootloader unlock workflow for supported Motorola MediaTek devices. The project states that this process performs a factory reset.\nExperimental FRP Erase – Valhalla attempts an FRP erase using the Val Protocol erase-serial method.\nFRP State Verification – The tool checks the device’s frp-state instead of treating a successful command as automatic proof of FRP removal.\nCombined Unlock and FRP Mode – A combined operation is available for bootloader unlocking and FRP bypass.\nExploit Download – The Val Protocol exploit can be downloaded automatically from GitHub.\nAutomatic Linux Dependencies – Required dependencies can be installed automatically on Linux.\nLinux USB Setup – The tool can automatically set up udev rules on Linux.\nVerbose Logs – The program displays detailed messages so the operation can be followed in the log window.\nOEM Unlock Workaround – The project states that it can work even when OEM unlocking is grayed out in Developer Options.\nSupported Motorola Devices\nThe project is focused on Motorola MediaTek devices. The supplied information specifically lists several devices where bootloader unlocking has been reported or confirmed.\n\nMoto G Play 2026 (XT2615V, XT2615-1)\nMotorola Milan (XT2211DL)\nMoto G Play 2023\nMoto G 2025\nMoto G Power 2026\nMoto G series with MediaTek chipsets\nMotorola Edge series with MediaTek chipsets\nMotorola Razr series with MediaTek chipsets\nThe project also says that other Motorola MediaTek devices may work. That should not be treated as confirmation for every model.\n\nReported Device Results\nThe project author reports that the Moto G Play 2026, including models XT2615V and XT2615-1, has working bootloader unlocking.\n\nMotorola Milan XT2211DL was also verified for bootloader unlocking on stock Android 12 LK. However, there is an important difference with the FRP process on this model. The original Valhalla FRP run falsely reported success while the device still showed protected (277).\n\nA separate firmware-specific post-unlock experiment later cleared FRP on the Milan. According to the supplied project information, that experiment is documented separately and is not automatically applied by Valhalla.\n\nThe project also lists the Moto G Play 2023, Moto G 2025, and Moto G Power 2026 as having confirmed bootloader unlock results.\n\nFRP Support Is Experimental\nOne point I would keep in mind before using the FRP option is that the project itself describes this support as device-specific and experimental.\n\nValhalla now checks the device’s frp-state before reporting that the FRP erase worked. If the state still says protected, the tool does not treat the operation as successfully verified.\n\nThe combined mode also stops when the FRP erase cannot be verified. This prevents the combined workflow from simply continuing after an unsuccessful FRP check.\n\nImportant Motorola Milan Note\nThe supplied project details contain a specific warning about the Motorola Milan XT2211DL. When the device is already unlocked, the normal erase-serial flow exits through the Already unlocked branch before reaching its token and erase path.\n\nThe separate ARM32 erase-token patcher rejected the LK control-flow structure on this model. The project specifically says that its safety check should not be bypassed or force-patched.\n\nSo the Milan result should not be treated as a general FRP method for every Motorola device.\n\nLK Image Warning\nThe biggest warning shown by the program is about LK flashing. The tool clearly states that using a bad LK can permanently brick the device.\n\nFlashing an incorrect LK can hard-brick the phone.\nThe LK image must exactly match the device and firmware.\nKeep the stock LK backed up.\nKeep every successfully booted patched LK backed up.\nKeep a full stock firmware backup ready.\nUse the tool at your own risk.\nThe warning is also visible directly in the supplied screenshot. The program asks users not to flash the original LK back after unlocking and states that no responsibility is accepted for damage.",
+      "downloads": 3,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792756614010,
+      "link": "https://mega.nz/file/m9YQyarR#zAdJtR9zf4GAipOG2AmJ5-XGbolExp3sYsel6N2SbKI",
+      "links": [
+        {
+          "label": "Valhalla Unlock Tool Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/m9YQyarR#zAdJtR9zf4GAipOG2AmJ5-XGbolExp3sYsel6N2SbKI"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZFlcRJZlwMvbdzG6SflIYglkiSFLFBp8RnV"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1xLjnTjJ6PZrXW0KWn5Tgzg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Valhalla Unlock Tool Free",
+      "password": "",
+      "publishUrl": "valhalla-unlock-tool-free",
+      "published": true,
+      "size": "9.7MB",
+      "unrarPassword": ""
+    },
+    "f_mvkx2ldp_lg7pyiwn5": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw-u2V-Sp5HVQFkUIZ1-m7yfxborgBAZATgnfxX_xGr-hJ34qg2R4roNJ1up5esW6nmX2wWtav9VwCNIgnigpmeYD1TQEOUlo-pq3DrRjSxV-Ninaiq24HspDEmq00AMc6OCnRfKQ-imSLGu377T_PCLMLiQ1Ii2Vs1f1xjQmT2yPwHaYm5y-Tu8aKshiN/w640-h360/Mysterious-Dev%20Tool%20V1.2.7%20Free.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw-u2V-Sp5HVQFkUIZ1-m7yfxborgBAZATgnfxX_xGr-hJ34qg2R4roNJ1up5esW6nmX2wWtav9VwCNIgnigpmeYD1TQEOUlo-pq3DrRjSxV-Ninaiq24HspDEmq00AMc6OCnRfKQ-imSLGu377T_PCLMLiQ1Ii2Vs1f1xjQmT2yPwHaYm5y-Tu8aKshiN/w640-h360/Mysterious-Dev%20Tool%20V1.2.7%20Free.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkeBBRxy0KcTn6Wt0GBl5HMBcfQDWxKqk-I5zmLnct8Zq7e44s9swtEYzggMSGYayZNWeRtBS72ePRI92sM5_IBLHi0H-yqkwo7cYF8Bpi93pkfkqTs9Md3jEsfmuxrXM8v38corHrKFVugZ3Q4AV6ImFq09vmufplNALUBJUZ-JRnaqqykCbSPYnVb8c/w640-h272/Mysterious-Dev%20Tool%20V1.1.4%20Free%20Download.jpeg"
+      ],
+      "createdAt": 1792756734397,
+      "description": "OLD Token: 1499c38f6765c0608fa573e972bea22e\n\nNEW Token :: a87f2e19c0b4d588e6129fa43c5b881d\n\n🚀 Mysterious-Dev Tool Update V1.2.8 OTA Out Now\nA new OTA update is officially released with major engine upgrades, protocol enhancements, and stability fixes.\nWhat is New in V1.2.8 :\n\nDevice Locks and FRP Module\n* Enhanced Samsung FRP via Test Mode over MTP\n* Full optimized support for Samsung FRP Android 16 Direct via MTP\n* Upgraded Samsung USA Direct FRP via MTP with broad carrier coverage\n* Improved Universal FRP across all Android brands using QR Code via MTP\n* Accelerated Samsung FRP operations for Exynos chipsets via ADB\n\nEnterprise and Security Protections Module\n* Advanced Universal MDM and IT Admin lock removal\n* Enhanced Universal MDM and IT Admin bypass Method 2\n* Optimized Samsung KG state transition from Locked to Active\n* Improved Samsung KG Lock removal under GuardShield security\n\nSystem and Core Engine Fixes\n* Resolved SSL handshake and connection issues during login\n* Refined UI layout and optimized display sizing for all dialogs and log prompts\n* General performance enhancements for faster execution and rock-solid stability\n\nUpdate your tool now directly via OTA and enjoy the latest features.",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792756734397,
+      "link": "https://mysterious-dev.com/SetupMysteriousDev.rar?v=1789651935688",
+      "links": [
+        {
+          "label": "Mysterious-Dev Tool V1.2.8",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mysterious-dev.com/SetupMysteriousDev.rar?v=1789651935688"
+            },
+            {
+              "password": "",
+              "url": "https://mysterious-dev.com/download.html"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool V1.2.7 Update",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.androidfilehost.com/?fid=17900174959292978032"
+            },
+            {
+              "password": "",
+              "url": "https://transfer.it/t/vZMGsw0nQTRI"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/18O6AiZTiCb-S1SqYZZuEsA"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool v1.2.6",
+          "urls": [
+            {
+              "password": "a87f2e19c0b4d588e6129fa43c5b881d",
+              "url": "https://mysterious-dev.com/SetupMysteriousDev.rar?v=1787810570019"
+            },
+            {
+              "password": "a87f2e19c0b4d588e6129fa43c5b881d",
+              "url": "https://mega.nz/file/suNkkAxD#q9YA98NgYtwLMAvFDZmpYNujuph5ZwFtOlIhgAL-Amo"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1SjUjnEBcZaLwzSJMDGGTNw"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool V1.1.4 Free",
+          "urls": [
+            {
+              "password": "1499c38f6765c0608fa573e972bea22e",
+              "url": "https://www.mediafire.com/file/jcbfr54ic97zgnf/SetupMysteriousDev_1.1.4.rar/file"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool V1.0.9",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/bad85040cc5844dc/IQB2wS6NwAj-SY_9NJAMgrozAa-NZPax0z5ZJI48CmZD8FU?e=aK0ETb"
+            }
+          ]
+        },
+        {
+          "label": "Mysterious-Dev Tool V1.0.8",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/bad85040cc5844dc/IQB5tIdkHbhMTpgWOH97BA1yASx9y_FBfTBl0rOs1lwcH1c?e=aIJeSX"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "a87f2e19c0b4d588e6129fa43c5b881d",
+      "name": "Mysterious-Dev Tool V1 2 8",
+      "password": "",
+      "publishUrl": "mysterious-dev-tool-v1-2-8",
+      "published": true,
+      "size": "200 mb",
+      "unrarPassword": ""
+    },
+    "f_mvkx3uip_npff7b4sp": {
+      "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/09/image-9-1024x683.png",
+      "covers": [
+        "https://gsmyogesh.com/wp-content/uploads/2026/09/image-9-1024x683.png"
+      ],
+      "createdAt": 1792756792897,
+      "description": "Flasher Pro v7.0 Free Download \nWhat's New in v7.0\nFull Rebuild — All-New Interface: FlasherPro has been completely rebuilt from the ground up on a modern desktop framework, replacing the old interface with a fast, polished dark/light-themed UI — glass panel design system, smooth animations, and a fully redesigned sidebar navigation with grouped tools and flyout submenus.\nLive OTA Query Engine: The OTA Downloader now queries official ColorOS/OnePlus/OPPO update servers directly and automatically resolves the final CDN download link (no more dead or expired redirect links) — plus live changelog and full server response details for every result.\nFully Automated Stock ROM Flasher: Point it at an OTA zip or payload.bin and the entire pipeline runs itself — extraction, partition sorting, integrity verification, and dual-slot fastboot flashing in the correct order, no manual steps required.\nRebuilt Payload Dumper: Real partition scanning straight from the payload header — see the actual partitions in your file before extracting, with a one-click reset to start over on a new file.\nInteractive CMD Studio: A brand-new live terminal for ADB/Fastboot power users — real streamed command output, drag-and-drop file paths straight into the command line, quick-action shortcuts, and a one-click reboot menu.\nIMEI & NVRAM Tools Reworked: Backup and restore now properly verify a connected device and real command success at every step before reporting complete — no more false positives.\nRemove FRP — Fastboot-Only Flow: Simplified and hardened to a fastboot-only reboot sequence with a two-step confirmation before anything irreversible happens.\nUSB Driver Installers Built In: One-click, UAC-elevated installers for Universal, MediaTek, and OPPO MTK/QCOM drivers — no separate downloads needed.\nDashboard Usage Stats: FlasherPro now tracks and displays how many devices you've detected, flashes completed, OTAs downloaded, IMEI backups, and more — saved locally and persisted across restarts.\nReal Auto-Updater: Replaced the old manual update-check with proper in-app auto-update — FlasherPro checks GitHub for new releases, downloads updates in the background, and installs on your command.\nUnder-the-Hood: Entirely new architecture built for speed and stability going forward — cleaner separation between the UI and the flashing engine, safer verification gates before any destructive operation, and a foundation designed for faster feature updates than the old codebase allowed.\n⚠️ Note: v7.0 is a ground-up rebuild. If you're upgrading from v6.6, expect an entirely new look and feel — all core flashing features (Port ROM, Stock ROM, GSI Flasher, Boot Flasher) are carried forward with the same trusted flashing logic underneath.",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792756792897,
+      "link": "https://github.com/Sairb1/FlasherPRO/releases/download/v7.0/FlasherPRO-Installer.exe",
+      "links": [
+        {
+          "label": "Flasher Pro v7.0 Free Setup",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://github.com/Sairb1/FlasherPRO/releases/download/v7.0/FlasherPRO-Installer.exe"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1IrOETfdsqXzbGZw6XXj15w"
+            }
+          ]
+        },
+        {
+          "label": "Official Website",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://github.com/Sairb1/FlasherPRO"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Flasher Pro v7 0 Free",
+      "password": "",
+      "publishUrl": "flasher-pro-v7-0-free",
+      "published": true,
+      "size": "166mb",
+      "unrarPassword": ""
+    },
+    "f_mvkx6ag1_qydud2bug": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULikLKPWXqPeGCCWwkuXFxAMGAR9Hz8MqfA&s",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULikLKPWXqPeGCCWwkuXFxAMGAR9Hz8MqfA&s"
+      ],
+      "createdAt": 1792756906849,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792756906849,
+      "link": "https://drive.proton.me/urls/804BG6GHX0#oqyc7SH8paP9",
+      "links": [
+        {
+          "label": "Best Flash Tool by BossV V1.7.zip",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/804BG6GHX0#oqyc7SH8paP9"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/yhq2nkuz3idomr6/BFTSetup_V1.7.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://github.com/softwarecrackgurus-lang/gsmyogesh/releases/download/v_93ee/BFTSetup_V1.7_Revised.rar"
+            }
+          ]
+        },
+        {
+          "label": "Best Flash Tool by BissV V1.6",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.jioaicloud.com/l/?u=BhgajseQtQ_fERXLo6x2eTB34WnxPtT1qFrmA2Xgxbc=hkW"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "fj6Y732M7j4c703N",
+      "loginUsername": "TrialUser",
+      "name": "Best Flash Tool by BossV BFT",
+      "password": "",
+      "publishUrl": "best-flash-tool-by-bossv-bft",
+      "published": true,
+      "size": "31 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkx7sun_17xcfyvnd": {
+      "coverUrl": "data:image/jpeg;base64,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",
+      "covers": [
+        "data:image/jpeg;base64,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"
+      ],
+      "createdAt": 1792756977359,
+      "description": "Magic Flash Tools MTK 6261 Unlock Tools Magic Flash Tools MTK 6261 Unlock Tools.rar",
+      "downloads": 0,
+      "folderId": "f_mpphzpaq_kkd8xpdsf",
+      "isLink": false,
+      "lastModified": 1792756977359,
+      "link": "https://mega.nz/file/Eq8iDZCa#I79_pAvvEtjkcMblOQCh83hKe6dLabEkUFtC-l4Jr80",
+      "links": [
+        {
+          "label": "Magic Flash Tools MTK 6261 Unlock Tools.rar",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/Eq8iDZCa#I79_pAvvEtjkcMblOQCh83hKe6dLabEkUFtC-l4Jr80"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/17f2NKV_cxqoemgK7DW0HMw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Magic Flash Tools MTK 6261 Unlock Tools",
+      "password": "",
+      "publishUrl": "magic-flash-tools-mtk-6261-unlock-tools",
+      "published": true,
+      "size": "23 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkxb4pw_h72ec90sb": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXaWeSmP9ajIiWI5BIOnfM190zO7HXnMmRiQ&s",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXaWeSmP9ajIiWI5BIOnfM190zO7HXnMmRiQ&s"
+      ],
+      "createdAt": 1792757132709,
+      "description": "TFT MTK Module V3.0",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757132709,
+      "link": "https://mega.nz/file/R60QmQDI#S7CTEB4m1As8NUpnT5NEPSOUi7Ygq2GuckLprkwUSPA",
+      "links": [
+        {
+          "label": "TFT MTK Module V3.0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/R60QmQDI#S7CTEB4m1As8NUpnT5NEPSOUi7Ygq2GuckLprkwUSPA"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/18bbLyPwvtVPbnF7Is2k_nQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TFT MTK Module V3 0",
+      "password": "",
+      "publishUrl": "tft-mtk-module-v3-0",
+      "published": true,
+      "size": "35 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkxcm91_ue8wqlzkc": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCYg58kkKikQS03BNJp-OtcOHs0FoDPfTRXL_WbOkXayYqy4Mo5zDjQ0eqyE5JdKTCZpqFtj3bOJ0KxXDjef6FnLr3LnbVWhQ3GSBonlcMLLXFWfOfF84uIy_KpwLEPo_cbTixWpmMt5IGb9fLy8lMw2wd3626ZOScQOWhMnXSM4e94930h3BwM4wXBI/w640-h346/Motorola%20MTK%20LK%20Toolkit%20Pro%20v1.0.0%20By%20LunTech.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCYg58kkKikQS03BNJp-OtcOHs0FoDPfTRXL_WbOkXayYqy4Mo5zDjQ0eqyE5JdKTCZpqFtj3bOJ0KxXDjef6FnLr3LnbVWhQ3GSBonlcMLLXFWfOfF84uIy_KpwLEPo_cbTixWpmMt5IGb9fLy8lMw2wd3626ZOScQOWhMnXSM4e94930h3BwM4wXBI/w640-h346/Motorola%20MTK%20LK%20Toolkit%20Pro%20v1.0.0%20By%20LunTech.png"
+      ],
+      "createdAt": 1792757202085,
+      "description": "Motorola MTK LK Toolkit Pro v1.0.0 By LunTech Features Motorola MTK LK Toolkit Pro \nSupported Motorola MTK device list with model numbers and codenames.\nSearch supported models directly from the Devices_SoCs tab.\n1-Click Bootloader Unlock.\n1-Click FRP Reset and Factory Wipe.\nAuto-Detect Target Device Model.\nBROM Factory Reset + FRP Wipe.\nBROM Bootloader Unlock using seccfg.\nBROM Carrier/Network Unlock option.\nPatch\nlk.img\n,\nlk2.img\nand\npreloader.bin\n.\nUnlock Gate, FRP Bypass, Secure Boot and Strip Certs operations in Firmware Patcher.\nInject Bypass Payload through the available Auto Code-Cave + Entry Hook option.\nPatch LK Only.\nFlash LK to Fastboot.\nBROM Flash via MTKClient.\nRead device information from Fastboot mode.\nAutomatically read the serial number in Fastboot mode.\nManual Serial Number, IMEI, Chip ID and Model input fields.\nGenerate Unlock Key.\nUnlock Key Verifier.\nDirect Bootloader Unlock and Direct FRP options.\nFlash Motorola\nflashfile.xml\nand\nservicefile.xml\nfirmware packages.\nFix Comserver / FRP Reset_Wipe.\nRead Fastboot information from the XML Flasher section.\nLive terminal and process logs for different operations.\n\nWhat's New (Changelog)\nInitial release of Motorola MTK LK Toolkit Pro v1.0.0 by LunTech.\nAdded the Devices_SoCs section with a searchable Motorola MTK model list.\nAdded Operator functions for bootloader, FRP, factory reset and BROM operations.\nAdded Firmware Patcher for LK, LK2 and preloader firmware files.\nAdded BL Unlock Fastboot section with device reading and unlock key functions.\nAdded XML Flasher for Motorola flashfile.xml and servicefile.xml packages.\nSupported Motorola Models\nXT2133-1 — Moto G60s [lisbon]\nXT2139-1 — Moto Edge 20 Lite [kyoto]\nXT2149-1 — Moto G50 5G (2021) [saipan]\nXT2163-1 — Moto G Pure [borneo]\nXT2165-5 — Moto G Power (2022) [tongaa]\nXT2167-1 — Moto G41 [corfu]\nXT2173-3 — Moto G31 [wight]\nXT2205-3 — Moto Edge (2022) [dubai]\nXT2211-2 — Moto G Stylus (2022) [milanf]\nXT2213-3 — Moto G 5G (2022) [austin]\nXT2237-1 — Moto G73 5G (2023) [devon]\nXT2255-3 — Moto G72 [victoria]\nXT2271-5 — Moto G Play (2023) [rhodep]\nXT2303-2 — Moto Edge 40 (2023) [lyriq]\nXT2305-1 — Moto Edge (2023) [rtwo]\nXT2307-1 — Moto Edge 40 Neo 5G (2023) [manaus]\nXT2311-3 — Moto G Power 5G (2023) [denver]\nXT2317DL — Moto G Stylus (2023) [genealogic]\nXT2343-1 — Moto G54 5G [cancunf]\nXT2409-2 — Moto Edge 50 Neo 5G (2024) [pnangf]\nXT2413-1 — Moto G Play 5G [scout]\nXT2415-5 — Moto G Power 5G (2024) [ruby5g]\nXT2431-1 — Moto G64 5G [devonf]\nXT2435-1 — Moto G55 5G (2024)\nXT2453-1 — Moto Razr 50 / Razr (2024)\nXT2503-1 — Moto Edge 60 Fusion\nXT2503-2 — Moto Edge 60 Fusion\nXT2505-3 — Moto Edge 60\nXT2507-1 — Moto Edge 60 Pro\nXT2509-1 — Moto Edge 60 Neo\nXT2513-1 — Moto G 5G (2025)\nXT2515-2 — Moto G Power 5G (2025)\nXT2519-1 — Moto Edge (2025)\nXT2527-1 — Moto G86 5G\nXT2527-2 — Moto G86 5G\nXT2527-6 — Moto G86 Power 5G\nXT2529-1 — Moto G56 5G (2025)\nXT2529-3 — Moto G66j 5G\nXT2553-1 — Moto Razr 60 / Razr (2025)\nXT2607-2 — Moto Edge 70 Pro\nXT2613-1 — Moto G (2026)\nXT2615-1 — Moto G Play (2026)\nXT2621-3 — Moto G67 (2026) / Moto G77 5G\nXT2625-5 — Moto G47 5G\nXT2625-6 — Moto G37\n\nHow to Install\nDownload the Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.zip file.\nExtract the downloaded ZIP file using WinRAR, 7-Zip or another archive tool.\nOpen the extracted Motorola MTK LK Toolkit Pro v1.0.0 By LunTech folder.\nOpen the inner software folder if the package contains one.\nFind Motorola MTK LK Toolkit Pro v1.0.0 By LunTech.exe.\nRight-click the EXE file and select Run as administrator.\nIf Windows SmartScreen shows a warning, select More info and then Run anyway if you trust the software source.\nAfter the program opens, select the required tab and operation.",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757202085,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQDX3TLCt691RoyQ1zlum2nPASNAMeNSqQ0HbdItidkLNQM?e=UxMp2C",
+      "links": [
+        {
+          "label": "Motorola MTK LK Toolkit Pro v1.0.0 By LunTech",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQDX3TLCt691RoyQ1zlum2nPASNAMeNSqQ0HbdItidkLNQM?e=UxMp2C"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1nh2q_BCJoRZuKVVy2tB_0g"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Motorola MTK LK Toolkit Pro v1 By LunTech",
+      "password": "",
+      "publishUrl": "motorola-mtk-lk-toolkit-pro-v1-by-luntech",
+      "published": true,
+      "size": "63mb",
+      "unrarPassword": ""
+    },
+    "f_mvkxdnyw_bz15na2an": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSJjtR4q2fBh9WUrLFD6pfMwTWu5HrhhgCF3TbitAg-2yUREelA9qNqb9stWIf-m5uy5464y2M3xWsCPHf_9bR2UDP_tB9YYsJzO_tmAry-It35f1lZ3eBmniGJ8jkCQSdP7z58xtuZBr8X5AjfRFm96hoiuvGGjrSz7mNgLCri0fRIMe6xkI5ZKyoYlw/w640-h333/GSM%20PROF%20Auth%20Tool%20Free.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSJjtR4q2fBh9WUrLFD6pfMwTWu5HrhhgCF3TbitAg-2yUREelA9qNqb9stWIf-m5uy5464y2M3xWsCPHf_9bR2UDP_tB9YYsJzO_tmAry-It35f1lZ3eBmniGJ8jkCQSdP7z58xtuZBr8X5AjfRFm96hoiuvGGjrSz7mNgLCri0fRIMe6xkI5ZKyoYlw/w640-h333/GSM%20PROF%20Auth%20Tool%20Free.png"
+      ],
+      "createdAt": 1792757250968,
+      "description": "GSM PROF Auth Tool FreeGSM PROF Auth Tool Features I Found\nMediate MTK Auth section\nPreloader-related options\nBROM connection options\nAuthorization-related functions\nAuto reboot option\nMTK FRP-related operation\nQualcomm flashing options\nCustom and automatic loader options\nPartition backup and erase options\nPartition Manager\nEFS backup, restore and wipe options\nToken Generate section\nXiaomi Mi Assistant functions\nFast boot device information\nConsole log for showing device communication",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757250968,
+      "link": "https://1drv.ms/u/c/362938347b225930/IQArpOc3nPSgR6Z7waAT2YORAYASwnfG_GUc1lpPjffgNN0?e=juA1r7",
+      "links": [
+        {
+          "label": "GSM PROF Auth Tool Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/362938347b225930/IQArpOc3nPSgR6Z7waAT2YORAYASwnfG_GUc1lpPjffgNN0?e=juA1r7"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1NSeXubyLHoA-gtbnZVz6Kw"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/JzcSnB7K#VsiGrrJU6BLVWWILrR2j-GKtQmGCY49fpS4kFH8_G0s"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "GSM PROF Auth Tool Free",
+      "password": "",
+      "publishUrl": "gsm-prof-auth-tool-free",
+      "published": true,
+      "size": "232mb",
+      "unrarPassword": ""
+    },
+    "f_mvkxfib5_e6o69b92c": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGGMyv_d_-r72zw6wObArwjlMBphVEufm0PuQeHzWMVZxcMatkhtpsAwXRq2NuVjItzmbPxkgV4sMJ3ICH-K8PUvLjsVg-NjbUZxTAbVv2lhBuLk3d0-M9mjN0VTDNRisogpyd7jCpjHhzyxUS-Tl8kkrQXZJdlrDncpPqEbwlh27mVC-BGSodXJ9Ka70/s320/Miko%20Service%20Tool%20v5.3%20Pro.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGGMyv_d_-r72zw6wObArwjlMBphVEufm0PuQeHzWMVZxcMatkhtpsAwXRq2NuVjItzmbPxkgV4sMJ3ICH-K8PUvLjsVg-NjbUZxTAbVv2lhBuLk3d0-M9mjN0VTDNRisogpyd7jCpjHhzyxUS-Tl8kkrQXZJdlrDncpPqEbwlh27mVC-BGSodXJ9Ka70/s320/Miko%20Service%20Tool%20v5.3%20Pro.png"
+      ],
+      "createdAt": 1792757336945,
+      "description": "Miko Service Tool v5.3 Pro Full",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757336945,
+      "link": "https://mega.nz/file/87FQyKzT#lAZofYCa_v9UwktMULq5f6TLikrhaNedJ7ANFCHWB8g",
+      "links": [
+        {
+          "label": "Miko Service Tool v5.3 Pro Full",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/87FQyKzT#lAZofYCa_v9UwktMULq5f6TLikrhaNedJ7ANFCHWB8g"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/134Cx0JKkQAZvRpMJYMflOQ"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Miko Service Tool v5 3 Pro Full",
+      "password": "",
+      "publishUrl": "miko-service-tool-v5-3-pro-full",
+      "published": true,
+      "size": "400mb",
+      "unrarPassword": ""
+    },
+    "f_mvkxhhco_83xs7ru2s": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrf-KBhO0pOuhPQtxP4PVZ2QH_88alXSgsingiEjxxptmdOhWlhmNsDtcVgWoVqRDLr82McK6-sy67F8HqJOuCIvz_Pxv22fUlQCq-ru3vP6duVODX-zay3H_WXPQK4RsB4uJdGRMR2Bsi_CtwMuj3T0UeR8BQ1LkZLV-HA7GAlAuLbiA385GIS2X2ybs/s320/MM%20Unlocker%20Box%20%20Free%20Download.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrf-KBhO0pOuhPQtxP4PVZ2QH_88alXSgsingiEjxxptmdOhWlhmNsDtcVgWoVqRDLr82McK6-sy67F8HqJOuCIvz_Pxv22fUlQCq-ru3vP6duVODX-zay3H_WXPQK4RsB4uJdGRMR2Bsi_CtwMuj3T0UeR8BQ1LkZLV-HA7GAlAuLbiA385GIS2X2ybs/s320/MM%20Unlocker%20Box%20%20Free%20Download.png"
+      ],
+      "createdAt": 1792757429016,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757429016,
+      "link": "https://mega.nz/file/svdlXYYD#Am_siT3oKugICkUnKLkPNd3IwvzSYtMwNHqWr3S6AJU",
+      "links": [
+        {
+          "label": "MM Unlocker Box",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/svdlXYYD#Am_siT3oKugICkUnKLkPNd3IwvzSYtMwNHqWr3S6AJU"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1-WB9j0t4RMMrnJSSbOQBag"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MM Unlocker Box",
+      "password": "",
+      "publishUrl": "mm-unlocker-box",
+      "published": true,
+      "size": "10mb",
+      "unrarPassword": ""
+    },
+    "f_mvkxkwyn_tukdlw8y6": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdraLpg9Uf85koc0dmWjnZeT9ShvMiVYFjOkpb8oHUUnDdVJGZCu4F3A6Yf-6xBAUfqbfOktr32s9EB13_Q-ClJw5oFdyW-ixVJF5BzMEsG7Ehdy1Cxttbe4Jaky9RikB5bycnkuZGWJv1rfSOfhpQk7SkrMcnCdwwZiJ0q8E0MZFFiKfx3mTkJSl5FJw/w640-h400/PrimeToolX%20v26.1%20Free%20Download.jpeg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdraLpg9Uf85koc0dmWjnZeT9ShvMiVYFjOkpb8oHUUnDdVJGZCu4F3A6Yf-6xBAUfqbfOktr32s9EB13_Q-ClJw5oFdyW-ixVJF5BzMEsG7Ehdy1Cxttbe4Jaky9RikB5bycnkuZGWJv1rfSOfhpQk7SkrMcnCdwwZiJ0q8E0MZFFiKfx3mTkJSl5FJw/w640-h400/PrimeToolX%20v26.1%20Free%20Download.jpeg"
+      ],
+      "createdAt": 1792757589215,
+      "description": "PrimeToolX 26 Free",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757589215,
+      "link": "https://www.mediafire.com/file/i5xig12ob2zifod/PrimeToolX26.1.5.rar/file",
+      "links": [
+        {
+          "label": "PrimeToolX 26 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/i5xig12ob2zifod/PrimeToolX26.1.5.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file_premium/wwir89n23u6vv9y/PrimeToolX26.6.2.rar/file"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "PrimeToolX 26 Free",
+      "password": "",
+      "publishUrl": "primetoolx-26-free",
+      "published": true,
+      "size": "24 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkxnarp_ziu4xd48f": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmou_yLQ1lITbnAXmW7LQg0oJQeFCgXA0BfJvSn_1WbLLRvwFudX4X52rrlCF7qmf5iRAuGzlcqcRuTV5_PihbraPq0Tc9I7xqTbLhV-oJrbDEthXN8hFMLpf1tmcmDVjBNa6bFLzLj4ebKMdMQ_qjKxnf_sD3gtOVzM8NfCmSvWw6hn1bDNm8Jmlf6oCr/w640-h364/MRT%20Tool%20V6.0%20Free%201%20Year%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmou_yLQ1lITbnAXmW7LQg0oJQeFCgXA0BfJvSn_1WbLLRvwFudX4X52rrlCF7qmf5iRAuGzlcqcRuTV5_PihbraPq0Tc9I7xqTbLhV-oJrbDEthXN8hFMLpf1tmcmDVjBNa6bFLzLj4ebKMdMQ_qjKxnf_sD3gtOVzM8NfCmSvWw6hn1bDNm8Jmlf6oCr/w640-h364/MRT%20Tool%20V6.0%20Free%201%20Year%20Download.jpg"
+      ],
+      "createdAt": 1792757700421,
+      "description": "MRT Tool V6.0 Free 1 Year",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757700421,
+      "link": "https://www.mediafire.com/file/7rmngvh9w49h37a/MRT+Tool+V6.0+Free.rar/file",
+      "links": [
+        {
+          "label": "MRT Tool V6.0 Free 1 Year",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/7rmngvh9w49h37a/MRT+Tool+V6.0+Free.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZMR8h5ZQlJxEnswC0FTR680iqgDsfiAnnjV"
+            }
+          ]
+        },
+        {
+          "label": "Registration Required",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mrttool.com/register.php"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "MRT Tool V6 0 Free 1 Year",
+      "password": "",
+      "publishUrl": "mrt-tool-v6-0-free-1-year",
+      "published": true,
+      "size": "560 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkxo3u4_7vpimhiju": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4wJ1zoGhswN5xBP1ZGK3zeYow67GiNkTqoQg6K7AeYW84xvwer9UDFCuvYQouxCpGhg91DkDs7eFuqn7QBVVa0u_plEnlpRzkj63nsRDusJOv7fTBY0hLgdZSy0S-B0ycC1anaiF-KZJJ9XoHSHxrKgJY_U20_DE0-C6RTocXMUc6RINtxQffXSYV7cg/w640-h354/King%20Soft%20Team%20Tool%20V5.7%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4wJ1zoGhswN5xBP1ZGK3zeYow67GiNkTqoQg6K7AeYW84xvwer9UDFCuvYQouxCpGhg91DkDs7eFuqn7QBVVa0u_plEnlpRzkj63nsRDusJOv7fTBY0hLgdZSy0S-B0ycC1anaiF-KZJJ9XoHSHxrKgJY_U20_DE0-C6RTocXMUc6RINtxQffXSYV7cg/w640-h354/King%20Soft%20Team%20Tool%20V5.7%20Download.jpg"
+      ],
+      "createdAt": 1792757738092,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757738092,
+      "link": "https://drive.proton.me/urls/DN258Z1VQW#vuCYtTcfjJew",
+      "links": [
+        {
+          "label": "King Soft Team Tool V5.7",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/DN258Z1VQW#vuCYtTcfjJew"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/3nnyjkdyp1843ux/KING+SOFT+NEW+5.7.rar/file"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "King Soft Team Tool",
+      "password": "",
+      "publishUrl": "king-soft-team-tool",
+      "published": true,
+      "size": "260mb",
+      "unrarPassword": ""
+    },
+    "f_mvkxp7x8_9gxq2vqyd": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiteQ1oPnUH2oTqkW8y5daQx2QTXTewCQPz4gaX9blBOkgcmNSS9TW1SA-FDjZICFTuz5W9OQOY_Qn5NewzFUFoeozr9wBu3riuqBdnoRcJsPVqLFhdaXainpVocOSguu7jEgGDCWsInsMqdDrYc-3Zcn2XZJe3cEr9pRk2MYOXekGhOtUc8Wr04vp-V5rd/w400-h243/RC%20DARK%20Tool%20v1.2.3%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiteQ1oPnUH2oTqkW8y5daQx2QTXTewCQPz4gaX9blBOkgcmNSS9TW1SA-FDjZICFTuz5W9OQOY_Qn5NewzFUFoeozr9wBu3riuqBdnoRcJsPVqLFhdaXainpVocOSguu7jEgGDCWsInsMqdDrYc-3Zcn2XZJe3cEr9pRk2MYOXekGhOtUc8Wr04vp-V5rd/w400-h243/RC%20DARK%20Tool%20v1.2.3%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792757790044,
+      "description": "",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757790044,
+      "link": "https://www.mediafire.com/file/t5tadm60lpd6fwh/RC+DARK+Tool++v1.2.3.rar/file",
+      "links": [
+        {
+          "label": "RC DARK Tool v1.2.3 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/t5tadm60lpd6fwh/RC+DARK+Tool++v1.2.3.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZTTNf5ZsylWzfjlvI5x74M58zSSsRTBpyqy"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "RC DARK Tool v1 2 3 Free",
+      "password": "",
+      "publishUrl": "rc-dark-tool-v1-2-3-free",
+      "published": true,
+      "size": "24 mb",
+      "unrarPassword": ""
+    },
+    "f_mvkxql9h_d61volwzh": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG0kUV8CwhyphenhyphenAKhmD7RAMIcbWK3iw4nswVfWV3udnBolLcSOABLJgdZgKvXKfRSB2hlkJqeotQL3BzNUDjhheqSl9njZ5Uwzf7QTLJ_GrFrBgGUCwlSJwkmftSqLHi-dvZgatyRdegL9SWl_vs_P83KeaePLXjXI3z7NHSZQNDExnx0HcaQziF4nCM_U3Mx/w400-h274/Nice%20Unlocker%20MDM%20Tool%20Cr@cked%20Download.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG0kUV8CwhyphenhyphenAKhmD7RAMIcbWK3iw4nswVfWV3udnBolLcSOABLJgdZgKvXKfRSB2hlkJqeotQL3BzNUDjhheqSl9njZ5Uwzf7QTLJ_GrFrBgGUCwlSJwkmftSqLHi-dvZgatyRdegL9SWl_vs_P83KeaePLXjXI3z7NHSZQNDExnx0HcaQziF4nCM_U3Mx/w400-h274/Nice%20Unlocker%20MDM%20Tool%20Cr@cked%20Download.png"
+      ],
+      "createdAt": 1792757853989,
+      "description": "",
+      "downloads": 0,
+      "folderId": "",
+      "isLink": false,
+      "lastModified": 1792757853989,
+      "link": "https://drive.proton.me/urls/RY1H6WXYTR#tHRIFhootERn",
+      "links": [
+        {
+          "label": "Nice Unlocker MDM Tool Cracked",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.proton.me/urls/RY1H6WXYTR#tHRIFhootERn"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/myj6t7rgukg29fl/Nice+Unlocker+MDM+Too+V2.1.2025+Cracked.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://www.jiocloud.com/l/?u=c0-T9Uzht7HgHnjKJRboTkMkUtEyNpVHzChUsnWxsJhiaxKJ13smepbdy2o1DasudoB"
+            }
+          ]
+        },
+        {
+          "label": "Original setup",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.jioaicloud.com/l/?u=gnmXja8VzBRvbiRpCyLqDwxvHDLMKHgQr7BtBQkQLvzQaIqk3vLB96HAUo-Lx1WAPuU"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Nice Unlocker MDM Tool Cracked",
+      "password": "",
+      "publishUrl": "nice-unlocker-mdm-tool-cracked",
+      "published": true,
+      "size": "41.06 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkxrrbw_9m2wrlfoz": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifM-BVXGb7rpOGwZQMvcOS3oaXsGdWl8M16cipklXVwf1nDfooUiLUxCq1LkRQkXyT74RgUaRNaS1NAYQ-_lgMpiumVZ14FqnTv_mnH-w7gA1X5L9c2BPOTT-bnUCsNpYOQs2QEQcpnSREK5n4X6EpuR4WsJpo0Jk97p02TisG2qbEvrI3xPYhS_23YMS0/w640-h476/Lizard%20Tool%20V1.0.7%20with%20Keygen%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifM-BVXGb7rpOGwZQMvcOS3oaXsGdWl8M16cipklXVwf1nDfooUiLUxCq1LkRQkXyT74RgUaRNaS1NAYQ-_lgMpiumVZ14FqnTv_mnH-w7gA1X5L9c2BPOTT-bnUCsNpYOQs2QEQcpnSREK5n4X6EpuR4WsJpo0Jk97p02TisG2qbEvrI3xPYhS_23YMS0/w640-h476/Lizard%20Tool%20V1.0.7%20with%20Keygen%20Download.jpg"
+      ],
+      "createdAt": 1792757908508,
+      "description": "Lizard Tool V1.0.7 Keygen",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792757908508,
+      "link": "https://www.mediafire.com/file/3702dzfmpj77167/LizardTool+Full+active+with+keygen+by+Gsmsanjoy.com.rar/file",
+      "links": [
+        {
+          "label": "Lizard Tool V1.0.7 Keygen",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/3702dzfmpj77167/LizardTool+Full+active+with+keygen+by+Gsmsanjoy.com.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZHcds5ZNkEaqJwpsqztKMWUX46xHXzKAXt7"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Lizard Tool V1 0 7 Keygen",
+      "password": "",
+      "publishUrl": "lizard-tool-v1-0-7-keygen",
+      "published": true,
+      "size": "26mb",
+      "unrarPassword": ""
+    },
+    "f_mvkxufdf_da6bw4boa": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-WLIkwqSOXgy0Ka1jz752-1GiLztWpNCmCKbNIEyPVDrcVanM_1q11VztxkqKLFyzlXsd2eIKj5NZb-FxVduVM_C7IKb4eE5s6rJrxrg0oubOIr3HKs-05kVvuApvoLROOodqPBUrBJHC9ra3Y3OpFScIpa9Ccouj0Qxw-P51usV5Bnd1LHwnKPY2HHhi/w640-h362/Latest%20KS%20Tool%20V3.0%20Tool%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-WLIkwqSOXgy0Ka1jz752-1GiLztWpNCmCKbNIEyPVDrcVanM_1q11VztxkqKLFyzlXsd2eIKj5NZb-FxVduVM_C7IKb4eE5s6rJrxrg0oubOIr3HKs-05kVvuApvoLROOodqPBUrBJHC9ra3Y3OpFScIpa9Ccouj0Qxw-P51usV5Bnd1LHwnKPY2HHhi/w640-h362/Latest%20KS%20Tool%20V3.0%20Tool%20Free%20Download.jpg"
+      ],
+      "createdAt": 1792758032979,
+      "description": "KS Tool V3.0 Tool Free  \nFeatures KS Tool :\nQualcomm:\nSelect All Partition\nAuto Reboot\nErase FRP\nInformation/NV Backup\nMi Account Bypass\n\n\n1 Click Mode:\nNetwork (NV backup, restore, erase)\nUFS Tool (Avatar Auth Tool Background Running)\nAuth Skip\n\n\nUser Lock:\n(9008 - Factory Reset, Fastboot - Factory Reset, SideLoad - Factory Reset)\nMethod 1 - By Recovery\nMethod 2 - Write File\nMethod 3 - Factory Reset Erase FRP:\n(9008 - Erase FRP, Fastboot - Erase FRP, SideLoad - Erase FRP)\nMethod 1 & Method 2\nSamsung FRP [only]\n\n\n⏬ Download Latest KS Tool V3.0 Here ⏬\nGoogle Drive Dropbox Link Terabox Link\nMi Account:\n(9008 Disable Mi Account [New], 9008 Disable Mi Account [Old 1])\n\nFastboot Flash:\nAuto Reboot\nErase FRP\nDM Fix\nENG Firmware\n\nExtra:\nOppo Models:Oppo A3S (CPH1803, CPH1805)\nOppo A31 (A31C, A31T)\nOppo A37F\nOppo A5 (CPH1809)\nOppo AX5 (PBAM00, PBAT00)\nOppo F17 (CPH2095)\nOppo F19 (CPH2219)\nOppo R5 (R8106, R8107)\nOppo Find X2 (PDEM10)\nOppo K7_5G (PCLM50)",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792758032979,
+      "link": "https://mega.nz/file/s4oARTKR#JK4zpQlse0G4nbytPjaUsAAN_rT-1qLb9f96rib0kHw",
+      "links": [
+        {
+          "label": "KS Tool V3.0 Tool Free",
+          "urls": [
+            {
+              "password": "111999",
+              "url": "https://mega.nz/file/s4oARTKR#JK4zpQlse0G4nbytPjaUsAAN_rT-1qLb9f96rib0kHw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "1234",
+      "loginUsername": "KSTool",
+      "name": "KS Tool V3 0 Tool Free",
+      "password": "",
+      "publishUrl": "ks-tool-v3-0-tool-free",
+      "published": true,
+      "size": "367.6 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkxvs08_nufhh7kf7": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNwg4_zGKVtp5tHiGAtwFZRMVjWk_df-PN8ElUecErx0Vr3H6svZmBBzDxywg8rRl4n-UkVeXnigHLwonA7A4aMnsw9bCCLmrRu4oIqA6aqUjYmY_8m3sRc2LrigJS-q_3fD0pWST1JplTJdtbvXHuoGA0eSnqjrDe_Q4s2yw7Bq0N5M0ZLIr8YLv-tN0W/w640-h424/TFT%20Unlock%20Tool%20V4.6.4.4%20is%20Back%20With%20Loader%20FREE.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNwg4_zGKVtp5tHiGAtwFZRMVjWk_df-PN8ElUecErx0Vr3H6svZmBBzDxywg8rRl4n-UkVeXnigHLwonA7A4aMnsw9bCCLmrRu4oIqA6aqUjYmY_8m3sRc2LrigJS-q_3fD0pWST1JplTJdtbvXHuoGA0eSnqjrDe_Q4s2yw7Bq0N5M0ZLIr8YLv-tN0W/w640-h424/TFT%20Unlock%20Tool%20V4.6.4.4%20is%20Back%20With%20Loader%20FREE.jpg"
+      ],
+      "createdAt": 1792758096008,
+      "description": "TFT Tool CRacked File V4.6.4.4",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792758096008,
+      "link": "https://www.mediafire.com/file/nmws6iyeg0reg5u/TFT+Tool+CRacked+File+V4.6.4.4.rar/file",
+      "links": [
+        {
+          "label": "TFT Tool CRacked File V4.6.4.4",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/nmws6iyeg0reg5u/TFT+Tool+CRacked+File+V4.6.4.4.rar/file"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TFT Tool CRacked File V4 6 4 4",
+      "password": "",
+      "publishUrl": "tft-tool-cracked-file-v4-6-4-4",
+      "published": true,
+      "size": "284mb",
+      "unrarPassword": ""
+    },
+    "f_mvkxy14f_7gn1tpe9b": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQXqZG0NOdXZ3_0LxS18qCDumDLdQGgOoZTXb5pvKYjvRsvxxhujHS_VPmTYddtHBcbjF0YRC3ZOVoHSZi72ATnc6DaClSYzJig9rEWn_j-BcPBPSp_85GkV4zDstyQvV2eSe73QMTUBU-inRkchDjB9nnWvyxnWSeRUaioCve4pfG6-sPyidK9K5ujY-S/w640-h366/UnlockToolPro%20V18.12%20Full%20Active%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQXqZG0NOdXZ3_0LxS18qCDumDLdQGgOoZTXb5pvKYjvRsvxxhujHS_VPmTYddtHBcbjF0YRC3ZOVoHSZi72ATnc6DaClSYzJig9rEWn_j-BcPBPSp_85GkV4zDstyQvV2eSe73QMTUBU-inRkchDjB9nnWvyxnWSeRUaioCve4pfG6-sPyidK9K5ujY-S/w640-h366/UnlockToolPro%20V18.12%20Full%20Active%20Download.jpg"
+      ],
+      "createdAt": 1792758201135,
+      "description": "UnlockToolPro V18.12 Full Active ⭐ UnlockToolPRO Features\nGeneral Operations\nRead Device Information\nFactory Reset\nFormat User Data\nSafe Format (Keep Data)\nFlash Firmware\nRoot Device Access\nUnlocking Features\nErase FRP (Google Account)\nReset Screen Lock (PIN, Pattern, Password)\nUnlock / Relock Bootloader\nReset Mi Account / Mi Cloud\nRemove Huawei ID\nRemove Samsung Knox\nRemove Demo Mode\nCarrier / Network Unlock\nRepair & Advanced\nRepair IMEI\nRead / Write NVRAM & NVDATA\nBackup & Restore QCN\nPatch Certificate\nMediaTek Auth Bypass\nFix DM-Verity\nReset EFS\n\n📝 How to Register Free Account\nVisit: unlocktoolpro.com/register.php\nCreate account using Username, Email, and Password\nNo email verification required\nOpen UnlockToolPRO software\nLogin with your account\nConnect device and start using the tool for free",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1792758201135,
+      "link": "https://mega.nz/file/WgwkmKqZ#FJ_zbg5SYS2pykdMV8AWrTYDa6hxfAmuTk0kda2EMHk",
+      "links": [
+        {
+          "label": "UnlockToolPro V18.12 Full Active",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/WgwkmKqZ#FJ_zbg5SYS2pykdMV8AWrTYDa6hxfAmuTk0kda2EMHk"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "hitava5678@mekuron.com",
+      "loginUsername": "hitava5678@mekuron.com",
+      "name": "UnlockToolPro V18 12 Full Active",
+      "password": "",
+      "publishUrl": "unlocktoolpro-v18-12-full-active",
+      "published": true,
+      "size": "545mb",
+      "unrarPassword": "UNLOCKTOOLPRO"
+    },
+    "f_mvky218s_2i2b80kn8": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhWGoi5nz6YhQWNVrrKCiV_v4fPSXMcVh45mqGfGR4n-SZoEZ_oFDL_9U8iv6kfXZlQqHUXo1HXHI3-B07Q2yeli0yused18FqnUBLpWK1MNgjBQYior4kZwiU93wPS703MGnO37AUGcJfN8CUjsvuG_y5OZxsWJ-v2MPHR7vjDD757ZTEDuWRixzCk=s16000",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhWGoi5nz6YhQWNVrrKCiV_v4fPSXMcVh45mqGfGR4n-SZoEZ_oFDL_9U8iv6kfXZlQqHUXo1HXHI3-B07Q2yeli0yused18FqnUBLpWK1MNgjBQYior4kZwiU93wPS703MGnO37AUGcJfN8CUjsvuG_y5OZxsWJ-v2MPHR7vjDD757ZTEDuWRixzCk=s16000"
+      ],
+      "createdAt": 1792758387916,
+      "description": "BMB Unlock V24 Tool Free",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792758387916,
+      "link": "https://drive.google.com/file/d/1GmEsUQ07VY_nOGD8ZDfcql-kSM04MeWz/view",
+      "links": [
+        {
+          "label": "BMB Unlock V24 Tool Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1GmEsUQ07VY_nOGD8ZDfcql-kSM04MeWz/view"
+            },
+            {
+              "password": "",
+              "url": "https://androidfilehost.com/?fid=14871746926876821698"
+            },
+            {
+              "password": "",
+              "url": "https://dm.terabox.com/sharing/link?surl=AH2LPbEXulHWkMtxiToHrQ&clearCache=1"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "BMB Unlock V24 Tool Free",
+      "password": "",
+      "publishUrl": "bmb-unlock-v24-tool-free",
+      "published": true,
+      "size": "55mb",
+      "unrarPassword": ""
+    },
+    "f_mvkykh2i_zj8su6ans": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEUeYAfFVQ_Y-oikU4TDHwcUFIrK2ev0gO3cCWQzOXBx4YAVnO-2jij1mp6su6hpiDLhS03i9okyDYSwSW3AeKcoUCxnFQ80kcSnqEvIxWh_eZL-W9YY4nSTtPuN3eyEMPrCgI1tJXGwTlqwtVL9W25TdWdRMzHEci-uW_u3-zQwQ1QRutf3pxQ8e3zbiy/w400-h209/Adanichell%20Tool%20Pro%20V1.4.7%20%5BOfficial%5D%20Free%20login.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEUeYAfFVQ_Y-oikU4TDHwcUFIrK2ev0gO3cCWQzOXBx4YAVnO-2jij1mp6su6hpiDLhS03i9okyDYSwSW3AeKcoUCxnFQ80kcSnqEvIxWh_eZL-W9YY4nSTtPuN3eyEMPrCgI1tJXGwTlqwtVL9W25TdWdRMzHEci-uW_u3-zQwQ1QRutf3pxQ8e3zbiy/w400-h209/Adanichell%20Tool%20Pro%20V1.4.7%20%5BOfficial%5D%20Free%20login.jpg"
+      ],
+      "createdAt": 1792759248234,
+      "description": "Adanichell Tool Pro V1.4.7 Free Download",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792759248234,
+      "link": "https://drive.google.com/file/d/1wZHycFcFYvLrRbKHV6yOyFKE_Bqrh-As/view",
+      "links": [
+        {
+          "label": "Adanichell Tool Pro V1.4.7",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1wZHycFcFYvLrRbKHV6yOyFKE_Bqrh-As/view"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Adanichell Tool Pro V1 4 7",
+      "password": "",
+      "publishUrl": "adanichell-tool-pro-v1-4-7",
+      "published": true,
+      "size": "340M",
+      "unrarPassword": ""
+    },
+    "f_mvkylig2_vuahkgwrl": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bqB8-Y4Y8CswCu9oFLELQRE5UZlUvyXgUQ&s",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bqB8-Y4Y8CswCu9oFLELQRE5UZlUvyXgUQ&s"
+      ],
+      "createdAt": 1792759296674,
+      "description": "TFT Tool v3.4",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792759296674,
+      "link": "https://mega.nz/file/9uUDkAjQ#qh5hT82bXvD-j8ndEfTsTs-MbxJ4d0_aQxHqB4KrHfQ",
+      "links": [
+        {
+          "label": "TFT Tool v3.4",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/9uUDkAjQ#qh5hT82bXvD-j8ndEfTsTs-MbxJ4d0_aQxHqB4KrHfQ"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1uvhogM_BysXLWxT1R0PJ6w"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TFT Tool v3 4",
+      "password": "",
+      "publishUrl": "tft-tool-v3-4",
+      "published": true,
+      "size": "20 Mb",
+      "unrarPassword": ""
+    },
+    "f_mvkypfuw_jpgeb0ikc": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGP5nlhzIaMj3dVEKRk_EtcB1K2JWD7wt1xqAyXADDlUPdEpJ-Q1K66A9eKjESTbLaqI2ksLFYbzc0q_8txzQfyx_E8JMIWDg41y4YI7TNcAUl8N6nKUnBR7DCTbjJsOg_thCrG87tAMb-1GdtlrL7YKzQz80UQGtoeQDu722Z0ymxdj0s3OxjWxzMkOA/w640-h394/BMT_Pro_Android_Edition_V4.2.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGP5nlhzIaMj3dVEKRk_EtcB1K2JWD7wt1xqAyXADDlUPdEpJ-Q1K66A9eKjESTbLaqI2ksLFYbzc0q_8txzQfyx_E8JMIWDg41y4YI7TNcAUl8N6nKUnBR7DCTbjJsOg_thCrG87tAMb-1GdtlrL7YKzQz80UQGtoeQDu722Z0ymxdj0s3OxjWxzMkOA/w640-h394/BMT_Pro_Android_Edition_V4.2.png"
+      ],
+      "createdAt": 1792759479944,
+      "description": "BMT Pro Android Edition V4.2 Crack \nBMT Pro Android Tool V4.2 - Samsung Features\nThe BMT Pro Android Tool V4.2 offers the most comprehensive Samsung module with ADB, MTP, ODIN, FASTBOOT, and QR CODE support. Technicians rely on BMT Pro Android Tool V4.2 for Samsung FRP removal across all security patches including 2024 and 2025.\n\n🔹 Samsung ADB\nRead Information\nRemove FRP (ADB)\nRemove MDM (OS 11-12-13)\nRemove KG (SEC 2022)\nRemove MDM (OS 14 SEC 2024)\nRemove KG (SEC 2023)\nRemove MDM By APP (OS 15-16 SEC 2025)\nRemove KG (SEC 2024)\nFix KG Relock\nRemove KG All (OS)\n🔹 Samsung MTP\nRead Information (MTP)\nFactory Reset (MTP)\nRemove FRP (MTP)\nChange CSC (SER / Input box)\n🔹 Samsung ODIN\nODIN FLASH (AP, BL, CP, CSC, Single File)\nBoot Update (Checkbox)",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792759479944,
+      "link": "https://mega.nz/file/hu9RESpJ#ZOUBs8Z7Ixi6sLYWC0LiKPsgi9GTalAx0hHRqtKZLek",
+      "links": [
+        {
+          "label": "BMT Pro Android Edition V4.2",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/hu9RESpJ#ZOUBs8Z7Ixi6sLYWC0LiKPsgi9GTalAx0hHRqtKZLek"
+            },
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1f9vdgscJ7VA7Ha2mx5upZ7gQ5fnoOCPF/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/wAlnEbwR#_xXZRl3a2aSNhcYnGFlr6VvYTCgUNKOTFs1CCpCHbsQ"
+            },
+            {
+              "password": "",
+              "url": "https://1drv.ms/u/c/3c985ce697e29976/IQA8HywvcsIBQZpTJXztBNlcARihPWsb4odqORyH6HecvmY?e=rdATm3"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "BMT Pro Android Edition V4 2 Crack",
+      "password": "",
+      "publishUrl": "bmt-pro-android-edition-v4-2-crack",
+      "published": true,
+      "size": "103MB",
+      "unrarPassword": ""
+    },
+    "f_mvkyqqiz_8vl86c0gm": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQgTi9VuAKAUVsVhzSBrlXU0Zwg1_FzpwMrCfO8RgYAC5G2dGAKcaMYuRFICrJnUuCOhjAlAIIKdWGwFYaO5KKqVR1NhzXHzCbzORd-wRsvb29WQgRKzLijkkvTB2tzl7oOM_d0A4YfWCXf8DmeNmckCZ9z_NcsUhneNX2qfdTqADOO8TkS6CVr8_9YrM/w640-h428/TFT%20Unlock%20Tool%20V6.2.1.1%20Fixed%20Loader%202026.jpeg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQgTi9VuAKAUVsVhzSBrlXU0Zwg1_FzpwMrCfO8RgYAC5G2dGAKcaMYuRFICrJnUuCOhjAlAIIKdWGwFYaO5KKqVR1NhzXHzCbzORd-wRsvb29WQgRKzLijkkvTB2tzl7oOM_d0A4YfWCXf8DmeNmckCZ9z_NcsUhneNX2qfdTqADOO8TkS6CVr8_9YrM/w640-h428/TFT%20Unlock%20Tool%20V6.2.1.1%20Fixed%20Loader%202026.jpeg"
+      ],
+      "createdAt": 1792759540427,
+      "description": "TFT Unlock Tool V6 2 1 1 Fixed Loader Main Features of TFT Unlock Tool\nFRP Remove\nFactory Reset\nBootloader Unlock and Relock\nSamsung KG and Knox Disable\nMTK and Qualcomm Support\nADB Functions\nFastboot Functions\nMTP and Meta Mode Support\nRead Device Information\nReset Passcode\nMiCloud Reset Functions\nSupport for Samsung, Xiaomi, Vivo, Oppo, Huawei, Realme, Tecno, Infinix, and many more brands",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792759540427,
+      "link": "https://mega.nz/file/1QU0EQrb#IeamfZfcL_uUil3gPSzNhpfbjmebuG4dSgwUx8VSoqY",
+      "links": [
+        {
+          "label": "TFT Unlock Tool V6 2 1 1 Fixed Loader",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/1QU0EQrb#IeamfZfcL_uUil3gPSzNhpfbjmebuG4dSgwUx8VSoqY"
+            },
+            {
+              "password": "",
+              "url": "https://www.dropbox.com/scl/fi/0puy3947sgaxflg2pygh0/TFT_Unlock_Tool_Rebirth_6.2.1.1.rar?rlkey=q7yom1g76msjj496q5sb2qivx&st=ztn2p8tq&dl=0"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TFT Unlock Tool V6 2 1 1 Fixed Loader",
+      "password": "",
+      "publishUrl": "tft-unlock-tool-v6-2-1-1-fixed-loader",
+      "published": true,
+      "size": "637mb",
+      "unrarPassword": ""
+    },
+    "f_mvkyusdh_bssyuntq7": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGXmyRyIWLiG-7kejAll8XNY5_JedPCRFBbxrvQMAzHIqFVI5b0KUpWDsW_40H1HsN_yGKpkrr6Lo3QluYIGeqHkzZ9E9F3ejvoLzSaGfP3Grf97nRj4Ld8MgNM8gExurFR5qMd9NCi9Zt8UXN3x_sgHYdH4_vKoPfwLleEdSnMByw2HQl5N9L91vMiUM/w640-h428/Latest%20Pulsarunlock%20Tool%20Download%202026.png",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGXmyRyIWLiG-7kejAll8XNY5_JedPCRFBbxrvQMAzHIqFVI5b0KUpWDsW_40H1HsN_yGKpkrr6Lo3QluYIGeqHkzZ9E9F3ejvoLzSaGfP3Grf97nRj4Ld8MgNM8gExurFR5qMd9NCi9Zt8UXN3x_sgHYdH4_vKoPfwLleEdSnMByw2HQl5N9L91vMiUM/w640-h428/Latest%20Pulsarunlock%20Tool%20Download%202026.png"
+      ],
+      "createdAt": 1792759729445,
+      "description": "Pulsarunlock Tool 2026\nAvailable categories include:\n\nANS\nAT&T Mobile\nCricket Mobile\nHonor\nKalley\nLG\nMotorola\nNokia\nOnePlus\nOPPO\nPixel\nSamsung\nTCL/Revvl\nTecno Infinix\nT-Mobile\nVivo\nWiko\nXiaomi\nZTE",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792759729445,
+      "link": "https://mega.nz/file/lc1myRpZ#dpMEALzfXV7tCU0YGS3rNAIXxRcqa5m8X80bbrTI5q0",
+      "links": [
+        {
+          "label": "Pulsarunlock Tool 2026",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://mega.nz/file/lc1myRpZ#dpMEALzfXV7tCU0YGS3rNAIXxRcqa5m8X80bbrTI5q0"
+            }
+          ]
+        },
+        {
+          "label": "Official Website",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://pulsarsync.com/"
+            }
+          ]
+        },
+        {
+          "label": "Admin Contact",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://t.me/pulsarunlock"
+            }
+          ]
+        },
+        {
+          "label": "Telegram Channel",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://t.me/pulsarsync"
+            }
+          ]
+        },
+        {
+          "label": "Tutorials",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://youtube.com/@pulsarunlock?feature=shared"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Pulsarunlock Tool",
+      "password": "",
+      "publishUrl": "pulsarunlock-tool",
+      "published": true,
+      "size": "15.56 MB",
+      "unrarPassword": ""
+    },
+    "f_mvkyyemy_1mfslgk0h": {
+      "name": "SamUniSoCTool SUT V1 20",
+      "folderId": "f_mp6sihua_qn9c5cpoh",
+      "size": "26mb",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-qCZ-mZrnPM6z9CgFxs_3jpNtHeDf2GwEoPOt8_n1vYHQXqIYSJ4Njdir_o1SRVsK54_QoWQgtRNGboM_mVBkVOjQB0ugWMp2rPgiAxk9Uo24tpBhyphenhyphenAzBeGbJd26fcVdFAn_dODPP6dsHJfjC8ZSd3udSUp4bAlP1m_UyRsWt1o0_l5mB1TWZQzp8pH3d/w640-h572/SamUniSoCTool%20SUT%20V1.20%20Frp%20MTP%20Free%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-qCZ-mZrnPM6z9CgFxs_3jpNtHeDf2GwEoPOt8_n1vYHQXqIYSJ4Njdir_o1SRVsK54_QoWQgtRNGboM_mVBkVOjQB0ugWMp2rPgiAxk9Uo24tpBhyphenhyphenAzBeGbJd26fcVdFAn_dODPP6dsHJfjC8ZSd3udSUp4bAlP1m_UyRsWt1o0_l5mB1TWZQzp8pH3d/w640-h572/SamUniSoCTool%20SUT%20V1.20%20Frp%20MTP%20Free%20Download.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "samunisoctool-sut-v1-20",
+      "description": "",
+      "downloads": 0,
+      "link": "https://dl.mf-tool.com/files/drivers-sprd-unisoc.7z",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "SamUniSoCTool SUT V1.20 Frp MTP Free",
+          "urls": [
+            {
+              "url": "https://dl.mf-tool.com/files/drivers-sprd-unisoc.7z",
+              "password": "1111"
+            },
+            {
+              "url": "https://dl.mf-tool.com/files/SUT.zip",
+              "password": "1111"
+            }
+          ]
+        }
+      ],
+      "createdAt": 1792759898266,
+      "lastModified": 1792759898266
     }
   },
   "images": {
@@ -7940,7 +9264,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-23T03:07:41.605Z",
+    "createdAt": "2026-10-23T12:52:41.778Z",
     "version": "2.0",
     "sections": 4
   }
