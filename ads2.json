@@ -1082,6 +1082,9 @@
     "f_mpzhklmg_nnu665w8h": {
       "downloads": 1
     },
+    "f_mq0sttgx_sas30q1mu": {
+      "downloads": 1
+    },
     "f_mq0t1u5h_rbjmm4aam": {
       "downloads": 1
     },
@@ -1790,7 +1793,7 @@
       ],
       "createdAt": 1790504007831,
       "description": "DarsUnlocker Bypass Loader  Step-by-Step: How to Install and Run Everything\nremoved VPN restriction\nremoved no server could not be reached\ndon't update if you have no error\nStep 1 – Install DarsUnlocker\nI right-clicked the DarsUnlocker setup installer and chose Run as administrator. This is not optional. If you don’t run it as admin, the loader will not be able to bind to the ports it needs.\n\nThe setup wizard opens. I clicked Next through each screen. There’s an option for Create a desktop icon — I kept that checked because it’s easier to launch later. Then I clicked Install and waited for it to finish.\n\nWhen it was done, I clicked Finish. The installer also opened the app for me, which was convenient.Step 2 – Let DarsUnlocker Loader Initialize\nOnce the loader opens, it starts working right away. I saw a small splash window appear. It checked my online connection status first, then began unpacking its internal data.\n\nIf a support message pops up with Telegram links, just click Ok to dismiss it. It’s normal.\n\nBehind the scenes, the loader was doing a few things at this point:\n\nChecking the clock and syncing time\nUnpacking the encrypted data file\nGetting ready to patch memory when UNLOCKTOOL starts\nI just waited for the loader to settle. You’ll know it’s ready when the splash window shows a status like “Ready” or “Waiting for login.”\n\nStep 3 – Set Process Priority in Task Manager\nThis step matters more than people realize. Without setting the priority, the loader sometimes doesn’t hook properly and UNLOCKTOOL may not log in.\n\nHere’s what I did:\n\nI right-clicked the Windows Taskbar and opened Task Manager. Then I clicked on the Details tab. I looked for DarsUnlocker.exe in the list, right-clicked it, and chose Set priority. I selected High (you can also pick Above Normal).\n\nWindows asked me to confirm the change. I clicked Yes.\n\nI did the same thing for UNLOCKTOOL.exe once it was running, just to be consistent.\n\nStep 4 – Log In to UNLOCKTOOL\nNow the interesting part. I opened UNLOCKTOOL and let it load. On the login screen, I looked back at the DarsUnlocker window.\n\nThe loader showed me the generated login details:\n\nUsername: aminebazouka (or whatever your loader shows)\nPassword: any password you want\nI typed that username into UNLOCKTOOL. For the password, I typed anything — literally any random text. Then I clicked Login.\n\nWhen the disclaimer window appeared, I clicked Agree.\n\nThat’s it. UNLOCKTOOL loaded its main dashboard and I was in.\n\nStep 5 – Start Servicing Devices\nOnce logged in, the tool is fully usable. You’ll see the main dashboard with all the brand tabs at the top or side. Just pick your target brand and start working.",
-      "downloads": 19,
+      "downloads": 21,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792330669856,
@@ -2380,7 +2383,7 @@
       ],
       "createdAt": 1791194888304,
       "description": "MD UNLOCK PRO MDM TOOL Latest Free Download..",
-      "downloads": 3,
+      "downloads": 4,
       "folderId": "f_mqf4u5qs_49twakrzn",
       "isLink": false,
       "lastModified": 1791194888304,
@@ -2551,7 +2554,7 @@
       ],
       "createdAt": 1791514105333,
       "description": "EFT PRO CraCked Limit Free Download and Test Now.\n\nLOGIN INFO :: \nFirst of all signup here with your gmail account.\nThen download launcher 0.3.exe\nRun launcher as admin\nClick on start and then run eft pro exe.\nIt will show wrong email and password.\nEnter your own gmail address to eft pro and password type randomly.\nEnjoy",
-      "downloads": 72,
+      "downloads": 76,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1791520677938,
@@ -2744,7 +2747,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 1318,
+      "downloads": 1375,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -3208,7 +3211,7 @@
       ],
       "createdAt": 1792380037221,
       "description": "Features\nExynos processor Auto Detect option.\nDevice connection detection.\nReboot to Download option.\nEnable ADB through Odin Mode.\nEnable ADB and FRP One-Click option.\nRemove FRP (ADB Exynos) New Method - 2026.\nLive progress percentage display.\nHorizontal progress bar.\nReal-time log window.\nStop button to stop the current process.\nOffline tool with required files included.\nWhat's New (Changelog)\nRemove FRP (ADB Exynos) New Method - 2026 is available in the tool.\nEnable ADB and FRP One-Click option is included for Odin Mode.\nThe interface includes Exynos processor Auto Detect.\nThe software shows device connection status and operation progress.\nImportant Security Note\nDuring installation, Windows Defender or another antivirus may block a file. I do not recommend disabling your security software just to install an unknown file. Check the installer and its source before allowing anything that your antivirus blocks.",
-      "downloads": 2,
+      "downloads": 4,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1792380037221,
@@ -3842,7 +3845,7 @@
       ],
       "createdAt": 1792382922900,
       "description": "FixHexa Tool CraQk 365 days Free Download . FixHexa Tool Features\nMoto Flasher: Flash Motorola stock firmware using XML files.\nClean Flash: Option available in the Motorola flashing section.\nSafe Flash: Flash option available for supported Motorola firmware work.\nFix CID Dead: Motorola Moto Flasher option.\nReboot After Flash: Automatically reboot after the flashing process.\nFlash Log: View the flashing log and related information.\nPartition Info: Display partition information in the Moto Flasher section.\nMTK FRP: Remove FRP lock on MTK devices.\nMTK Bootloader Unlock: Unlock the bootloader on MTK devices.\nADB to Fastboot: Convert an ADB-connected device to Fastboot mode.\nSlot Switching: Set Slot A or Slot B.\nRead Info: Read available device information.\nGet Unlock Data: Get unlock data from supported devices.\nErase FRP: Erase FRP when the bootloader is open.\nOEM Relock: Relock the OEM bootloader option.\nBL Relock: Relock the bootloader.\nXiaomi Fastboot Flasher: Flash Xiaomi fastboot ROM using flash_all.bat.\nXiaomi Slot Options: Set Slot A or Slot B during supported operations.\nSkip modem_a/b: Skip the modem partitions when using the Xiaomi flasher.\nSkip CUST: Skip the CUST partition.\nSkip opcust: Skip the opcust partition.\nXiaomi Erase FRP: Erase FRP from the available Fastboot Flasher options.\nACC Menu: Xiaomi Account Tools with Android 14, 15, and 16 support listed.\nPartition Tools: Options for Persist, Cust, Opcust, and Modem.\nADB Commands: Reboot to Fastboot, Recovery, restart device, disable OTA update, and list ADB devices.\nFastboot Commands: Read device info, reboot device, reboot to Fastboot, erase FRP, DM-Verity Fix, and slot switching.\nAndroid Info Extract: Load partition or tag files for Samsung, Oppo / Realme, Vivo, and Moto.\nPreloader EMI: Load MediaTek preloader.bin to check compatible memory chips.\nChip Info: Search eMMC and UFS chip specifications.\nENG ROM Search: Search engineering ROMs by file name.\nFind ISP: Search ISP pinouts using Fastboot mode or model search.\nFind Dump: Search and locate dump files.\nDownloader: Download files through the built-in download manager.What's New in the Latest ISP Data Update\nThe latest FixHexa update adds fresh ISP data for a number of device models. The new entries use different methods depending on the model, including Layer Scratch, CPU Drill, and No CPU Drill.\n\nvivo V40 Pro / T3 Ultra: New Layer Scratch ISP data added.\nvivo X300 Pro: New Layer Scratch ISP data added.\nF33: New No CPU Drill ISP data added.\nRedmi 15A: New CPU Drill ISP data added.\nSamsung SM7150: New CPU Drill ISP data added.\nSamsung SM7435: New CPU Drill ISP data added.\nvivo T4 Ultra: New Layer Scratch ISP data added.\nPOCO X6 Pro 5G: New Layer Scratch ISP data added.\nSamsung Galaxy S26+: New No CPU Drill ISP data added.\nMore ISP data: The update also mentions many more newly added solutions.\n\nNew ISP Solutions in FixHexa\nThe new update is mainly focused on ISP data. Several models now have a listed ISP method that can be checked from the FixHexa Tool.\n\nFor some models, the new data is marked as Layer Scratch. Other entries use CPU Drill or No CPU Drill. The method depends on the device model listed in the updated data.\n\nThe update covers devices from different brands, including vivo, Samsung, Redmi, POCO, and F33. It also includes data for the Samsung Galaxy S26+ and vivo X300 Pro.How to Install FixHexa Tool\nStep 1: Extract the Tool\nFirst, download the FixHexa Tool archive named FixhexaTool_Free_GSMYOGESH.rar. Right-click the downloaded RAR file and select the extract option.\n\nYou can use 7-Zip or WinRAR to extract the file. When the password window appears, enter gsmyogesh and click OK.\n\nStep 2: Open Loader.exe\nAfter extraction, open the newly created FixHexa folder. Find Loader.exe, right-click it, and select Run as administrator.\n\nStep 3: Get the Free Activation Key\nWhen the FIXHEXA TOOL popup appears, click the GET FREE ACTIVATION KEY button. This will open the activation page in your web browser.\n\nScroll down until you find the Generate 10 Days Free Activation Key section. The tool provides a hardware ID that can be copied into the HWID field.\n\nStep 4: Generate the LicenseRight-click inside the ENTER YOUR 16-CHAR HWID box and select Paste. The copied hardware ID will be entered into the field.\n\nNow click GENERATE KEY NOW. Once the key is generated, select and copy the license key shown above the button.\n\nStep 5: Register the License\nReturn to the FIXHEXA TOOL popup. Find the Paste License Token field and paste the license key into it.\n\nClick REGISTER LICENSE. Click OK or wait for the process to finish until the tool shows Activated Successfully!\n\nStep 6: Login to FixHexa\nAfter activation, the main FixHexa login window will appear. Enter gsmyogesh in the USERNAME / EMAIL field and use the same value in the PASSWORD field.Click LOGIN. If the tool asks you to join Telegram, click Later to continue.",
-      "downloads": 8,
+      "downloads": 10,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792382922900,
@@ -4512,7 +4515,7 @@
       ],
       "createdAt": 1792577922446,
       "description": "UnlockTool is a mobile servicing software interface with tools organized by phone brand, chipset platform, and connection mode. The supplied feature reference includes Xiaomi, Samsung, Huawei, Oppo, Vivo, Meizu, Tecno, Asus, LG, Nokia, Lenovo, Qualcomm Snapdragon, MediaTek, Apple, Infinix, and Spreadtrum (SPD/Unisoc).\n\nHow to Install\nThe installation notes provided for this article say that the package is distributed as a 7z archive through a Google Drive download link. Extract the archive first, then locate the setup file inside the extracted folder.\n\nDownload the 7z package from the source you trust.\nExtract the archive with a compatible archive utility.\nOpen the extracted folder and run the setup file.\nFollow the installation wizard and select Next when prompted. Installation may take some time, so wait for it to finish.\nWhen setup is complete, launch the program.\nUse the login method provided by the official software provider. If credentials are prefilled in your legitimate package, check that they are authorized for your use before continuing.",
-      "downloads": 177,
+      "downloads": 183,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792579475778,
@@ -4592,7 +4595,7 @@
       ],
       "createdAt": 1792588209015,
       "description": "DFT PRO v4.2.1 Offline Cracked [Xiaomi Mediatek]\n+ Added the following models Xiaomi Preloader Auth\n- Redmi 13 (moon) - tested .\n- Redmi A3 (blue) - tested.\n- Redmi 13c (gale) - tested.",
-      "downloads": 8,
+      "downloads": 14,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792588209015,
@@ -5341,7 +5344,7 @@
       ],
       "createdAt": 1792637018927,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mpjnbru1_u9b3mvn2y",
       "isLink": false,
       "lastModified": 1792637018927,
@@ -6149,7 +6152,7 @@
       ],
       "createdAt": 1792642566976,
       "description": "itel A70 A665L Permanent MDM v1181 Unlock File\nHow to Permanently Unlock MDM on itel A70 A665L\nTo unlock MDM on your device, follow these detailed steps. Ensure that your device is charged, and that you have backed up all important data:\n\nDownload the MDM unlock file for itel A70 A665L from the link provided below.\nExtract the file on your computer. You may need the password Selema 250Hondeka255 for extraction.\nConnect your device to your computer using a USB cable.\nFollow the instructions to flash the device with the v1181 firmware file, which will remove the MDM restrictions.\nPrecautions and Requirements\nBefore proceeding with the unlock process, please consider the following precautions:\n\nEnsure that the file is downloaded from a trusted source.\nUse an updated firmware flashing tool to avoid compatibility issues.\nBackup all data to prevent data loss during the process.",
-      "downloads": 5,
+      "downloads": 6,
       "folderId": "f_mq7f7s06_6p5wmh3aa",
       "isLink": false,
       "lastModified": 1792642566976,
@@ -6435,7 +6438,7 @@
       "coverUrl": "",
       "createdAt": 1792644943758,
       "description": "Andriod CDC VCOM Driver",
-      "downloads": 1,
+      "downloads": 2,
       "folderId": "f_mp6spbfl_unyekccyd",
       "isLink": false,
       "lastModified": 1792644943758,
@@ -7707,7 +7710,7 @@
       ],
       "createdAt": 1792670646162,
       "description": "",
-      "downloads": 1,
+      "downloads": 2,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1792844732949,
@@ -7816,7 +7819,7 @@
       ],
       "createdAt": 1792677125446,
       "description": "TSM PRO Cracked BY GsmHeroTeam \n\nYour Purchased Tools\nKeY :: TSM_FREE_BY_GSMHERO_TEAM_FB\nPassword: your Login Password Add",
-      "downloads": 201,
+      "downloads": 249,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792677326729,
@@ -7883,7 +7886,7 @@
       ],
       "createdAt": 1792724536994,
       "description": "U FRP UNISOC Tool V1 Free Free Download.\nMy Installation Walkthrough\nDownloading was simple. I got the loader as a single EXE file. There is nothing to install. I dropped it into a new folder on my desktop and placed the original U-FRP UNISOC tool.exe right next to it.\n\nOne thing I want to point out because I hit it myself. The target tool needs its own Devices and Driver subfolders next to it. If those folders are missing, the tool opens but cannot find any device scripts. The loader looks for the target EXE in the same folder it sits in, so do not move things around after setup.\n\nDownload the loader EXE.\nCreate a new folder, for example on your Desktop.\nPlace the loader EXE inside that folder.\nCopy your U-FRP UNISOC tool.exe and its Devices and Driver folders into the same location.\nRight-click the loader and choose Run as administrator. It will also ask for admin rights on its own if you forget.\nFirst Launch And License Registration\nWhen I opened the loader, Windows asked for administrator permission. That is normal because the loader needs to modify the hosts file and install a certificate to route the tool’s login traffic.\n\nThe window that opened is small and clean. It shows a 16-character hardware ID in green. I clicked Copy Hardware ID, went to the developer’s activation page, and pasted the ID there. In a few seconds I had a license token. I pasted it into the box on the loader and clicked Register License.\n\nThe moment the token was accepted, the activation panel disappeared. A green bar at the top said LICENSE ACTIVE with the number of days left. Then the log panel below started filling up with routing steps.",
-      "downloads": 21,
+      "downloads": 36,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792724536994,
@@ -8658,7 +8661,7 @@
       ],
       "createdAt": 1792757700421,
       "description": "MRT Tool V6.0 Free 1 Year",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1792757700421,
@@ -8924,7 +8927,7 @@
       ],
       "createdAt": 1792758201135,
       "description": "UnlockToolPro V18.12 Full Active ⭐ UnlockToolPRO Features\nGeneral Operations\nRead Device Information\nFactory Reset\nFormat User Data\nSafe Format (Keep Data)\nFlash Firmware\nRoot Device Access\nUnlocking Features\nErase FRP (Google Account)\nReset Screen Lock (PIN, Pattern, Password)\nUnlock / Relock Bootloader\nReset Mi Account / Mi Cloud\nRemove Huawei ID\nRemove Samsung Knox\nRemove Demo Mode\nCarrier / Network Unlock\nRepair & Advanced\nRepair IMEI\nRead / Write NVRAM & NVDATA\nBackup & Restore QCN\nPatch Certificate\nMediaTek Auth Bypass\nFix DM-Verity\nReset EFS\n\n📝 How to Register Free Account\nVisit: unlocktoolpro.com/register.php\nCreate account using Username, Email, and Password\nNo email verification required\nOpen UnlockToolPRO software\nLogin with your account\nConnect device and start using the tool for free",
-      "downloads": 2,
+      "downloads": 4,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792758201135,
@@ -9248,7 +9251,7 @@
       ],
       "createdAt": 1792818032353,
       "description": "Unlock Tool OFFLINE BY GCT_Team.rar Setup Download",
-      "downloads": 0,
+      "downloads": 5,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1792818032353,
@@ -9399,7 +9402,7 @@
       ],
       "createdAt": 1792818244496,
       "description": "GCT Pandora Tool VIP",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1792818244496,
@@ -9708,7 +9711,7 @@
       ],
       "createdAt": 1792837482553,
       "description": "Android Utility Tool V200 SamFRP Android 16",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1792837482553,
@@ -10579,7 +10582,7 @@
       ],
       "createdAt": 1792839325411,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mq0uduoi_4okvszeb9",
       "isLink": false,
       "lastModified": 1792839325411,
@@ -10823,6 +10826,94 @@
       "published": true,
       "size": "7mb",
       "unrarPassword": ""
+    },
+    "f_mvnaw636_aypry8di6": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP3nbkzXOnC8prw2ay-23xTrDc-0CmtM6tiOjU7sdFeY7TvcAScc_zemd7OLjGK9SccZbwnFCqez515bKwZ3H1QWSGm1qkRSMoFNavWpjTQQbFOqIclJ2l9rILAQ0DCvm76yyStlPoj_Z2TX8ceUrV0kn0muyLd61Cxlbz6Fzvp_KFOeJHR6fjMrhK_xFh/w640-h400/PrimeToolX%20v27%200%202%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP3nbkzXOnC8prw2ay-23xTrDc-0CmtM6tiOjU7sdFeY7TvcAScc_zemd7OLjGK9SccZbwnFCqez515bKwZ3H1QWSGm1qkRSMoFNavWpjTQQbFOqIclJ2l9rILAQ0DCvm76yyStlPoj_Z2TX8ceUrV0kn0muyLd61Cxlbz6Fzvp_KFOeJHR6fjMrhK_xFh/w640-h400/PrimeToolX%20v27%200%202%20Free.jpg"
+      ],
+      "createdAt": 1792900881618,
+      "description": "PrimeToolX v27 0 2 Free Download\n🔥 Features List (Full)\nSamsung Test Mode (*#0*#)\nRemove FRP\nRemove FRP New Security\nFactory Reset\nDisable Knox\nDisable Factory Mode\nMTP Mode\nEnable Secret Code (Verizon)\nADB Mode\nChange CSC\nRemove Samsung Account\nEnable Mobile Data Toggle\nDownload Mode / Exit Mode\nSoft Brick Repair\nOdin Flash Support\nAuto File Detection\nZIP Auto Extract\nIgnore MD5 Checksum\nDriver Signature Control\nSamsung USB Driver Install\nVC++ 2015 Install\nXiaomi FRP Remove\nSkip MiCloud\nReset MiCloud\nBypass MiCloud Anti-Relock\nRead MiCloud Info Offline\nLG KDZ Flash\nLG UP Tool\nEDL Mode Support\nFactory Reset LG\nAndroid ADB Full Control\nBattery Info",
+      "downloads": 1,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1792900881618,
+      "link": "https://u.pcloud.link/publink/show?code=XZ5avbJZemTIWRB6RA8Wak2Dn7RowyOSK1cy",
+      "links": [
+        {
+          "label": "PrimeToolX v27 0 2 Free",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZ5avbJZemTIWRB6RA8Wak2Dn7RowyOSK1cy"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/ju7sxt19x8imt2i/PrimeToolX27.0.2.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://androidfilehost.com/?fid=17900174959292982245"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1-dUTmsXaQt1c2peHxm3D4g"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "PrimeToolX v27 0 2 Free",
+      "password": "",
+      "publishUrl": "primetoolx-v27-0-2-free",
+      "published": true,
+      "size": "275MB",
+      "unrarPassword": ""
+    },
+    "f_mvnqenq6_3rmli8keb": {
+      "name": "Multi Unlock MDM v1 0 0 1 Free",
+      "folderId": "f_mqf4u5qs_49twakrzn",
+      "size": "451.2 MB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWdCQ5vI6eQn456yjqNb1iTvhr2Nx03h-TXf0v77ejCzV9ZbMWhUzaRluahIOCidNKcPb6LB6-e4Y81xjaTqVfzOIwQxvYPhYthrNi5f7ol8hc9X_DZKMYhjlLURGsiIsAEkCHe8umiDPjJeOS7JOloLhfRsCy8k5nFQnj8YaHvaQs-Ge6a1KrWvmy4OHF/w640-h360/Multi%20Unlock%20MDM%20v1.0.0.1%20Free.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWdCQ5vI6eQn456yjqNb1iTvhr2Nx03h-TXf0v77ejCzV9ZbMWhUzaRluahIOCidNKcPb6LB6-e4Y81xjaTqVfzOIwQxvYPhYthrNi5f7ol8hc9X_DZKMYhjlLURGsiIsAEkCHe8umiDPjJeOS7JOloLhfRsCy8k5nFQnj8YaHvaQs-Ge6a1KrWvmy4OHF/w640-h360/Multi%20Unlock%20MDM%20v1.0.0.1%20Free.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "multi-unlock-mdm-v1-0-0-1-free",
+      "description": "Multi Unlock MDM v1.0.0.1 Free How to Install MultiUnlockMDM v1.0.0.1\nStep 1: Extract the Main Package\nLocate the downloaded archive named MULTIUNLOCKTOOL_GSMYOGESH.rar.\nRight-click the archive and select the extraction option for the MULTIUNLOCKTOOL_GSMYOGESH folder.\nOpen the extracted folder.\nStep 2: Extract the Setup Archive\nLocate Setup_MultiUnlockMDM-1.0.0.1.rar inside the main folder.\nExtract it into a separate folder.\nEnter MDM when prompted for the archive password.\nOpen the extracted folder and locate MultiUnlockMDM-Setup-1.0.0.1.exe.\nStep 3: Install MultiUnlockMDM\nVerify the installer and its source before running it.\nThe installation instructions specify running the setup as administrator.\nEnter the installer password when prompted. Confirm this password with the provider because the exact value is not clearly identified.\nSelect the destination directory.\nSelect the option to create a desktop shortcut if required.\nClick Instalar (Install) and wait for the installation process to finish.\nAccording to the instructions, uncheck Abrir MultiUnlockMDM and click Finalizar (Finish).\nStep 4: Extract the Loader Archive\nReturn to the main extracted folder.\nLocate MUM_LOAD.zip.\nThe gsmyogesh.com as the loader archive password in different places. Confirm the correct password with the provider before extracting it.\nAfter extraction, locate MUM_LOAD.exe.\nStep 5: Register the License\nCheck the loader’s source and security status before running it.\nThe described registration window displays a Hardware ID (HWID) and a Copy Hardware ID option.\nThe instructions refer to an activation portal offering a 10-day free activation key.\nUse only a verified activation portal and review its terms before submitting hardware information.\nEnter the activation key in the registration window and follow the program’s registration process.\nNote: The activation portal URL was not provided, so it cannot be listed here.\n\nStep 6: Log In to the Tool\nAfter registration, review the Terms and Conditions.\nClick Aceptar y Continuar (Accept and Continue) if you agree to the terms.\nEnter your account username and password.\nClick Ingresar al Sistema (Log into System).\nClick Aceptar on the update-notes dialog if it appears to continue to the dashboard.\nImportant Notes\nConfirm device model, Android version, firmware and security patch compatibility before starting an operation.\nADB and Root requirements may differ between modules.\nBack up important data before using erase, factory reset or clear-data functions.\nUse the tool only on devices you own or have permission to service.\nDo not disable Windows security protections just to run an unknown loader. Scan downloaded files and verify their source first.\nThe listed functions do not establish compatibility with every device from a particular brand.",
+      "downloads": 0,
+      "link": "https://www.mediafire.com/file/6osglbd2s8f28qm/MULTIUNLOCKTOOL_Free.rar/file",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "Multi Unlock MDM v1.0.0.1 Free",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/file/6osglbd2s8f28qm/MULTIUNLOCKTOOL_Free.rar/file",
+              "password": "gsmyogesh.com"
+            },
+            {
+              "url": "https://1024terabox.com/s/11RuAPFhTrX3aNTp4SQLgYQ",
+              "password": "gsmyogesh.com"
+            },
+            {
+              "url": "https://mega.nz/file/XlZwFCIA#zMggMuO3TDBSFXgvBJZyTkT0DiInzFTt1SiP8oz7xFo",
+              "password": "gsmyogesh.com"
+            },
+            {
+              "url": "https://drive.google.com/file/d/1Y9c9V47DiXrp5hoJAH0eKf9M7nbbYiar/view?usp=sharing",
+              "password": "gsmyogesh.com"
+            }
+          ]
+        }
+      ],
+      "createdAt": 1792926938526,
+      "lastModified": 1792926938526
     }
   },
   "images": {
@@ -10853,7 +10944,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-24T12:52:47.528Z",
+    "createdAt": "2026-10-25T11:15:47.564Z",
     "version": "2.0",
     "sections": 4
   }
