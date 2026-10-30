@@ -4543,7 +4543,7 @@
       ],
       "createdAt": 1792577922446,
       "description": "UnlockTool is a mobile servicing software interface with tools organized by phone brand, chipset platform, and connection mode. The supplied feature reference includes Xiaomi, Samsung, Huawei, Oppo, Vivo, Meizu, Tecno, Asus, LG, Nokia, Lenovo, Qualcomm Snapdragon, MediaTek, Apple, Infinix, and Spreadtrum (SPD/Unisoc).\n\nHow to Install\nThe installation notes provided for this article say that the package is distributed as a 7z archive through a Google Drive download link. Extract the archive first, then locate the setup file inside the extracted folder.\n\nDownload the 7z package from the source you trust.\nExtract the archive with a compatible archive utility.\nOpen the extracted folder and run the setup file.\nFollow the installation wizard and select Next when prompted. Installation may take some time, so wait for it to finish.\nWhen setup is complete, launch the program.\nUse the login method provided by the official software provider. If credentials are prefilled in your legitimate package, check that they are authorized for your use before continuing.",
-      "downloads": 223,
+      "downloads": 224,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792579475778,
@@ -11200,9 +11200,6 @@
       "unrarPassword": ""
     },
     "f_mvut7sj1_hw0zwtnlv": {
-      "name": "USB Port Detector BY GSMSANJOY",
-      "folderId": "f_mp6sdi6s_ikugxspq5",
-      "size": "378 KB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoOdt6UjAEZYUWM84smGW9NBWjORIkn6Dgf_qKl8M6AqJU44FILgC-KXvRYJrXgdfotiBnVXrDUwMVJ9UWCO9hMuNhszlzNGzU_ISEYSSMtoe0cNYWvhjIfEELITM9alOMflszJdAM8k6Ha4QVMwf53FuuzZtWB0SfncKMN7RBZ5wtMU6n2oU9JavQrLhq/s1600/USB%20Port%20Detector%20BY%20GSMSANJOY.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoOdt6UjAEZYUWM84smGW9NBWjORIkn6Dgf_qKl8M6AqJU44FILgC-KXvRYJrXgdfotiBnVXrDUwMVJ9UWCO9hMuNhszlzNGzU_ISEYSSMtoe0cNYWvhjIfEELITM9alOMflszJdAM8k6Ha4QVMwf53FuuzZtWB0SfncKMN7RBZ5wtMU6n2oU9JavQrLhq/s1600/USB%20Port%20Detector%20BY%20GSMSANJOY.jpg",
@@ -11210,37 +11207,44 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqXFNW07Jk3KOcUZieCol8rXdsJdwe76z_r9oH6cMCppdO2LCAk71OecXOu3JGdNvptMRvVDxOntK4585hivCZmgHYOjMgeIZHlQov8Q8lBtsRj9jgCEN7YjWgGO2aXttKHn4khrL0FEBfXyjFLy78LCB3EarX_opPK91b6mlAPB2xVayEGGQyYu7k0yP2/s1600/2.jpg",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMdPpKeyOiVa7YdVHxV4FKelILsKA8bGhXjqATZFsJSwJjgS4gkbOS-E4omHnas8OTn6roBEHfCOEYJ8OAzXFuzewKWKENfrqnaPouzwhVMnEj89Ce_4kM4aky9Fb4CGbiKuT8hyphenhyphen19pygSbU7Z-8kDdF-qRFsb7y2Eu8xO94lptP-fcIS4hirNe0_w8Jxx/s1600/3.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "usb-port-detector-by-gsmsanjoy",
+      "createdAt": 1793354920237,
       "description": "USB Port Detector BY GSMSANJOY.com ====================================================================\n\n1. WHAT IS THIS SOFTWARE?\n---------------------------------------------------------------------\nUSB Port Detector BY GSMSANJOY.COM is a Windows background tool that\nwatches every USB port of your PC and INSTANTLY (fast, real time)\nshows a desktop popup notification when a USB device is CONNECTED or\nDISCONNECTED.\n\n   * CONNECTED    -> system tray icon turns GREEN + popup notification\n   * DISCONNECTED -> system tray icon turns RED   + popup notification\n\nEvery popup and the device window show the DEVICE NAME and the PORT:\n   * COM port number for serial devices   e.g. COM2, COM4, COM5\n   * USB hub port location for others     e.g. Port_#0002.Hub_#0004\n   * VID/PID identification as fallback   e.g. VID_1234&PID_5678\n\nThe software is protected with a HWID LICENSE system: one activation\nkey works on ONE computer for ONE year and can be renewed.\n\n2. FEATURES\n---------------------------------------------------------------------\n   - FAST real time USB connect / disconnect detection (WMI events)\n   - Instant desktop popup (toast / balloon) for every event\n   - GREEN tray icon = connect, RED tray icon = disconnect\n   - Device window: device name, status, port / COM number, device ID\n   - COM port numbers shown and highlighted (COM2, COM4, COM5, ...)\n   - HWID license activation - 1 year key per computer, renewable\n   - Auto start with Windows - background, always on\n   - Single instance protection and event log file:\n       C:\\ProgramData\\GSMSANJOY\\USBPortDetector\\usb_detector_log.txt\n   - SHA-256 checksum verification of all program files\n\n3. REQUIREMENTS\n---------------------------------------------------------------------\n   - Windows 7 / 8 / 8.1 / 10 / 11 (64-bit)\n   - Microsoft .NET Framework 4.x\n     (already built into Windows 8 / 10 / 11 - no extra download)",
-      "downloads": 0,
-      "link": "https://www.mediafire.com/file/ckfko6i1z8oarmy/USB+Port+Detector+BY+GSMSANJOY.COM.rar/file",
+      "downloads": 5,
+      "folderId": "f_mp6sdi6s_ikugxspq5",
       "isLink": false,
-      "published": true,
+      "lastModified": 1793356046564,
+      "link": "https://www.mediafire.com/file/ckfko6i1z8oarmy/USB+Port+Detector+BY+GSMSANJOY.COM.rar/file",
       "links": [
         {
           "label": "USB Port Detector Links",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/ckfko6i1z8oarmy/USB+Port+Detector+BY+GSMSANJOY.COM.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/ckfko6i1z8oarmy/USB+Port+Detector+BY+GSMSANJOY.COM.rar/file"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZefySJZPqAvp3JO1R8kSjE6g2L4syLBIDkV",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZefySJZPqAvp3JO1R8kSjE6g2L4syLBIDkV"
             },
             {
-              "url": "https://1024terabox.com/s/1Om3WWJyEKSYsZey7I55OWw",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1Om3WWJyEKSYsZey7I55OWw"
+            },
+            {
+              "password": "",
+              "url": "https://github.com/sanjoy944/USB-Port-Detector-BY-GSMSANJOY.COM/releases/download/usbportDetector/USB-Port-Detector-BY-GSMSANJOY.COM.exe"
             }
           ]
         }
       ],
-      "createdAt": 1793354920237,
-      "lastModified": 1793354920237
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "USB Port Detector BY GSMSANJOY",
+      "password": "",
+      "publishUrl": "usb-port-detector-by-gsmsanjoy",
+      "published": true,
+      "size": "378 KB",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -11282,7 +11286,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-30T10:09:11.812Z",
+    "createdAt": "2026-10-30T11:15:44.228Z",
     "version": "2.0",
     "sections": 4
   }
