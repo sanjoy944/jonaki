@@ -985,12 +985,12 @@
       "parentId": "f_mpzj47qr_vdk1zdplj"
     },
     "f_mvszl5zi_laftpo100": {
-      "name": "Printer Software",
-      "parentId": "",
-      "icon": "",
-      "order": 0,
       "createdAt": 1793244689550,
-      "lastModified": 1793244689550
+      "icon": "",
+      "lastModified": 1793244689550,
+      "name": "Printer Software",
+      "order": 0,
+      "parentId": ""
     }
   },
   "files": {
@@ -1804,7 +1804,7 @@
       ],
       "createdAt": 1790504007831,
       "description": "DarsUnlocker Bypass Loader  Step-by-Step: How to Install and Run Everything\nremoved VPN restriction\nremoved no server could not be reached\ndon't update if you have no error\nStep 1 – Install DarsUnlocker\nI right-clicked the DarsUnlocker setup installer and chose Run as administrator. This is not optional. If you don’t run it as admin, the loader will not be able to bind to the ports it needs.\n\nThe setup wizard opens. I clicked Next through each screen. There’s an option for Create a desktop icon — I kept that checked because it’s easier to launch later. Then I clicked Install and waited for it to finish.\n\nWhen it was done, I clicked Finish. The installer also opened the app for me, which was convenient.Step 2 – Let DarsUnlocker Loader Initialize\nOnce the loader opens, it starts working right away. I saw a small splash window appear. It checked my online connection status first, then began unpacking its internal data.\n\nIf a support message pops up with Telegram links, just click Ok to dismiss it. It’s normal.\n\nBehind the scenes, the loader was doing a few things at this point:\n\nChecking the clock and syncing time\nUnpacking the encrypted data file\nGetting ready to patch memory when UNLOCKTOOL starts\nI just waited for the loader to settle. You’ll know it’s ready when the splash window shows a status like “Ready” or “Waiting for login.”\n\nStep 3 – Set Process Priority in Task Manager\nThis step matters more than people realize. Without setting the priority, the loader sometimes doesn’t hook properly and UNLOCKTOOL may not log in.\n\nHere’s what I did:\n\nI right-clicked the Windows Taskbar and opened Task Manager. Then I clicked on the Details tab. I looked for DarsUnlocker.exe in the list, right-clicked it, and chose Set priority. I selected High (you can also pick Above Normal).\n\nWindows asked me to confirm the change. I clicked Yes.\n\nI did the same thing for UNLOCKTOOL.exe once it was running, just to be consistent.\n\nStep 4 – Log In to UNLOCKTOOL\nNow the interesting part. I opened UNLOCKTOOL and let it load. On the login screen, I looked back at the DarsUnlocker window.\n\nThe loader showed me the generated login details:\n\nUsername: aminebazouka (or whatever your loader shows)\nPassword: any password you want\nI typed that username into UNLOCKTOOL. For the password, I typed anything — literally any random text. Then I clicked Login.\n\nWhen the disclaimer window appeared, I clicked Agree.\n\nThat’s it. UNLOCKTOOL loaded its main dashboard and I was in.\n\nStep 5 – Start Servicing Devices\nOnce logged in, the tool is fully usable. You’ll see the main dashboard with all the brand tabs at the top or side. Just pick your target brand and start working.",
-      "downloads": 190,
+      "downloads": 203,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793010803220,
@@ -2163,7 +2163,7 @@
       ],
       "createdAt": 1790824309371,
       "description": "Unlock Tool Cracked BY EVW88  inks:\n- Bot: https://t.me/evw88_bot\n- Group: https://t.me/evw88_chat\n- Channel: https://t.me/evw88_channel\n- uTool download: [DOWNLOAD LINK]\n\n1) Download uTool (utool.rar) from the link above.\n2) Extract the archive with password: evw88\n3) Open the extracted \"last\" folder and run \"unlocktool loader.exe\".\n4) In the tool, open the License window and copy your HWID shown there.\n5) Open the bot: https://t.me/evw88_bot and press Start.\n   Joining the channel is required to use the bot: https://t.me/evw88_channel\n6) In the bot menu choose one option:\n   - \"Get license\": share your link — each friend who joins the channel gives\n     you +1 day — then choose how many days you need.\n   - \"Redeem code\": if you already have a code (evw88-XXXX-XXXX).\n7) When the bot asks for your HWID — paste the HWID you copied in step 4.\n8) The bot sends you a serial. Copy it.\n9) Back in the tool: License window -> paste the serial -> Activate.\n10) Done — the tool runs.\n\nNeed help? Group: https://t.me/evw88_chat\n\n\n>> FRANCAIS <<\n\nLiens :\n- Bot : https://t.me/evw88_bot\n- Groupe : https://t.me/evw88_chat\n- Canal : https://t.me/evw88_channel\n- Telechargement uTool : [LIEN DE TELECHARGEMENT]\n\n1) Telechargez uTool (utool.rar) depuis le lien ci-dessus.\n2) Extrayez l'archive avec le mot de passe : evw88\n3) Ouvrez le dossier \"last\" extrait et lancez \"unlocktool loader.exe\".\n4) Dans l'outil, ouvrez la fenetre License et copiez votre HWID affiche.\n5) Ouvrez le bot : https://t.me/evw88_bot et appuyez sur Start.\n   L'adhesion au canal est obligatoire : https://t.me/evw88_channel\n6) Dans le menu du bot choisissez une option :\n   - \"Get license\" : partagez votre lien — chaque ami qui rejoint le canal\n     vous donne +1 jour — puis choisissez le nombre de jours.\n   - \"Redeem code\" : si vous avez deja un code (evw88-XXXX-XXXX).\n7) Quand le bot demande votre HWID — collez celui copie a l'etape 4.\n8) Le bot vous envoie un serial. Copiez-le.\n9) Retour dans l'outil : fenetre License -> coller le serial -> Activate.\n10) C'est fait — l'outil fonctionne.\n\nBesoin d'aide ? Groupe : https://t.me/evw88_chat",
-      "downloads": 54,
+      "downloads": 56,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1790849799088,
@@ -2775,7 +2775,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 1541,
+      "downloads": 1597,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -3062,7 +3062,7 @@
       ],
       "createdAt": 1792247408913,
       "description": "Vnboard schematic diagram Free Download Software update v1.2.250\n📥 Which file do I download?\nNew user (first install): download VNboards_Setup.exe and run it — the installer asks where to install, creates a Desktop shortcut, then opens the app.\nAlready installed: you do not need anything here — open the app and click ⟳ Update; it updates itself.\nIgnore VNboards_Update.zip (used internally by the self-update mechanism) and the two Source code entries (GitHub generates those for every release; they are not the app).\n📥 Which file should I download?\nNEW users (never installed before): download VNboards_Setup.exeand run — the installer will ask where to save and create a desktop shortcut, then automatically open the app.\nAlready installed: no need to download anything here — open the app, tap the ⟳ Update button and the app will download automatically.\nIgnore VNboards_Update.zip(the HIDDEN file for the auto-update mechanism, not for manual downloading) and the two Source code sections (GitHub automatically generates this for all releases, not the app).",
-      "downloads": 5,
+      "downloads": 8,
       "folderId": "f_mqac0g2n_z22j9hons",
       "isLink": false,
       "lastModified": 1792381149179,
@@ -3476,7 +3476,7 @@
       ],
       "createdAt": 1792381264658,
       "description": "Haafedk iCloud A12+ V15 Free CRACK Download (No Login Required)\nHaafedk iCloud A12+ V15 Features\nDevice Information\nBefore using other options, the tool includes a Read Device function. According to the provided feature list, it can show several device details.\n\nRead Device: Reads the connected device information.\nSerial Number: Displays the device serial number.\nECID: Shows the ECID information.\nIMEI: Displays the IMEI.\nUDID: Shows the UDID.\nMode: Displays the current device mode.\niOS Version: Shows the installed iOS version.\nProduct Type: Displays the device product type.\nBuild: Shows the build information.\nJailbreak Status: Displays the jailbreak status.\nActivation Status: Shows the activation status.\nRegion: Displays the device region.\nBypass Options\nThe V15 feature list includes several Hello Bypass and MDM bypass options. The requirements mentioned with each option should be checked before trying to use them.\n\nHello Bypass A12/A13: Listed for A12 and A13 devices.\nHello Bypass 4S – 17 Pro Max: This option is listed as requiring WiFi.\nHello Bypass iPhone – iPad: Listed with a jailbreak requirement.\nHello Bypass iOS 12 – 14: Also listed as requiring jailbreak access.\nBypass MDM Old: An option for the old MDM bypass method.\nBypass MDM New: An option for the new MDM bypass method.\nDevice Operations\nA few device-related operations are also included in the provided list.Read Device: Used to read device details.\nFix Drivers: An option related to drivers.\nWin Test Mode: A Windows Test Mode option.\nPatcher Settings\nThe patcher section includes three listed options.\n\nAdd MobileGestalt: An option for adding MobileGestalt.\nSupported Devices: Lets you check the listed supported devices section.\nChange Serial: An option related to changing the serial.\nOther Bypass Settings\nThere are also a few toggle-style options in the feature list.\n\nBlock OTA: An option related to blocking OTA.\nSkip Setup: An option for skipping setup.\nDisable Factory Reset: An option related to disabling factory reset.\nIncluded Tools\nThe software also lists two extra tools.\n\nDevice Manager: Opens the Device Manager tool.\nWinRa1n Jailbreak Tool: The WinRa1n Jailbreak Tool is included in the listed tools section.\niCloud Tools\nTwo iCloud-related options are mentioned in the V15 feature list.\n\nFix iCloud Login: An option related to fixing iCloud login.\nEnable Factory Reset: An option for enabling factory reset.\nInstallation Steps\nExtract the downloaded setup archive to a folder on your computer.\nOpen the extracted folder and run the setup file, such as HAAFEDK_A12_SETUP.exe.\nIf Windows Defender SmartScreen stops the application from opening, select More info and then choose Run anyway.\nContinue through the setup wizard and select the installation folder. The provided instructions mention C:\\Haafedk-iCloud-a12 as the usual default location.\nIf you want a shortcut on your desktop, select the option for creating one.\nClick Install and wait for the setup process to finish.\nWindows Defender may flag the software during installation. The provided instructions say that installation can be interrupted in this situation.\nIf you choose to change Windows Security settings, do so carefully. Temporarily disabling protections can create security risks, so this should only be considered when you fully trust the software source.\nAfter installation is complete, close the setup wizard.\nOpen the installation folder or use the desktop shortcut to start Haafedk A12.exe.\nThe provided instructions mention a cracked login button at the login screen for bypassing the credentials and opening the main dashboard.\nDownload Haafedk iCloud A12+ V15\nThe available information identifies this version as V15. Before downloading or installing any software, make sure you trust the source and understand the security risks mentioned in the installation instructions.",
-      "downloads": 8,
+      "downloads": 9,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1792381264658,
@@ -3672,7 +3672,7 @@
       ],
       "createdAt": 1792382181109,
       "description": "NEW Releaed Unlocktool Loader By Amiiz V2 02.09.2026\nUnlockTool_Loader_by_Amiiz 30.08.2026 ONLY LOADER\nUnlocktool Loader By Amiiz Free 30Days Free Downloaddfdfd",
-      "downloads": 11,
+      "downloads": 14,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792382244260,
@@ -4305,7 +4305,7 @@
       ],
       "createdAt": 1792407040506,
       "description": "WAAGWANTECH Fastboot Flashing Tool V1.0 Download\nWAAGWANTECH Fastboot Tool Features\nFastboot bootloader unlock\nVBMETA container selection\nGSI image selection\nAutomatic VBMETA file detection\nAutomatic GSI image detection\nFastbootD reboot during the workflow\nVBMETA flashing to vbmeta_a\nProduct logical partition handling\nGSI flashing to system_a\nMetadata partition erase\nUserdata formatting\nAutomatic device reboot after the process\nScrolling process log\nConfirmation before starting the flash\nHardware ID based activation\nAuthentication token system\nWindows clipboard paste for the activation token\nActivation ScreenBefore reaching the flashing window, the program shows a separate activation screen. It displays the Hardware ID generated by the program.\n\nI like that the Hardware ID can be copied directly from the activation window. There is also a token input box and a button called FORCE PASTE FROM WINDOWS, which can paste the token from the Windows clipboard.\n\nAfter entering the token, clicking ACTIVATE ENGINE checks the activation information. If it is accepted, the activation window closes and the main program opens.\n\nVBMETA File Selection\nThe first file section in the main window is for the VBMETA container. You can enter the file path manually or click BROWSE and select the file from your computer.\n\nThe program also checks its own folder for two names: vbmeta_a.bin and vbmeta.img. If one is found, the path can be filled automatically.\n\nGSI Image SelectionThe second file section is for the GSI image. It is labelled GSI IMAGE (.IMG) in the tool.\n\nThere is another Browse button for selecting the image manually. The automatic search also checks the tool folder for files matching lineage*.img and system*.img.\n\nHow to Use WAAGWANTECH Fastboot Tool\nOpen WAAGWANTECH Fastboot Flashing Tool V1.0.0.\nCheck the Hardware ID shown on the activation screen.\nCopy the Hardware ID if you need to provide it for activation.\nEnter the authentication token in the token field.\nClick ACTIVATE ENGINE.\nAfter activation, the main flashing window will open.\nSelect the VBMETA file in the VBMETA CONTAINER section.\nSelect the required GSI image in the GSI IMAGE (.IMG) section.\nIf the files are already in the tool folder, check whether they were detected automatically.\nConnect the device in the required Fastboot mode.\nClick INITIATE AUTHORITATIVE FLASH.\nConfirm the operation when the confirmation box appears.\nKeep an eye on the log window while the process is running.\nThe tool runs the Fastboot operations and reboots the device at the end.\n\nWhat Happens During Flashing\nOnce the flashing process starts, the tool first writes FLASH STARTED... in the log area.\n\nThe workflow then runs the Fastboot bootloader unlock command and flashes the selected VBMETA file to vbmeta_a. After that, the device is sent to FastbootD and the program waits for the next part of the process.\n\nThe tool then attempts to remove the product_a and product_b logical partitions. The selected GSI image is flashed to system_a.After the system image operation, the tool erases metadata and formats userdata as ext4. Finally, it sends a reboot command.\n\nAutomatic File Detection\nYou can keep the image files in the same folder as the program and let the tool look for them. This is useful when you do not want to browse for every file each time.\n\nFor VBMETA, the program looks for:\n\nvbmeta_a.bin\nvbmeta.img\nFor the GSI image, it looks for:\n\nlineage*.img\nsystem*.img\nLog Window\nThe main window has a large black scrolling log area. The flashing routine writes messages into this section while it is running.",
-      "downloads": 2,
+      "downloads": 5,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1792407040506,
@@ -4543,7 +4543,7 @@
       ],
       "createdAt": 1792577922446,
       "description": "UnlockTool is a mobile servicing software interface with tools organized by phone brand, chipset platform, and connection mode. The supplied feature reference includes Xiaomi, Samsung, Huawei, Oppo, Vivo, Meizu, Tecno, Asus, LG, Nokia, Lenovo, Qualcomm Snapdragon, MediaTek, Apple, Infinix, and Spreadtrum (SPD/Unisoc).\n\nHow to Install\nThe installation notes provided for this article say that the package is distributed as a 7z archive through a Google Drive download link. Extract the archive first, then locate the setup file inside the extracted folder.\n\nDownload the 7z package from the source you trust.\nExtract the archive with a compatible archive utility.\nOpen the extracted folder and run the setup file.\nFollow the installation wizard and select Next when prompted. Installation may take some time, so wait for it to finish.\nWhen setup is complete, launch the program.\nUse the login method provided by the official software provider. If credentials are prefilled in your legitimate package, check that they are authorized for your use before continuing.",
-      "downloads": 214,
+      "downloads": 223,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792579475778,
@@ -6039,7 +6039,7 @@
       ],
       "createdAt": 1792642299409,
       "description": "",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "f_mq7f7s06_6p5wmh3aa",
       "isLink": false,
       "lastModified": 1792642299409,
@@ -6567,7 +6567,7 @@
       ],
       "createdAt": 1792645352897,
       "description": "QCOM 9008 Diag",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6spqix_kgvowfy1q",
       "isLink": false,
       "lastModified": 1792645352897,
@@ -6600,7 +6600,7 @@
       "coverUrl": "",
       "createdAt": 1792645432971,
       "description": "",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6spqix_kgvowfy1q",
       "isLink": false,
       "lastModified": 1792645432971,
@@ -7622,7 +7622,7 @@
       ],
       "createdAt": 1792669153806,
       "description": "Today, we introducing SamFw FRP Tool version 6.2\n\nMain function:\n\nRemove FRP with one click\nChange CSC with one click \nRemove FRP for new security patch (Aug 2022)\nRemove FRP paid method\nRead info, Factory reset, Reset FRP\nRemove FRP with one click\n\nConnect the phone to the PC, and install the Samsung driver if you have not yet installed\nGo to emergency call then type *#0*#\nClick Remove FRP on the Tool\nClick Accept USB debugging on the phone if it appears\nThe phone will finish and reboot after removing FRP\n\nMD5 SamFwTool.exe: 80661ebbd6e36e29e245a92bbe9108b8\n\nMD5 SamFwToolSetup_v6.2.zip: 8e86f089cb48b1601ee41fb83863df06",
-      "downloads": 0,
+      "downloads": 3,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1792669153806,
@@ -7847,7 +7847,7 @@
       ],
       "createdAt": 1792677125446,
       "description": "TSM PRO Cracked BY GsmHeroTeam \n\nYour Purchased Tools\nKeY :: TSM_FREE_BY_GSMHERO_TEAM_FB\nPassword: your Login Password Add",
-      "downloads": 364,
+      "downloads": 373,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792677326729,
@@ -7914,7 +7914,7 @@
       ],
       "createdAt": 1792724536994,
       "description": "U FRP UNISOC Tool V1 Free Free Download.\nMy Installation Walkthrough\nDownloading was simple. I got the loader as a single EXE file. There is nothing to install. I dropped it into a new folder on my desktop and placed the original U-FRP UNISOC tool.exe right next to it.\n\nOne thing I want to point out because I hit it myself. The target tool needs its own Devices and Driver subfolders next to it. If those folders are missing, the tool opens but cannot find any device scripts. The loader looks for the target EXE in the same folder it sits in, so do not move things around after setup.\n\nDownload the loader EXE.\nCreate a new folder, for example on your Desktop.\nPlace the loader EXE inside that folder.\nCopy your U-FRP UNISOC tool.exe and its Devices and Driver folders into the same location.\nRight-click the loader and choose Run as administrator. It will also ask for admin rights on its own if you forget.\nFirst Launch And License Registration\nWhen I opened the loader, Windows asked for administrator permission. That is normal because the loader needs to modify the hosts file and install a certificate to route the tool’s login traffic.\n\nThe window that opened is small and clean. It shows a 16-character hardware ID in green. I clicked Copy Hardware ID, went to the developer’s activation page, and pasted the ID there. In a few seconds I had a license token. I pasted it into the box on the loader and clicked Register License.\n\nThe moment the token was accepted, the activation panel disappeared. A green bar at the top said LICENSE ACTIVE with the number of days left. Then the log panel below started filling up with routing steps.",
-      "downloads": 70,
+      "downloads": 72,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792724536994,
@@ -8129,7 +8129,7 @@
       ],
       "createdAt": 1792756434367,
       "description": "",
-      "downloads": 1,
+      "downloads": 2,
       "folderId": "f_mqdrga34_wfiqp3gsz",
       "isLink": false,
       "lastModified": 1792756434367,
@@ -9279,7 +9279,7 @@
       ],
       "createdAt": 1792818032353,
       "description": "Unlock Tool OFFLINE BY GCT_Team.rar Setup Download",
-      "downloads": 5,
+      "downloads": 8,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1792818032353,
@@ -9631,7 +9631,7 @@
       ],
       "createdAt": 1792821304905,
       "description": "FRP Remove Tool V1.5",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1792821304905,
@@ -9703,7 +9703,7 @@
       ],
       "createdAt": 1792837336814,
       "description": "Easy Frp Tool",
-      "downloads": 0,
+      "downloads": 2,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1792837336814,
@@ -9823,7 +9823,7 @@
       ],
       "createdAt": 1792837579494,
       "description": "PL-SPD FRP Unlock Tool",
-      "downloads": 2,
+      "downloads": 6,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1792837579494,
@@ -10906,7 +10906,7 @@
       ],
       "createdAt": 1792926938526,
       "description": "Multi Unlock MDM v1.0.0.1 Free How to Install MultiUnlockMDM v1.0.0.1\nStep 1: Extract the Main Package\nLocate the downloaded archive named MULTIUNLOCKTOOL_GSMYOGESH.rar.\nRight-click the archive and select the extraction option for the MULTIUNLOCKTOOL_GSMYOGESH folder.\nOpen the extracted folder.\nStep 2: Extract the Setup Archive\nLocate Setup_MultiUnlockMDM-1.0.0.1.rar inside the main folder.\nExtract it into a separate folder.\nEnter MDM when prompted for the archive password.\nOpen the extracted folder and locate MultiUnlockMDM-Setup-1.0.0.1.exe.\nStep 3: Install MultiUnlockMDM\nVerify the installer and its source before running it.\nThe installation instructions specify running the setup as administrator.\nEnter the installer password when prompted. Confirm this password with the provider because the exact value is not clearly identified.\nSelect the destination directory.\nSelect the option to create a desktop shortcut if required.\nClick Instalar (Install) and wait for the installation process to finish.\nAccording to the instructions, uncheck Abrir MultiUnlockMDM and click Finalizar (Finish).\nStep 4: Extract the Loader Archive\nReturn to the main extracted folder.\nLocate MUM_LOAD.zip.\nThe gsmyogesh.com as the loader archive password in different places. Confirm the correct password with the provider before extracting it.\nAfter extraction, locate MUM_LOAD.exe.\nStep 5: Register the License\nCheck the loader’s source and security status before running it.\nThe described registration window displays a Hardware ID (HWID) and a Copy Hardware ID option.\nThe instructions refer to an activation portal offering a 10-day free activation key.\nUse only a verified activation portal and review its terms before submitting hardware information.\nEnter the activation key in the registration window and follow the program’s registration process.\nNote: The activation portal URL was not provided, so it cannot be listed here.\n\nStep 6: Log In to the Tool\nAfter registration, review the Terms and Conditions.\nClick Aceptar y Continuar (Accept and Continue) if you agree to the terms.\nEnter your account username and password.\nClick Ingresar al Sistema (Log into System).\nClick Aceptar on the update-notes dialog if it appears to continue to the dashboard.\nImportant Notes\nConfirm device model, Android version, firmware and security patch compatibility before starting an operation.\nADB and Root requirements may differ between modules.\nBack up important data before using erase, factory reset or clear-data functions.\nUse the tool only on devices you own or have permission to service.\nDo not disable Windows security protections just to run an unknown loader. Scan downloaded files and verify their source first.\nThe listed functions do not establish compatibility with every device from a particular brand.",
-      "downloads": 71,
+      "downloads": 75,
       "folderId": "f_mqf4u5qs_49twakrzn",
       "isLink": false,
       "lastModified": 1792926938526,
@@ -10994,7 +10994,7 @@
       ],
       "createdAt": 1793071863868,
       "description": "FLEX Download Manager 1.0 Free Download\nFLEX Download Manager 1.0 is a fast, lightweight, open-source segmented download manager for Windows 10/11 (x64), built from scratch in C++17 using Qt 6 Widgets and the native WinHTTP networking stack.\n\nHighlights\nMulti-Connection Segmented Downloading: Splits files into dynamic byte-range segments downloaded in parallel, with persistent cross-session pause/resume support.\nBrowser Integration (Chromium MV3 Extension): Automatically intercepts downloads in Chrome, Brave, and Edge with an IDM-style Download File Info dialog and context-menu integration.\nSmart Video & Audio Grabber: In-page media download overlay supporting direct streams as well as multi-resolution video/audio extraction (1080p / 1440p / 4K) on YouTube, X/Twitter, TikTok, Instagram, Facebook, Twitch, Vimeo, Reddit, and SoundCloud powered by yt-dlp.\nQueues, Scheduler & Speed Limiter: Organize downloads by automatic file-type categories, custom categories, scheduled queues, and bandwidth limits.\nNative Dark Theme & Full Arabic/English Localization: Clean dark interface with instant switching between English (LTR) and Arabic (RTL).\nSelf-Contained Installer: Dependency-free Win32 setup (FLEX Download Manager 1.0 Setup.exe) with per-user installation, uninstaller, and guided browser extension setup.\nSystem Requirements\nOS: Windows 10 / Windows 11 (64-bit)\nBrowser (Optional): Google Chrome, Microsoft Edge, Brave, or any Chromium-based browser (v102+)",
-      "downloads": 8,
+      "downloads": 9,
       "folderId": "f_mudhijp0_6qtcol4bq",
       "isLink": false,
       "lastModified": 1793071863868,
@@ -11030,7 +11030,7 @@
       ],
       "createdAt": 1793077957176,
       "description": "TSM PRO TOOL V2026.10.16-0955 – LATEST VERSION Free Download.  TSM PRO Edition is now available with new device support and updated servicing features!\n\n✅ Main Features:\n🔹 Read Device Info\n🔹 Remove FRP\n🔹 Factory Reset\n🔹 Flash Firmware\n🔹 Samsung EDL Support\n🔹 ZTE Unisoc ADL Mode\n🔹 ADB Tasks\n🔹 MDM / KG Operations\n🔹 Motorola & Xiaomi Fastboot Flasher\n🔹 Bootloader Unlock / Lock\n🔹 And More!\n\n🆕 What's New in This Version?\n\n✔️ Added Nothing 4B EDL Support\n✔️ Added New Samsung 2026 EDL Support\n✔️ Added ZTE Device Support\n✔️ Added More TCL, HONOR, Lenovo, REDMAGIC & OUKITEL Models\n✔️ Improved Motorola & Xiaomi Fastboot Flasher\n✔️ Fixed Several Listed Bugs\n⚡️ Easy Installation by GSMYOGESH.COM\n✔️ Automatic Installation\n✔️ Simple Setup Process\n✔️ Application Launches Automatically",
-      "downloads": 87,
+      "downloads": 115,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793077957176,
@@ -11074,7 +11074,7 @@
       ],
       "createdAt": 1793242489978,
       "description": "ES Serial Terminal v1.0.1 Review – Hands-On Testing for TV Chipset Work",
-      "downloads": 0,
+      "downloads": 3,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1793242489978,
@@ -11118,7 +11118,7 @@
       ],
       "createdAt": 1793242946261,
       "description": "Fastboot Bulk Flasher by OXYGEN",
-      "downloads": 0,
+      "downloads": 3,
       "folderId": "f_mp6sjh9m_k6ruc0voj",
       "isLink": false,
       "lastModified": 1793242946261,
@@ -11156,48 +11156,91 @@
       "unrarPassword": ""
     },
     "f_mvszz4ms_3l62euxvk": {
-      "name": "Epson Printer Resetter Tool V1",
-      "folderId": "f_mvszl5zi_laftpo100",
-      "size": "21.2 MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB_ULli9-Ac_d7MXtMgz-pnnOP2AEb0NKBHHR3VBPH1rCMuneOveAQZLdhkSIx2uozwQU94igDht6Gx2rCatirXHf-m0yFwW0ah0Ua5CLp4Wx5HShaVPVwiMTw-Jx08WY8TPcBCIvnKC5MGHd82FtasW_n9Su6OJWMau6Zsc6k9NRZ45KUF6fjR7hJti50/w640-h360/Epson%20Printer%20Resetter%20Tool%20V1.0.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB_ULli9-Ac_d7MXtMgz-pnnOP2AEb0NKBHHR3VBPH1rCMuneOveAQZLdhkSIx2uozwQU94igDht6Gx2rCatirXHf-m0yFwW0ah0Ua5CLp4Wx5HShaVPVwiMTw-Jx08WY8TPcBCIvnKC5MGHd82FtasW_n9Su6OJWMau6Zsc6k9NRZ45KUF6fjR7hJti50/w640-h360/Epson%20Printer%20Resetter%20Tool%20V1.0.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "epson-printer-resetter-tool-v1",
+      "createdAt": 1793245340980,
       "description": "Epson Printer Resetter Tool V1.0 Free Download",
-      "downloads": 0,
-      "link": "https://mega.nz/file/DoowSCpC#Y2GsveHOETWe8zvkoQn8qKR5tMMZKJyOe5zTLAyI-Kk",
+      "downloads": 8,
+      "folderId": "f_mvszl5zi_laftpo100",
       "isLink": false,
-      "published": true,
+      "lastModified": 1793245340980,
+      "link": "https://mega.nz/file/DoowSCpC#Y2GsveHOETWe8zvkoQn8qKR5tMMZKJyOe5zTLAyI-Kk",
       "links": [
         {
           "label": "Epson Printer Resetter Tool V1.0",
           "urls": [
             {
-              "url": "https://mega.nz/file/DoowSCpC#Y2GsveHOETWe8zvkoQn8qKR5tMMZKJyOe5zTLAyI-Kk",
-              "password": "gsmyogesh.com"
+              "password": "gsmyogesh.com",
+              "url": "https://mega.nz/file/DoowSCpC#Y2GsveHOETWe8zvkoQn8qKR5tMMZKJyOe5zTLAyI-Kk"
             },
             {
-              "url": "https://www.mediafire.com/file/91ceh8vzotmldtm/EPSON+RESETTER.zip/file",
+              "password": "",
+              "url": "https://www.mediafire.com/file/91ceh8vzotmldtm/EPSON+RESETTER.zip/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZqvwhJZ0ydJ2CXKdDuuILaycvdY2pxl8qt7"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1mjf2hvUk--rp8XmAOrcb9Q"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Epson Printer Resetter Tool V1",
+      "password": "",
+      "publishUrl": "epson-printer-resetter-tool-v1",
+      "published": true,
+      "size": "21.2 MB",
+      "unrarPassword": ""
+    },
+    "f_mvut7sj1_hw0zwtnlv": {
+      "name": "USB Port Detector BY GSMSANJOY",
+      "folderId": "f_mp6sdi6s_ikugxspq5",
+      "size": "378 KB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoOdt6UjAEZYUWM84smGW9NBWjORIkn6Dgf_qKl8M6AqJU44FILgC-KXvRYJrXgdfotiBnVXrDUwMVJ9UWCO9hMuNhszlzNGzU_ISEYSSMtoe0cNYWvhjIfEELITM9alOMflszJdAM8k6Ha4QVMwf53FuuzZtWB0SfncKMN7RBZ5wtMU6n2oU9JavQrLhq/s1600/USB%20Port%20Detector%20BY%20GSMSANJOY.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoOdt6UjAEZYUWM84smGW9NBWjORIkn6Dgf_qKl8M6AqJU44FILgC-KXvRYJrXgdfotiBnVXrDUwMVJ9UWCO9hMuNhszlzNGzU_ISEYSSMtoe0cNYWvhjIfEELITM9alOMflszJdAM8k6Ha4QVMwf53FuuzZtWB0SfncKMN7RBZ5wtMU6n2oU9JavQrLhq/s1600/USB%20Port%20Detector%20BY%20GSMSANJOY.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFFEmkzEc6JrlvBKmopi4q7Z9ij2NhhAilBRc2k5q_Li0c4sgAom8GiB4I6daf-C0Qz3sp6DYxVYUx7_dDqcwdvCV7rB7IghuZ4IYc3_UWenumAaPvWuuzPeVoHMv6rUkZ6owoL-TsAhO-4BJNd78ej4du5ZAV2nKJg9FvEwLRIBtySoRVcf1n1x00truw/s1600/1.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqXFNW07Jk3KOcUZieCol8rXdsJdwe76z_r9oH6cMCppdO2LCAk71OecXOu3JGdNvptMRvVDxOntK4585hivCZmgHYOjMgeIZHlQov8Q8lBtsRj9jgCEN7YjWgGO2aXttKHn4khrL0FEBfXyjFLy78LCB3EarX_opPK91b6mlAPB2xVayEGGQyYu7k0yP2/s1600/2.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMdPpKeyOiVa7YdVHxV4FKelILsKA8bGhXjqATZFsJSwJjgS4gkbOS-E4omHnas8OTn6roBEHfCOEYJ8OAzXFuzewKWKENfrqnaPouzwhVMnEj89Ce_4kM4aky9Fb4CGbiKuT8hyphenhyphen19pygSbU7Z-8kDdF-qRFsb7y2Eu8xO94lptP-fcIS4hirNe0_w8Jxx/s1600/3.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "usb-port-detector-by-gsmsanjoy",
+      "description": "USB Port Detector BY GSMSANJOY.com ====================================================================\n\n1. WHAT IS THIS SOFTWARE?\n---------------------------------------------------------------------\nUSB Port Detector BY GSMSANJOY.COM is a Windows background tool that\nwatches every USB port of your PC and INSTANTLY (fast, real time)\nshows a desktop popup notification when a USB device is CONNECTED or\nDISCONNECTED.\n\n   * CONNECTED    -> system tray icon turns GREEN + popup notification\n   * DISCONNECTED -> system tray icon turns RED   + popup notification\n\nEvery popup and the device window show the DEVICE NAME and the PORT:\n   * COM port number for serial devices   e.g. COM2, COM4, COM5\n   * USB hub port location for others     e.g. Port_#0002.Hub_#0004\n   * VID/PID identification as fallback   e.g. VID_1234&PID_5678\n\nThe software is protected with a HWID LICENSE system: one activation\nkey works on ONE computer for ONE year and can be renewed.\n\n2. FEATURES\n---------------------------------------------------------------------\n   - FAST real time USB connect / disconnect detection (WMI events)\n   - Instant desktop popup (toast / balloon) for every event\n   - GREEN tray icon = connect, RED tray icon = disconnect\n   - Device window: device name, status, port / COM number, device ID\n   - COM port numbers shown and highlighted (COM2, COM4, COM5, ...)\n   - HWID license activation - 1 year key per computer, renewable\n   - Auto start with Windows - background, always on\n   - Single instance protection and event log file:\n       C:\\ProgramData\\GSMSANJOY\\USBPortDetector\\usb_detector_log.txt\n   - SHA-256 checksum verification of all program files\n\n3. REQUIREMENTS\n---------------------------------------------------------------------\n   - Windows 7 / 8 / 8.1 / 10 / 11 (64-bit)\n   - Microsoft .NET Framework 4.x\n     (already built into Windows 8 / 10 / 11 - no extra download)",
+      "downloads": 0,
+      "link": "https://www.mediafire.com/file/ckfko6i1z8oarmy/USB+Port+Detector+BY+GSMSANJOY.COM.rar/file",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "USB Port Detector Links",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/file/ckfko6i1z8oarmy/USB+Port+Detector+BY+GSMSANJOY.COM.rar/file",
               "password": ""
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZqvwhJZ0ydJ2CXKdDuuILaycvdY2pxl8qt7",
+              "url": "https://u.pcloud.link/publink/show?code=XZefySJZPqAvp3JO1R8kSjE6g2L4syLBIDkV",
               "password": ""
             },
             {
-              "url": "https://1024terabox.com/s/1mjf2hvUk--rp8XmAOrcb9Q",
+              "url": "https://1024terabox.com/s/1Om3WWJyEKSYsZey7I55OWw",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1793245340980,
-      "lastModified": 1793245340980
+      "createdAt": 1793354920237,
+      "lastModified": 1793354920237
     }
   },
   "images": {
@@ -11224,11 +11267,22 @@
       "published": true,
       "sourceType": "url",
       "url": "https://fiveplay.lol/"
+    },
+    "f_mvujl9jv_jet4qky98": {
+      "createdAt": 1793338752667,
+      "folderId": "f_ms1c2vfi_h88rbr5dj",
+      "htmlSource": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>USB Port Detector - License Key Generator | GSMSANJOY.COM</title>\n<style>\n  :root {\n    --green: #00b050;\n    --green-dark: #008a3e;\n    --red: #e53939;\n    --bg: #0b1220;\n    --card: #111a2e;\n    --card2: #0e1626;\n    --line: #22304d;\n    --text: #e8eefc;\n    --muted: #93a4c6;\n  }\n  * { box-sizing: border-box; margin: 0; padding: 0; }\n  body {\n    font-family: \"Segoe UI\", Roboto, Arial, sans-serif;\n    background: var(--bg);\n    color: var(--text);\n    min-height: 100vh;\n    display: flex;\n    align-items: flex-start;\n    justify-content: center;\n    padding: 34px 16px 60px;\n    overflow-x: hidden;\n  }\n  .bg-shape {\n    position: fixed;\n    border-radius: 50%;\n    filter: blur(90px);\n    opacity: .35;\n    z-index: 0;\n    pointer-events: none;\n  }\n  .bg-shape.one { width: 420px; height: 420px; background: var(--green); top: -140px; right: -80px; }\n  .bg-shape.two { width: 380px; height: 380px; background: #1450a3; bottom: -160px; left: -100px; }\n  .card {\n    position: relative;\n    z-index: 1;\n    width: 100%;\n    max-width: 720px;\n    background: linear-gradient(180deg, var(--card) 0%, var(--card2) 100%);\n    border: 1px solid var(--line);\n    border-radius: 18px;\n    padding: 30px 30px 22px;\n    box-shadow: 0 24px 60px rgba(0,0,0,.45);\n  }\n  header { display: flex; align-items: center; gap: 16px; }\n  .logo {\n    width: 58px; height: 58px; border-radius: 50%;\n    background: radial-gradient(circle at 30% 30%, #00d968, var(--green-dark));\n    color: #fff; font-size: 30px; font-weight: 800;\n    display: flex; align-items: center; justify-content: center;\n    border: 3px solid rgba(255,255,255,.85);\n    flex: 0 0 auto;\n  }\n  h1 { font-size: 24px; letter-spacing: .2px; }\n  h1 span { color: var(--green); }\n  .sub { color: var(--muted); font-size: 13.5px; margin-top: 4px; }\n  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 6px; }\n  .chip {\n    font-size: 12px; font-weight: 600; color: #b8f5d3;\n    background: rgba(0,176,80,.14);\n    border: 1px solid rgba(0,176,80,.45);\n    padding: 5px 12px; border-radius: 999px;\n  }\n  .step {\n    background: rgba(255,255,255,.025);\n    border: 1px solid var(--line);\n    border-radius: 14px;\n    padding: 18px;\n    margin-top: 16px;\n  }\n  .step-head { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }\n  .step-head .n {\n    width: 30px; height: 30px; border-radius: 50%;\n    background: var(--green); color: #fff; font-weight: 800;\n    display: flex; align-items: center; justify-content: center;\n    flex: 0 0 auto;\n  }\n  .step-head h2 { font-size: 16.5px; font-weight: 700; }\n  .hint { color: var(--muted); font-size: 13px; line-height: 1.55; margin-bottom: 10px; }\n  .hint b { color: var(--text); }\n  input[type=text], .mono {\n    font-family: Consolas, \"Courier New\", monospace;\n  }\n  #hwid {\n    width: 100%;\n    background: #0a1120;\n    border: 1px solid var(--line);\n    border-radius: 10px;\n    color: var(--text);\n    font-size: 19px;\n    letter-spacing: 2.5px;\n    padding: 13px 15px;\n    outline: none;\n    text-transform: uppercase;\n    transition: border-color .15s;\n  }\n  #hwid:focus { border-color: var(--green); }\n  #hwid::placeholder { color: #45536f; letter-spacing: 2.5px; }\n  .err { color: var(--red); font-size: 12.5px; min-height: 17px; margin-top: 7px; }\n  button.primary {\n    width: 100%;\n    background: linear-gradient(180deg, #00c85f, var(--green-dark));\n    color: #fff; font-size: 16px; font-weight: 700;\n    border: none; border-radius: 11px;\n    padding: 14px 18px;\n    cursor: pointer;\n    transition: transform .06s, filter .15s;\n  }\n  button.primary:hover { filter: brightness(1.08); }\n  button.primary:active { transform: translateY(1px); }\n  button.primary:disabled { filter: grayscale(.7) brightness(.65); cursor: not-allowed; }\n  .result { margin-top: 12px; }\n  .result.hidden { display: none; }\n  .keyrow { display: flex; gap: 10px; align-items: stretch; }\n  #keyOut {\n    flex: 1 1 auto;\n    background: #0a1120;\n    border: 1px solid var(--green);\n    border-radius: 10px;\n    color: #7dffb2;\n    font-size: 17.5px;\n    font-weight: 700;\n    letter-spacing: 1.6px;\n    padding: 13px 14px;\n    word-break: break-all;\n    user-select: all;\n  }\n  #copyBtn {\n    flex: 0 0 auto;\n    background: #17233d;\n    color: var(--text);\n    border: 1px solid var(--line);\n    border-radius: 10px;\n    font-size: 14px; font-weight: 700;\n    padding: 0 20px;\n    cursor: pointer;\n    transition: background .15s;\n  }\n  #copyBtn:hover { background: #1f2f52; }\n  .meta { color: var(--muted); font-size: 13px; margin-top: 9px; line-height: 1.5; }\n  .meta b { color: #7dffb2; }\n  .okline { color: #7dffb2; font-weight: 700; }\n  footer {\n    margin-top: 22px;\n    padding-top: 14px;\n    border-top: 1px solid var(--line);\n    display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;\n    color: var(--muted); font-size: 12.5px;\n  }\n  footer a { color: var(--green); font-weight: 700; text-decoration: none; }\n  footer a:hover { text-decoration: underline; }\n  @media (max-width: 560px) {\n    .keyrow { flex-direction: column; }\n    #copyBtn { padding: 11px 20px; }\n    h1 { font-size: 19px; }\n  }\n</style>\n</head>\n<body>\n<div class=\"bg-shape one\"></div>\n<div class=\"bg-shape two\"></div>\n\n<main class=\"card\">\n  <header>\n    <div class=\"logo\">U</div>\n    <div>\n      <h1>USB Port Detector <span>License Generator</span></h1>\n      <p class=\"sub\">BY GSMSANJOY.COM &middot; Official activation key tool</p>\n    </div>\n  </header>\n  <section class=\"step\">\n    <div class=\"step-head\"><span class=\"n\">1</span><h2>Paste the computer HWID</h2></div>\n    <p class=\"hint\">\n      On the customer PC: open <b>USB Port Detector BY GSMSANJOY.COM</b> &rarr;\n      right-click the tray icon &rarr; <b>Activate License...</b> &rarr;\n      press <b>Copy HWID</b> &rarr; paste it below.\n    </p>\n    <input type=\"text\" id=\"hwid\" class=\"mono\" placeholder=\"XXXX-XXXX-XXXX-XXXX\" autocomplete=\"off\" spellcheck=\"false\">\n    <div id=\"hwidErr\" class=\"err\"></div>\n  </section>\n\n  <section class=\"step\">\n    <div class=\"step-head\"><span class=\"n\">2</span><h2>Generate the 1 Year activation key</h2></div>\n    <p class=\"hint\">The key is locked to the HWID above and valid for <b>1 year</b> from today.</p>\n    <button id=\"genBtn\" class=\"primary\" disabled>Generate 1 Year Activation Key</button>\n  </section>\n\n  <section class=\"step\">\n    <div class=\"step-head\"><span class=\"n\">3</span><h2>Copy the key into the software</h2></div>\n    <div id=\"result\" class=\"result hidden\">\n      <div class=\"keyrow\">\n        <code id=\"keyOut\" class=\"mono\"></code>\n        <button id=\"copyBtn\">Copy Key</button>\n      </div>\n      <div id=\"meta\" class=\"meta\"></div>\n    </div>\n    <p class=\"hint\">\n      In the software: <b>Activate License...</b> &rarr; paste the key in\n      <b>Step 3</b> &rarr; press <b>Activate</b>. Done - the tray icon turns GREEN.\n    </p>\n  </section>\n\n  <footer>\n    <a href=\"https://www.gsmsanjoy.com\" target=\"_blank\" rel=\"noopener\">www.gsmsanjoy.com</a>\n    <span>&copy; GSMSANJOY.COM &mdash; USB Port Detector v1.1+ &mdash; one key = one computer = 1 year</span>\n  </footer>\n</main>\n\n<script id=\"lic-core\">\n// =====================================================================\n//  LICENSE CORE - must stay identical to src/USBPortDetector.cs\n//  (class GSMSANJOY.LicenseCore). Key = Base32( HWID8 || DAYS2 || SIG4 )\n// =====================================================================\nvar LIC = (function () {\n  \"use strict\";\n  var SECRET = \"GSMSANJOY::PORT-DETECTOR::LICENSE-SIGNATURE-V1\";\n  var EPOCH = new Date(2020, 0, 1);\n  var ALPHABET = \"ABCDEFGHIJKLMNOPQRSTUVWXYZ234567\";\n\n  function utf8Bytes(str) {\n    var s = unescape(encodeURIComponent(str));\n    var out = new Array(s.length);\n    for (var i = 0; i < s.length; i++) out[i] = s.charCodeAt(i) & 0xFF;\n    return out;\n  }\n\n  // --- pure JS SHA-256 (returns 32 bytes as array) ---\n  var K = [\n    0x428a2f98, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5, 0x3956c25b, 0x59f111f1, 0x923f82a4, 0xab1c5ed5,\n    0xd807aa98, 0x12835b01, 0x243185be, 0x550c7dc3, 0x72be5d74, 0x80deb1fe, 0x9bdc06a7, 0xc19bf174,\n    0xe49b69c1, 0xefbe4786, 0x0fc19dc6, 0x240ca1cc, 0x2de92c6f, 0x4a7484aa, 0x5cb0a9dc, 0x76f988da,\n    0x983e5152, 0xa831c66d, 0xb00327c8, 0xbf597fc7, 0xc6e00bf3, 0xd5a79147, 0x06ca6351, 0x14292967,\n    0x27b70a85, 0x2e1b2138, 0x4d2c6dfc, 0x53380d13, 0x650a7354, 0x766a0abb, 0x81c2c92e, 0x92722c85,\n    0xa2bfe8a1, 0xa81a664b, 0xc24b8b70, 0xc76c51a3, 0xd192e819, 0xd6990624, 0xf40e3585, 0x106aa070,\n    0x19a4c116, 0x1e376c08, 0x2748774c, 0x34b0bcb5, 0x391c0cb3, 0x4ed8aa4a, 0x5b9cca4f, 0x682e6ff3,\n    0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208, 0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2\n  ];\n\n  function sha256Bytes(msg) {\n    var l = msg.length;\n    var total = Math.ceil((l + 9) / 64) * 64;\n    var m = new Array(total);\n    for (var i = 0; i < total; i++) m[i] = 0;\n    for (var i2 = 0; i2 < l; i2++) m[i2] = msg[i2] & 0xFF;\n    m[l] = 0x80;\n    var bits = l * 8;\n    m[total - 4] = (bits >>> 24) & 0xFF;\n    m[total - 3] = (bits >>> 16) & 0xFF;\n    m[total - 2] = (bits >>> 8) & 0xFF;\n    m[total - 1] = bits & 0xFF;\n\n    var H = [0x6a09e667, 0xbb67ae85, 0x3c6ef372, 0xa54ff53a,\n             0x510e527f, 0x9b05688c, 0x1f83d9ab, 0x5be0cd19];\n    var w = new Array(64);\n\n    function rr(x, n) { return (x >>> n) | (x << (32 - n)); }\n\n    for (var b = 0; b < total; b += 64) {\n      for (var t = 0; t < 16; t++) {\n        w[t] = (m[b + t * 4] << 24) | (m[b + t * 4 + 1] << 16) | (m[b + t * 4 + 2] << 8) | m[b + t * 4 + 3];\n      }\n      for (var t2 = 16; t2 < 64; t2++) {\n        var s0 = rr(w[t2 - 15], 7) ^ rr(w[t2 - 15], 18) ^ (w[t2 - 15] >>> 3);\n        var s1 = rr(w[t2 - 2], 17) ^ rr(w[t2 - 2], 19) ^ (w[t2 - 2] >>> 10);\n        w[t2] = (w[t2 - 16] + s0 + w[t2 - 7] + s1) | 0;\n      }\n      var a = H[0], bb = H[1], c = H[2], d = H[3], e = H[4], f = H[5], g = H[6], h = H[7];\n      for (var t3 = 0; t3 < 64; t3++) {\n        var S1 = rr(e, 6) ^ rr(e, 11) ^ rr(e, 25);\n        var ch = (e & f) ^ (~e & g);\n        var t1 = (h + S1 + ch + K[t3] + w[t3]) | 0;\n        var S0 = rr(a, 2) ^ rr(a, 13) ^ rr(a, 22);\n        var mj = (a & bb) ^ (a & c) ^ (bb & c);\n        var t2b = (S0 + mj) | 0;\n        h = g; g = f; f = e;\n        e = (d + t1) | 0;\n        d = c; c = bb; bb = a;\n        a = (t1 + t2b) | 0;\n      }\n      H = [(H[0] + a) | 0, (H[1] + bb) | 0, (H[2] + c) | 0, (H[3] + d) | 0,\n           (H[4] + e) | 0, (H[5] + f) | 0, (H[6] + g) | 0, (H[7] + h) | 0];\n    }\n    var out = new Array(32);\n    for (var j = 0; j < 8; j++) {\n      out[j * 4] = (H[j] >>> 24) & 0xFF;\n      out[j * 4 + 1] = (H[j] >>> 16) & 0xFF;\n      out[j * 4 + 2] = (H[j] >>> 8) & 0xFF;\n      out[j * 4 + 3] = H[j] & 0xFF;\n    }\n    return out;\n  }\n\n  function sha256Hex(byteArray) {\n    var bytes = sha256Bytes(byteArray);\n    var hex = \"\";\n    for (var i = 0; i < bytes.length; i++) hex += (\"0\" + bytes[i].toString(16)).slice(-2);\n    return hex.toUpperCase();\n  }\n\n  function base32Encode(bytes) {\n    var bits = 0, value = 0, out = \"\";\n    for (var i = 0; i < bytes.length; i++) {\n      value = (value << 8) | (bytes[i] & 0xFF);\n      bits += 8;\n      while (bits >= 5) {\n        out += ALPHABET[(value >>> (bits - 5)) & 31];\n        bits -= 5;\n      }\n    }\n    if (bits > 0) out += ALPHABET[(value << (5 - bits)) & 31];\n    while (out.length % 8 !== 0) out += \"A\";\n    return out;\n  }\n\n  function base32Decode(text) {\n    var bits = 0, value = 0;\n    var out = [];\n    var upper = text.toUpperCase();\n    for (var i = 0; i < upper.length; i++) {\n      var idx = ALPHABET.indexOf(upper.charAt(i));\n      if (idx < 0) continue;\n      value = (value << 5) | idx;\n      bits += 5;\n      if (bits >= 8) {\n        out.push((value >>> (bits - 8)) & 0xFF);\n        bits -= 8;\n      }\n    }\n    return out;\n  }\n\n  function hexToBytes(hex16) {\n    var h = String(hex16 || \"\").toUpperCase().replace(/[^0-9A-F]/g, \"\");\n    if (h.length !== 16) return null;\n    var out = [];\n    for (var i = 0; i < 16; i += 2) out.push(parseInt(h.substr(i, 2), 16));\n    return out;\n  }\n\n  function groupKey(b32) {\n    var groups = [];\n    for (var i = 0; i < b32.length; i += 4) groups.push(b32.substr(i, 4));\n    return groups.join(\"-\");\n  }\n\n  function daysBetween(date) {\n    var midnight = new Date(date.getFullYear(), date.getMonth(), date.getDate());\n    return Math.round((midnight - EPOCH) / 86400000);\n  }\n\n  function signHead(head10) {\n    var input = utf8Bytes(SECRET).concat(head10);\n    var hash = sha256Bytes(input);\n    return hash.slice(0, 4);\n  }\n\n  // returns { key, expiryDate, days }\n  function generateKey(hwidHex16, expiryDate) {\n    var hw = hexToBytes(hwidHex16);\n    if (!hw) throw new Error(\"Invalid HWID (need 16 hex characters).\");\n    var days = daysBetween(expiryDate);\n    if (days < 1) days = 1;\n    if (days > 65535) days = 65535;\n    var head = hw.slice(0, 8);\n    head.push((days >> 8) & 0xFF);\n    head.push(days & 0xFF);\n    var sig = signHead(head);\n    var payload = head.concat(sig);\n    return {\n      key: groupKey(base32Encode(payload)),\n      expiryDate: new Date(expiryDate.getFullYear(), expiryDate.getMonth(), expiryDate.getDate()),\n      days: days\n    };\n  }\n\n  // returns { ok, expiryDate, expired, error }\n  function validateKey(keyText, hwidHex16) {\n    var clean = String(keyText || \"\").toUpperCase().split(\"\")\n      .filter(function (c) { return ALPHABET.indexOf(c) >= 0; }).join(\"\");\n    if (clean.length !== 24) {\n      return { ok: false, expired: false, error: \"Invalid key format (the key must have 24 characters).\" };\n    }\n    var decoded = base32Decode(clean);\n    if (decoded.length < 14) {\n      return { ok: false, expired: false, error: \"Invalid key characters.\" };\n    }\n    var head = decoded.slice(0, 10);\n    var sig = signHead(head);\n    for (var i = 0; i < 4; i++) {\n      if (sig[i] !== decoded[10 + i]) {\n        return { ok: false, expired: false, error: \"Invalid key (signature check failed).\" };\n      }\n    }\n    var days = (decoded[8] << 8) | decoded[9];\n    if (days <= 0) {\n      return { ok: false, expired: false, error: \"Invalid key (expiry date).\" };\n    }\n    var hw = hexToBytes(hwidHex16);\n    for (var j = 0; j < 8; j++) {\n      if (!hw || decoded[j] !== hw[j]) {\n        return { ok: false, expired: false, error: \"This key is for another computer (HWID mismatch).\" };\n      }\n    }\n    var expiry = new Date(EPOCH.getTime() + days * 86400000);\n    var today = new Date();\n    today = new Date(today.getFullYear(), today.getMonth(), today.getDate());\n    if (expiry < today) {\n      return { ok: false, expired: true, expiryDate: expiry,\n               error: \"License EXPIRED on \" + expiry.toISOString().substr(0, 10) + \" - generate a new key to renew.\" };\n    }\n    return { ok: true, expired: false, expiryDate: expiry };\n  }\n\n  return {\n    sha256Hex: sha256Hex,\n    base32Encode: base32Encode,\n    base32Decode: base32Decode,\n    generateKey: generateKey,\n    validateKey: validateKey\n  };\n})();\n</script>\n\n<script>\n(function () {\n  \"use strict\";\n  var hwidInput = document.getElementById(\"hwid\");\n  var hwidErr = document.getElementById(\"hwidErr\");\n  var genBtn = document.getElementById(\"genBtn\");\n  var result = document.getElementById(\"result\");\n  var keyOut = document.getElementById(\"keyOut\");\n  var copyBtn = document.getElementById(\"copyBtn\");\n  var meta = document.getElementById(\"meta\");\n\n  function cleanHwid(v) {\n    return String(v || \"\").toUpperCase().replace(/[^0-9A-F]/g, \"\");\n  }\n  function fmtHwid(hex16) {\n    return hex16.replace(/(.{4})(?=.)/g, \"$1-\");\n  }\n  function refresh() {\n    var clean = cleanHwid(hwidInput.value);\n    var ok = clean.length === 16;\n    genBtn.disabled = !ok;\n    hwidErr.textContent = (clean.length > 0 && !ok)\n      ? \"HWID must be 16 hex characters (0-9, A-F). You have \" + clean.length + \".\"\n      : \"\";\n    return ok ? clean : null;\n  }\n\n  hwidInput.addEventListener(\"input\", refresh);\n  hwidInput.addEventListener(\"blur\", function () {\n    var clean = cleanHwid(hwidInput.value);\n    if (clean.length === 16) hwidInput.value = fmtHwid(clean);\n  });\n  hwidInput.addEventListener(\"keydown\", function (e) {\n    if (e.key === \"Enter\") genBtn.click();\n  });\n\n  genBtn.addEventListener(\"click\", function () {\n    var clean = refresh();\n    if (!clean) return;\n    var expiry = new Date();\n    expiry.setFullYear(expiry.getFullYear() + 1);\n    var r = LIC.generateKey(clean, expiry);\n    keyOut.textContent = r.key;\n    var days = Math.round((r.expiryDate - new Date(new Date().getFullYear(), new Date().getMonth(), new Date().getDate())) / 86400000);\n    meta.innerHTML = \"<span class='okline'>Key generated.</span> Valid until <b>\" +\n      r.expiryDate.toLocaleDateString(\"en-GB\", { day: \"numeric\", month: \"long\", year: \"numeric\" }) +\n      \"</b> (\" + days + \" days) &middot; locked to HWID <b>\" + fmtHwid(clean) + \"</b>\";\n    result.classList.remove(\"hidden\");\n    copyBtn.textContent = \"Copy Key\";\n  });\n\n  copyBtn.addEventListener(\"click\", function () {\n    var text = keyOut.textContent;\n    function done() { copyBtn.textContent = \"Copied!\"; }\n    if (navigator.clipboard && navigator.clipboard.writeText) {\n      navigator.clipboard.writeText(text).then(done, function () { fallback(); });\n    } else {\n      fallback();\n    }\n    function fallback() {\n      var ta = document.createElement(\"textarea\");\n      ta.value = text;\n      ta.style.position = \"fixed\";\n      ta.style.opacity = \"0\";\n      document.body.appendChild(ta);\n      ta.select();\n      try { document.execCommand(\"copy\"); done(); } catch (e) { window.prompt(\"Copy the key:\", text); }\n      document.body.removeChild(ta);\n    }\n  });\n\n  // prefill HWID from ?hwid=XXXX-XXXX-XXXX-XXXX (sent by the software button)\n  try {\n    var q = new URLSearchParams(window.location.search).get(\"hwid\");\n    if (q) {\n      var clean = cleanHwid(q);\n      if (clean.length === 16) {\n        hwidInput.value = fmtHwid(clean);\n        refresh();\n        genBtn.click();\n      }\n    }\n  } catch (e) { /* older browsers without URLSearchParams */ }\n})();\n</script>\n</body>\n</html>",
+      "lastModified": 1793354112588,
+      "name": "Port-Detector-activation",
+      "publishUrl": "port-detector-activation",
+      "published": true,
+      "sourceType": "html",
+      "url": ""
     }
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-10-29T03:44:39.792Z",
+    "createdAt": "2026-10-30T10:09:11.812Z",
     "version": "2.0",
     "sections": 4
   }
