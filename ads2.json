@@ -1003,7 +1003,7 @@
     "f_mw05rpo4_vhx0ip0ho": {
       "createdAt": 1793678335924,
       "icon": "fa-solid fa-terminal",
-      "lastModified": 1793678371075,
+      "lastModified": 1793678370963,
       "name": "Port Shareing",
       "order": 0,
       "parentId": "f_mp6sf7er_yrsiah0rt"
@@ -1820,7 +1820,7 @@
       ],
       "createdAt": 1790504007831,
       "description": "DarsUnlocker Bypass Loader  Step-by-Step: How to Install and Run Everything\nremoved VPN restriction\nremoved no server could not be reached\ndon't update if you have no error\nStep 1 – Install DarsUnlocker\nI right-clicked the DarsUnlocker setup installer and chose Run as administrator. This is not optional. If you don’t run it as admin, the loader will not be able to bind to the ports it needs.\n\nThe setup wizard opens. I clicked Next through each screen. There’s an option for Create a desktop icon — I kept that checked because it’s easier to launch later. Then I clicked Install and waited for it to finish.\n\nWhen it was done, I clicked Finish. The installer also opened the app for me, which was convenient.Step 2 – Let DarsUnlocker Loader Initialize\nOnce the loader opens, it starts working right away. I saw a small splash window appear. It checked my online connection status first, then began unpacking its internal data.\n\nIf a support message pops up with Telegram links, just click Ok to dismiss it. It’s normal.\n\nBehind the scenes, the loader was doing a few things at this point:\n\nChecking the clock and syncing time\nUnpacking the encrypted data file\nGetting ready to patch memory when UNLOCKTOOL starts\nI just waited for the loader to settle. You’ll know it’s ready when the splash window shows a status like “Ready” or “Waiting for login.”\n\nStep 3 – Set Process Priority in Task Manager\nThis step matters more than people realize. Without setting the priority, the loader sometimes doesn’t hook properly and UNLOCKTOOL may not log in.\n\nHere’s what I did:\n\nI right-clicked the Windows Taskbar and opened Task Manager. Then I clicked on the Details tab. I looked for DarsUnlocker.exe in the list, right-clicked it, and chose Set priority. I selected High (you can also pick Above Normal).\n\nWindows asked me to confirm the change. I clicked Yes.\n\nI did the same thing for UNLOCKTOOL.exe once it was running, just to be consistent.\n\nStep 4 – Log In to UNLOCKTOOL\nNow the interesting part. I opened UNLOCKTOOL and let it load. On the login screen, I looked back at the DarsUnlocker window.\n\nThe loader showed me the generated login details:\n\nUsername: aminebazouka (or whatever your loader shows)\nPassword: any password you want\nI typed that username into UNLOCKTOOL. For the password, I typed anything — literally any random text. Then I clicked Login.\n\nWhen the disclaimer window appeared, I clicked Agree.\n\nThat’s it. UNLOCKTOOL loaded its main dashboard and I was in.\n\nStep 5 – Start Servicing Devices\nOnce logged in, the tool is fully usable. You’ll see the main dashboard with all the brand tabs at the top or side. Just pick your target brand and start working.",
-      "downloads": 237,
+      "downloads": 241,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793010803220,
@@ -2179,7 +2179,7 @@
       ],
       "createdAt": 1790824309371,
       "description": "Unlock Tool Cracked BY EVW88  inks:\n- Bot: https://t.me/evw88_bot\n- Group: https://t.me/evw88_chat\n- Channel: https://t.me/evw88_channel\n- uTool download: [DOWNLOAD LINK]\n\n1) Download uTool (utool.rar) from the link above.\n2) Extract the archive with password: evw88\n3) Open the extracted \"last\" folder and run \"unlocktool loader.exe\".\n4) In the tool, open the License window and copy your HWID shown there.\n5) Open the bot: https://t.me/evw88_bot and press Start.\n   Joining the channel is required to use the bot: https://t.me/evw88_channel\n6) In the bot menu choose one option:\n   - \"Get license\": share your link — each friend who joins the channel gives\n     you +1 day — then choose how many days you need.\n   - \"Redeem code\": if you already have a code (evw88-XXXX-XXXX).\n7) When the bot asks for your HWID — paste the HWID you copied in step 4.\n8) The bot sends you a serial. Copy it.\n9) Back in the tool: License window -> paste the serial -> Activate.\n10) Done — the tool runs.\n\nNeed help? Group: https://t.me/evw88_chat\n\n\n>> FRANCAIS <<\n\nLiens :\n- Bot : https://t.me/evw88_bot\n- Groupe : https://t.me/evw88_chat\n- Canal : https://t.me/evw88_channel\n- Telechargement uTool : [LIEN DE TELECHARGEMENT]\n\n1) Telechargez uTool (utool.rar) depuis le lien ci-dessus.\n2) Extrayez l'archive avec le mot de passe : evw88\n3) Ouvrez le dossier \"last\" extrait et lancez \"unlocktool loader.exe\".\n4) Dans l'outil, ouvrez la fenetre License et copiez votre HWID affiche.\n5) Ouvrez le bot : https://t.me/evw88_bot et appuyez sur Start.\n   L'adhesion au canal est obligatoire : https://t.me/evw88_channel\n6) Dans le menu du bot choisissez une option :\n   - \"Get license\" : partagez votre lien — chaque ami qui rejoint le canal\n     vous donne +1 jour — puis choisissez le nombre de jours.\n   - \"Redeem code\" : si vous avez deja un code (evw88-XXXX-XXXX).\n7) Quand le bot demande votre HWID — collez celui copie a l'etape 4.\n8) Le bot vous envoie un serial. Copiez-le.\n9) Retour dans l'outil : fenetre License -> coller le serial -> Activate.\n10) C'est fait — l'outil fonctionne.\n\nBesoin d'aide ? Groupe : https://t.me/evw88_chat",
-      "downloads": 57,
+      "downloads": 58,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1790849799088,
@@ -2710,7 +2710,7 @@
       ],
       "createdAt": 1791633094256,
       "description": "WorldLink GSM Pro BETA 2026 \n\nWorldLink GSM Pro BETA 2026 Software Details\nSpecification\tDetails\nSoftware Name\tWorldLink GSM Pro\nVersion\tBETA 2026\nLicense\t10-day free activation key generation mentioned in the setup instructions\nSupported Platforms\tSamsung, MediaTek, SPRD / Unisoc, Qualcomm, Google Pixel, Motorola, and Android Utility sections\nActivation\tHardware ID-based key registration\nPackage Format\tRAR archive\nSetup File\tWorldLink GSM Pro_boxed.exe",
-      "downloads": 36,
+      "downloads": 37,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1791633354871,
@@ -2791,7 +2791,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 1740,
+      "downloads": 1746,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -4515,7 +4515,7 @@
       ],
       "createdAt": 1792556966391,
       "description": "Features\nUniversal Brand Support: Works across all Android smartphones (Samsung, LG, Xiaomi, etc.) connected in ADB mode.\nComplete Device Information Reader: Automatically detects and displays Device Model, Brand/Manufacturer, Android Version, Serial Number, Battery Percentage, and Total Storage Capacity.\nScreen Lock Security Status Check: Checks and logs whether the connected device is secured with a PIN, Pattern, or Fingerprint lock.\nLive Remote Folder Browser: Features a built-in interactive folder tree that lets you browse both Internal Storage (\n/sdcard\n) and External SD Cards (\n/storage/extSdCard\n) to select specific folders for extraction.\nCategory-Based Data Extraction: Dedicated options to pull Images/Camera (DCIM, Pictures, MIUI Gallery), Videos, Audio, Documents/Downloads, and Archives.\nSocial Media & Messenger Backup: Extracts media folders from WhatsApp, WhatsApp Business, Telegram, Instagram, and Facebook.\nInstalled APK Extractor: Scans and pulls the\n.apk\ninstallation files of third-party applications installed on the phone.\nSmart ADB Engine: Automatically detects the newest\nadb.exe\non your PC, manages ADB server restarts, and switches USB mode to\nmtp,adb\nfor stable transfers.\nReal-Time Transfer Monitor: Displays live transfer speed (KB/s or MB/s), progress percentage, scanned files count, and color-coded operation logs.",
-      "downloads": 2,
+      "downloads": 5,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1792556966392,
@@ -4639,7 +4639,7 @@
       ],
       "createdAt": 1792588209015,
       "description": "DFT PRO v4.2.1 Offline Cracked [Xiaomi Mediatek]\n+ Added the following models Xiaomi Preloader Auth\n- Redmi 13 (moon) - tested .\n- Redmi A3 (blue) - tested.\n- Redmi 13c (gale) - tested.",
-      "downloads": 30,
+      "downloads": 32,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792588209015,
@@ -7192,7 +7192,7 @@
       ],
       "createdAt": 1792649068969,
       "description": "Ramdisk Functions: Access advanced iOS functions including boot ramdisk, factory resets, passcode backups, and Apple ID recovery.\nJailbreak Compatibility: Supports CheckRa1n and WinRa1n methods for jailbreaking iOS 11-17 versions.\nOTA Blocking: Prevent over-the-air updates to maintain device stability and bypass restrictions efficiently.\nApple ID and iCloud Features: Easily access, read, and manage Apple ID data, hidden iCloud features, and device restrictions.",
-      "downloads": 2,
+      "downloads": 3,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1792649068969,
@@ -7863,7 +7863,7 @@
       ],
       "createdAt": 1792677125446,
       "description": "TSM PRO Cracked BY GsmHeroTeam \n\nYour Purchased Tools\nKeY :: TSM_FREE_BY_GSMHERO_TEAM_FB\nPassword: your Login Password Add",
-      "downloads": 422,
+      "downloads": 431,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792677326729,
@@ -8669,7 +8669,7 @@
       ],
       "createdAt": 1792757589215,
       "description": "PrimeToolX 26 Free",
-      "downloads": 2,
+      "downloads": 3,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1792757589215,
@@ -9155,7 +9155,7 @@
       ],
       "createdAt": 1792759540427,
       "description": "TFT Unlock Tool V6 2 1 1 Fixed Loader Main Features of TFT Unlock Tool\nFRP Remove\nFactory Reset\nBootloader Unlock and Relock\nSamsung KG and Knox Disable\nMTK and Qualcomm Support\nADB Functions\nFastboot Functions\nMTP and Meta Mode Support\nRead Device Information\nReset Passcode\nMiCloud Reset Functions\nSupport for Samsung, Xiaomi, Vivo, Oppo, Huawei, Realme, Tecno, Infinix, and many more brands",
-      "downloads": 2,
+      "downloads": 5,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1792759540427,
@@ -11313,7 +11313,7 @@
       ],
       "createdAt": 1793452465409,
       "description": "Latest release\nUnlockTool 2026.10.31.0\nReleased 31 October 2026 · Windows 7 / 8 / 10 / 11 · account login required\n\nMD5\n203ba012c5b877fe7013d64e78a43986\nCheck your downloaded file against this hash to confirm it has not been tampered with.",
-      "downloads": 106,
+      "downloads": 110,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1793452465409,
@@ -11492,17 +11492,16 @@
       "unrarPassword": ""
     },
     "f_mvz9t56k_xfktw4w4l": {
-      "coverUrl": "https://github.com/gopinqth12/Shelby-portable-Tool-Advanced-MTK-Flashing-Recovery-Utility/blob/main/shelby-banner.png",
+      "coverUrl": "https://gsmyogesh.com/wp-content/uploads/2026/11/image-1-1024x512.png",
       "covers": [
-        "https://github.com/gopinqth12/Shelby-portable-Tool-Advanced-MTK-Flashing-Recovery-Utility/blob/main/shelby-banner.png",
         "https://gsmyogesh.com/wp-content/uploads/2026/11/image-1-1024x512.png"
       ],
       "createdAt": 1793624654972,
       "description": "Shelby Recovery Tool v3.0.1.0 Download for Windows\n🚀 Shelby Recovery Tool V3.0.1.0 Released!\n\n🛠 Shelby Recovery Tool is an open-source Windows utility for MediaTek device flashing and recovery. It supports Preloader and BROM modes and uses the Antumbra backend for flashing operations.\n\n🔥 Features:\n\n✅ MediaTek Preloader & BROM support\n✅ Scatter firmware loading\n✅ Firmware flashing and partition management\n✅ Custom Download Agent selection\n✅ ADB & Fastboot integration\n✅ Device information and connection detection\n✅ Operation logs and process control\n✅ Portable Windows application\n\n⚠️ Note: The tool is still under development. Some devices may not connect properly, and certain functions may not work as expected. Use the correct firmware for your device and back up important data before flashing.\n\n💻 Platform: Windows\n📌 Version: V3.0.1.0\n👨‍💻 Developer: Shelby\n🔓 Status: Open Source",
-      "downloads": 6,
+      "downloads": 8,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
-      "lastModified": 1793625326559,
+      "lastModified": 1793681364852,
       "link": "https://www.mediafire.com/file/lklsbudcewyqje1/Shelby-portable-Tool-Advanced-MTK-Flashing-Recovery-Utility-main.zip/file",
       "links": [
         {
@@ -11658,38 +11657,32 @@
       "unrarPassword": ""
     },
     "f_mw06nps0_73ze8k6xt": {
-      "name": "USB over Ethernet",
-      "folderId": "f_mw05rpo4_vhx0ip0ho",
-      "size": "7mb",
       "coverUrl": "https://www.usb-over-ethernet.com/images/screenshot.gif",
       "covers": [
         "https://www.usb-over-ethernet.com/images/screenshot.gif"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "usb-over-ethernet",
+      "createdAt": 1793679829056,
       "description": "USB over Ethernet Free Download\nhttps://www.usb-over-ethernet.com/",
       "downloads": 0,
-      "link": "https://www.mediafire.com/file/w2sbbkbygfkslp3/USB+over+Ethernet.rar/file",
+      "folderId": "f_mw05rpo4_vhx0ip0ho",
       "isLink": false,
-      "published": true,
+      "lastModified": 1793679829056,
+      "link": "https://www.mediafire.com/file/w2sbbkbygfkslp3/USB+over+Ethernet.rar/file",
       "links": [
         {
           "label": "USB over Ethernet",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/w2sbbkbygfkslp3/USB+over+Ethernet.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/w2sbbkbygfkslp3/USB+over+Ethernet.rar/file"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZsJDSJZptMK7BGSED4Tl4RmXj7dXjWzRifV",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZsJDSJZptMK7BGSED4Tl4RmXj7dXjWzRifV"
             },
             {
-              "url": "https://1024terabox.com/s/1yEk3ZQCa10qTUEqbUu5pkQ",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1yEk3ZQCa10qTUEqbUu5pkQ"
             }
           ]
         },
@@ -11697,14 +11690,68 @@
           "label": "Official Link",
           "urls": [
             {
-              "url": "https://www.usb-over-ethernet.com/",
-              "password": ""
+              "password": "",
+              "url": "https://www.usb-over-ethernet.com/"
             }
           ]
         }
       ],
-      "createdAt": 1793679829056,
-      "lastModified": 1793679829056
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "USB over Ethernet",
+      "password": "",
+      "publishUrl": "usb-over-ethernet",
+      "published": true,
+      "size": "7mb",
+      "unrarPassword": ""
+    },
+    "f_mw0lujnf_r2ddauw7b": {
+      "name": "MotoWork Tool Cracked",
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "size": "20MB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh7_ENVdz9kc15MVLp6WOKP9lP9f6me7nUkVvFcnWU7rjTYo4caQRmNCBOR7afN2y3fZy2N2vVGoQyz42auV90QTiDjpWNsGeEFo6FkZMX9XjvndC4MZovt-p0hVDa4qPRsc77i6BXfd_VJ2irhZB6dnwT1kEOK8rGP3oNoMwNbyoVOX6wso4FuSclOXfP/w640-h358/MotoWork%20Tool%20Cracked%20Download.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh7_ENVdz9kc15MVLp6WOKP9lP9f6me7nUkVvFcnWU7rjTYo4caQRmNCBOR7afN2y3fZy2N2vVGoQyz42auV90QTiDjpWNsGeEFo6FkZMX9XjvndC4MZovt-p0hVDa4qPRsc77i6BXfd_VJ2irhZB6dnwT1kEOK8rGP3oNoMwNbyoVOX6wso4FuSclOXfP/w640-h358/MotoWork%20Tool%20Cracked%20Download.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "gsmyogesh",
+      "loginUsername": "gsmyogesh",
+      "loginPassword": "gsmyogesh",
+      "publishUrl": "motowork-tool-cracked",
+      "description": "MotoWork Tool Cracked Download\n🚀MotoWork Tool – Latest Version Download\n\n🔥 Key Features:\n\n✅ IMEI Repair / Write  \n✅ Network Unlock (NCK)  \n✅ Bootloader Unlock  \n✅ Factory State Permanent Unlock Method  \n✅ Cert Patch Method  \n✅ NV Unlocker Support  \n✅ Read GPT & Partition Management  \n✅ NVDATA / NVRAM / NVCFG Flashing  \n✅ Native XFlash / DA SLA / Carbonara  \n✅ Kamakiri & BROM USB Support  \n✅ Advanced & Listed Models Modes  \n✅ No Recurring Server Credits Per Operation  \n\n📱 Supported Models:\n\n• Moto G05 / G15 / G15 Power  \n• Moto G06 / G06 Power  \n• Moto G17 / G17 Power  \n• Moto G22 / G23  \n• Moto G24 / G24 Power  \n• Moto G13 / E15  \n\n🛠 Two Servicing Methods:\n🔹 Factory State – Network Unlock & IMEI Repair  \n🔹 Cert Patch – Bootloader Unlock & IMEI Repair",
+      "downloads": 0,
+      "link": "https://www.mediafire.com/file/wy6zxfrbxa1uodd/Moto_Work_Tool_GSMSANJOY.rar/file",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "MotoWork Tool File",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/file/wy6zxfrbxa1uodd/Moto_Work_Tool_GSMSANJOY.rar/file",
+              "password": "gsmyogesh"
+            },
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZvSnSJZ5FkibkE9qgh0f2qGMJ8i9Qb5IBHX",
+              "password": "gsmyogesh"
+            },
+            {
+              "url": "https://1024terabox.com/s/11hxFhN7I-zzj88ay21TNVw",
+              "password": "gsmyogesh"
+            },
+            {
+              "url": "https://mega.nz/file/btQiDbbT#sfbzycHLickA8yVVTtXleTGyFPlndVGnwEgbCUZRWXY",
+              "password": "gsmyogesh"
+            },
+            {
+              "url": "https://drive.google.com/file/d/1ph5wIwKALVsqZDm25rzk4KIpFz12Tjg7/view?usp=sharing",
+              "password": "gsmyogesh"
+            }
+          ]
+        }
+      ],
+      "createdAt": 1793705341947,
+      "lastModified": 1793705341947
     }
   },
   "images": {
@@ -11746,7 +11793,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-03T04:43:21.966Z",
+    "createdAt": "2026-11-03T11:29:07.802Z",
     "version": "2.0",
     "sections": 4
   }
