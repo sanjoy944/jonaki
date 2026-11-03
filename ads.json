@@ -975,6 +975,14 @@
       "name": "Download Manager",
       "order": 0,
       "parentId": "f_mp6svh7k_05u4ub0r8"
+    },
+    "f_mw0iwu69_t8hyj5m90": {
+      "name": "iPhone Firmware",
+      "parentId": "f_mq7wdlf9_xzcp43ied",
+      "icon": "",
+      "order": 0,
+      "createdAt": 1793700410049,
+      "lastModified": 1793700410049
     }
   },
   "files": {
@@ -23698,8 +23706,8 @@
           "label": "3uTools V9.12 64bit",
           "urls": [
             {
-              "url": "https://dl.3u.com/update/v900/dl/3uTools_v9.12.005_Setup_x64.exe",
-              "password": ""
+              "password": "",
+              "url": "https://dl.3u.com/update/v900/dl/3uTools_v9.12.005_Setup_x64.exe"
             }
           ]
         },
@@ -23707,8 +23715,8 @@
           "label": "3uTools V9.12 32bit",
           "urls": [
             {
-              "url": "https://dl.3u.com/update/v900/dl/3uTools_v9.12.005_Setup_x86.exe",
-              "password": ""
+              "password": "",
+              "url": "https://dl.3u.com/update/v900/dl/3uTools_v9.12.005_Setup_x86.exe"
             }
           ]
         },
@@ -23716,8 +23724,8 @@
           "label": "3uTools Official",
           "urls": [
             {
-              "url": "https://www.3u.com/",
-              "password": ""
+              "password": "",
+              "url": "https://www.3u.com/"
             }
           ]
         }
@@ -42005,6 +42013,664 @@
     },
     "f_mvz9t56k_xfktw4w4l": {
       "downloads": 20
+    },
+    "f_mw0jafbx_7sh5j8xa1": {
+      "coverUrl": "https://i.ebayimg.com/images/g/RwwAAOSwXvFj7EQf/s-l400.jpg",
+      "covers": [
+        "https://i.ebayimg.com/images/g/RwwAAOSwXvFj7EQf/s-l400.jpg"
+      ],
+      "createdAt": 1793701043997,
+      "description": "iPhone 3GS\tiPhone2,1 iPhone 3GS\tiPhone2,1\t\n6.1.6 (10B500)\n\n784MB\t\tDownload\niPhone 3GS\tiPhone2,1\t\n6.1.3 (10B329)\n784MB\t\tDownload",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793701043997,
+      "link": "http://appldnld.apple.com/iOS6.1/091-3457.20140221.Btt3e/iPhone2,1_6.1.6_10B500_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 3GS\tiPhone2,1\t 6.1.6 (10B500)",
+          "urls": [
+            {
+              "password": "",
+              "url": "http://appldnld.apple.com/iOS6.1/091-3457.20140221.Btt3e/iPhone2,1_6.1.6_10B500_Restore.ipsw"
+            }
+          ]
+        },
+        {
+          "label": "iPhone 3GS\tiPhone2,1\t 6.1.3 (10B329)",
+          "urls": [
+            {
+              "password": "",
+              "url": "http://appldnld.apple.com/iOS6.1/091-2371.20130319.715gt/iPhone2,1_6.1.3_10B329_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 3GS Firmware",
+      "password": "",
+      "publishUrl": "iphone-3gs-firmware",
+      "published": true,
+      "size": "784MB",
+      "unrarPassword": ""
+    },
+    "f_mw0jd4gc_ldt2lt66b": {
+      "coverUrl": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/112004_sp643_iphone4s_color_white.jpg",
+      "covers": [
+        "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/112004_sp643_iphone4s_color_white.jpg"
+      ],
+      "createdAt": 1793701169868,
+      "description": "iPhone 4s\tiPhone4,1\t\n9.3.6 (13G37)\n\n1.50GB\t\tDownload\niPhone 4s\tiPhone4,1\t\n9.3.5 (13G36)\n\n1.50GB\t\tDownload",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793701169868,
+      "link": "http://updates-http.cdn-apple.com/2019/ios/041-80043-20190722-6C65AD27-69D8-499C-BC15-DE7AC74DE2BD/iPhone4,1_9.3.6_13G37_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 4s\tiPhone4,1\t 9.3.6 (13G37)",
+          "urls": [
+            {
+              "password": "",
+              "url": "http://updates-http.cdn-apple.com/2019/ios/041-80043-20190722-6C65AD27-69D8-499C-BC15-DE7AC74DE2BD/iPhone4,1_9.3.6_13G37_Restore.ipsw"
+            }
+          ]
+        },
+        {
+          "label": "iPhone 4s\tiPhone4,1\t 9.3.5 (13G36)",
+          "urls": [
+            {
+              "password": "",
+              "url": "http://appldnld.apple.com/iOS9.3.5/031-73068-20160825-6A2B99DE-6711-11E6-BB8F-133834D2D062/iPhone4,1_9.3.5_13G36_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 4s Firamware 9.3.6",
+      "password": "",
+      "publishUrl": "iphone-4s-firamware-936",
+      "published": true,
+      "size": "1.50GB",
+      "unrarPassword": ""
+    },
+    "f_mw0jhgre_nior0we9t": {
+      "coverUrl": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111973_SP685-color_gold.jpg",
+      "covers": [
+        "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111973_SP685-color_gold.jpg"
+      ],
+      "createdAt": 1793701372442,
+      "description": "iPhone 5s\tiPhone6,2\t\n12.5.8 (16H88)",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793701372442,
+      "link": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 5s\tiPhone6,2\t 12.5.8 (16H88)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 5s Firmware 12.5.8",
+      "password": "",
+      "publishUrl": "iphone-5s-firmware-1258",
+      "published": true,
+      "size": "2.81GB",
+      "unrarPassword": ""
+    },
+    "f_mw0jjlff_s10n837jw": {
+      "coverUrl": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111996_SP727-iphone6s-plus-rosegold-select-2015.png",
+      "covers": [
+        "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111996_SP727-iphone6s-plus-rosegold-select-2015.png"
+      ],
+      "createdAt": 1793701471803,
+      "description": "iPhone 6s Plus\tiPhone8,2\t\n15.8.8 (19H422)\n5.05GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793701471803,
+      "link": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77536/9EE30DC1-EC4B-47CE-A002-24CD6B18947D/iPhone_5.5_15.8.8_19H422_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 6s Plus  iPhone8,2 15.8.8 (19H422)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77536/9EE30DC1-EC4B-47CE-A002-24CD6B18947D/iPhone_5.5_15.8.8_19H422_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 6s Plus Firmware 15.8.8",
+      "password": "",
+      "publishUrl": "iphone-6s-plus-firmware-1588",
+      "published": true,
+      "size": "5.05GB",
+      "unrarPassword": ""
+    },
+    "f_mw0jmkrc_tn6terk31": {
+      "coverUrl": "https://cdn.bdstall.com/product-image/giant_108592.jpg",
+      "covers": [
+        "https://cdn.bdstall.com/product-image/giant_108592.jpg"
+      ],
+      "createdAt": 1793701610904,
+      "description": "iPhone 7 Plus\tiPhone9,4\t\n15.8.8 (19H422)\n\n5.17GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793701625352,
+      "link": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77525/29E86E57-1478-4ABD-BF2F-3CA41EF1CB7E/iPhone_5.5_P3_15.8.8_19H422_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 7 Plus\tiPhone9,4 15.8.8 (19H422)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77525/29E86E57-1478-4ABD-BF2F-3CA41EF1CB7E/iPhone_5.5_P3_15.8.8_19H422_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 7 Plus Firmware 15.8.8",
+      "password": "",
+      "publishUrl": "iphone-7-plus-firmware",
+      "published": true,
+      "size": "5.17GB",
+      "unrarPassword": ""
+    },
+    "f_mw0jq2zz_chyk5q15b": {
+      "coverUrl": "https://www.apple.com/newsroom/images/product/iphone/standard/iPhone8Plus_color_selection_inline.jpg.large.jpg",
+      "covers": [
+        "https://www.apple.com/newsroom/images/product/iphone/standard/iPhone8Plus_color_selection_inline.jpg.large.jpg"
+      ],
+      "createdAt": 1793701774511,
+      "description": "iPhone 8 Plus\tiPhone10,5\t\n16.7.16 (20H392) 5.74GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793701878480,
+      "link": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-76738/B6C604B4-548E-401F-BBFF-916E3FFDF235/iPhone_5.5_P3_16.7.16_20H392_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 8 Plus\tiPhone10,5  16.7.16",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-76738/B6C604B4-548E-401F-BBFF-916E3FFDF235/iPhone_5.5_P3_16.7.16_20H392_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 8 Plus Firmware 16.7.16",
+      "password": "",
+      "publishUrl": "iphone-8-plus-firmware-16716",
+      "published": true,
+      "size": "5.74GB",
+      "unrarPassword": ""
+    },
+    "f_mw0js1zr_pudjobcul": {
+      "coverUrl": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg",
+      "covers": [
+        "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg"
+      ],
+      "createdAt": 1793701866519,
+      "description": "iPhone XS Max\tiPhone11,6\t\n18.7.11 (22H384)\n\n8.24GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793701900582,
+      "link": "https://updates.cdn-apple.com/2026WinterFCS/81ee8c78-5e14-4c22-ba1b-27c9270911b6/iPhone11,2,iPhone11,4,iPhone11,6_18.7.11_22H384_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone XS Max Firmware 18.7.11",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026WinterFCS/81ee8c78-5e14-4c22-ba1b-27c9270911b6/iPhone11,2,iPhone11,4,iPhone11,6_18.7.11_22H384_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone XS Max Firmware 18.7.11",
+      "password": "",
+      "publishUrl": "iphone-xs-max-firmware-18711",
+      "published": true,
+      "size": "8.24GB",
+      "unrarPassword": ""
+    },
+    "f_mw0jubsd_hjhwlv1k9": {
+      "coverUrl": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111866_sp867-iphone-se-3gen.png",
+      "covers": [
+        "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111866_sp867-iphone-se-3gen.png"
+      ],
+      "createdAt": 1793701972525,
+      "description": "iPhone SE 3\tiPhone14,6\t\n27.2 (24B119)\n\n10.34GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793701972525,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/57f5b9d2-d7e3-4458-a03e-a2ea5aa40a19/iPhone14,6_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone SE 3\tiPhone14,6  27.2 (24B119)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/57f5b9d2-d7e3-4458-a03e-a2ea5aa40a19/iPhone14,6_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone SE 3 Firmware 27.2",
+      "password": "",
+      "publishUrl": "iphone-se-3-firmware-272",
+      "published": true,
+      "size": "10.34GB",
+      "unrarPassword": ""
+    },
+    "f_mw0jw9p9_hzl5c2x5i": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRU2cYMWMjVESkvxPAywCGxnwQhumFN_VNKpY4D9ok_cuBJqP6dhxhZDx&s=10",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRU2cYMWMjVESkvxPAywCGxnwQhumFN_VNKpY4D9ok_cuBJqP6dhxhZDx&s=10"
+      ],
+      "createdAt": 1793702063133,
+      "description": "iPhone 11 Pro Max\tiPhone12,5\t\n27.2 (24B119)\n\n10.40GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702063133,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/ec50683b-998e-4e91-9326-d902cfd5f7f9/iPhone12,3,iPhone12,5_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 11 Pro Max Firmware 27.2",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/ec50683b-998e-4e91-9326-d902cfd5f7f9/iPhone12,3,iPhone12,5_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 11 Pro Max Firmware 27.2",
+      "password": "",
+      "publishUrl": "iphone-11-pro-max-firmware-272",
+      "published": true,
+      "size": "10.40GB",
+      "unrarPassword": ""
+    },
+    "f_mw0jy470_5v4u8867l": {
+      "coverUrl": "https://www.apple.com/newsroom/images/product/availability/geo/Apple_iphone12mini-iphone12max-homepodmini-availability_iphone12promax-geo_110520_inline.jpg.large.jpg",
+      "covers": [
+        "https://www.apple.com/newsroom/images/product/availability/geo/Apple_iphone12mini-iphone12max-homepodmini-availability_iphone12promax-geo_110520_inline.jpg.large.jpg"
+      ],
+      "createdAt": 1793702149308,
+      "description": "iPhone 12 Pro Max\tiPhone13,4\t\n27.2 (24B119)",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702149308,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/7940f088-6006-4815-8b8b-ef2fd2f0f4cc/iPhone13,4_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 12 Pro Max\tiPhone13,4\t27.2",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/7940f088-6006-4815-8b8b-ef2fd2f0f4cc/iPhone13,4_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 12 Pro Max Firmware 27.2",
+      "password": "",
+      "publishUrl": "iphone-12-pro-max-firmware-272",
+      "published": true,
+      "size": "10.68GB",
+      "unrarPassword": ""
+    },
+    "f_mw0jzvaj_g9ykmrarv": {
+      "coverUrl": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_Colors_09142021_big.jpg.large.jpg",
+      "covers": [
+        "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_Colors_09142021_big.jpg.large.jpg"
+      ],
+      "createdAt": 1793702231083,
+      "description": "iPhone 13 Pro Max\tiPhone14,3\t\n27.2 (24B119)",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702231083,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/59db57ab-bf39-4722-ae2c-930079835914/iPhone14,3_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 13 Pro Max\tiPhone14,3 27.2 (24B119",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/59db57ab-bf39-4722-ae2c-930079835914/iPhone14,3_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 13 Pro Max Firmware 27.2",
+      "password": "",
+      "publishUrl": "iphone-13-pro-max-firmware-272",
+      "published": true,
+      "size": "10.76GB",
+      "unrarPassword": ""
+    },
+    "f_mw0k288q_xm7r41qkz": {
+      "coverUrl": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111846_sp875-sp876-iphone14-pro-promax.png",
+      "covers": [
+        "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111846_sp875-sp876-iphone14-pro-promax.png"
+      ],
+      "createdAt": 1793702341178,
+      "description": "iPhone 14 Pro Max iPhone15,3 27.2 (24B119) 10.78GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702341178,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/d3fbbcde-32ef-4def-8d18-bcabbbdd01b3/iPhone15,3_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 14 Pro Max iPhone15,3 27.2 (24B119)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/d3fbbcde-32ef-4def-8d18-bcabbbdd01b3/iPhone15,3_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 14 Pro Max Firmware 27.2",
+      "password": "",
+      "publishUrl": "iphone-14-pro-max-firmware-272",
+      "published": true,
+      "size": "10.78GB",
+      "unrarPassword": ""
+    },
+    "f_mw0k5fbm_pcce42tbw": {
+      "coverUrl": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-15-pro-max.png",
+      "covers": [
+        "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-15-pro-max.png"
+      ],
+      "createdAt": 1793702490322,
+      "description": "iPhone 15 Pro Max iPhone16,2 27.2 (24B119)",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702490322,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/dcf3b441-e473-4c28-a936-99d6af8c60a2/iPhone16,2_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 15 Pro Max iPhone16,2 27.2 (24B119)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/dcf3b441-e473-4c28-a936-99d6af8c60a2/iPhone16,2_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 15 Pro Max Firmware 27.2",
+      "password": "",
+      "publishUrl": "iphone-15-pro-max-firmware-272",
+      "published": true,
+      "size": "11.71GB",
+      "unrarPassword": ""
+    },
+    "f_mw0k7gkq_k23upkfyt": {
+      "coverUrl": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large.jpg",
+      "covers": [
+        "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large.jpg"
+      ],
+      "createdAt": 1793702585258,
+      "description": "iPhone 16 Pro Max iPhone17,2 27.2 (24B119) 12.10GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702585258,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/3a256522-d649-403a-8ec5-b6fbcb940cbe/iPhone17,2_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 16 Pro Max iPhone17,2 27.2 (24B119",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/3a256522-d649-403a-8ec5-b6fbcb940cbe/iPhone17,2_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 16 Pro Max Firmware",
+      "password": "",
+      "publishUrl": "iphone-16-pro-max-firmware",
+      "published": true,
+      "size": "12.10GB",
+      "unrarPassword": ""
+    },
+    "f_mw0k990n_43l9ubq3v": {
+      "coverUrl": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-17-pro-17-pro-max-hero.png",
+      "covers": [
+        "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-17-pro-17-pro-max-hero.png"
+      ],
+      "createdAt": 1793702668775,
+      "description": "iPhone 17 Pro Max iPhone18,2 27.2 (24B119)",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702668775,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/82995481-b196-4d33-bd11-97788acc1d53/iPhone18,2_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 17 Pro Max iPhone18,2 27.2 (24B119)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/82995481-b196-4d33-bd11-97788acc1d53/iPhone18,2_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 17 Pro Max Firmware",
+      "password": "",
+      "publishUrl": "iphone-17-pro-max-firmware",
+      "published": true,
+      "size": "12.25GB",
+      "unrarPassword": ""
+    },
+    "f_mw0kb7ve_d2n1wrda1": {
+      "coverUrl": "https://www.apple.com/v/iphone-17-pro/c/images/overview/welcome/hero__bdntboqignj6_xlarge.jpg",
+      "covers": [
+        "https://www.apple.com/v/iphone-17-pro/c/images/overview/welcome/hero__bdntboqignj6_xlarge.jpg"
+      ],
+      "createdAt": 1793702760602,
+      "description": "iPhone 17 Pro iPhone18,1 27.2 (24B119)\n\n12.27GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702760602,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/f7e03864-9d1c-4854-8f15-440ee15f9114/iPhone18,1_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 17 Pro iPhone18,1 27.2 (24B119)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/f7e03864-9d1c-4854-8f15-440ee15f9114/iPhone18,1_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 17 Pro Firmware",
+      "password": "",
+      "publishUrl": "iphone-17-pro-firmware",
+      "published": true,
+      "size": "12.27GB",
+      "unrarPassword": ""
+    },
+    "f_mw0kcury_bd0yvdn2e": {
+      "coverUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/iphone-air-sky-light-gold-8615.png",
+      "covers": [
+        "https://adminapi.applegadgetsbd.com/storage/media/large/iphone-air-sky-light-gold-8615.png"
+      ],
+      "createdAt": 1793702836942,
+      "description": "iPhone Air iPhone18,4 27.2 (24B119)\n\n11.94GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702836942,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/9d7e9bfa-4de2-4654-8f87-c63c26c7cf03/iPhone18,4_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone Air iPhone18,4 27.2 (24B119)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/9d7e9bfa-4de2-4654-8f87-c63c26c7cf03/iPhone18,4_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone Air Firmware",
+      "password": "",
+      "publishUrl": "iphone-air-firmware",
+      "published": true,
+      "size": "11.94GB",
+      "unrarPassword": ""
+    },
+    "f_mw0ketd2_uoo9tamzf": {
+      "coverUrl": "https://www.apple.com/newsroom/images/2025/09/apple-debuts-iphone-17/tile/Apple-iPhone-17-hero-250909-lp.jpg.news_app_ed.jpg",
+      "covers": [
+        "https://www.apple.com/newsroom/images/2025/09/apple-debuts-iphone-17/tile/Apple-iPhone-17-hero-250909-lp.jpg.news_app_ed.jpg"
+      ],
+      "createdAt": 1793702928422,
+      "description": "iPhone 17 iPhone18,3 27.2 (24B119) 12.17GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793702928422,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/fd6e15e5-2710-4a00-821d-215fdcf1af95/iPhone18,3_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 17 iPhone18,3 27.2 (24B119)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/fd6e15e5-2710-4a00-821d-215fdcf1af95/iPhone18,3_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 17 Firmware",
+      "password": "",
+      "publishUrl": "iphone-17-firmware",
+      "published": true,
+      "size": "12.17GB",
+      "unrarPassword": ""
+    },
+    "f_mw0kgd9p_4d2s8bm85": {
+      "coverUrl": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/Apple-iPhone-18-Pro-color-lineup-260909_big.jpg.large.jpg",
+      "covers": [
+        "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/Apple-iPhone-18-Pro-color-lineup-260909_big.jpg.large.jpg"
+      ],
+      "createdAt": 1793703000877,
+      "description": "iPhone 18 Pro iPhone19,2 27.2 (24B119) 12.78GB",
+      "downloads": 0,
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "isLink": false,
+      "lastModified": 1793703000877,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/fdde63b6-6de4-4199-a5d4-7ba4e46b758e/iPhone19,2,iPhone19,3,iPhone19,7_27.2_24B119_Restore.ipsw",
+      "links": [
+        {
+          "label": "iPhone 18 Pro iPhone19,2 27.2 (24B119)",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://updates.cdn-apple.com/2026FallFCS/fdde63b6-6de4-4199-a5d4-7ba4e46b758e/iPhone19,2,iPhone19,3,iPhone19,7_27.2_24B119_Restore.ipsw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "iPhone 18 Pro Firmware",
+      "password": "",
+      "publishUrl": "iphone-18-pro-firmware",
+      "published": true,
+      "size": "12.78GB",
+      "unrarPassword": ""
+    },
+    "f_mw0ki2li_gtksamwbp": {
+      "name": "iPhone 18 Pro Max Firmware",
+      "folderId": "f_mw0iwu69_t8hyj5m90",
+      "size": "12.78GB",
+      "coverUrl": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-18-pro-max.png",
+      "covers": [
+        "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-18-pro-max.png"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "iphone-18-pro-max-firmware",
+      "description": "iPhone 18 Pro Max iPhone19,7 27.2 (24B119) 12.78GB",
+      "downloads": 0,
+      "link": "https://updates.cdn-apple.com/2026FallFCS/fdde63b6-6de4-4199-a5d4-7ba4e46b758e/iPhone19,2,iPhone19,3,iPhone19,7_27.2_24B119_Restore.ipsw",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "iPhone 18 Pro Max iPhone19,7 27.2 (24B119)",
+          "urls": [
+            {
+              "url": "https://updates.cdn-apple.com/2026FallFCS/fdde63b6-6de4-4199-a5d4-7ba4e46b758e/iPhone19,2,iPhone19,3,iPhone19,7_27.2_24B119_Restore.ipsw",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1793703080358,
+      "lastModified": 1793703080358
     }
   },
   "images": {
@@ -52208,7 +52874,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-03T09:55:15.049Z",
+    "createdAt": "2026-11-03T10:51:55.940Z",
     "version": "2.0",
     "sections": 4
   }
