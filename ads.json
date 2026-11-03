@@ -23687,19 +23687,37 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfGceHe-Vy24OkaJ2Ckh_BOjMuXIaiD-eFIavtoNwABV8qhogD5lI58CfQWZt-Sf0XDiQjzGwCOHeq8apY_V49QLOw8qBMRQPPwOXAxyggNx3ejFQi-2crj68y2M9H_mtga89khgXWjYtuV9QREZ2TCmi14hVyD0jz1qul2BznrGtZDRriKM0SlI9V96w/w400-h294/3uTools%20Apple%20iPad%20Tool%20Update%20Free%20Download.jpg"
       ],
       "createdAt": 1781526392922,
-      "description": "",
+      "description": "3uTools\nWin 64-bit For this device\nV9.12 2026-10-23\nDownload\nWin 32-bit\nV9.12 2026-10-23\nDownload",
       "downloads": 0,
       "folderId": "f_mpphzpaq_kkd8xpdsf",
       "isLink": false,
-      "lastModified": 1781526392922,
-      "link": "https://3utools.org/3utools-download/",
+      "lastModified": 1793699703720,
+      "link": "https://dl.3u.com/update/v900/dl/3uTools_v9.12.005_Setup_x64.exe",
       "links": [
         {
-          "label": "3uTools",
+          "label": "3uTools V9.12 64bit",
           "urls": [
             {
-              "password": "",
-              "url": "https://3utools.org/3utools-download/"
+              "url": "https://dl.3u.com/update/v900/dl/3uTools_v9.12.005_Setup_x64.exe",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "3uTools V9.12 32bit",
+          "urls": [
+            {
+              "url": "https://dl.3u.com/update/v900/dl/3uTools_v9.12.005_Setup_x86.exe",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "3uTools Official",
+          "urls": [
+            {
+              "url": "https://www.3u.com/",
+              "password": ""
             }
           ]
         }
@@ -27458,8 +27476,8 @@
           "label": "dump by hot 60i x6728 easyjtag.rar",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1FkOPpsO_EFc0HN5W87xtTNvQ1M7h8Qfi/view",
-              "password": ""
+              "password": "",
+              "url": "https://drive.google.com/file/d/1FkOPpsO_EFc0HN5W87xtTNvQ1M7h8Qfi/view"
             }
           ]
         },
@@ -27467,8 +27485,8 @@
           "label": "nfinix Hot 60i X6278 Dump XML 128GB",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/b5suicxkr121pm2/(therxtx.com)+Infinix+Hot+60i+(X6728)+Dump+File.rar/file?action=check",
-              "password": "jani1306"
+              "password": "jani1306",
+              "url": "https://www.mediafire.com/file/b5suicxkr121pm2/(therxtx.com)+Infinix+Hot+60i+(X6728)+Dump+File.rar/file?action=check"
             }
           ]
         }
@@ -37894,7 +37912,7 @@
       ],
       "createdAt": 1786245172812,
       "description": "Features OnePlus Rollback Firmware Downloader\nAutomatic Connection Fix: Fixes official server connection issues in the background without exposing manual system tweaks.\nDirect Firmware Downloader: Paste official OxygenOS rollback URLs to start downloading immediately.\nDownload Control Options: Full support to pause, resume, or cancel active downloads at any time.\nLive Speed & Progress Metrics: Displays real-time download speed, remaining time (ETA), and progress percentage.\nAuto Folder & File Formatting: Automatically organizes downloaded packages into specific device folders and renames them to oplus_ota_downgrade.zip.\nBuilt-in ADB Suite: Check connected ADB devices, copy downloaded firmware directly to phone storage root (/sdcard/), and reboot into the bootloader with a single click.\nBuilt-in Fastboot Controls: Verify fastboot device connections, initiate bootloader unlocking, flash custom boot or recovery images, and reboot to system.\nClean Background Exit: Automatically cleans up network parameters upon closing the program to keep your PC system clean.",
-      "downloads": 32,
+      "downloads": 33,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1786245172812,
@@ -41818,7 +41836,7 @@
       "unrarPassword": ""
     },
     "f_mujnuufr_fw3xqy3wo": {
-      "downloads": 337
+      "downloads": 338
     },
     "f_mujobdrp_a0kyiu1lb": {
       "downloads": 3
@@ -41860,25 +41878,28 @@
       "downloads": 32
     },
     "f_mv2c333k_1ws1e66ie": {
-      "downloads": 59
+      "downloads": 64
     },
     "f_mv3dcoz6_i03tm1vaa": {
       "downloads": 2
     },
     "f_mv3r6nkm_u52chybal": {
-      "downloads": 104
+      "downloads": 108
     },
     "f_mv564k9r_uknv98y4h": {
       "downloads": 1
     },
     "f_mv8wncbz_tehw8fstb": {
-      "downloads": 25
+      "downloads": 27
     },
     "f_mv9192f2_7o3isekd8": {
       "downloads": 8
     },
     "f_mvd71f53_y34ovg05n": {
       "downloads": 34
+    },
+    "f_mveosnz9_7cxbuzy85": {
+      "downloads": 10
     },
     "f_mvepxf8a_zhqof0xre": {
       "downloads": 3
@@ -41893,7 +41914,7 @@
       "downloads": 7
     },
     "f_mvhym171_flcivu4zb": {
-      "downloads": 161
+      "downloads": 162
     },
     "f_mvi47wxt_k1p1tge36": {
       "downloads": 1
@@ -41907,8 +41928,11 @@
     "f_mviwhnjo_d0yapvnyz": {
       "downloads": 1
     },
+    "f_mvizmr9q_x6f051qv2": {
+      "downloads": 1
+    },
     "f_mvj09lq0_8ae71vel3": {
-      "downloads": 4
+      "downloads": 6
     },
     "f_mvj0t50k_herbll7ev": {
       "downloads": 2
@@ -41926,10 +41950,10 @@
       "downloads": 2
     },
     "f_mvjloapy_ifzqjp095": {
-      "downloads": 184
+      "downloads": 185
     },
     "f_mvkdwhpe_jlhlec3mr": {
-      "downloads": 65
+      "downloads": 66
     },
     "f_mvkww5vj_gm547z2sn": {
       "downloads": 1
@@ -41956,13 +41980,13 @@
       "downloads": 3
     },
     "f_mvnqenq6_3rmli8keb": {
-      "downloads": 99
+      "downloads": 105
     },
     "f_mvolgw3b_wpag2igpx": {
       "downloads": 4
     },
     "f_mvq8bigo_e0mankztn": {
-      "downloads": 74
+      "downloads": 90
     },
     "f_mvsya0sa_14wnkmo2l": {
       "downloads": 1
@@ -41975,6 +41999,12 @@
     },
     "f_mvwb8f4q_wp1n8jvkn": {
       "downloads": 9
+    },
+    "f_mvypi8kq_brb0hmrb8": {
+      "downloads": 1
+    },
+    "f_mvz9t56k_xfktw4w4l": {
+      "downloads": 20
     }
   },
   "images": {
@@ -52178,7 +52208,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-02T04:29:44.832Z",
+    "createdAt": "2026-11-03T09:55:15.049Z",
     "version": "2.0",
     "sections": 4
   }
