@@ -1820,7 +1820,7 @@
       ],
       "createdAt": 1790504007831,
       "description": "DarsUnlocker Bypass Loader  Step-by-Step: How to Install and Run Everything\nremoved VPN restriction\nremoved no server could not be reached\ndon't update if you have no error\nStep 1 – Install DarsUnlocker\nI right-clicked the DarsUnlocker setup installer and chose Run as administrator. This is not optional. If you don’t run it as admin, the loader will not be able to bind to the ports it needs.\n\nThe setup wizard opens. I clicked Next through each screen. There’s an option for Create a desktop icon — I kept that checked because it’s easier to launch later. Then I clicked Install and waited for it to finish.\n\nWhen it was done, I clicked Finish. The installer also opened the app for me, which was convenient.Step 2 – Let DarsUnlocker Loader Initialize\nOnce the loader opens, it starts working right away. I saw a small splash window appear. It checked my online connection status first, then began unpacking its internal data.\n\nIf a support message pops up with Telegram links, just click Ok to dismiss it. It’s normal.\n\nBehind the scenes, the loader was doing a few things at this point:\n\nChecking the clock and syncing time\nUnpacking the encrypted data file\nGetting ready to patch memory when UNLOCKTOOL starts\nI just waited for the loader to settle. You’ll know it’s ready when the splash window shows a status like “Ready” or “Waiting for login.”\n\nStep 3 – Set Process Priority in Task Manager\nThis step matters more than people realize. Without setting the priority, the loader sometimes doesn’t hook properly and UNLOCKTOOL may not log in.\n\nHere’s what I did:\n\nI right-clicked the Windows Taskbar and opened Task Manager. Then I clicked on the Details tab. I looked for DarsUnlocker.exe in the list, right-clicked it, and chose Set priority. I selected High (you can also pick Above Normal).\n\nWindows asked me to confirm the change. I clicked Yes.\n\nI did the same thing for UNLOCKTOOL.exe once it was running, just to be consistent.\n\nStep 4 – Log In to UNLOCKTOOL\nNow the interesting part. I opened UNLOCKTOOL and let it load. On the login screen, I looked back at the DarsUnlocker window.\n\nThe loader showed me the generated login details:\n\nUsername: aminebazouka (or whatever your loader shows)\nPassword: any password you want\nI typed that username into UNLOCKTOOL. For the password, I typed anything — literally any random text. Then I clicked Login.\n\nWhen the disclaimer window appeared, I clicked Agree.\n\nThat’s it. UNLOCKTOOL loaded its main dashboard and I was in.\n\nStep 5 – Start Servicing Devices\nOnce logged in, the tool is fully usable. You’ll see the main dashboard with all the brand tabs at the top or side. Just pick your target brand and start working.",
-      "downloads": 252,
+      "downloads": 253,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793010803220,
@@ -2598,7 +2598,7 @@
       ],
       "createdAt": 1791514105333,
       "description": "EFT PRO CraCked Limit Free Download and Test Now.\n\nLOGIN INFO :: \nFirst of all signup here with your gmail account.\nThen download launcher 0.3.exe\nRun launcher as admin\nClick on start and then run eft pro exe.\nIt will show wrong email and password.\nEnter your own gmail address to eft pro and password type randomly.\nEnjoy",
-      "downloads": 89,
+      "downloads": 94,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1791520677938,
@@ -2750,7 +2750,7 @@
       ],
       "createdAt": 1791695688306,
       "description": "A.N TOOL v4.6 CraAckD Free A.N.TOOL v4.6 Latest Version Download (Free Login)  Features of A.N.TOOL v4.6\n1. Qualcomm\nMode Selection: MODEL, Loader, Auto\nBrand and Model Selection\nAGM Brand and A9 Model Example\nTools\nReset FRP + Factory Reset\nRemove MI Account\nBackup Firmware\nRestore Backup\nDump Security Partitions\nFlash Operations\nSelect All\nDeselect All\nFlash\nErase\n2. FRP-MTP\nMTP OPEN TOOL\nENABLE ADB CODE\nSupported Brands: Huawei, Xiaomi, Vivo, Oppo, Infinix, Tecno, Alcatel, Lenovo, Sony, Motorola, Honor, OnePlus, BlackBerry\nReset FRP [ADB]\nOpen Chrome\nOpen YouTube\nOpen Google Maps\n3. Xiaomi\nRecovery 5.0\nReset FRP [MediaTek-Qualcomm]\nBypass Mi Account [Qualcomm]\nWriting Partition (Enter Name Partition)\nReset EFS [Fix NV Data Is Corrupted] [Qualcomm]\nFactory Reset\nRead Info\nReboot System\n4. ADB\nGeneric\n\nXiaomi Enable Diag [No Root]\nBypass [FRP]\nRead Info\nRead Partition Table List\nCheck Root State\nGet Battery State\nRemove ADS\nFactory Reset [Old Android]\nFix Wireless Test Assistant [real…]\nArabic Language Tools\n\nADDING THE ARABIC LANGUAGE (ADB)\nADDING ARABIC Keyboard (ADB)\n\nHow to Install A.N.TOOL v4.6\nExtract the A.N.TOOL V4.6 2026-07-08.exe package into a new folder.\nCopy BIBO CRACK V4.6.exe into the extracted A.N.TOOL folder.\nBefore running the loader or installing a certificate, verify the source and inspect the files. Do not trust an unknown certificate or executable.\nOpen the extracted folder and launch A.N.TOOL.exe.\nThe supplied instructions also mention running the BIBO CRACK loader and entering the credentials provided with the package. These credentials and the loader have not been independently verified.\nInspect cleanup_Run_as_admin_after_run_loader_.bat before running it. A batch file launched as administrator can make system-level changes.",
-      "downloads": 13,
+      "downloads": 14,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1791695909984,
@@ -2791,7 +2791,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 1821,
+      "downloads": 1822,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -3492,7 +3492,7 @@
       ],
       "createdAt": 1792381264658,
       "description": "Haafedk iCloud A12+ V15 Free CRACK Download (No Login Required)\nHaafedk iCloud A12+ V15 Features\nDevice Information\nBefore using other options, the tool includes a Read Device function. According to the provided feature list, it can show several device details.\n\nRead Device: Reads the connected device information.\nSerial Number: Displays the device serial number.\nECID: Shows the ECID information.\nIMEI: Displays the IMEI.\nUDID: Shows the UDID.\nMode: Displays the current device mode.\niOS Version: Shows the installed iOS version.\nProduct Type: Displays the device product type.\nBuild: Shows the build information.\nJailbreak Status: Displays the jailbreak status.\nActivation Status: Shows the activation status.\nRegion: Displays the device region.\nBypass Options\nThe V15 feature list includes several Hello Bypass and MDM bypass options. The requirements mentioned with each option should be checked before trying to use them.\n\nHello Bypass A12/A13: Listed for A12 and A13 devices.\nHello Bypass 4S – 17 Pro Max: This option is listed as requiring WiFi.\nHello Bypass iPhone – iPad: Listed with a jailbreak requirement.\nHello Bypass iOS 12 – 14: Also listed as requiring jailbreak access.\nBypass MDM Old: An option for the old MDM bypass method.\nBypass MDM New: An option for the new MDM bypass method.\nDevice Operations\nA few device-related operations are also included in the provided list.Read Device: Used to read device details.\nFix Drivers: An option related to drivers.\nWin Test Mode: A Windows Test Mode option.\nPatcher Settings\nThe patcher section includes three listed options.\n\nAdd MobileGestalt: An option for adding MobileGestalt.\nSupported Devices: Lets you check the listed supported devices section.\nChange Serial: An option related to changing the serial.\nOther Bypass Settings\nThere are also a few toggle-style options in the feature list.\n\nBlock OTA: An option related to blocking OTA.\nSkip Setup: An option for skipping setup.\nDisable Factory Reset: An option related to disabling factory reset.\nIncluded Tools\nThe software also lists two extra tools.\n\nDevice Manager: Opens the Device Manager tool.\nWinRa1n Jailbreak Tool: The WinRa1n Jailbreak Tool is included in the listed tools section.\niCloud Tools\nTwo iCloud-related options are mentioned in the V15 feature list.\n\nFix iCloud Login: An option related to fixing iCloud login.\nEnable Factory Reset: An option for enabling factory reset.\nInstallation Steps\nExtract the downloaded setup archive to a folder on your computer.\nOpen the extracted folder and run the setup file, such as HAAFEDK_A12_SETUP.exe.\nIf Windows Defender SmartScreen stops the application from opening, select More info and then choose Run anyway.\nContinue through the setup wizard and select the installation folder. The provided instructions mention C:\\Haafedk-iCloud-a12 as the usual default location.\nIf you want a shortcut on your desktop, select the option for creating one.\nClick Install and wait for the setup process to finish.\nWindows Defender may flag the software during installation. The provided instructions say that installation can be interrupted in this situation.\nIf you choose to change Windows Security settings, do so carefully. Temporarily disabling protections can create security risks, so this should only be considered when you fully trust the software source.\nAfter installation is complete, close the setup wizard.\nOpen the installation folder or use the desktop shortcut to start Haafedk A12.exe.\nThe provided instructions mention a cracked login button at the login screen for bypassing the credentials and opening the main dashboard.\nDownload Haafedk iCloud A12+ V15\nThe available information identifies this version as V15. Before downloading or installing any software, make sure you trust the source and understand the security risks mentioned in the installation instructions.",
-      "downloads": 12,
+      "downloads": 18,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1792381264658,
@@ -4483,7 +4483,7 @@
       ],
       "createdAt": 1792556450710,
       "description": "iFixTool 2.0 for Mac and Windows Download .iFixTool 2.0 Features\nSeparate versions for Mac and Windows\nSupport for listed iOS versions from 15.0 to 18.7.2\nOfficial iOS 26 and 26.1 support listed\niOS 14 to 15 support on Mac tools only\niPhone SE 2 support on Mac tools only\nCH/A device instructions for Mac and Windows users\nSome newer iOS versions are not supported\niFixTool 2.0 Supported iOS Versions\niOS 15.0 to 18.7.2\niOS 26 to 26.1 (official versions)\niOS 14 to 15 on Mac tools only\niPhone SE 2 support on Mac tools only\nUnsupported iOS Versions\nBeta versions are not supported.\nA12 and newer devices are listed as unsupported on iOS 18.7.3 to 18.7.7.\niOS 26.2 to 26.4.1 is not supported according to the supplied update information.\niFixTool 2.0 Download Links",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1792556450710,
@@ -4559,7 +4559,7 @@
       ],
       "createdAt": 1792577922446,
       "description": "UnlockTool is a mobile servicing software interface with tools organized by phone brand, chipset platform, and connection mode. The supplied feature reference includes Xiaomi, Samsung, Huawei, Oppo, Vivo, Meizu, Tecno, Asus, LG, Nokia, Lenovo, Qualcomm Snapdragon, MediaTek, Apple, Infinix, and Spreadtrum (SPD/Unisoc).\n\nHow to Install\nThe installation notes provided for this article say that the package is distributed as a 7z archive through a Google Drive download link. Extract the archive first, then locate the setup file inside the extracted folder.\n\nDownload the 7z package from the source you trust.\nExtract the archive with a compatible archive utility.\nOpen the extracted folder and run the setup file.\nFollow the installation wizard and select Next when prompted. Installation may take some time, so wait for it to finish.\nWhen setup is complete, launch the program.\nUse the login method provided by the official software provider. If credentials are prefilled in your legitimate package, check that they are authorized for your use before continuing.",
-      "downloads": 252,
+      "downloads": 253,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792579475778,
@@ -7863,7 +7863,7 @@
       ],
       "createdAt": 1792677125446,
       "description": "TSM PRO Cracked BY GsmHeroTeam \n\nYour Purchased Tools\nKeY :: TSM_FREE_BY_GSMHERO_TEAM_FB\nPassword: your Login Password Add",
-      "downloads": 457,
+      "downloads": 458,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792677326729,
@@ -8907,7 +8907,7 @@
       ],
       "createdAt": 1792758032979,
       "description": "KS Tool V3.0 Tool Free  \nFeatures KS Tool :\nQualcomm:\nSelect All Partition\nAuto Reboot\nErase FRP\nInformation/NV Backup\nMi Account Bypass\n\n\n1 Click Mode:\nNetwork (NV backup, restore, erase)\nUFS Tool (Avatar Auth Tool Background Running)\nAuth Skip\n\n\nUser Lock:\n(9008 - Factory Reset, Fastboot - Factory Reset, SideLoad - Factory Reset)\nMethod 1 - By Recovery\nMethod 2 - Write File\nMethod 3 - Factory Reset Erase FRP:\n(9008 - Erase FRP, Fastboot - Erase FRP, SideLoad - Erase FRP)\nMethod 1 & Method 2\nSamsung FRP [only]\n\n\n⏬ Download Latest KS Tool V3.0 Here ⏬\nGoogle Drive Dropbox Link Terabox Link\nMi Account:\n(9008 Disable Mi Account [New], 9008 Disable Mi Account [Old 1])\n\nFastboot Flash:\nAuto Reboot\nErase FRP\nDM Fix\nENG Firmware\n\nExtra:\nOppo Models:Oppo A3S (CPH1803, CPH1805)\nOppo A31 (A31C, A31T)\nOppo A37F\nOppo A5 (CPH1809)\nOppo AX5 (PBAM00, PBAT00)\nOppo F17 (CPH2095)\nOppo F19 (CPH2219)\nOppo R5 (R8106, R8107)\nOppo Find X2 (PDEM10)\nOppo K7_5G (PCLM50)",
-      "downloads": 0,
+      "downloads": 1,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1792758032979,
@@ -8971,7 +8971,7 @@
       ],
       "createdAt": 1792758201135,
       "description": "UnlockToolPro V18.12 Full Active ⭐ UnlockToolPRO Features\nGeneral Operations\nRead Device Information\nFactory Reset\nFormat User Data\nSafe Format (Keep Data)\nFlash Firmware\nRoot Device Access\nUnlocking Features\nErase FRP (Google Account)\nReset Screen Lock (PIN, Pattern, Password)\nUnlock / Relock Bootloader\nReset Mi Account / Mi Cloud\nRemove Huawei ID\nRemove Samsung Knox\nRemove Demo Mode\nCarrier / Network Unlock\nRepair & Advanced\nRepair IMEI\nRead / Write NVRAM & NVDATA\nBackup & Restore QCN\nPatch Certificate\nMediaTek Auth Bypass\nFix DM-Verity\nReset EFS\n\n📝 How to Register Free Account\nVisit: unlocktoolpro.com/register.php\nCreate account using Username, Email, and Password\nNo email verification required\nOpen UnlockToolPRO software\nLogin with your account\nConnect device and start using the tool for free",
-      "downloads": 16,
+      "downloads": 18,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792758201135,
@@ -11046,7 +11046,7 @@
       ],
       "createdAt": 1793077957176,
       "description": "TSM PRO TOOL V2026.10.16-0955 – LATEST VERSION Free Download.  TSM PRO Edition is now available with new device support and updated servicing features!\n\n✅ Main Features:\n🔹 Read Device Info\n🔹 Remove FRP\n🔹 Factory Reset\n🔹 Flash Firmware\n🔹 Samsung EDL Support\n🔹 ZTE Unisoc ADL Mode\n🔹 ADB Tasks\n🔹 MDM / KG Operations\n🔹 Motorola & Xiaomi Fastboot Flasher\n🔹 Bootloader Unlock / Lock\n🔹 And More!\n\n🆕 What's New in This Version?\n\n✔️ Added Nothing 4B EDL Support\n✔️ Added New Samsung 2026 EDL Support\n✔️ Added ZTE Device Support\n✔️ Added More TCL, HONOR, Lenovo, REDMAGIC & OUKITEL Models\n✔️ Improved Motorola & Xiaomi Fastboot Flasher\n✔️ Fixed Several Listed Bugs\n⚡️ Easy Installation by GSMYOGESH.COM\n✔️ Automatic Installation\n✔️ Simple Setup Process\n✔️ Application Launches Automatically",
-      "downloads": 270,
+      "downloads": 273,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793077957176,
@@ -11225,10 +11225,10 @@
       ],
       "createdAt": 1793354920237,
       "description": "USB Port Detector BY GSMSANJOY.com ====================================================================\n\n1. WHAT IS THIS SOFTWARE?\n---------------------------------------------------------------------\nUSB Port Detector BY GSMSANJOY.COM is a Windows background tool that\nwatches every USB port of your PC and INSTANTLY (fast, real time)\nshows a desktop popup notification when a USB device is CONNECTED or\nDISCONNECTED.\n\n   * CONNECTED    -> system tray icon turns GREEN + popup notification\n   * DISCONNECTED -> system tray icon turns RED   + popup notification\n\nEvery popup and the device window show the DEVICE NAME and the PORT:\n   * COM port number for serial devices   e.g. COM2, COM4, COM5\n   * USB hub port location for others     e.g. Port_#0002.Hub_#0004\n   * VID/PID identification as fallback   e.g. VID_1234&PID_5678\n\nThe software is protected with a HWID LICENSE system: one activation\nkey works on ONE computer for ONE year and can be renewed.\n\n2. FEATURES\n---------------------------------------------------------------------\n   - FAST real time USB connect / disconnect detection (WMI events)\n   - Instant desktop popup (toast / balloon) for every event\n   - GREEN tray icon = connect, RED tray icon = disconnect\n   - Device window: device name, status, port / COM number, device ID\n   - COM port numbers shown and highlighted (COM2, COM4, COM5, ...)\n   - HWID license activation - 1 year key per computer, renewable\n   - Auto start with Windows - background, always on\n   - Single instance protection and event log file:\n       C:\\ProgramData\\GSMSANJOY\\USBPortDetector\\usb_detector_log.txt\n   - SHA-256 checksum verification of all program files\n\n3. REQUIREMENTS\n---------------------------------------------------------------------\n   - Windows 7 / 8 / 8.1 / 10 / 11 (64-bit)\n   - Microsoft .NET Framework 4.x\n     (already built into Windows 8 / 10 / 11 - no extra download)",
-      "downloads": 49,
+      "downloads": 60,
       "folderId": "f_mp6sdi6s_ikugxspq5",
       "isLink": false,
-      "lastModified": 1793356046564,
+      "lastModified": 1793881914012,
       "link": "https://www.mediafire.com/file/ckfko6i1z8oarmy/USB+Port+Detector+BY+GSMSANJOY.COM.rar/file",
       "links": [
         {
@@ -11259,7 +11259,7 @@
       "password": "",
       "publishUrl": "usb-port-detector-by-gsmsanjoy",
       "published": true,
-      "size": "378 KB",
+      "size": "379 KB",
       "unrarPassword": ""
     },
     "f_mvwb8f4q_wp1n8jvkn": {
@@ -11269,7 +11269,7 @@
       ],
       "createdAt": 1793445648794,
       "description": "Vippro Driver Installer V1 ALL IN DRIVER \nVippro Driver Installer V1 Features\nMTK USB and serial drivers\nQualcomm HS-USB and diagnostic drivers\nSamsung USB drivers\nSpreadtrum / Unisoc drivers\nHuawei and Honor drivers\nADB Android and Fastboot drivers\nOPPO and OnePlus drivers\nVivo USB drivers\nLG and Motorola drivers\nHisense LT driver pack",
-      "downloads": 33,
+      "downloads": 38,
       "folderId": "f_mp6sdi6s_ikugxspq5",
       "isLink": false,
       "lastModified": 1793445648794,
@@ -11312,13 +11312,30 @@
         "https://www.unlocktool.org/_next/image?url=https%3A%2F%2Fstatic.dhrufusion.net%2F8ba55f6b-3543-4e75-a3f9-3eb84c6a6176%2F2026%2F02%2F09%2FBjuDLlKP_UTN.jpg&w=640&q=75"
       ],
       "createdAt": 1793452465409,
-      "description": "Latest release\nUnlockTool 2026.10.31.0\nReleased 31 October 2026 · Windows 7 / 8 / 10 / 11 · account login required\n\nMD5\n203ba012c5b877fe7013d64e78a43986\nCheck your downloaded file against this hash to confirm it has not been tampered with.",
-      "downloads": 121,
+      "description": "UnlockTool-2026-11-05-0 Released Update !\n\nLatest release\nUnlockTool 2026.10.31.0\nReleased 31 October 2026 · Windows 7 / 8 / 10 / 11 · account login required\n\nMD5\n203ba012c5b877fe7013d64e78a43986\nCheck your downloaded file against this hash to confirm it has not been tampered with.",
+      "downloads": 122,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
-      "lastModified": 1793452465409,
-      "link": "https://drive.google.com/file/d/1jBARjIay5CrL4iPm97prLdqAsG0uyvXJ/view",
+      "lastModified": 1793881518523,
+      "link": "https://drive.google.com/file/d/1ysIGjTcYko5PFRzlyjZOkkZrtPqedUdb/view?usp=sharing",
       "links": [
+        {
+          "label": "UnlockTool-2026-11-05-0",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://drive.google.com/file/d/1ysIGjTcYko5PFRzlyjZOkkZrtPqedUdb/view?usp=sharing"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file_premium/0pmqnxc8oiky696/UnlockTool-2026-11-05-0.zip/file"
+            },
+            {
+              "password": "",
+              "url": "https://mega.nz/file/T5QVkZwS#js9jvAZs1NJ3VlNTDJqjC2DZ5vhofenaHjB73YDU3_A"
+            }
+          ]
+        },
         {
           "label": "UnlockTool 2026.10.31.0",
           "urls": [
@@ -11498,7 +11515,7 @@
       ],
       "createdAt": 1793624654972,
       "description": "Shelby Recovery Tool v3.0.1.0 Download for Windows\n🚀 Shelby Recovery Tool V3.0.1.0 Released!\n\n🛠 Shelby Recovery Tool is an open-source Windows utility for MediaTek device flashing and recovery. It supports Preloader and BROM modes and uses the Antumbra backend for flashing operations.\n\n🔥 Features:\n\n✅ MediaTek Preloader & BROM support\n✅ Scatter firmware loading\n✅ Firmware flashing and partition management\n✅ Custom Download Agent selection\n✅ ADB & Fastboot integration\n✅ Device information and connection detection\n✅ Operation logs and process control\n✅ Portable Windows application\n\n⚠️ Note: The tool is still under development. Some devices may not connect properly, and certain functions may not work as expected. Use the correct firmware for your device and back up important data before flashing.\n\n💻 Platform: Windows\n📌 Version: V3.0.1.0\n👨‍💻 Developer: Shelby\n🔓 Status: Open Source",
-      "downloads": 33,
+      "downloads": 40,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1793681364852,
@@ -11712,7 +11729,7 @@
       ],
       "createdAt": 1793705341947,
       "description": "MotoWork Tool Cracked Download\n🚀MotoWork Tool – Latest Version Download\n\n🔥 Key Features:\n\n✅ IMEI Repair / Write  \n✅ Network Unlock (NCK)  \n✅ Bootloader Unlock  \n✅ Factory State Permanent Unlock Method  \n✅ Cert Patch Method  \n✅ NV Unlocker Support  \n✅ Read GPT & Partition Management  \n✅ NVDATA / NVRAM / NVCFG Flashing  \n✅ Native XFlash / DA SLA / Carbonara  \n✅ Kamakiri & BROM USB Support  \n✅ Advanced & Listed Models Modes  \n✅ No Recurring Server Credits Per Operation  \n\n📱 Supported Models:\n\n• Moto G05 / G15 / G15 Power  \n• Moto G06 / G06 Power  \n• Moto G17 / G17 Power  \n• Moto G22 / G23  \n• Moto G24 / G24 Power  \n• Moto G13 / E15  \n\n🛠 Two Servicing Methods:\n🔹 Factory State – Network Unlock & IMEI Repair  \n🔹 Cert Patch – Bootloader Unlock & IMEI Repair",
-      "downloads": 32,
+      "downloads": 39,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793705341947,
@@ -11760,7 +11777,7 @@
       ],
       "createdAt": 1793786385174,
       "description": "J-Tools v1.2 Loader with UnlockTool 2026.11.03.0 Free Download.Software Details\nSoftware Name\tUnlockTool (via J-Tools v1.2 Loader)\nVersion\tUnlockTool-2026.11.03.0\nLoader\tJ-Tools v1.2\nLicense\tTemporary free method (license recommended for long-term use)\nSupported OS\tWindows (tested on my own PC)",
-      "downloads": 107,
+      "downloads": 155,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793786385174,
@@ -11794,44 +11811,44 @@
       "unrarPassword": ""
     },
     "f_mw2zfmo9_wevmy4hnp": {
-      "name": "TSM Pro 2026 Blackman V2 Loader",
-      "folderId": "f_mpajwfy2_5pvx4efm9",
-      "size": "67mb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO5BE9kRjzbho_xv_uScxR1mCfZWY_oCRGy6flNwmkVWYzCoKZcF6_n-s9vj-hsV7WHcpXgboisMqAqU6pDG2BVHgfgbHCQOmmZYh336oDN91keWgwWbX9mFikAjnR3IwnwXFBPKL8p3-l214ZeCczlOduL0-VC1jdi6f_ghnCcRdDDmQfxHu7NmWcYQQ6/w640-h310/TSM%20Pro%202026%20Blackman%20V2%20Loader%20.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO5BE9kRjzbho_xv_uScxR1mCfZWY_oCRGy6flNwmkVWYzCoKZcF6_n-s9vj-hsV7WHcpXgboisMqAqU6pDG2BVHgfgbHCQOmmZYh336oDN91keWgwWbX9mFikAjnR3IwnwXFBPKL8p3-l214ZeCczlOduL0-VC1jdi6f_ghnCcRdDDmQfxHu7NmWcYQQ6/w640-h310/TSM%20Pro%202026%20Blackman%20V2%20Loader%20.jpg"
       ],
-      "password": "",
-      "unrarPassword": "255",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "tsm-pro-2026-blackman-v2-loader",
+      "createdAt": 1793849093001,
       "description": "TSM Pro 2026 Blackman V2 Loader Free Download . Risk own for viras.",
-      "downloads": 0,
-      "link": "https://www.mediafire.com/file/hticx2vl162sitr/TSM-Pro-Edition-+NEWcode255.rar/file",
+      "downloads": 47,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "published": true,
+      "lastModified": 1793849093001,
+      "link": "https://www.mediafire.com/file/hticx2vl162sitr/TSM-Pro-Edition-+NEWcode255.rar/file",
       "links": [
         {
           "label": "TSM Pro 2026 Blackman V2 Loader",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/hticx2vl162sitr/TSM-Pro-Edition-+NEWcode255.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/hticx2vl162sitr/TSM-Pro-Edition-+NEWcode255.rar/file"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZMryjJZxIy2V1a3jFfqPG1aKaRAkF7es147",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZMryjJZxIy2V1a3jFfqPG1aKaRAkF7es147"
             },
             {
-              "url": "https://1024terabox.com/s/1Yqu3B4mFbo5PEIY8wydTww",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1Yqu3B4mFbo5PEIY8wydTww"
             }
           ]
         }
       ],
-      "createdAt": 1793849093001,
-      "lastModified": 1793849093001
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "TSM Pro 2026 Blackman V2 Loader",
+      "password": "",
+      "publishUrl": "tsm-pro-2026-blackman-v2-loader",
+      "published": true,
+      "size": "67mb",
+      "unrarPassword": "255"
     }
   },
   "images": {
@@ -11873,7 +11890,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-05T03:24:57.566Z",
+    "createdAt": "2026-11-05T12:58:32.188Z",
     "version": "2.0",
     "sections": 4
   }
