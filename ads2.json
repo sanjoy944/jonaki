@@ -11778,7 +11778,7 @@
       ],
       "createdAt": 1793786385174,
       "description": "J-Tools v2.2  (build 2026-11-07)\nHOW TO USE\n1. Extract ALL files to one folder (do not run from inside the ZIP).\n2. Right-click j-tools.exe -> Run as administrator.\n3. Wait until the status shows:  mirror: ok hosts <port>  and  net: ok.\n4. Click START to launch UnlockTool. Click STOP to close it.\n\nNOTES\n- Windows SmartScreen may warn: choose \"More info\" -> \"Run anyway\"\n  (the file is not Authenticode-signed; the launcher verifies its own signature).\n- If antivirus blocks writes to the hosts file, the launcher falls back to\n  NRPT automatically (mode auto) and remembers that choice on this PC.\n- Log file: %LOCALAPPDATA%\\JTools\\logs\\launcher.log\n- Mirror mode can be forced in j-tools.ini: mirror=auto | hosts | nrpt\n\nVERSION\n- Product / File version: 2.2.0.0\n- sha256 j-tools.exe     : 2079a987f3d18c6dbcc5efae6c0e085d664b19b743110a38f7fabecc2b73151d\n\nJ-Tools v1.2 Loader with UnlockTool 2026.11.03.0 Free Download.Software Details\nSoftware Name\tUnlockTool (via J-Tools v1.2 Loader)\nVersion\tUnlockTool-2026.11.03.0\nLoader\tJ-Tools v1.2\nLicense\tTemporary free method (license recommended for long-term use)\nSupported OS\tWindows (tested on my own PC)",
-      "downloads": 496,
+      "downloads": 497,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1794304176584,
@@ -12145,7 +12145,7 @@
       "coverUrl": "",
       "createdAt": 1794284514066,
       "description": "EFT Pro + TSM Tool Setup Download",
-      "downloads": 13,
+      "downloads": 14,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": true,
       "lastModified": 1794284514066,
@@ -12266,7 +12266,7 @@
       ],
       "createdAt": 1794304801379,
       "description": "FRP TOOL WIFI Captive Portal Free Download. Hotspot Configuration\nIn the main configuration box, I configured the basic wireless parameters:\n\nWi-Fi Name (SSID): By default, this is populated as “FRP TOOL”, but I was able to edit it freely.\nPassword: The security field accepts standard Wi-Fi passphrases between 8 and 63 characters, or it can be left blank for an open network.\nNetwork Band: I had the choice between 2.4 GHz, 5 GHz, or letting Windows decide automatically. I selected 2.4 GHz during testing to ensure maximum compatibility with older wireless chipsets.\nThe Android DNS Probe Dance\nBelow the primary hotspot settings, there is a dedicated toggle labeled “Android DNS probe dance”. This feature is specifically intended to handle captive portal detection on Android 14 and newer versions.\n\nWhen enabled, it alters how the integrated DNS responder handles Google connectivity checks without modifying permanent network adapter settings. This helps trigger the necessary “Sign in to network” browser view on newer Android builds.\n\nRunning the Portal\nOnce the network credentials were ready, I clicked the Start button. The tool initiated a worker thread in the background, keeping the user interface completely responsive.",
-      "downloads": 16,
+      "downloads": 18,
       "folderId": "f_mp6slktt_m1jmxog5l",
       "isLink": false,
       "lastModified": 1794306048203,
@@ -12304,40 +12304,90 @@
       "unrarPassword": ""
     },
     "f_mwbkh9po_059g3id1w": {
-      "name": "ASR From SGT Team v3.3 Free",
-      "folderId": "f_mpcgjkt0_nqa98ro9k",
-      "size": "35.9 MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMws0JYHAwyCvQ8nZzrlvi4NLaXAOdYO4no0_y4bJR7exH6LSzNB3fs_cUAq_JaJV5fm9Nk8PAaUJfiDkf53lBhiME0dqcFyoNDmBnPbUxbTMWr7n9IvwUgzJYUTTbiu7-cp1ACKpGyiCiiwnNEJ7JESbB-V4o9BW38hfbVpt_2WgVEhgZuwnJAcS15peW/w640-h358/ASR%20From%20SGT%20Team%20v3.3%20Free.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMws0JYHAwyCvQ8nZzrlvi4NLaXAOdYO4no0_y4bJR7exH6LSzNB3fs_cUAq_JaJV5fm9Nk8PAaUJfiDkf53lBhiME0dqcFyoNDmBnPbUxbTMWr7n9IvwUgzJYUTTbiu7-cp1ACKpGyiCiiwnNEJ7JESbB-V4o9BW38hfbVpt_2WgVEhgZuwnJAcS15peW/w640-h358/ASR%20From%20SGT%20Team%20v3.3%20Free.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "asr-from-sgt-team-v33-free",
+      "createdAt": 1794368170860,
       "description": "ASR From SGT Team v3.3 Free Download. How to Install, Update, and Register (Exact Steps)\nHere is the exact step-by-step walkthrough I followed while testing the tool on my system:\n\nLaunch as Administrator: I right-clicked the ASRTool-v3.2.exe file on my desktop and chose Run as administrator.\nBypass Windows SmartScreen: When the blue Windows protected your PC prompt popped up, I clicked More info and then pressed Run anyway.\nApply the v3.3 In-App Update: As soon as the login interface loaded, a prompt titled ASR FROM SGT TEAM – Update reported! announced that version 3.3 was required. I clicked the yellow UPDATE NOW button. The tool downloaded the patch from 0% to 100% and automatically replaced the base files.\nDisable Defender Real-Time Protection: During startup, Windows Defender flagged background binaries with threat alerts. To keep the tool running without forced termination, I opened Windows Security > Virus & threat protection > Manage settings and switched Real-time protection to Off.\nOpen Free Account Registration: Back on the main login window, instead of entering existing credentials, I clicked the blue CREATE ACCOUNT – 1 MONTH FREE button.\nCreate Login Details: On the account creation screen, the software automatically detected my PC Hardware ID (HWID). I entered my username, typed my password, confirmed the password, and clicked CREATE ACCOUNT.\nAccess the Tool: The software confirmed the registration and launched straight into the main dashboard, displaying 1 mo – 30 days validity on the upper right corner.",
-      "downloads": 0,
-      "link": "https://mega.nz/file/qkxDBbwZ#Uv7VwppdWQQjaYU57lbncw1ghO8hip4n8PeCoXVBUq0",
+      "downloads": 1,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
-      "published": true,
+      "lastModified": 1794368170860,
+      "link": "https://mega.nz/file/qkxDBbwZ#Uv7VwppdWQQjaYU57lbncw1ghO8hip4n8PeCoXVBUq0",
       "links": [
         {
           "label": "ASR From SGT Team v3.3 Free",
           "urls": [
             {
-              "url": "https://mega.nz/file/qkxDBbwZ#Uv7VwppdWQQjaYU57lbncw1ghO8hip4n8PeCoXVBUq0",
+              "password": "",
+              "url": "https://mega.nz/file/qkxDBbwZ#Uv7VwppdWQQjaYU57lbncw1ghO8hip4n8PeCoXVBUq0"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/bgwbjkutrjtds2h/ASRTool-v3.3.zip/file"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "ASR From SGT Team v3.3 Free",
+      "password": "",
+      "publishUrl": "asr-from-sgt-team-v33-free",
+      "published": true,
+      "size": "35.9 MB",
+      "unrarPassword": ""
+    },
+    "f_mwbmcvok_17hhin5ze": {
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlm6ByJauBU9wu9Ah2Vv9PCxI40s-Y0ilURcvmiYqkBmHDvRZPRVjqv7uc&s=10",
+      "covers": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlm6ByJauBU9wu9Ah2Vv9PCxI40s-Y0ilURcvmiYqkBmHDvRZPRVjqv7uc&s=10",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfgSd9fU0E_gmb-RkM00RIlhGHJfaCD01Fd3RJJO4SC_Tu0THBv1omoMtcACTURomCB54jvkcz668E9FqapJPqDlf7XFeKohI2JgFnIclueg4Jrd1O21pXUOVLCszqeHXAziCNipvH9ZfeCSgy6TbxEtoRyn_OwBWtc3izpW-FycasaAG_sa16cwnWT-e5/w640-h480/Oxygen%20Forensics%20V18.3.0.270%20Update.jpg"
+      ],
+      "createdAt": 1794371325284,
+      "description": "Oxygen Forensics V18.3.0.270 Cracked Free Download.",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1794371336085,
+      "link": "https://www.mediafire.com/folder/96m3rk9p1x1o8/OxyDetective_Dongle_x64_Setup_18.2.0.300",
+      "links": [
+        {
+          "label": "Oxygen Forensics V18.3.0.270 Setup",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/folder/96m3rk9p1x1o8/OxyDetective_Dongle_x64_Setup_18.2.0.300",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "Oxygen Forensics V18.3.0.270 Keygen",
+          "urls": [
+            {
+              "url": "https://mega.nz/folder/qJd32ZpD#98bUVsJ8g_D35d_mtqadRw",
               "password": ""
             },
             {
-              "url": "https://www.mediafire.com/file/bgwbjkutrjtds2h/ASRTool-v3.3.zip/file",
+              "url": "https://www.mediafire.com/file/427r1tr1r1lx0ia/Oxygen+Forensics+V18.3.0.270+Keygen.zip/file",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1m1yucs4ckayfn2fuX6-NDg",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1794368170860,
-      "lastModified": 1794368170860
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Oxygen Forensics V18.3.0.270 Cracked",
+      "password": "",
+      "publishUrl": "oxygen-forensics-v1830270-cracked",
+      "published": true,
+      "size": "2.8gb",
+      "unrarPassword": "197240"
     }
   },
   "images": {
@@ -12379,7 +12429,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-11T03:36:16.866Z",
+    "createdAt": "2026-11-11T04:29:09.467Z",
     "version": "2.0",
     "sections": 4
   }
