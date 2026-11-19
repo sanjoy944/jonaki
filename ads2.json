@@ -2818,7 +2818,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 2222,
+      "downloads": 2223,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -6288,7 +6288,7 @@
       ],
       "createdAt": 1792642775204,
       "description": "Spreadtrum PAC Repack Tool v1.0.3 Free Download. Spreadtrum PAC Repack Tool v1.0.3 Free Download  Features Spreadtrum - Unisoc PAC Firmware Repack Tool\nLoad PAC File: Select a PAC firmware file directly from the tool.\nRead SysInfo: The tool includes a Read SysInfo option when loading a PAC file.\nUnpack PAC: Extract the files from a PAC package into a selected directory.\nRepack to PAC: Create a PAC file again from the files in an unpacked directory.\nFile Information: The tool can show file, build.prop, and anticrack state information when loading a PAC file.\n\nHow to Use\nOpen Spreadtrum / Unisoc PAC Firmware Repack Tool.\nClick Select Pac and choose the PAC firmware file.\nUse the Read SysInfo option if you want to read the available system information.\nClick Unpack Pac to extract the PAC contents into a folder.\nAfter working with the unpacked files, use Repack To PAC file to create a PAC package again.",
-      "downloads": 2,
+      "downloads": 3,
       "folderId": "f_mq907z24_lahwuzvyt",
       "isLink": false,
       "lastModified": 1792642775204,
@@ -7904,7 +7904,7 @@
       ],
       "createdAt": 1792677125446,
       "description": "TSM PRO Cracked BY GsmHeroTeam \n\nYour Purchased Tools\nKeY :: TSM_FREE_BY_GSMHERO_TEAM_FB\nPassword: your Login Password Add",
-      "downloads": 715,
+      "downloads": 721,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1794993203005,
@@ -8001,7 +8001,7 @@
       ],
       "createdAt": 1792724536994,
       "description": "U FRP UNISOC Tool V1 Free Free Download.\nMy Installation Walkthrough\nDownloading was simple. I got the loader as a single EXE file. There is nothing to install. I dropped it into a new folder on my desktop and placed the original U-FRP UNISOC tool.exe right next to it.\n\nOne thing I want to point out because I hit it myself. The target tool needs its own Devices and Driver subfolders next to it. If those folders are missing, the tool opens but cannot find any device scripts. The loader looks for the target EXE in the same folder it sits in, so do not move things around after setup.\n\nDownload the loader EXE.\nCreate a new folder, for example on your Desktop.\nPlace the loader EXE inside that folder.\nCopy your U-FRP UNISOC tool.exe and its Devices and Driver folders into the same location.\nRight-click the loader and choose Run as administrator. It will also ask for admin rights on its own if you forget.\nFirst Launch And License Registration\nWhen I opened the loader, Windows asked for administrator permission. That is normal because the loader needs to modify the hosts file and install a certificate to route the tool’s login traffic.\n\nThe window that opened is small and clean. It shows a 16-character hardware ID in green. I clicked Copy Hardware ID, went to the developer’s activation page, and pasted the ID there. In a few seconds I had a license token. I pasted it into the box on the loader and clicked Register License.\n\nThe moment the token was accepted, the activation panel disappeared. A green bar at the top said LICENSE ACTIVE with the number of days left. Then the log panel below started filling up with routing steps.",
-      "downloads": 146,
+      "downloads": 147,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792724536994,
@@ -11117,7 +11117,7 @@
       ],
       "createdAt": 1793077957176,
       "description": "TSM PRO TOOL V2026.10.16-0955 – LATEST VERSION Free Download.  TSM PRO Edition is now available with new device support and updated servicing features!\n\n✅ Main Features:\n🔹 Read Device Info\n🔹 Remove FRP\n🔹 Factory Reset\n🔹 Flash Firmware\n🔹 Samsung EDL Support\n🔹 ZTE Unisoc ADL Mode\n🔹 ADB Tasks\n🔹 MDM / KG Operations\n🔹 Motorola & Xiaomi Fastboot Flasher\n🔹 Bootloader Unlock / Lock\n🔹 And More!\n\n🆕 What's New in This Version?\n\n✔️ Added Nothing 4B EDL Support\n✔️ Added New Samsung 2026 EDL Support\n✔️ Added ZTE Device Support\n✔️ Added More TCL, HONOR, Lenovo, REDMAGIC & OUKITEL Models\n✔️ Improved Motorola & Xiaomi Fastboot Flasher\n✔️ Fixed Several Listed Bugs\n⚡️ Easy Installation by GSMYOGESH.COM\n✔️ Automatic Installation\n✔️ Simple Setup Process\n✔️ Application Launches Automatically",
-      "downloads": 389,
+      "downloads": 390,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793077957176,
@@ -11842,34 +11842,35 @@
       "unrarPassword": "gsmyogesh"
     },
     "f_mw1y3l06_5tgnmgb9d": {
-      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOol6GTQUECcO5VAfpRJ3Xi8so5drnU_eWpvEnYvTTo9xFXaGhLlXvDgDzIRu-4Mw7sErQeHFA7REvbvkHX3EvFG71UP-CIJ-PwHRV_tv6hQ1_dk27IKzhwxrQAqKItxhMZPCBJiIzKEyw7fJtDOP-SVHkSjR0ZEPYbIRL3scxgBUPtaC5tf9tEqQ4DA-8/w640-h360/UnlockTool%20V2026.10.15.0%20Free%20Lifetime%20Loader.jpg",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjI0tO-6gi8fi4GIAU8e3sqJJzNGEJXhTBiJl5ut8tWQl-z2rh7i-5XqfYSe1mEUhG-zizEx9y9YqVCUENqGUslAinhzOGIUp07EoEIe4-JFw9TV5Gl21TRi5g8ut4XIqRquUHqowFz2jXIsOenHF2n0x_yaMtsQ0FUkDw_MrP_RBXsAVqAAjdwb_dirpL/w640-h570/J-Tools%20UnlockTool%203.0%20.jpg",
       "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjI0tO-6gi8fi4GIAU8e3sqJJzNGEJXhTBiJl5ut8tWQl-z2rh7i-5XqfYSe1mEUhG-zizEx9y9YqVCUENqGUslAinhzOGIUp07EoEIe4-JFw9TV5Gl21TRi5g8ut4XIqRquUHqowFz2jXIsOenHF2n0x_yaMtsQ0FUkDw_MrP_RBXsAVqAAjdwb_dirpL/w640-h570/J-Tools%20UnlockTool%203.0%20.jpg",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOol6GTQUECcO5VAfpRJ3Xi8so5drnU_eWpvEnYvTTo9xFXaGhLlXvDgDzIRu-4Mw7sErQeHFA7REvbvkHX3EvFG71UP-CIJ-PwHRV_tv6hQ1_dk27IKzhwxrQAqKItxhMZPCBJiIzKEyw7fJtDOP-SVHkSjR0ZEPYbIRL3scxgBUPtaC5tf9tEqQ4DA-8/w640-h360/UnlockTool%20V2026.10.15.0%20Free%20Lifetime%20Loader.jpg",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkEc_oW7RwnaeU-V_uutmQA9VBgEMJap1uJy0Sqqtt0H_iUcNEC60-HW6piLgaLTqAHH15oOWTiD3dVWTWNFVADIr1ZCt11hP8NdNcFVI6IGBSwyOeQw2CbCRFha1BkPT0yruAn6gXFT1Vf2UN4aA_T2oJb1Y-THJNMdJFI0PtWV9nbN-ChAto7vNY1Lpd/s1600/J-Tools%20v2.2.jpg",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jgri9DiW-ZjHDJe5QFMH6qkesyYUyga0QxroBJdjJxsN3z-ccZIG4BvlD77zdmxDF_oH7S7W32UgioUyb7HcrsEoq6InbXiX2l_5_YRQizpMrLBOSYKZaGN5MIKwywff1Ocm4pIbiaCWMIjvaR0lW25KkqnlNMW06Hf5PzG_E7nEHLkmMovBifFi1cBP/w640-h360/J-Tools%20v1.2%20Loader%20UnlockTool%202026.jpg"
       ],
       "createdAt": 1793786385174,
       "description": "UnlockTool V2026.10.15.0 Free Lifetime\nJ-Tools v2.2  (build 2026-11-07)\nHOW TO USE\n1. Extract ALL files to one folder (do not run from inside the ZIP).\n2. Right-click j-tools.exe -> Run as administrator.\n3. Wait until the status shows:  mirror: ok hosts <port>  and  net: ok.\n4. Click START to launch UnlockTool. Click STOP to close it.\n\nNOTES\n- Windows SmartScreen may warn: choose \"More info\" -> \"Run anyway\"\n  (the file is not Authenticode-signed; the launcher verifies its own signature).\n- If antivirus blocks writes to the hosts file, the launcher falls back to\n  NRPT automatically (mode auto) and remembers that choice on this PC.\n- Log file: %LOCALAPPDATA%\\JTools\\logs\\launcher.log\n- Mirror mode can be forced in j-tools.ini: mirror=auto | hosts | nrpt\n\nVERSION\n- Product / File version: 2.2.0.0\n- sha256 j-tools.exe     : 2079a987f3d18c6dbcc5efae6c0e085d664b19b743110a38f7fabecc2b73151d\n\nJ-Tools v1.2 Loader with UnlockTool 2026.11.03.0 Free Download.Software Details\nSoftware Name\tUnlockTool (via J-Tools v1.2 Loader)\nVersion\tUnlockTool-2026.11.03.0\nLoader\tJ-Tools v1.2\nLicense\tTemporary free method (license recommended for long-term use)\nSupported OS\tWindows (tested on my own PC)",
-      "downloads": 786,
+      "downloads": 790,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1794477845884,
+      "lastModified": 1795061538494,
       "link": "https://mega.nz/file/XxQgVJRD#1wG21doT9L4Uie9IV8_ovAjDkH1_D9oXt7-2UGRPc98",
       "links": [
         {
           "label": "UnlockTool V2026.10.15.0 Free Lifetime NO HWID",
           "urls": [
             {
-              "password": "",
-              "url": "https://mega.nz/file/XxQgVJRD#1wG21doT9L4Uie9IV8_ovAjDkH1_D9oXt7-2UGRPc98"
+              "url": "https://mega.nz/file/XxQgVJRD#1wG21doT9L4Uie9IV8_ovAjDkH1_D9oXt7-2UGRPc98",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://u.pcloud.link/publink/show?code=XZktkfJZD34qRCQQrM583WvvTK1LPjaKJlak"
+              "url": "https://u.pcloud.link/publink/show?code=XZktkfJZD34qRCQQrM583WvvTK1LPjaKJlak",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/1ap-kUbZRJ80FOEJJzItZiA"
+              "url": "https://1024terabox.com/s/1ap-kUbZRJ80FOEJJzItZiA",
+              "password": ""
             }
           ]
         },
@@ -11877,20 +11878,20 @@
           "label": "J-Tools v2.2 Updated",
           "urls": [
             {
-              "password": "",
-              "url": "https://www.mediafire.com/file/xyqf1a1hh5hkudw/J-Tools-v2.2-20261107.zip/file"
+              "url": "https://www.mediafire.com/file/xyqf1a1hh5hkudw/J-Tools-v2.2-20261107.zip/file",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://u.pcloud.link/publink/show?code=XZwneuJZQBnBoqv2N5pT5XzKMMqr0Jje4trX"
+              "url": "https://u.pcloud.link/publink/show?code=XZwneuJZQBnBoqv2N5pT5XzKMMqr0Jje4trX",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/10Rw9U6NAVHWTQbbO5yIrww"
+              "url": "https://1024terabox.com/s/10Rw9U6NAVHWTQbbO5yIrww",
+              "password": ""
             },
             {
-              "password": "54321",
-              "url": "https://drive.google.com/file/d/1dRLSDIbspuoJ6OyIxwNbV7KYfx4RLeCO/view"
+              "url": "https://drive.google.com/file/d/1dRLSDIbspuoJ6OyIxwNbV7KYfx4RLeCO/view",
+              "password": "54321"
             }
           ]
         },
@@ -11898,16 +11899,16 @@
           "label": "Jtools V1.2_check_if_work Active Loader Free",
           "urls": [
             {
-              "password": "",
-              "url": "https://www.mediafire.com/file/5kvn8cubzvzcz56/Jtools+V1.2_check_if_work.rar/file"
+              "url": "https://www.mediafire.com/file/5kvn8cubzvzcz56/Jtools+V1.2_check_if_work.rar/file",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://u.pcloud.link/publink/show?code=XZCbeuJZAJI0YiIQUJXzzaqNpTFOCRIFVK1V"
+              "url": "https://u.pcloud.link/publink/show?code=XZCbeuJZAJI0YiIQUJXzzaqNpTFOCRIFVK1V",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/1LI0Xih2BAmJLH8eUDxFgIw"
+              "url": "https://1024terabox.com/s/1LI0Xih2BAmJLH8eUDxFgIw",
+              "password": ""
             }
           ]
         },
@@ -11915,16 +11916,37 @@
           "label": "J-Tools v1.2 Loader UnlockTool 2026",
           "urls": [
             {
-              "password": "",
-              "url": "https://www.mediafire.com/file/x69g4rqj80f9ljz/J-Tools+v1.2+Loader.rar/file"
+              "url": "https://www.mediafire.com/file/x69g4rqj80f9ljz/J-Tools+v1.2+Loader.rar/file",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://u.pcloud.link/publink/show?code=XZeBKSJZInS4EVhRO5Lbzk6vExuUSmsjlSQy"
+              "url": "https://u.pcloud.link/publink/show?code=XZeBKSJZInS4EVhRO5Lbzk6vExuUSmsjlSQy",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/1xFX4vQ0jzvuWUmVk-B-Upg"
+              "url": "https://1024terabox.com/s/1xFX4vQ0jzvuWUmVk-B-Upg",
+              "password": ""
+            }
+          ]
+        },
+        {
+          "label": "J-Tools UnlockTool V3.0 Loader Only",
+          "urls": [
+            {
+              "url": "https://drive.google.com/file/d/1C5l6DluqzvViyD8h8hjBsOYp5aubXHCV/view",
+              "password": "fix"
+            },
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZ3R3BJZV7fBz0owOvfKc1qqYuIUcpYTLs4k",
+              "password": "fix"
+            },
+            {
+              "url": "https://1024terabox.com/s/11kOdZRYVxPpGnoMcYFyTHQ",
+              "password": "fix"
+            },
+            {
+              "url": "https://www.mediafire.com/file/qsiv4fvuui2hvdc/J-Tools+UnlockTool+3.0+.zip/file",
+              "password": ""
             }
           ]
         }
@@ -11945,7 +11967,7 @@
       ],
       "createdAt": 1793849093001,
       "description": "TSM Pro 2026 Blackman V2 Loader Free Download . Risk own for viras.",
-      "downloads": 389,
+      "downloads": 390,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793849093001,
@@ -11985,7 +12007,7 @@
       ],
       "createdAt": 1793929549009,
       "description": "XTM Qualcomm Tool – Pro Module v1.5 Free Download New Releasd\nXTM Qualcomm Tool – Pro Module v1.3 Free Download",
-      "downloads": 65,
+      "downloads": 66,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1794575776848,
@@ -12078,7 +12100,7 @@
       ],
       "createdAt": 1794190198569,
       "description": "Waagwan UBoot SPL Tool Free Download. Unlocking the bootloader and bypassing verification on Unisoc devices can be a huge headache if you do not have the right utility. Today, I tested the Waagwan UBoot & SPL Tool on my PC to see how well it handles Unisoc firmware images. Software Name\tWaagwan UBoot & SPL Tool (Unisoc Bypass)\nDeveloper\tWaagwan (Official Website)\nLicense\tTrial (3 Free Successful Unlocks, Activation Required After)\nSupported OS\tWindows\nSupported Devices\tUnisoc T610, T616, T618 (UMS512 Architecture) Smartphones, Tablets, and Handhelds\nLanguage\tEnglish",
-      "downloads": 9,
+      "downloads": 10,
       "folderId": "f_mq907z24_lahwuzvyt",
       "isLink": false,
       "lastModified": 1794190198569,
@@ -12329,7 +12351,7 @@
       ],
       "createdAt": 1794304439625,
       "description": "FRP ALL DEVICES (ADB MODE) Free Download.\nChack Fast virus.then use.\n\n🔘FIXED BUG TEMP ROOT IN SOME DEVICES\n🔘ADDED APK MANAGER ROOT MODE\n🔘ADDED ROOT ONLY AND CHOICE METHOD\n🔘IMPROVED BYPASS FRP ALL AUTOMATIC\n\nExploring the Main Controls\nOn the left side of the window, there are four large buttons stacked vertically. Each button handles a specific ADB operation, and the layout makes it clear what every option does.\n\nBYPASS FRP: This top button is designed to run an FRP bypass process over ADB mode.\nTEMP ROOT: Right below that, this option runs a temporary root process using DFRoot and KernelSU.\nREAD INFO: Clicking this checks and displays the connected phone’s basic information.\nSTOP ADB: This bottom button safely stops the running ADB background server when you finish your work.",
-      "downloads": 37,
+      "downloads": 38,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1794828179360,
@@ -12862,7 +12884,7 @@
       ],
       "createdAt": 1794922149278,
       "description": "TROJAN ADB FRP v1.0.0 Temp Root Free Download TESTING Peroid.",
-      "downloads": 114,
+      "downloads": 116,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1794922149278,
@@ -12896,48 +12918,107 @@
       "unrarPassword": ""
     },
     "f_mwmxqxvj_opdbn4z65": {
-      "name": "Ext4 Images Folder Cleaner FREE",
-      "folderId": "f_mpphzpaq_kkd8xpdsf",
-      "size": "757kb",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggqa9ifgGHO5xx5Bg5oPwsVjqG12AB9jjecOwSsM-Hi4MJC3cSD3cp5cJLy8YQthR4IDb_sytFyHPUgLn8ss2yWJPwHEqozmXVOKH1DJP6b9Le8QxeKKAsRoJbjNTmjknufjTN43EXT4b8-mFtl7myMyekvL2WNRqld_TGsZzfF1AVMg7cv3n5z4PiPg0E/w640-h358/Ext4%20Images%20Folder%20Cleaner%20FREE.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggqa9ifgGHO5xx5Bg5oPwsVjqG12AB9jjecOwSsM-Hi4MJC3cSD3cp5cJLy8YQthR4IDb_sytFyHPUgLn8ss2yWJPwHEqozmXVOKH1DJP6b9Le8QxeKKAsRoJbjNTmjknufjTN43EXT4b8-mFtl7myMyekvL2WNRqld_TGsZzfF1AVMg7cv3n5z4PiPg0E/w640-h358/Ext4%20Images%20Folder%20Cleaner%20FREE.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "ext4-images-folder-cleaner-free",
+      "createdAt": 1795055585023,
       "description": "Cleaning RAW EXT Images Ext4 Folder Cleaner Free Download. My Real-World Testing Experience\nI grabbed a .bin firmware file and dragged it directly into the top panel of the software. The input path filled in instantly. I loved the automatic naming feature. By default, it set up an output file right next to my original, appending _cleaned.bin to the name. This completely prevents you from accidentally overwriting your source file.\n\nI clicked the Clean image button to start the process. The interface locked my input fields and changed my cursor to an hourglass to keep me from messing with the paths while it worked. Here is exactly how the process played out on my screen:\n\nInitial File Check (0%): The status indicator told me it was verifying the EXT superblock. It checks the file size and looks for the 0xEF53 magic signature to ensure the file is actually a valid image.\nSafe Copy Creation (0% to 90%): The progress bar climbed steadily as it created a temporary .part copy of my file. The Cancel button stayed active here, allowing me to back out safely if needed.\nDeep Cleaning (92%): The status shifted to opening the filesystem and removing the target folders. The Cancel button locked itself to prevent me from corrupting the file while the DLL did the heavy lifting.\nSaving (98% to 100%): It renamed the temporary file to my final output path and flashed a success message.\nOnce finished, the Open output folder button lit up, letting me jump straight to my newly cleaned image. I also noticed the software quietly kept a running log of everything in an Ext4FolderCleaner.log file in the background.\n\nSoftware Specifications",
-      "downloads": 0,
-      "link": "https://mega.nz/file/GsBDnaZT#dWgA0A_MFBApuWC_tx5H4F_iMtqVAh1fArmdA8PMK4M",
+      "downloads": 1,
+      "folderId": "f_mpphzpaq_kkd8xpdsf",
       "isLink": false,
-      "published": true,
+      "lastModified": 1795055585023,
+      "link": "https://mega.nz/file/GsBDnaZT#dWgA0A_MFBApuWC_tx5H4F_iMtqVAh1fArmdA8PMK4M",
       "links": [
         {
           "label": "Ext4 Images Folder Cleaner FREE",
           "urls": [
             {
-              "url": "https://mega.nz/file/GsBDnaZT#dWgA0A_MFBApuWC_tx5H4F_iMtqVAh1fArmdA8PMK4M",
-              "password": ""
+              "password": "",
+              "url": "https://mega.nz/file/GsBDnaZT#dWgA0A_MFBApuWC_tx5H4F_iMtqVAh1fArmdA8PMK4M"
             },
             {
-              "url": "https://www.mediafire.com/file/f70ogvh96r8ltgx/Ext4FolderCleaner_GUI+GSMSANJOY.cOM.7z/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/f70ogvh96r8ltgx/Ext4FolderCleaner_GUI+GSMSANJOY.cOM.7z/file"
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZ9k3BJZr1lMzeAjBP4foB36laK2DStAteOV",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZ9k3BJZr1lMzeAjBP4foB36laK2DStAteOV"
             },
             {
-              "url": "https://1024terabox.com/s/1MK9stmAkbPnJGnALZXzy9Q",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1MK9stmAkbPnJGnALZXzy9Q"
             }
           ]
         }
       ],
-      "createdAt": 1795055585023,
-      "lastModified": 1795055585023
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "Ext4 Images Folder Cleaner FREE",
+      "password": "",
+      "publishUrl": "ext4-images-folder-cleaner-free",
+      "published": true,
+      "size": "757kb",
+      "unrarPassword": ""
+    },
+    "f_mwn10r5n_mynqxlxo2": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVtfo8qRModlngPVrlUQkeguDugAgzTP2qu5bpGt4rS8u5RY77eBL7NmC9_VC_jU10WQ4ebBbzAk2UHa1GoKzEadVoMh5dMI7484xO-f33gUw8_n7adMoD98_eZeDiWKJShezq2htBeov-Y4OBkzt7fAMbeKNgX1pqhWgCJYurjv4LRzK6K6jzBCJNJuR6/w640-h426/BY%20Alph1Tech%20.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVtfo8qRModlngPVrlUQkeguDugAgzTP2qu5bpGt4rS8u5RY77eBL7NmC9_VC_jU10WQ4ebBbzAk2UHa1GoKzEadVoMh5dMI7484xO-f33gUw8_n7adMoD98_eZeDiWKJShezq2htBeov-Y4OBkzt7fAMbeKNgX1pqhWgCJYurjv4LRzK6K6jzBCJNJuR6/w640-h426/BY%20Alph1Tech%20.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ9XWfCfly86WIX0fN7yWsI5EFtm8C9E3Z_cADpvzpPlShj9fAGBlCO-kKHQVcQni2LrZz_B7GtQjYTP5rPl-aJWZdzPluYUCuDipEhQWwN7XAmxFDDw1a9Wm_Dej_Rrxb1EXYDSsOC0UzD-TmQ6NZim0P5yqsMwr8y2GTurdHevb25dFs_UUbfJpENR0c/w640-h596/%20BY%20Alph1Tech%20%20(1).jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZHJDfgOGfaBAcrglsRIW0kRDb0ZLe7HyxWqTZAVqB7sbLI4_mksa1r94usxabF-f-PXqap2w3BvKIyahrgTOfvCjwFR2xG3Pi108oc3io-l05Gt_VNJF-z6bSNVYu0THzOvU5uQ0ndpf7n3jOc-ji2zcc8Sofvt3zg2p0lbHBwlFoydae6-5oX7wkkHX/w640-h452/%20BY%20Alph1Tech%20%20(2).jpg"
+      ],
+      "createdAt": 1795061081723,
+      "description": "PinoyTech Loader UnlockTool Paid Service. PinoyTech Loader V3.1.4 Alph1Tech UnlockTool \n Instructions\n 🔘 Download the PinoyTech Loader UnlockTool.rar file\n 🔘 Unzip the file\n 🔘‎Unzip UnlockTool setup and install it\n 🔘 Unzip PinoyTech Loader, copy and paste it into the folder where UnlockTool was installed, and create a shortcut on your desktop\n 🔘 Run PinoyTech Loader as administrator; it will ask you to update the loader (update it).\n 🔘 Run PinoyTech Loader again and select the free option. If it asks you to find the UnlockTool.exe file, find it and click start.\n ‎‎\n Note: To add more days to the license, simply click the button that says \"add 90 days\".",
+      "downloads": 0,
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "isLink": false,
+      "lastModified": 1795061163779,
+      "link": "https://www.mediafire.com/file/yp26zq0ezghcyfv/PinoyTech+Loader+V4.3.0.rar/file",
+      "links": [
+        {
+          "label": "PinoyTech Loader V4.3.0 NEW",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/yp26zq0ezghcyfv/PinoyTech+Loader+V4.3.0.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZOz3BJZGW21WnQ5aRbfFYGM1SBzlmcsR8eV"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1FYKyNHHaZD75ipE0yO7wig"
+            }
+          ]
+        },
+        {
+          "label": "PinoyTech Loader V3.1.4 + SETUP UnlockTool 2026.11.17",
+          "urls": [
+            {
+              "password": "Alph1Tech",
+              "url": "https://www.mediafire.com/file/1d4ajclpbvxulzm/PinoyTech+Loader+UnlockTool.rar/file"
+            },
+            {
+              "password": "Alph1Tech",
+              "url": "https://u.pcloud.link/publink/show?code=XZ7R3BJZbxh76m5h3cLXTidngXtJTkMjHOz7"
+            },
+            {
+              "password": "Alph1Tech",
+              "url": "https://1024terabox.com/s/1IJ1Y9hqQUNw99sTjt_wU9A"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "PinoyTech Loader UnlockTool  BY Alph1Tech",
+      "password": "",
+      "publishUrl": "pinoytech-loader-unlocktool-by-alph1tech",
+      "published": true,
+      "size": "293.5 MB",
+      "unrarPassword": "Alph1Tech"
     }
   },
   "images": {
@@ -12979,7 +13060,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-19T02:33:11.842Z",
+    "createdAt": "2026-11-19T04:12:24.806Z",
     "version": "2.0",
     "sections": 4
   }
