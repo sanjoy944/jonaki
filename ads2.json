@@ -1009,12 +1009,12 @@
       "parentId": "f_mp6sf7er_yrsiah0rt"
     },
     "f_mwogmkxz_52lmnrq87": {
-      "name": "FREE TOOLS",
-      "parentId": "f_mp6sf7er_yrsiah0rt",
-      "icon": "",
-      "order": 0,
       "createdAt": 1795147760519,
-      "lastModified": 1795147760519
+      "icon": "",
+      "lastModified": 1795147760519,
+      "name": "FREE TOOLS",
+      "order": 0,
+      "parentId": "f_mp6sf7er_yrsiah0rt"
     }
   },
   "files": {
@@ -1829,7 +1829,7 @@
       ],
       "createdAt": 1790504007831,
       "description": "Dars UnlockTool Loader V5.6 Released Feee\n\nDarsUnlocker Bypass Loader  Step-by-Step: How to Install and Run Everything\nremoved VPN restriction\nremoved no server could not be reached\ndon't update if you have no error\nStep 1 – Install DarsUnlocker\nI right-clicked the DarsUnlocker setup installer and chose Run as administrator. This is not optional. If you don’t run it as admin, the loader will not be able to bind to the ports it needs.\n\nThe setup wizard opens. I clicked Next through each screen. There’s an option for Create a desktop icon — I kept that checked because it’s easier to launch later. Then I clicked Install and waited for it to finish.\n\nWhen it was done, I clicked Finish. The installer also opened the app for me, which was convenient.Step 2 – Let DarsUnlocker Loader Initialize\nOnce the loader opens, it starts working right away. I saw a small splash window appear. It checked my online connection status first, then began unpacking its internal data.\n\nIf a support message pops up with Telegram links, just click Ok to dismiss it. It’s normal.\n\nBehind the scenes, the loader was doing a few things at this point:\n\nChecking the clock and syncing time\nUnpacking the encrypted data file\nGetting ready to patch memory when UNLOCKTOOL starts\nI just waited for the loader to settle. You’ll know it’s ready when the splash window shows a status like “Ready” or “Waiting for login.”\n\nStep 3 – Set Process Priority in Task Manager\nThis step matters more than people realize. Without setting the priority, the loader sometimes doesn’t hook properly and UNLOCKTOOL may not log in.\n\nHere’s what I did:\n\nI right-clicked the Windows Taskbar and opened Task Manager. Then I clicked on the Details tab. I looked for DarsUnlocker.exe in the list, right-clicked it, and chose Set priority. I selected High (you can also pick Above Normal).\n\nWindows asked me to confirm the change. I clicked Yes.\n\nI did the same thing for UNLOCKTOOL.exe once it was running, just to be consistent.\n\nStep 4 – Log In to UNLOCKTOOL\nNow the interesting part. I opened UNLOCKTOOL and let it load. On the login screen, I looked back at the DarsUnlocker window.\n\nThe loader showed me the generated login details:\n\nUsername: aminebazouka (or whatever your loader shows)\nPassword: any password you want\nI typed that username into UNLOCKTOOL. For the password, I typed anything — literally any random text. Then I clicked Login.\n\nWhen the disclaimer window appeared, I clicked Agree.\n\nThat’s it. UNLOCKTOOL loaded its main dashboard and I was in.\n\nStep 5 – Start Servicing Devices\nOnce logged in, the tool is fully usable. You’ll see the main dashboard with all the brand tabs at the top or side. Just pick your target brand and start working.",
-      "downloads": 556,
+      "downloads": 557,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1794794822577,
@@ -2471,7 +2471,7 @@
       ],
       "createdAt": 1791194888304,
       "description": "MD UNLOCK PRO MDM TOOL Latest Free Download..",
-      "downloads": 16,
+      "downloads": 17,
       "folderId": "f_mqf4u5qs_49twakrzn",
       "isLink": false,
       "lastModified": 1791194888304,
@@ -2511,7 +2511,7 @@
       ],
       "createdAt": 1791199206750,
       "description": "NEW UPDATE                                                                   ADD UNLOCKTOOL  2026-11-17  BUG FIXED                                                                          \nTROJ4N PRO: New Update \nUpdate 3.6\nNew Update 2026-11-16\nAdded New UTool 2026-11-16\nAdded  Samsung MTK Frp\n  Buy link: https://t.me/troj4npro\nFix Some Bugs \nUpdate Unlocktool 2026-11-10\nAdd Oppo & Realme 6835\n\nAnd More CPU & Models\nTROJ4N PRO: TROJ4N LOADER V3.4 - NEW USER OFFER 🚀\nSpecial Price For NEW USERS Only!\n☑  6 MONTHS - 7 USDT\n☑  12 MONTHS - 12 USDT\nPLUS FREE: BLACK SCREEN ONE-CLICK TOOL\nonly for new users.\nLimited Time. DM to Activate Now!\n\nUNLOCKTOOL FREE BY TROJ4N  TROJ4N LOADER V2 - OFFICIAL NOTE\n🚀 UNLOCKTOOL - TROJ4N LOADER V2 IS LIVE!\nWe are excited to announce the launch of TROJ4N LOADER V2 - More Powerful, More Stable, and Faster than ever!\n🔥 BIG LAUNCH OFFER: GET 15 DAYS FREE!\nFor a limited time only, get 15 Days FREE Access on TROJ4N LOADER V2.\nKey Features:\n•  Ultra-Fast & Secure Loading System\n•  Clean & Simple UI with STANDBY Mode\n•  Stable Performance for Long Sessions\n•  V2 Updated Engine\nDon't miss this opportunity. Activate your plan now and experience the power of TROJ4N V2!\nOffer Valid For Limited Time Only.",
-      "downloads": 28,
+      "downloads": 34,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1794971688112,
@@ -2785,7 +2785,7 @@
       ],
       "createdAt": 1791695688306,
       "description": "A.N TOOL v4.6 CraAckD Free A.N.TOOL v4.6 Latest Version Download (Free Login)  Features of A.N.TOOL v4.6\n1. Qualcomm\nMode Selection: MODEL, Loader, Auto\nBrand and Model Selection\nAGM Brand and A9 Model Example\nTools\nReset FRP + Factory Reset\nRemove MI Account\nBackup Firmware\nRestore Backup\nDump Security Partitions\nFlash Operations\nSelect All\nDeselect All\nFlash\nErase\n2. FRP-MTP\nMTP OPEN TOOL\nENABLE ADB CODE\nSupported Brands: Huawei, Xiaomi, Vivo, Oppo, Infinix, Tecno, Alcatel, Lenovo, Sony, Motorola, Honor, OnePlus, BlackBerry\nReset FRP [ADB]\nOpen Chrome\nOpen YouTube\nOpen Google Maps\n3. Xiaomi\nRecovery 5.0\nReset FRP [MediaTek-Qualcomm]\nBypass Mi Account [Qualcomm]\nWriting Partition (Enter Name Partition)\nReset EFS [Fix NV Data Is Corrupted] [Qualcomm]\nFactory Reset\nRead Info\nReboot System\n4. ADB\nGeneric\n\nXiaomi Enable Diag [No Root]\nBypass [FRP]\nRead Info\nRead Partition Table List\nCheck Root State\nGet Battery State\nRemove ADS\nFactory Reset [Old Android]\nFix Wireless Test Assistant [real…]\nArabic Language Tools\n\nADDING THE ARABIC LANGUAGE (ADB)\nADDING ARABIC Keyboard (ADB)\n\nHow to Install A.N.TOOL v4.6\nExtract the A.N.TOOL V4.6 2026-07-08.exe package into a new folder.\nCopy BIBO CRACK V4.6.exe into the extracted A.N.TOOL folder.\nBefore running the loader or installing a certificate, verify the source and inspect the files. Do not trust an unknown certificate or executable.\nOpen the extracted folder and launch A.N.TOOL.exe.\nThe supplied instructions also mention running the BIBO CRACK loader and entering the credentials provided with the package. These credentials and the loader have not been independently verified.\nInspect cleanup_Run_as_admin_after_run_loader_.bat before running it. A batch file launched as administrator can make system-level changes.",
-      "downloads": 14,
+      "downloads": 15,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1791695909984,
@@ -2826,7 +2826,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 2232,
+      "downloads": 2239,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -3924,7 +3924,7 @@
       ],
       "createdAt": 1792382922900,
       "description": "FixHexa Tool CraQk 365 days Free Download . FixHexa Tool Features\nMoto Flasher: Flash Motorola stock firmware using XML files.\nClean Flash: Option available in the Motorola flashing section.\nSafe Flash: Flash option available for supported Motorola firmware work.\nFix CID Dead: Motorola Moto Flasher option.\nReboot After Flash: Automatically reboot after the flashing process.\nFlash Log: View the flashing log and related information.\nPartition Info: Display partition information in the Moto Flasher section.\nMTK FRP: Remove FRP lock on MTK devices.\nMTK Bootloader Unlock: Unlock the bootloader on MTK devices.\nADB to Fastboot: Convert an ADB-connected device to Fastboot mode.\nSlot Switching: Set Slot A or Slot B.\nRead Info: Read available device information.\nGet Unlock Data: Get unlock data from supported devices.\nErase FRP: Erase FRP when the bootloader is open.\nOEM Relock: Relock the OEM bootloader option.\nBL Relock: Relock the bootloader.\nXiaomi Fastboot Flasher: Flash Xiaomi fastboot ROM using flash_all.bat.\nXiaomi Slot Options: Set Slot A or Slot B during supported operations.\nSkip modem_a/b: Skip the modem partitions when using the Xiaomi flasher.\nSkip CUST: Skip the CUST partition.\nSkip opcust: Skip the opcust partition.\nXiaomi Erase FRP: Erase FRP from the available Fastboot Flasher options.\nACC Menu: Xiaomi Account Tools with Android 14, 15, and 16 support listed.\nPartition Tools: Options for Persist, Cust, Opcust, and Modem.\nADB Commands: Reboot to Fastboot, Recovery, restart device, disable OTA update, and list ADB devices.\nFastboot Commands: Read device info, reboot device, reboot to Fastboot, erase FRP, DM-Verity Fix, and slot switching.\nAndroid Info Extract: Load partition or tag files for Samsung, Oppo / Realme, Vivo, and Moto.\nPreloader EMI: Load MediaTek preloader.bin to check compatible memory chips.\nChip Info: Search eMMC and UFS chip specifications.\nENG ROM Search: Search engineering ROMs by file name.\nFind ISP: Search ISP pinouts using Fastboot mode or model search.\nFind Dump: Search and locate dump files.\nDownloader: Download files through the built-in download manager.What's New in the Latest ISP Data Update\nThe latest FixHexa update adds fresh ISP data for a number of device models. The new entries use different methods depending on the model, including Layer Scratch, CPU Drill, and No CPU Drill.\n\nvivo V40 Pro / T3 Ultra: New Layer Scratch ISP data added.\nvivo X300 Pro: New Layer Scratch ISP data added.\nF33: New No CPU Drill ISP data added.\nRedmi 15A: New CPU Drill ISP data added.\nSamsung SM7150: New CPU Drill ISP data added.\nSamsung SM7435: New CPU Drill ISP data added.\nvivo T4 Ultra: New Layer Scratch ISP data added.\nPOCO X6 Pro 5G: New Layer Scratch ISP data added.\nSamsung Galaxy S26+: New No CPU Drill ISP data added.\nMore ISP data: The update also mentions many more newly added solutions.\n\nNew ISP Solutions in FixHexa\nThe new update is mainly focused on ISP data. Several models now have a listed ISP method that can be checked from the FixHexa Tool.\n\nFor some models, the new data is marked as Layer Scratch. Other entries use CPU Drill or No CPU Drill. The method depends on the device model listed in the updated data.\n\nThe update covers devices from different brands, including vivo, Samsung, Redmi, POCO, and F33. It also includes data for the Samsung Galaxy S26+ and vivo X300 Pro.How to Install FixHexa Tool\nStep 1: Extract the Tool\nFirst, download the FixHexa Tool archive named FixhexaTool_Free_GSMYOGESH.rar. Right-click the downloaded RAR file and select the extract option.\n\nYou can use 7-Zip or WinRAR to extract the file. When the password window appears, enter gsmyogesh and click OK.\n\nStep 2: Open Loader.exe\nAfter extraction, open the newly created FixHexa folder. Find Loader.exe, right-click it, and select Run as administrator.\n\nStep 3: Get the Free Activation Key\nWhen the FIXHEXA TOOL popup appears, click the GET FREE ACTIVATION KEY button. This will open the activation page in your web browser.\n\nScroll down until you find the Generate 10 Days Free Activation Key section. The tool provides a hardware ID that can be copied into the HWID field.\n\nStep 4: Generate the LicenseRight-click inside the ENTER YOUR 16-CHAR HWID box and select Paste. The copied hardware ID will be entered into the field.\n\nNow click GENERATE KEY NOW. Once the key is generated, select and copy the license key shown above the button.\n\nStep 5: Register the License\nReturn to the FIXHEXA TOOL popup. Find the Paste License Token field and paste the license key into it.\n\nClick REGISTER LICENSE. Click OK or wait for the process to finish until the tool shows Activated Successfully!\n\nStep 6: Login to FixHexa\nAfter activation, the main FixHexa login window will appear. Enter gsmyogesh in the USERNAME / EMAIL field and use the same value in the PASSWORD field.Click LOGIN. If the tool asks you to join Telegram, click Later to continue.",
-      "downloads": 14,
+      "downloads": 16,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792382922900,
@@ -4005,7 +4005,7 @@
       ],
       "createdAt": 1792383621509,
       "description": "OLD Token: 1499c38f6765c0608fa573e972bea22e\n\nNEW Token :: a87f2e19c0b4d588e6129fa43c5b881d\n\n🚀 Mysterious-Dev Tool Update V1.2.8 OTA Out Now\nA new OTA update is officially released with major engine upgrades, protocol enhancements, and stability fixes.\nWhat is New in V1.2.8 :\n\nDevice Locks and FRP Module\n* Enhanced Samsung FRP via Test Mode over MTP\n* Full optimized support for Samsung FRP Android 16 Direct via MTP\n* Upgraded Samsung USA Direct FRP via MTP with broad carrier coverage\n* Improved Universal FRP across all Android brands using QR Code via MTP\n* Accelerated Samsung FRP operations for Exynos chipsets via ADB\n\nEnterprise and Security Protections Module\n* Advanced Universal MDM and IT Admin lock removal\n* Enhanced Universal MDM and IT Admin bypass Method 2\n* Optimized Samsung KG state transition from Locked to Active\n* Improved Samsung KG Lock removal under GuardShield security\n\nSystem and Core Engine Fixes\n* Resolved SSL handshake and connection issues during login\n* Refined UI layout and optimized display sizing for all dialogs and log prompts\n* General performance enhancements for faster execution and rock-solid stability\n\nUpdate your tool now directly via OTA and enjoy the latest features.",
-      "downloads": 10,
+      "downloads": 23,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1792383621509,
@@ -4142,7 +4142,7 @@
       ],
       "createdAt": 1792383874750,
       "description": "Infinix Tecno itel Anti Crack Sorgula Tool Free Download",
-      "downloads": 3,
+      "downloads": 4,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1792383874750,
@@ -4674,7 +4674,7 @@
       ],
       "createdAt": 1792588209015,
       "description": "DFT PRO v4.2.1 Offline Cracked [Xiaomi Mediatek]\n+ Added the following models Xiaomi Preloader Auth\n- Redmi 13 (moon) - tested .\n- Redmi A3 (blue) - tested.\n- Redmi 13c (gale) - tested.",
-      "downloads": 48,
+      "downloads": 51,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792588209015,
@@ -7871,7 +7871,7 @@
       ],
       "createdAt": 1792670893759,
       "description": "VoLTE VoIP Wi-Fi Tool Free Download Features VoLTE + VoIP Wi-Fi Tool\nTurn VoLTE + VoIP Wi-Fi on or off with one click\nScan for ADB devices to connect your phone\nInstall Pixel IMS and Shizuku directly from the tool\nCheck IMS status on your connected device\nApply settings based on your phone brand (Samsung, Xiaomi, Oppo, Google)\nView activity logs showing what the tool is doing\nHow to Install\nDownload the file from the link provided below.\nExtract the downloaded files using 7-Zip or WinRAR.\nOpen the extracted folder and find the file named \"volte.exe\".\nRun the \"volte.exe\" file to launch the software.\nNo activation or sign-in is needed. The main interface opens instantly.\nConnect your Android device in ADB mode.\nThe tool is now ready to use.",
-      "downloads": 2,
+      "downloads": 3,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1792670893759,
@@ -7913,7 +7913,7 @@
       ],
       "createdAt": 1792677125446,
       "description": "TSM PRO Cracked BY GsmHeroTeam \n\nYour Purchased Tools\nKeY :: TSM_FREE_BY_GSMHERO_TEAM_FB\nPassword: your Login Password Add",
-      "downloads": 804,
+      "downloads": 856,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1794993203005,
@@ -8480,7 +8480,7 @@
       ],
       "createdAt": 1792756906849,
       "description": "",
-      "downloads": 31,
+      "downloads": 32,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1792756906849,
@@ -8902,7 +8902,7 @@
       ],
       "createdAt": 1792757853989,
       "description": "",
-      "downloads": 6,
+      "downloads": 7,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792760145745,
@@ -11002,7 +11002,7 @@
       ],
       "createdAt": 1792926938526,
       "description": "Multi Unlock MDM v1.0.0.1 Free How to Install MultiUnlockMDM v1.0.0.1\nStep 1: Extract the Main Package\nLocate the downloaded archive named MULTIUNLOCKTOOL_GSMYOGESH.rar.\nRight-click the archive and select the extraction option for the MULTIUNLOCKTOOL_GSMYOGESH folder.\nOpen the extracted folder.\nStep 2: Extract the Setup Archive\nLocate Setup_MultiUnlockMDM-1.0.0.1.rar inside the main folder.\nExtract it into a separate folder.\nEnter MDM when prompted for the archive password.\nOpen the extracted folder and locate MultiUnlockMDM-Setup-1.0.0.1.exe.\nStep 3: Install MultiUnlockMDM\nVerify the installer and its source before running it.\nThe installation instructions specify running the setup as administrator.\nEnter the installer password when prompted. Confirm this password with the provider because the exact value is not clearly identified.\nSelect the destination directory.\nSelect the option to create a desktop shortcut if required.\nClick Instalar (Install) and wait for the installation process to finish.\nAccording to the instructions, uncheck Abrir MultiUnlockMDM and click Finalizar (Finish).\nStep 4: Extract the Loader Archive\nReturn to the main extracted folder.\nLocate MUM_LOAD.zip.\nThe gsmyogesh.com as the loader archive password in different places. Confirm the correct password with the provider before extracting it.\nAfter extraction, locate MUM_LOAD.exe.\nStep 5: Register the License\nCheck the loader’s source and security status before running it.\nThe described registration window displays a Hardware ID (HWID) and a Copy Hardware ID option.\nThe instructions refer to an activation portal offering a 10-day free activation key.\nUse only a verified activation portal and review its terms before submitting hardware information.\nEnter the activation key in the registration window and follow the program’s registration process.\nNote: The activation portal URL was not provided, so it cannot be listed here.\n\nStep 6: Log In to the Tool\nAfter registration, review the Terms and Conditions.\nClick Aceptar y Continuar (Accept and Continue) if you agree to the terms.\nEnter your account username and password.\nClick Ingresar al Sistema (Log into System).\nClick Aceptar on the update-notes dialog if it appears to continue to the dashboard.\nImportant Notes\nConfirm device model, Android version, firmware and security patch compatibility before starting an operation.\nADB and Root requirements may differ between modules.\nBack up important data before using erase, factory reset or clear-data functions.\nUse the tool only on devices you own or have permission to service.\nDo not disable Windows security protections just to run an unknown loader. Scan downloaded files and verify their source first.\nThe listed functions do not establish compatibility with every device from a particular brand.",
-      "downloads": 98,
+      "downloads": 100,
       "folderId": "f_mqf4u5qs_49twakrzn",
       "isLink": false,
       "lastModified": 1792926938526,
@@ -11126,7 +11126,7 @@
       ],
       "createdAt": 1793077957176,
       "description": "TSM PRO TOOL V2026.10.16-0955 – LATEST VERSION Free Download.  TSM PRO Edition is now available with new device support and updated servicing features!\n\n✅ Main Features:\n🔹 Read Device Info\n🔹 Remove FRP\n🔹 Factory Reset\n🔹 Flash Firmware\n🔹 Samsung EDL Support\n🔹 ZTE Unisoc ADL Mode\n🔹 ADB Tasks\n🔹 MDM / KG Operations\n🔹 Motorola & Xiaomi Fastboot Flasher\n🔹 Bootloader Unlock / Lock\n🔹 And More!\n\n🆕 What's New in This Version?\n\n✔️ Added Nothing 4B EDL Support\n✔️ Added New Samsung 2026 EDL Support\n✔️ Added ZTE Device Support\n✔️ Added More TCL, HONOR, Lenovo, REDMAGIC & OUKITEL Models\n✔️ Improved Motorola & Xiaomi Fastboot Flasher\n✔️ Fixed Several Listed Bugs\n⚡️ Easy Installation by GSMYOGESH.COM\n✔️ Automatic Installation\n✔️ Simple Setup Process\n✔️ Application Launches Automatically",
-      "downloads": 394,
+      "downloads": 396,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793077957176,
@@ -11170,7 +11170,7 @@
       ],
       "createdAt": 1793242489978,
       "description": "ES Serial Terminal v1.0.1 Review – Hands-On Testing for TV Chipset Work",
-      "downloads": 7,
+      "downloads": 8,
       "folderId": "f_mpzhn51z_ka1g9srm4",
       "isLink": false,
       "lastModified": 1793242489978,
@@ -11563,7 +11563,7 @@
       ],
       "createdAt": 1793590553834,
       "description": "Android Utility PRO v200 Rev (2) Offline Working Free Download Now .",
-      "downloads": 12,
+      "downloads": 14,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1793590569484,
@@ -11860,7 +11860,7 @@
       ],
       "createdAt": 1793786385174,
       "description": "UnlockTool V2026.10.15.0 Free Lifetime\nJ-Tools v2.2  (build 2026-11-07)\nHOW TO USE\n1. Extract ALL files to one folder (do not run from inside the ZIP).\n2. Right-click j-tools.exe -> Run as administrator.\n3. Wait until the status shows:  mirror: ok hosts <port>  and  net: ok.\n4. Click START to launch UnlockTool. Click STOP to close it.\n\nNOTES\n- Windows SmartScreen may warn: choose \"More info\" -> \"Run anyway\"\n  (the file is not Authenticode-signed; the launcher verifies its own signature).\n- If antivirus blocks writes to the hosts file, the launcher falls back to\n  NRPT automatically (mode auto) and remembers that choice on this PC.\n- Log file: %LOCALAPPDATA%\\JTools\\logs\\launcher.log\n- Mirror mode can be forced in j-tools.ini: mirror=auto | hosts | nrpt\n\nVERSION\n- Product / File version: 2.2.0.0\n- sha256 j-tools.exe     : 2079a987f3d18c6dbcc5efae6c0e085d664b19b743110a38f7fabecc2b73151d\n\nJ-Tools v1.2 Loader with UnlockTool 2026.11.03.0 Free Download.Software Details\nSoftware Name\tUnlockTool (via J-Tools v1.2 Loader)\nVersion\tUnlockTool-2026.11.03.0\nLoader\tJ-Tools v1.2\nLicense\tTemporary free method (license recommended for long-term use)\nSupported OS\tWindows (tested on my own PC)",
-      "downloads": 883,
+      "downloads": 906,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795061538494,
@@ -11976,7 +11976,7 @@
       ],
       "createdAt": 1793849093001,
       "description": "TSM Pro 2026 Blackman V2 Loader Free Download . Risk own for viras.",
-      "downloads": 402,
+      "downloads": 410,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1793849093001,
@@ -12153,7 +12153,7 @@
       ],
       "createdAt": 1794190886318,
       "description": "SHA Patcher Tool Free Download. SHA Patcher Tool Features\nSHA Patcher Tool has separate patching sections for different firmware files. Here are the main functions included in the utility.\n\nSupports Xiaomi MI Account modem and Persist patching.\nSupports Huawei and Honor Qualcomm ID modem patching.\nSeparate tabs for Persist, Xiaomi Modem, and Huawei/Honor Modem patching.\nSupports BIN and IMG file formats.\nAutomatically creates a backup of the original firmware file with a .bak extension.\nBuilt-in activity log to monitor patching progress.\nDisplays modified offsets and processing status.\nIncludes an option to clear the activity logs. Huawei and Honor Modem Patch\nFor Huawei and Honor devices, SHA Patcher Tool accepts modem.img and NON-HLOS.bin files. Its main function in this section is disabling HTEE by modifying selected files inside the FAT image directory.\n\nThe supported file entries include:\n\ncpusys_vm\nevautil64\nhtee_agent\nic3\nops",
-      "downloads": 23,
+      "downloads": 24,
       "folderId": "f_mpphzpaq_kkd8xpdsf",
       "isLink": false,
       "lastModified": 1794190886318,
@@ -12360,7 +12360,7 @@
       ],
       "createdAt": 1794304439625,
       "description": "FRP ALL DEVICES (ADB MODE) Free Download.\nChack Fast virus.then use.\n\n🔘FIXED BUG TEMP ROOT IN SOME DEVICES\n🔘ADDED APK MANAGER ROOT MODE\n🔘ADDED ROOT ONLY AND CHOICE METHOD\n🔘IMPROVED BYPASS FRP ALL AUTOMATIC\n\nExploring the Main Controls\nOn the left side of the window, there are four large buttons stacked vertically. Each button handles a specific ADB operation, and the layout makes it clear what every option does.\n\nBYPASS FRP: This top button is designed to run an FRP bypass process over ADB mode.\nTEMP ROOT: Right below that, this option runs a temporary root process using DFRoot and KernelSU.\nREAD INFO: Clicking this checks and displays the connected phone’s basic information.\nSTOP ADB: This bottom button safely stops the running ADB background server when you finish your work.",
-      "downloads": 43,
+      "downloads": 51,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1794828179360,
@@ -12466,7 +12466,7 @@
       ],
       "createdAt": 1794368170860,
       "description": "ASR From SGT Team v3.3 Free Download. How to Install, Update, and Register (Exact Steps)\nHere is the exact step-by-step walkthrough I followed while testing the tool on my system:\n\nLaunch as Administrator: I right-clicked the ASRTool-v3.2.exe file on my desktop and chose Run as administrator.\nBypass Windows SmartScreen: When the blue Windows protected your PC prompt popped up, I clicked More info and then pressed Run anyway.\nApply the v3.3 In-App Update: As soon as the login interface loaded, a prompt titled ASR FROM SGT TEAM – Update reported! announced that version 3.3 was required. I clicked the yellow UPDATE NOW button. The tool downloaded the patch from 0% to 100% and automatically replaced the base files.\nDisable Defender Real-Time Protection: During startup, Windows Defender flagged background binaries with threat alerts. To keep the tool running without forced termination, I opened Windows Security > Virus & threat protection > Manage settings and switched Real-time protection to Off.\nOpen Free Account Registration: Back on the main login window, instead of entering existing credentials, I clicked the blue CREATE ACCOUNT – 1 MONTH FREE button.\nCreate Login Details: On the account creation screen, the software automatically detected my PC Hardware ID (HWID). I entered my username, typed my password, confirmed the password, and clicked CREATE ACCOUNT.\nAccess the Tool: The software confirmed the registration and launched straight into the main dashboard, displaying 1 mo – 30 days validity on the upper right corner.",
-      "downloads": 17,
+      "downloads": 18,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1794368170860,
@@ -12552,7 +12552,7 @@
       ],
       "createdAt": 1794449683379,
       "description": "KS Tool v5.0 Free Download.\n1. Possible features of KS Tool\nBased on descriptions of KS Tool releases, the tool is associated with these Android servicing functions:\nFeature\tPurpose\nQualcomm Support\tQualcomm-based device servicing\nMTK Support\tMediaTek device servicing\nSamsung Support\tSamsung software repair\nFRP Functions\tGoogle account verification servicing\nADB Mode\tAndroid Debug Bridge operations\nFastboot Mode\tBootloader communication\nEDL Mode\tQualcomm emergency download mode\nBROM Mode\tMediaTek boot ROM communication\nFirmware Flashing\tInstall compatible stock firmware\nFactory Reset\tReset supported devices\nBootloop Repair\tRepair certain software boot problems\nDevice Information\tRead model and chipset information\n\nHow I Installed and Set Up KS Tool V5.0 on My PC\nGetting the tool up and running took a couple of extraction steps, so here is the exact process I followed on my desktop:\n\nFirst, I located the downloaded kstool v5.0.7z archive on my desktop, right-clicked it, and extracted it using 7-Zip.\nA password box popped up right away. I typed in gsmxpert (checking the “Show password” box just to avoid typos) and hit OK.\nInside the newly extracted folder, I found a second compressed file called kstool v5.zip. I right-clicked that one and extracted it with 7-Zip as well.\nExtracting the inner zip took a minute or two, and Windows Defender threw a couple of standard security alerts during the process, which I ignored.\nOnce the files were out, I opened the kstool v5 folder, scrolled down to KS Tool V5.exe, right-clicked it, and selected Run as administrator.\nA black Command Prompt window opened automatically to add the tool’s directory to my Windows Defender exclusions so files wouldn’t get deleted. I waited a few seconds for it to close on its own.\nWhen the login screen appeared, I entered kstest as the username and v5 as the password, then clicked Log In to enter the main dashboard.",
-      "downloads": 66,
+      "downloads": 67,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1794809082166,
@@ -12636,7 +12636,7 @@
       ],
       "createdAt": 1794485526005,
       "description": "Waagwan Security Sweep Pro V9 Released. Explore the Main Dashboard\nThe dashboard contains several servicing sections. Instead of using separate applications for different operations, technicians can access the available modules from the main program.\n\n1. Dashboard and Sweep Core\nProvisioning QR generation\nProvisioning Master (U-FRP Logic)\nGenerate Device Owner QR\nGenerate Minimal QR (A16 Fix)\nGenerate USB-Tunnel QR\nHotspot Strike (APK Delivery)\nStart and Stop Provisioning Hotspot\nLegacy Post-ADB Enrollment\nPost-ADB Guard for Transsion, Samsung and HMD/Nokia\nWaagwan Hyper-Sweep with target brand, hardware architecture and sweep mode selection\nInject Sovereign Guard APK\nPrevent Factory Reset (DO Policy)\nEnable Google Play Services\nInject Sovereign Launcher (A15 Fix)\nWaagwan Manual Tutorial\nInitiate Master Sweep\nFix DNS and Restore Internet\n2. Identity, IMEI and NV Management\nThis section contains device identification and diagnostic options. It also includes tools for managing NV backup and restore files.\n\nArm a Link\nRead Device Info\nOpen NV Folder\nSuggest a Route\nIMEI 1 and IMEI 2 Entry\nRead IMEI from Phone\nIMEI Repair and Clear\nNV Family Selection (Auto from Live Link)\nList Available Dumps\nSend Newest Dump to Restore\nPick Dump File from NV Folder\nShow NV Record\nWrite File to Block\nRead Device Info and Boot the Phone\n3. Waagwan Bypass Hub\nThe Bypass Hub groups Android setup and device servicing functions in one place.",
-      "downloads": 15,
+      "downloads": 16,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1794485526005,
@@ -12700,7 +12700,7 @@
       ],
       "createdAt": 1794739318504,
       "description": "Temp Root Frp Setup.exe \nActivation Needed. Paid",
-      "downloads": 1,
+      "downloads": 8,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1794739318504,
@@ -12734,18 +12734,36 @@
       "unrarPassword": ""
     },
     "f_mwhpwkcc_9v1j0t5aq": {
-      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi40hWSR_yr_e_RznBMMz2JmeD1Wifb1F0uHBEvEZJpz-pN4SviOWKG7uEPe6YEz6vSKNxyCb_11gTk-VSdoe4PcRPUTxvwxwpY8IpmnIIiSV7DXcPKgKwxVMdWHJoO-UyfvRPKFTcfSvq54ZhqhKcxFPK_D_9-WmfLDIV9gNGw2-8VJQ0xEu5N2-oZhYnj/w640-h376/HSD%20AIO%20Tool%20V1.0.6%20J-Tool%20Cracked.jpg",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoGRZrlvk3RsQYT-6fh7F6UceaqhB0eAjsmuLeyiUedD1MbsEo6Zc4SgeX6eKOI_Ae3R6spfu33delqJr6ZK19gnGFK7YXg-9oZa8zswVHj-DPxg1PvLhmt-lpI1_g36Jwnll3_9pOIT529lUPnfSmdx11x8zOf4NiQCB7QHQ1ZzqgTSxPu8E-8gGxybnm/w640-h426/HSD%20AIO%20LOADER%20v2%20+%20Setup%20V1.0.8%20J-Tools%20Free%20Download.jpg",
       "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoGRZrlvk3RsQYT-6fh7F6UceaqhB0eAjsmuLeyiUedD1MbsEo6Zc4SgeX6eKOI_Ae3R6spfu33delqJr6ZK19gnGFK7YXg-9oZa8zswVHj-DPxg1PvLhmt-lpI1_g36Jwnll3_9pOIT529lUPnfSmdx11x8zOf4NiQCB7QHQ1ZzqgTSxPu8E-8gGxybnm/w640-h426/HSD%20AIO%20LOADER%20v2%20+%20Setup%20V1.0.8%20J-Tools%20Free%20Download.jpg",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi40hWSR_yr_e_RznBMMz2JmeD1Wifb1F0uHBEvEZJpz-pN4SviOWKG7uEPe6YEz6vSKNxyCb_11gTk-VSdoe4PcRPUTxvwxwpY8IpmnIIiSV7DXcPKgKwxVMdWHJoO-UyfvRPKFTcfSvq54ZhqhKcxFPK_D_9-WmfLDIV9gNGw2-8VJQ0xEu5N2-oZhYnj/w640-h376/HSD%20AIO%20Tool%20V1.0.6%20J-Tool%20Cracked.jpg"
       ],
       "createdAt": 1794740079613,
-      "description": "HSD AIO Tool V1.0.6 J-Tool Cracked  Limit Time",
+      "description": "HSD AIO LOADER v2 + Setup V1.0.8 J-Tools Free Download\nHSD AIO Tool V1.0.6 J-Tool Cracked  Limit Time",
       "downloads": 122,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
-      "lastModified": 1794740079613,
-      "link": "https://drive.google.com/file/d/1tI3_Pxb9jekWQMbkRy9l_v_2pMowoBRU/view",
+      "lastModified": 1795226745373,
+      "link": "https://u.pcloud.link/publink/show?code=XZ6K02JZd2w4eeItWk4Tj4PcNliGYSeuxjX7",
       "links": [
+        {
+          "label": "HSD AIO LOADER v2 + Setup V1.0.8 J-Tools",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZ6K02JZd2w4eeItWk4Tj4PcNliGYSeuxjX7"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/plbm2ut28e002i7/J-Tools+HSD+v2+Setup+by+Gsmsanjoy.com.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1vA_bQ1tbVpD88n1zjmxGAw"
+            }
+          ]
+        },
         {
           "label": "HSD AIO Tool V1.0.6 J-Tool Cracked",
           "urls": [
@@ -12805,7 +12823,7 @@
       ],
       "createdAt": 1794821366721,
       "description": "CHAUHAN GSM ADB TOOL ROOT Free Download. ADB FRP ROOT TOOL FREE 2026 | 5 Tools in One Video | Android Root & FRP | Vivo OPPO Realme OnePlus will show you ADB FRP Root Tool and DFRoot Android App with different Android device management tools.",
-      "downloads": 205,
+      "downloads": 312,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1794821366721,
@@ -12849,7 +12867,7 @@
       ],
       "createdAt": 1794823413737,
       "description": "OpenRoot V1 Free Supported. OpenRoot V1 Free Download Supported Multi Brand 2026 . What Is New in This Version\nThe developer shared a few details that I want to pass on before I get into my testing notes. This version adds support for more Android versions and more kernel families than before.\n\nAndroid 12 through Android 16 are now supported. On the kernel side, it covers Linux 5.10.x, 5.15.x, 6.1.x, 6.6.x, 6.12.x, and 6.18.x. That is a wide range, and it means most GKI phones from recent years should work.\n\nThe tool also comes with built-in KernelSU modules for several kernel targets. The developer calls this an adaptive LKM setup. What it means in plain words is that the tool checks your phone’s kernel version and adjusts the module header to match. I saw this happen in the log when I ran it on my test phones.\n\n\nSoftware Name\tOpenRoot V1\nVersion\tV1\nDeveloper\tOpenRoot Project (Open Source)\nCredits\tDfroot and MDMFixTool (ELF method)\nSupported OS\tWindows (tested on Windows 10 and Windows 11)\nSupported Android\tAndroid 12, 13, 14, 15, and 16\nSupported Kernels\tLinux 5.10.x, 5.15.x, 6.1.x, 6.6.x, 6.12.x, 6.18.x (GKI)\nSupported Devices\tVivo, Oppo, Realme, Xiaomi, Tecno, Samsung, and other GKI phones\nLanguage\tEnglish",
-      "downloads": 65,
+      "downloads": 72,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1794823413737,
@@ -12893,7 +12911,7 @@
       ],
       "createdAt": 1794922149278,
       "description": "TROJAN ADB FRP v1.0.0 Temp Root Free Download TESTING Peroid.",
-      "downloads": 181,
+      "downloads": 293,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1794922149278,
@@ -12933,7 +12951,7 @@
       ],
       "createdAt": 1795055585023,
       "description": "Cleaning RAW EXT Images Ext4 Folder Cleaner Free Download. My Real-World Testing Experience\nI grabbed a .bin firmware file and dragged it directly into the top panel of the software. The input path filled in instantly. I loved the automatic naming feature. By default, it set up an output file right next to my original, appending _cleaned.bin to the name. This completely prevents you from accidentally overwriting your source file.\n\nI clicked the Clean image button to start the process. The interface locked my input fields and changed my cursor to an hourglass to keep me from messing with the paths while it worked. Here is exactly how the process played out on my screen:\n\nInitial File Check (0%): The status indicator told me it was verifying the EXT superblock. It checks the file size and looks for the 0xEF53 magic signature to ensure the file is actually a valid image.\nSafe Copy Creation (0% to 90%): The progress bar climbed steadily as it created a temporary .part copy of my file. The Cancel button stayed active here, allowing me to back out safely if needed.\nDeep Cleaning (92%): The status shifted to opening the filesystem and removing the target folders. The Cancel button locked itself to prevent me from corrupting the file while the DLL did the heavy lifting.\nSaving (98% to 100%): It renamed the temporary file to my final output path and flashed a success message.\nOnce finished, the Open output folder button lit up, letting me jump straight to my newly cleaned image. I also noticed the software quietly kept a running log of everything in an Ext4FolderCleaner.log file in the background.\n\nSoftware Specifications",
-      "downloads": 1,
+      "downloads": 3,
       "folderId": "f_mpphzpaq_kkd8xpdsf",
       "isLink": false,
       "lastModified": 1795055585023,
@@ -12979,10 +12997,10 @@
       ],
       "createdAt": 1795061081723,
       "description": "PinoyTech Loader UnlockTool Paid Service. PinoyTech Loader V3.1.4 Alph1Tech UnlockTool \n Instructions\n 🔘 Download the PinoyTech Loader UnlockTool.rar file\n 🔘 Unzip the file\n 🔘‎Unzip UnlockTool setup and install it\n 🔘 Unzip PinoyTech Loader, copy and paste it into the folder where UnlockTool was installed, and create a shortcut on your desktop\n 🔘 Run PinoyTech Loader as administrator; it will ask you to update the loader (update it).\n 🔘 Run PinoyTech Loader again and select the free option. If it asks you to find the UnlockTool.exe file, find it and click start.\n ‎‎\n Note: To add more days to the license, simply click the button that says \"add 90 days\".",
-      "downloads": 41,
+      "downloads": 94,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
-      "lastModified": 1795061163779,
+      "lastModified": 1795150623191,
       "link": "https://www.mediafire.com/file/yp26zq0ezghcyfv/PinoyTech+Loader+V4.3.0.rar/file",
       "links": [
         {
@@ -13016,6 +13034,10 @@
             {
               "password": "Alph1Tech",
               "url": "https://1024terabox.com/s/1IJ1Y9hqQUNw99sTjt_wU9A"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/ep9u67s5pvrzz0p/UnlockTool-Setup-2026-11-17-0_BY_MOBILE_DOCTOR.rar"
             }
           ]
         }
@@ -13069,7 +13091,7 @@
       ],
       "createdAt": 1795147119133,
       "description": "Pro MDM Tool V3.0 By Bacha Irfan Free Download \nFree Tools.",
-      "downloads": 0,
+      "downloads": 33,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1795147119133,
@@ -13107,48 +13129,88 @@
       "unrarPassword": ""
     },
     "f_mwogq4l2_66xswcm2u": {
-      "name": "DM-GSM Tool Free",
-      "folderId": "f_mwogmkxz_52lmnrq87",
-      "size": "14.1MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3M-0lXabqO5zf9iv_vHuqvOG4PrsOK8QA6uTmJx_fw7iU79DxmfMeHVfWEGspW9FjBVZdEKSv4VPaNo4K3qNXWxJcoGOpH5iiL8HJg3b-ywqUjd7NraC3F9GUAdxRXnv_2NYJBG0-SI6U1HK7d1qWGyLvs2s46O6zR2pgo_7WEdL1k5bXM692cyGBkto6/w640-h358/DM-GSM%20Tool%20Free%20Download.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3M-0lXabqO5zf9iv_vHuqvOG4PrsOK8QA6uTmJx_fw7iU79DxmfMeHVfWEGspW9FjBVZdEKSv4VPaNo4K3qNXWxJcoGOpH5iiL8HJg3b-ywqUjd7NraC3F9GUAdxRXnv_2NYJBG0-SI6U1HK7d1qWGyLvs2s46O6zR2pgo_7WEdL1k5bXM692cyGBkto6/w640-h358/DM-GSM%20Tool%20Free%20Download.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "dm-gsm-tool-free",
+      "createdAt": 1795147925942,
       "description": "DM-GSM Tool Free Download DM-GSM Free Download for Windows – Fast Port Catcher & Device Manager\n\nSoftware Name\tDM-GSM\nDeveloper\tAmin Ghasemizadeh\n\nSmart GSM Detection\nDuring testing, the software automatically categorized different device connection modes instead of showing generic port names.\nQualcomm EDL 9008 and Diag modes\nMTK BROM and Preloader VCOM modes\nUnisoc / SPD Boot and Diag modes\nSamsung Odin and Download modes\nAndroid ADB and Fastboot modes\nApple DFU and Recovery modes",
-      "downloads": 0,
-      "link": "https://drive.google.com/file/d/1iEFvXufGjXp2pXVXFicoB2mTioiBqbWR/view",
+      "downloads": 29,
+      "folderId": "f_mwogmkxz_52lmnrq87",
       "isLink": false,
-      "published": true,
+      "lastModified": 1795147925942,
+      "link": "https://drive.google.com/file/d/1iEFvXufGjXp2pXVXFicoB2mTioiBqbWR/view",
       "links": [
         {
           "label": "DM-GSM Tool Setup",
           "urls": [
             {
-              "url": "https://drive.google.com/file/d/1iEFvXufGjXp2pXVXFicoB2mTioiBqbWR/view",
+              "password": "",
+              "url": "https://drive.google.com/file/d/1iEFvXufGjXp2pXVXFicoB2mTioiBqbWR/view"
+            },
+            {
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZwR02JZ6RF1IhsTmAywt2FHkIcnnpSWYnkX"
+            },
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/zvk0m4a24j2l86m/DM-GSM+gsmsanjoy.com+.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1zx6ZrsCyqMnx0iImzjapCw"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "DM-GSM Tool Free",
+      "password": "",
+      "publishUrl": "dm-gsm-tool-free",
+      "published": true,
+      "size": "14.1MB",
+      "unrarPassword": ""
+    },
+    "f_mwps3dxv_n4ml4toly": {
+      "name": "J-Tools Suite v1.0 Paid loader",
+      "folderId": "f_mpcgjkt0_nqa98ro9k",
+      "size": "252.4 MB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgagFV9Jlj-gvN6QUpIJXhw3NZTw0jE8Hb3aj1hxkL-hyKyMhqewxEsdLQzBTO6TQMs3bT_GaaoGwcqMSi46CfMVhMz0NQISWCNaHPnAudGPJbOGmD-uxi78qhXgWbsk5Rv74aJkS09N8X5qwpGxdJGUbl5xZaPvxrsZBcu2p1fOmm-KtCxYTDC-9hzNzwP/w640-h426/J-Tools%20Suite%20v1.0%20Paid%20loader.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgagFV9Jlj-gvN6QUpIJXhw3NZTw0jE8Hb3aj1hxkL-hyKyMhqewxEsdLQzBTO6TQMs3bT_GaaoGwcqMSi46CfMVhMz0NQISWCNaHPnAudGPJbOGmD-uxi78qhXgWbsk5Rv74aJkS09N8X5qwpGxdJGUbl5xZaPvxrsZBcu2p1fOmm-KtCxYTDC-9hzNzwP/w640-h426/J-Tools%20Suite%20v1.0%20Paid%20loader.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "j-tools-suite-v10-paid-loader",
+      "description": "J-Tools Suite v1.0 Paid loader Free Download Setup",
+      "downloads": 0,
+      "link": "https://u.pcloud.link/publink/show?code=XZypR2JZsaVFUTwryWRFLACvMf91tHIkALRk",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "J-Tools Suite v1.0",
+          "urls": [
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZypR2JZsaVFUTwryWRFLACvMf91tHIkALRk",
               "password": ""
             },
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZwR02JZ6RF1IhsTmAywt2FHkIcnnpSWYnkX",
+              "url": "https://www.mediafire.com/file/ecnltl2k8e3dzjr/J-Tools+Suite+v1.0.zip/file",
               "password": ""
             },
             {
-              "url": "https://www.mediafire.com/file/zvk0m4a24j2l86m/DM-GSM+gsmsanjoy.com+.rar/file",
-              "password": ""
-            },
-            {
-              "url": "https://1024terabox.com/s/1zx6ZrsCyqMnx0iImzjapCw",
+              "url": "https://1024terabox.com/s/1H1PWBzCYwka9R7ylfi4DrA",
               "password": ""
             }
           ]
         }
       ],
-      "createdAt": 1795147925942,
-      "lastModified": 1795147925942
+      "createdAt": 1795227486547,
+      "lastModified": 1795227486547
     }
   },
   "images": {
@@ -13190,7 +13252,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-20T04:12:15.503Z",
+    "createdAt": "2026-11-21T02:18:13.084Z",
     "version": "2.0",
     "sections": 4
   }
