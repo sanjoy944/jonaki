@@ -1837,7 +1837,7 @@
       ],
       "createdAt": 1790504007831,
       "description": "Dars UnlockTool Loader V5.6 Released Feee\n\nDarsUnlocker Bypass Loader  Step-by-Step: How to Install and Run Everything\nremoved VPN restriction\nremoved no server could not be reached\ndon't update if you have no error\nStep 1 – Install DarsUnlocker\nI right-clicked the DarsUnlocker setup installer and chose Run as administrator. This is not optional. If you don’t run it as admin, the loader will not be able to bind to the ports it needs.\n\nThe setup wizard opens. I clicked Next through each screen. There’s an option for Create a desktop icon — I kept that checked because it’s easier to launch later. Then I clicked Install and waited for it to finish.\n\nWhen it was done, I clicked Finish. The installer also opened the app for me, which was convenient.Step 2 – Let DarsUnlocker Loader Initialize\nOnce the loader opens, it starts working right away. I saw a small splash window appear. It checked my online connection status first, then began unpacking its internal data.\n\nIf a support message pops up with Telegram links, just click Ok to dismiss it. It’s normal.\n\nBehind the scenes, the loader was doing a few things at this point:\n\nChecking the clock and syncing time\nUnpacking the encrypted data file\nGetting ready to patch memory when UNLOCKTOOL starts\nI just waited for the loader to settle. You’ll know it’s ready when the splash window shows a status like “Ready” or “Waiting for login.”\n\nStep 3 – Set Process Priority in Task Manager\nThis step matters more than people realize. Without setting the priority, the loader sometimes doesn’t hook properly and UNLOCKTOOL may not log in.\n\nHere’s what I did:\n\nI right-clicked the Windows Taskbar and opened Task Manager. Then I clicked on the Details tab. I looked for DarsUnlocker.exe in the list, right-clicked it, and chose Set priority. I selected High (you can also pick Above Normal).\n\nWindows asked me to confirm the change. I clicked Yes.\n\nI did the same thing for UNLOCKTOOL.exe once it was running, just to be consistent.\n\nStep 4 – Log In to UNLOCKTOOL\nNow the interesting part. I opened UNLOCKTOOL and let it load. On the login screen, I looked back at the DarsUnlocker window.\n\nThe loader showed me the generated login details:\n\nUsername: aminebazouka (or whatever your loader shows)\nPassword: any password you want\nI typed that username into UNLOCKTOOL. For the password, I typed anything — literally any random text. Then I clicked Login.\n\nWhen the disclaimer window appeared, I clicked Agree.\n\nThat’s it. UNLOCKTOOL loaded its main dashboard and I was in.\n\nStep 5 – Start Servicing Devices\nOnce logged in, the tool is fully usable. You’ll see the main dashboard with all the brand tabs at the top or side. Just pick your target brand and start working.",
-      "downloads": 574,
+      "downloads": 577,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1794794822577,
@@ -2519,7 +2519,7 @@
       ],
       "createdAt": 1791199206750,
       "description": "NEW UPDATE                                                                   ADD UNLOCKTOOL  2026-11-17  BUG FIXED                                                                          \nTROJ4N PRO: New Update \nUpdate 3.6\nEveryone Who Want Free Trial \n\nFollow Instagram Account. \nLike,Comment Key In Reel\nGet Your Trial Key For 15 Days\n\nhttps://www.instagram.com/troj4npro?lqvp=a2R0ajhlbmU3YW91&utm_source=qr\n\nNew Update 2026-11-16\nAdded New UTool 2026-11-16\nAdded  Samsung MTK Frp\n  Buy link: https://t.me/troj4npro\nFix Some Bugs \nUpdate Unlocktool 2026-11-10\nAdd Oppo & Realme 6835\n\nAnd More CPU & Models\nTROJ4N PRO: TROJ4N LOADER V3.4 - NEW USER OFFER 🚀\nSpecial Price For NEW USERS Only!\n☑  6 MONTHS - 7 USDT\n☑  12 MONTHS - 12 USDT\nPLUS FREE: BLACK SCREEN ONE-CLICK TOOL\nonly for new users.\nLimited Time. DM to Activate Now!\n\nUNLOCKTOOL FREE BY TROJ4N  TROJ4N LOADER V2 - OFFICIAL NOTE\n🚀 UNLOCKTOOL - TROJ4N LOADER V2 IS LIVE!\nWe are excited to announce the launch of TROJ4N LOADER V2 - More Powerful, More Stable, and Faster than ever!\n🔥 BIG LAUNCH OFFER: GET 15 DAYS FREE!\nFor a limited time only, get 15 Days FREE Access on TROJ4N LOADER V2.\nKey Features:\n•  Ultra-Fast & Secure Loading System\n•  Clean & Simple UI with STANDBY Mode\n•  Stable Performance for Long Sessions\n•  V2 Updated Engine\nDon't miss this opportunity. Activate your plan now and experience the power of TROJ4N V2!\nOffer Valid For Limited Time Only.",
-      "downloads": 36,
+      "downloads": 37,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795348603930,
@@ -2645,7 +2645,7 @@
       ],
       "createdAt": 1791514105333,
       "description": "EFT PRO CraCked Limit Free Download and Test Now.\n\nLOGIN INFO :: \nFirst of all signup here with your gmail account.\nThen download launcher 0.3.exe\nRun launcher as admin\nClick on start and then run eft pro exe.\nIt will show wrong email and password.\nEnter your own gmail address to eft pro and password type randomly.\nEnjoy",
-      "downloads": 136,
+      "downloads": 139,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1791520677938,
@@ -2838,7 +2838,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 2266,
+      "downloads": 2267,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -6425,7 +6425,7 @@
       ],
       "createdAt": 1792644415846,
       "description": "Pixel Tool IMEI by Aamir Buneri Supported Devices\nPixel 6\nPixel 6A\nPixel 6 Pro\nHow to Use the Pixel Tool by Aamir Buneri\nDownload the tool by using the download link provided below.\nExtract all files to your desktop to ensure accessibility.\nRun the tool as an administrator to give it necessary permissions.\nOnce open, select the device model from the interface, which doesn't require the device to be connected.\nThe Current IMEI for both slots (1 and 2) will display automatically.\nInput the new IMEI numbers for both slots.\nClick on the \"Replace IMEIs\" button to initiate the update.\nAfter the success message, locate the “devinfo.img” file in the model’s folder for flashing.\n\nHow to Flash the \"devinfo.img\" File\nOnce the \"devinfo.img\" file is prepared, follow these steps to flash it onto your device:\n\nReboot into Fastboot Mode: Open a command prompt or terminal and run the command adb reboot bootloader.\nVerify Fastboot Connection: Ensure the device is detected with fastboot devices. Troubleshoot any connection issues if necessary.\nFlash the devinfo.img: Use the command fastboot flash devinfo devinfo.img.\nReboot: Restart your device by typing fastboot reboot.\nVerify Changes (Optional)\nAfter rebooting, you may confirm that the new IMEI information is in effect by navigating to the device settings or using diagnostic tools.",
-      "downloads": 0,
+      "downloads": 3,
       "folderId": "f_mppfwio0_8fjdnqv24",
       "isLink": false,
       "lastModified": 1792644415846,
@@ -6461,7 +6461,7 @@
       ],
       "createdAt": 1792644749658,
       "description": "Micromax Drivers x86 zip",
-      "downloads": 1,
+      "downloads": 2,
       "folderId": "f_mp6spbfl_unyekccyd",
       "isLink": false,
       "lastModified": 1792644749658,
@@ -6497,7 +6497,7 @@
       ],
       "createdAt": 1792644898799,
       "description": "All MTK USB Driver.rar",
-      "downloads": 8,
+      "downloads": 9,
       "folderId": "f_mp6spbfl_unyekccyd",
       "isLink": false,
       "lastModified": 1792644898799,
@@ -6566,7 +6566,7 @@
       ],
       "createdAt": 1792645023619,
       "description": "",
-      "downloads": 6,
+      "downloads": 7,
       "folderId": "f_mp6spbfl_unyekccyd",
       "isLink": false,
       "lastModified": 1792645023619,
@@ -7096,7 +7096,7 @@
       ],
       "createdAt": 1792648281482,
       "description": "ByeiCloud v4.4.1",
-      "downloads": 4,
+      "downloads": 5,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1792648349177,
@@ -7132,7 +7132,7 @@
       ],
       "createdAt": 1792648405346,
       "description": "MR GSM PRO v9.1 CrQck MR GSM PRO v9.1 RAMDisk Options\nThe MR GSM PRO v9.1 tool offers powerful RAMDisk features that allow users to boot their devices into RAMDisk mode for various advanced operations. These RAMDisk options in MR GSM PRO v9.1 support multiple iOS versions and device models.\n\nCheck Device\nCheck Device 6/6P\nBoot RAM iPhone/iPad iOS 12 To 15\nBoot RAM iPhone iOS 16x\nBoot RAM iPad iOS 16 To 17x\nRAMDisk Passcode Backup\nRAMDisk Passcode Activate\nRAMDisk Erase",
-      "downloads": 10,
+      "downloads": 11,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1792648405346,
@@ -7686,7 +7686,7 @@
       ],
       "createdAt": 1792669153806,
       "description": "Today, we introducing SamFw FRP Tool version 6.2\n\nMain function:\n\nRemove FRP with one click\nChange CSC with one click \nRemove FRP for new security patch (Aug 2022)\nRemove FRP paid method\nRead info, Factory reset, Reset FRP\nRemove FRP with one click\n\nConnect the phone to the PC, and install the Samsung driver if you have not yet installed\nGo to emergency call then type *#0*#\nClick Remove FRP on the Tool\nClick Accept USB debugging on the phone if it appears\nThe phone will finish and reboot after removing FRP\n\nMD5 SamFwTool.exe: 80661ebbd6e36e29e245a92bbe9108b8\n\nMD5 SamFwToolSetup_v6.2.zip: 8e86f089cb48b1601ee41fb83863df06",
-      "downloads": 10,
+      "downloads": 11,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1794828373319,
@@ -7925,7 +7925,7 @@
       ],
       "createdAt": 1792677125446,
       "description": "TSM PRO Cracked BY GsmHeroTeam \n\nYour Purchased Tools\nKeY :: TSM_FREE_BY_GSMHERO_TEAM_FB\nPassword: your Login Password Add",
-      "downloads": 903,
+      "downloads": 918,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1794993203005,
@@ -9031,7 +9031,7 @@
       ],
       "createdAt": 1792758096008,
       "description": "TFT Tool CRacked File V4.6.4.4",
-      "downloads": 7,
+      "downloads": 9,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792758096008,
@@ -9538,7 +9538,7 @@
       ],
       "createdAt": 1792818244496,
       "description": "GCT Pandora Tool VIP",
-      "downloads": 13,
+      "downloads": 16,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1792818244496,
@@ -9580,7 +9580,7 @@
       "coverUrl": "",
       "createdAt": 1792818322998,
       "description": "TrToolPro VIP PACK",
-      "downloads": 0,
+      "downloads": 2,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
       "lastModified": 1792818322998,
@@ -11607,7 +11607,7 @@
       ],
       "createdAt": 1793624654972,
       "description": "Shelby Recovery Tool v3.0.1.0 Download for Windows\n🚀 Shelby Recovery Tool V3.0.1.0 Released!\n\n🛠 Shelby Recovery Tool is an open-source Windows utility for MediaTek device flashing and recovery. It supports Preloader and BROM modes and uses the Antumbra backend for flashing operations.\n\n🔥 Features:\n\n✅ MediaTek Preloader & BROM support\n✅ Scatter firmware loading\n✅ Firmware flashing and partition management\n✅ Custom Download Agent selection\n✅ ADB & Fastboot integration\n✅ Device information and connection detection\n✅ Operation logs and process control\n✅ Portable Windows application\n\n⚠️ Note: The tool is still under development. Some devices may not connect properly, and certain functions may not work as expected. Use the correct firmware for your device and back up important data before flashing.\n\n💻 Platform: Windows\n📌 Version: V3.0.1.0\n👨‍💻 Developer: Shelby\n🔓 Status: Open Source",
-      "downloads": 78,
+      "downloads": 81,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1793681364852,
@@ -11872,7 +11872,7 @@
       ],
       "createdAt": 1793786385174,
       "description": "UnlockTool V2026.10.15.0 Free Lifetime\nJ-Tools v2.2  (build 2026-11-07)\nHOW TO USE\n1. Extract ALL files to one folder (do not run from inside the ZIP).\n2. Right-click j-tools.exe -> Run as administrator.\n3. Wait until the status shows:  mirror: ok hosts <port>  and  net: ok.\n4. Click START to launch UnlockTool. Click STOP to close it.\n\nNOTES\n- Windows SmartScreen may warn: choose \"More info\" -> \"Run anyway\"\n  (the file is not Authenticode-signed; the launcher verifies its own signature).\n- If antivirus blocks writes to the hosts file, the launcher falls back to\n  NRPT automatically (mode auto) and remembers that choice on this PC.\n- Log file: %LOCALAPPDATA%\\JTools\\logs\\launcher.log\n- Mirror mode can be forced in j-tools.ini: mirror=auto | hosts | nrpt\n\nVERSION\n- Product / File version: 2.2.0.0\n- sha256 j-tools.exe     : 2079a987f3d18c6dbcc5efae6c0e085d664b19b743110a38f7fabecc2b73151d\n\nJ-Tools v1.2 Loader with UnlockTool 2026.11.03.0 Free Download.Software Details\nSoftware Name\tUnlockTool (via J-Tools v1.2 Loader)\nVersion\tUnlockTool-2026.11.03.0\nLoader\tJ-Tools v1.2\nLicense\tTemporary free method (license recommended for long-term use)\nSupported OS\tWindows (tested on my own PC)",
-      "downloads": 974,
+      "downloads": 986,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795061538494,
@@ -11989,7 +11989,7 @@
       ],
       "createdAt": 1793849093001,
       "description": "TSM Pro Edition [2026.11.22] Free.rar\nTSM-PRO EDITION v2026/11/22 FREE..\nInstructions:\n\n\n• Download the TSM-PRO EDITION tool v2026.11.22\n• Disable antivirus\n• Unzip the tool\n• I installed the TSM-PRO EDITION v2026.11.22.exe file\n• Copy the tsmloade.exe file and paste it to the path where the TSM-PRO EDITION v2026.11.22 tool was installed\n• Run the tsmloade.exe file as administrator\n• Run the Tsm pro edition 2026.11.22 shortcut on the desktop as administrator\n• Enter any username and password.\n• Enjoy the TSM-PRO EDITION v2026.11.22 tool\nTSM Pro 2026 Blackman V2 Loader Free Download . Risk own for viras.",
-      "downloads": 496,
+      "downloads": 595,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795400097735,
@@ -12266,19 +12266,19 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk5PVpDz5pW1SmgzBJrlfqvLQiwRaSFvVlxhO30ldC8X4-N78E2hI9wJ8BAjxDvcHLV1GR6_AgKPLzrpFXipv5AYW0JyRMj2caeFID3AmHKEGbBcVR-5Ikj94OqMzEOz8jUA58t5goFdyemvZxpTOSd2epGWS2dNpND3aX6VCTx14htxvStvVbc7UzY7oA/w568-h640/Griffin%20Unlocker.jpg"
       ],
       "createdAt": 1794284430171,
-      "description": "Griffin-Unlocker Latest trail version \nsignup then use it trail version\ntest everything\nshare success reports\nonce trail expired then paid 10$\n\nActivation Server : <a href=\"https://gsmserver.online\">https://gsmserver.online</a>\nGriffin Unlocker GCT PACK Free Download.",
-      "downloads": 15,
+      "description": "Griffin-Unlocker Latest trail version \nsignup then use it trail version\ntest everything\nshare success reports\nonce trail expired then paid 10$\n\nActivation Server : <a href=\"https://gsmserver.online\" target=\"_blank\">https://gsmserver.online</a>\nGriffin Unlocker GCT PACK Free Download.",
+      "downloads": 63,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": false,
-      "lastModified": 1795433871698,
+      "lastModified": 1795433952903,
       "link": "https://www.mediafire.com/file/phuxfmur6oh8x0h/Griffin-Unlocker_Latest.rar/file",
       "links": [
         {
           "label": "Griffin-Unlocker Latest trail version",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file/phuxfmur6oh8x0h/Griffin-Unlocker_Latest.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/phuxfmur6oh8x0h/Griffin-Unlocker_Latest.rar/file"
             }
           ]
         },
@@ -12286,8 +12286,8 @@
           "label": "Trail Active Server",
           "urls": [
             {
-              "url": "https://gsmserver.online",
-              "password": ""
+              "password": "",
+              "url": "https://gsmserver.online"
             }
           ]
         },
@@ -12295,16 +12295,16 @@
           "label": "Griffin Unlocker",
           "urls": [
             {
-              "url": "https://www.mediafire.com/file_premium/lysuvzvxx8euudb/Setup_Griffin-Unlocker_VIP_Premium_Latest.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file_premium/lysuvzvxx8euudb/Setup_Griffin-Unlocker_VIP_Premium_Latest.rar/file"
             },
             {
-              "url": "https://www.mediafire.com/file/74i56cc3boso9oq/Setup_Griffin-Unlocker_VIP_Premium_Latest.rar/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/74i56cc3boso9oq/Setup_Griffin-Unlocker_VIP_Premium_Latest.rar/file"
             },
             {
-              "url": "https://1024terabox.com/s/13AnhzSRH5FgypaGJPqUTRg",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/13AnhzSRH5FgypaGJPqUTRg"
             }
           ]
         }
@@ -12322,7 +12322,7 @@
       "coverUrl": "",
       "createdAt": 1794284514066,
       "description": "EFT Pro + TSM Tool Setup Download",
-      "downloads": 34,
+      "downloads": 42,
       "folderId": "f_mpjncxnm_cl0wwld14",
       "isLink": true,
       "lastModified": 1794284514066,
@@ -12404,7 +12404,7 @@
       ],
       "createdAt": 1794304439625,
       "description": "FRP ALL DEVICES (ADB MODE) Free Download.\nChack Fast virus.then use.\n\n🔘FIXED BUG TEMP ROOT IN SOME DEVICES\n🔘ADDED APK MANAGER ROOT MODE\n🔘ADDED ROOT ONLY AND CHOICE METHOD\n🔘IMPROVED BYPASS FRP ALL AUTOMATIC\n\nExploring the Main Controls\nOn the left side of the window, there are four large buttons stacked vertically. Each button handles a specific ADB operation, and the layout makes it clear what every option does.\n\nBYPASS FRP: This top button is designed to run an FRP bypass process over ADB mode.\nTEMP ROOT: Right below that, this option runs a temporary root process using DFRoot and KernelSU.\nREAD INFO: Clicking this checks and displays the connected phone’s basic information.\nSTOP ADB: This bottom button safely stops the running ADB background server when you finish your work.",
-      "downloads": 63,
+      "downloads": 64,
       "folderId": "f_mp6sjxdd_c186cvizt",
       "isLink": false,
       "lastModified": 1794828179360,
@@ -12510,7 +12510,7 @@
       ],
       "createdAt": 1794368170860,
       "description": "ASR From SGT Team v3.3 Free Download. How to Install, Update, and Register (Exact Steps)\nHere is the exact step-by-step walkthrough I followed while testing the tool on my system:\n\nLaunch as Administrator: I right-clicked the ASRTool-v3.2.exe file on my desktop and chose Run as administrator.\nBypass Windows SmartScreen: When the blue Windows protected your PC prompt popped up, I clicked More info and then pressed Run anyway.\nApply the v3.3 In-App Update: As soon as the login interface loaded, a prompt titled ASR FROM SGT TEAM – Update reported! announced that version 3.3 was required. I clicked the yellow UPDATE NOW button. The tool downloaded the patch from 0% to 100% and automatically replaced the base files.\nDisable Defender Real-Time Protection: During startup, Windows Defender flagged background binaries with threat alerts. To keep the tool running without forced termination, I opened Windows Security > Virus & threat protection > Manage settings and switched Real-time protection to Off.\nOpen Free Account Registration: Back on the main login window, instead of entering existing credentials, I clicked the blue CREATE ACCOUNT – 1 MONTH FREE button.\nCreate Login Details: On the account creation screen, the software automatically detected my PC Hardware ID (HWID). I entered my username, typed my password, confirmed the password, and clicked CREATE ACCOUNT.\nAccess the Tool: The software confirmed the registration and launched straight into the main dashboard, displaying 1 mo – 30 days validity on the upper right corner.",
-      "downloads": 18,
+      "downloads": 19,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1794368170860,
@@ -12547,7 +12547,7 @@
       ],
       "createdAt": 1794371325284,
       "description": "Oxygen Forensics V18.2.0.300 Cracked Free Download.",
-      "downloads": 52,
+      "downloads": 54,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1794371836984,
@@ -12785,7 +12785,7 @@
       ],
       "createdAt": 1794740079613,
       "description": "HSD AIO LOADER v2 + Setup V1.0.8 J-Tools Free Download\nHSD AIO Tool V1.0.6 J-Tool Cracked  Limit Time",
-      "downloads": 182,
+      "downloads": 189,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795226745373,
@@ -12867,7 +12867,7 @@
       ],
       "createdAt": 1794821366721,
       "description": "CHAUHAN GSM ADB TOOL ROOT Free Download. ADB FRP ROOT TOOL FREE 2026 | 5 Tools in One Video | Android Root & FRP | Vivo OPPO Realme OnePlus will show you ADB FRP Root Tool and DFRoot Android App with different Android device management tools.",
-      "downloads": 484,
+      "downloads": 500,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1794821366721,
@@ -12955,7 +12955,7 @@
       ],
       "createdAt": 1794922149278,
       "description": "TROJAN ADB FRP v1.0.0 Temp Root Free Download TESTING Peroid.",
-      "downloads": 386,
+      "downloads": 399,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1794922149278,
@@ -13041,7 +13041,7 @@
       ],
       "createdAt": 1795061081723,
       "description": "PinoyTech Loader 4.4.4 Released 20 November 2026 \nPinoyTech Loader UnlockTool Paid Service. PinoyTech Loader V3.1.4 Alph1Tech UnlockTool \n Instructions\n 🔘 Download the PinoyTech Loader UnlockTool.rar file\n 🔘 Unzip the file\n 🔘‎Unzip UnlockTool setup and install it\n 🔘 Unzip PinoyTech Loader, copy and paste it into the folder where UnlockTool was installed, and create a shortcut on your desktop\n 🔘 Run PinoyTech Loader as administrator; it will ask you to update the loader (update it).\n 🔘 Run PinoyTech Loader again and select the free option. If it asks you to find the UnlockTool.exe file, find it and click start.\n ‎‎\n Note: To add more days to the license, simply click the button that says \"add 90 days\".",
-      "downloads": 182,
+      "downloads": 198,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1795276557624,
@@ -13232,7 +13232,7 @@
       ],
       "createdAt": 1795227486547,
       "description": "J-Tools Suite v1.0 Paid loader Free Download Setup",
-      "downloads": 21,
+      "downloads": 22,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1795227486547,
@@ -13272,7 +13272,7 @@
       ],
       "createdAt": 1795229155606,
       "description": "FUFUFAFA FRP Temp RooT Tool Free Download.",
-      "downloads": 97,
+      "downloads": 100,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1795229155606,
@@ -13474,7 +13474,7 @@
       ],
       "createdAt": 1795316301272,
       "description": "UFT-TOOL V7.0 Cracked PAID GCT PACK Setup Download.",
-      "downloads": 12,
+      "downloads": 15,
       "folderId": "f_mpjncilk_69jnhx10j",
       "isLink": false,
       "lastModified": 1795316358481,
@@ -13555,7 +13555,7 @@
       ],
       "createdAt": 1795349791754,
       "description": "FalconMultiTool V13.0 FREE Latest Version Download .  FalconMultiTool V13.0 Features\nFalconMultiTool includes multiple sections for different mobile manufacturers. I have listed the available operations below so you can check which services are included for your device brand.\n\nXiaomi Features\nThe Xiaomi section includes MTK flashing, Qualcomm flashing, Fastboot, Mi Assistant, and Mi China services.\n\nFlash MTK\nServer DA\nCustom DA\nCustom EMI\nAuto SV5\nXiaomi Auth\nDump Preloader\nCrash Brom\nBypass Auth\nAuto Reboot\nFlash\nFlash QC\nAuto Reboot\nFlash\nFastboot\nRead Info\nFlash\nFastboot to EDL\nMI Assistant\nReset / Format (Sideload FRP + Userdata)\nXiaomi FRP (Reset FRP Only)\nMI China\nRead Info (ADB)\nTemp Root (ADB)\nReset FRP (China Devices)\nSamsung Features\nThe Samsung section contains the following service option:\n\nServices\nReset FRP\nOplus Features (Realme / OnePlus / Oppo)\nFor Oplus devices, the tool includes token decryption, one-click services, partition management, IMEI checking, and ADB or root-related operations.\n\nService\nOplus Token Decrypt\nOne Click\nCustom Sig\nUse Server Data\nAuto Reboot\nFactory Reset + FRP\nOplus Demo Remove (ADB)\nPartition Manager\nCustom DA\nCustom SIG\nUse Server Data\nRead\nWrite\nErase\nLoad\nDisconnect & Reboot Device\nIMEI Checker\nIMEI Info Query\nADB / Root Service\nRoot ADB\nTemp Root (ADB)\nTemp Root (ADB) V2\nErase FRP ADB (Root)\nRead\nWrite\nRead GPT",
-      "downloads": 49,
+      "downloads": 58,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795349791754,
@@ -13595,7 +13595,7 @@
       ],
       "createdAt": 1795429811541,
       "description": "ArcusX LOADER UnlockTool 2026.11.17 Free Download",
-      "downloads": 12,
+      "downloads": 90,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795429823868,
@@ -13631,6 +13631,119 @@
       "published": true,
       "size": "46MB",
       "unrarPassword": ""
+    },
+    "f_mwu1woiv_m4b0e7bvx": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPxsD2GotEnW_wdVSI66AXkngv8LhO4KRfV1CawBBznscr2vxMWbcqndhcc0S8jIHI-uqkB5MG7WPVZ7MgoWGw6V4uJg7Qh-Jki1EwePizLn_Q4KgQzbCH8EDRlFLPqGs815c3TKgeK1KkG-yxfy8RksTTnBxBkysdzltDIMUD7Rw74b9y6wYVbcG5M-Gf/s320/GRIFFIN%20UNLOCKER%20PRO%20FREE%20FOR%201%20WEEK.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPxsD2GotEnW_wdVSI66AXkngv8LhO4KRfV1CawBBznscr2vxMWbcqndhcc0S8jIHI-uqkB5MG7WPVZ7MgoWGw6V4uJg7Qh-Jki1EwePizLn_Q4KgQzbCH8EDRlFLPqGs815c3TKgeK1KkG-yxfy8RksTTnBxBkysdzltDIMUD7Rw74b9y6wYVbcG5M-Gf/s320/GRIFFIN%20UNLOCKER%20PRO%20FREE%20FOR%201%20WEEK.jpg"
+      ],
+      "createdAt": 1795485834535,
+      "description": "GRIFFIN UNLOCKER PRO FREE FOR 1 WEEK Free Download .\nEnjoy Premium Pack ACTIVATED completely FREE for 7 days! 🎉\nNo subscription, no payment. Just enjoy!\nOnly Singup and login server here",
+      "downloads": 0,
+      "folderId": "f_mpjncilk_69jnhx10j",
+      "isLink": false,
+      "lastModified": 1795485834535,
+      "link": "https://www.mediafire.com/file_premium/lysuvzvxx8euudb/Setup_Griffin-Unlocker_VIP_Premium_Latest.rar/file",
+      "links": [
+        {
+          "label": "GRIFFIN UNLOCKER PRO FREE FOR 1 WEEK",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file_premium/lysuvzvxx8euudb/Setup_Griffin-Unlocker_VIP_Premium_Latest.rar/file"
+            }
+          ]
+        },
+        {
+          "label": "7 Days Active KEY Server",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.re-sage.com"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "GRIFFIN UNLOCKER PRO FREE FOR 1 WEEK",
+      "password": "",
+      "publishUrl": "griffin-unlocker-pro-free-for-1-week",
+      "published": true,
+      "size": "204 MB",
+      "unrarPassword": ""
+    },
+    "f_mwu2iayg_hcs68lp7c": {
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj0LzFhmqP8M4tt4UsQk9RgAuGDQzldkTejKmPK1vsfnskibNkx_-qIW7DevhgbWEK_C_oMlV1yNzRbKjCY5dgcK5VptdqsLeS6OW0TbKt1S36bI9ZAXz4LaWSjboZWeWMqQfANfDeK4VSt2e8zgdkiyIbs59mwXiZnSFX3qSGad8m637d1K5obyaYWmvkd",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEj0LzFhmqP8M4tt4UsQk9RgAuGDQzldkTejKmPK1vsfnskibNkx_-qIW7DevhgbWEK_C_oMlV1yNzRbKjCY5dgcK5VptdqsLeS6OW0TbKt1S36bI9ZAXz4LaWSjboZWeWMqQfANfDeK4VSt2e8zgdkiyIbs59mwXiZnSFX3qSGad8m637d1K5obyaYWmvkd"
+      ],
+      "createdAt": 1795486843384,
+      "description": "BIBO UnlockTool V3.0 Setup Free Download",
+      "downloads": 0,
+      "folderId": "f_mpajwfy2_5pvx4efm9",
+      "isLink": false,
+      "lastModified": 1795486926071,
+      "link": "https://www.mediafire.com/file/hjuti1ilqcuwiri/BIBO_UnlockTool+V3.0.rar/file",
+      "links": [
+        {
+          "label": "BIBO UnlockTool Download",
+          "urls": [
+            {
+              "password": "",
+              "url": "https://www.mediafire.com/file/hjuti1ilqcuwiri/BIBO_UnlockTool+V3.0.rar/file"
+            },
+            {
+              "password": "",
+              "url": "https://1024terabox.com/s/1TVEjjQjPd0AROa6JIWXajg"
+            }
+          ]
+        }
+      ],
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "BIBO UnlockTool Download",
+      "password": "",
+      "publishUrl": "bibo-unlocktool-download",
+      "published": true,
+      "size": "101MB",
+      "unrarPassword": ""
+    },
+    "f_mwu2q6zv_07xtwi50w": {
+      "name": "Dragon XRY Frp Tool Paid",
+      "folderId": "f_mppi1zug_2vn0yyef1",
+      "size": "20.4 MB",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR8XuITHhw8kmRfCmRI_JdiusjNbTfH7MSZmrEMg_GXyFsLYm9KrEAU_lOExclZd_vx3Lt1_lKSEmcljqsQYn8-cbMbGYaQnP3GRXIMg27DjLUEvd0cQgdxVAEHDQNpfwXILTFxl8u4K2xb4ynrBne-OfaKoZ-tbDxorZVX_tzEtZ0_1jjAJG7a2prl7oQ/w640-h514/DragonXRYFrp.jpg",
+      "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR8XuITHhw8kmRfCmRI_JdiusjNbTfH7MSZmrEMg_GXyFsLYm9KrEAU_lOExclZd_vx3Lt1_lKSEmcljqsQYn8-cbMbGYaQnP3GRXIMg27DjLUEvd0cQgdxVAEHDQNpfwXILTFxl8u4K2xb4ynrBne-OfaKoZ-tbDxorZVX_tzEtZ0_1jjAJG7a2prl7oQ/w640-h514/DragonXRYFrp.jpg"
+      ],
+      "password": "",
+      "unrarPassword": "",
+      "loginUsername": "",
+      "loginPassword": "",
+      "publishUrl": "dragon-xry-frp-tool-paid",
+      "description": "Dragon XRY Frp Tool Paid Setup Download",
+      "downloads": 0,
+      "link": "https://www.mediafire.com/file/l6djphu3opfdz3n/DragonXRYFrp.rar/file",
+      "isLink": false,
+      "published": true,
+      "links": [
+        {
+          "label": "Dragon XRY Frp Tool Paid",
+          "urls": [
+            {
+              "url": "https://www.mediafire.com/file/l6djphu3opfdz3n/DragonXRYFrp.rar/file",
+              "password": ""
+            },
+            {
+              "url": "https://1024terabox.com/s/1rGsoJdhN_HnI_mnIIpkihA",
+              "password": ""
+            }
+          ]
+        }
+      ],
+      "createdAt": 1795487211499,
+      "lastModified": 1795487211499
     }
   },
   "images": {
@@ -13682,7 +13795,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-23T11:37:58.554Z",
+    "createdAt": "2026-11-24T02:28:02.979Z",
     "version": "2.0",
     "sections": 4
   }
