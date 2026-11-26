@@ -1838,7 +1838,7 @@
       ],
       "createdAt": 1790504007831,
       "description": "🔘What's new in version 5.7:\n 🔘Requires an internet connection.\n 🔘Sure, no viruses were detected.\n 🔘You can activate your antivirus now.\n 🔘Works without disconnecting from Wi-Fi.\n 🔘The internet connection problem was solved after closing DarsUnlocker.\n 🔘It does not remove the \"host\", it is not necessary to completely uninstall.\n 🔘All expired accounts now have 30 days of validity again.\n 🔘What's new in version 5.7:\n 🔘Requires an Internet connection.\n 🔘Safe; no viruses detected.\n 🔘You can now re-enable your antivirus.\n 🔘Works without needing to disconnect from Wi-Fi.\n 🔘Fixed an issue with Internet connectivity occurring after closing DarsUnlocker.\n 🔘Does not remove the \"host\" file; a full uninstallation is not required.\n 🔘All expired accounts are now valid again for 30 days.",
-      "downloads": 641,
+      "downloads": 653,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795575086622,
@@ -2771,7 +2771,7 @@
       ],
       "createdAt": 1791633094256,
       "description": "WorldLink GSM Pro BETA 2026 \n\nWorldLink GSM Pro BETA 2026 Software Details\nSpecification\tDetails\nSoftware Name\tWorldLink GSM Pro\nVersion\tBETA 2026\nLicense\t10-day free activation key generation mentioned in the setup instructions\nSupported Platforms\tSamsung, MediaTek, SPRD / Unisoc, Qualcomm, Google Pixel, Motorola, and Android Utility sections\nActivation\tHardware ID-based key registration\nPackage Format\tRAR archive\nSetup File\tWorldLink GSM Pro_boxed.exe",
-      "downloads": 47,
+      "downloads": 50,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1791633354871,
@@ -2852,7 +2852,7 @@
       ],
       "createdAt": 1791718921174,
       "description": "TSM PRO Edition 2026 Free BY GSMXTEAM\nHow I Installed It\nThe first thing I noticed is that the tool does not come as a single installer. The setup is split across a few files. Here is the exact order I followed on my machine.\n\nI extracted the RAR file named “TSM Pro Edition Setup 2026.10.01.rar”.\nI right-clicked “TSM Pro Edition Setup 2026.10.01.exe” and chose “Run as administrator”.\nWindows Defender popped up a “Windows protected your PC” warning. I clicked “More info” and then “Run anyway” to continue.\nI followed the installer prompts until it finished.\nNext, I extracted a separate file named “TSM.rar”.\nInside that, I found “TSM.exe”. I copied it.\nI opened the install folder (on my PC it was C:\\Program Files (x86)\\TSM PRO Edition) and pasted “TSM4.exe” there, overwriting the existing file.\nI ran the copied “TSM4.exe”.\nIn the small loader window, I clicked “Run As Old”. The main TSM PRO EDITION window opened right after.\nThe Defender warning is normal for this type of tool. I did not hit any errors during the install itself.\n\nhttps://www.facebook.com/groups/gsm.x.zone",
-      "downloads": 2278,
+      "downloads": 2283,
       "folderId": "f_mqem4hgx_hjv5ht0dl",
       "isLink": false,
       "lastModified": 1792059487275,
@@ -3106,7 +3106,7 @@
       ],
       "createdAt": 1792247173769,
       "description": "LCD Compatible Tool LCD Compatible Tool is a mobile phone compatibility tool designed for repair technicians, repair shops, mobile parts sellers and professionals working with smartphone replacement parts. \n\nFind LCD compatible models quickly and check which phones can use the same replacement screen or part. The app helps you search compatibility information for LCD screens, batteries, cameras, glass and other mobile phone parts.\nThe database includes popular smartphone brands such as Samsung, Xiaomi, Redmi, OPPO, Realme, Vivo, Huawei, Honor, Infinix, Tecno and more.\n\nSearch by brand and phone model to find compatible parts and make compatibility checks easier during everyday repair work.\n\nWhether you need to check an LCD compatible screen, battery compatibility or another replacement part, LCD Compatible Tool provides organized compatibility information in a simple and practical interface.\n\nThe app is designed specifically for mobile phone repair professionals who need a quick reference when working with replacement parts.\n\nKey features include LCD and screen compatibility, battery compatibility, camera compatibility, glass compatibility and other phone part compatibility information.\nLCD Compatible Tool is free to use and does not require a subscription.\nDownload the app and make mobile phone part compatibility checks faster and easier.\n\nUpdated on\nOct 5, 2026",
-      "downloads": 7,
+      "downloads": 8,
       "folderId": "f_mqg48h6a_9aoqneltl",
       "isLink": false,
       "lastModified": 1792247173769,
@@ -4620,7 +4620,7 @@
       ],
       "createdAt": 1792577922446,
       "description": "UnlockTool is a mobile servicing software interface with tools organized by phone brand, chipset platform, and connection mode. The supplied feature reference includes Xiaomi, Samsung, Huawei, Oppo, Vivo, Meizu, Tecno, Asus, LG, Nokia, Lenovo, Qualcomm Snapdragon, MediaTek, Apple, Infinix, and Spreadtrum (SPD/Unisoc).\n\nHow to Install\nThe installation notes provided for this article say that the package is distributed as a 7z archive through a Google Drive download link. Extract the archive first, then locate the setup file inside the extracted folder.\n\nDownload the 7z package from the source you trust.\nExtract the archive with a compatible archive utility.\nOpen the extracted folder and run the setup file.\nFollow the installation wizard and select Next when prompted. Installation may take some time, so wait for it to finish.\nWhen setup is complete, launch the program.\nUse the login method provided by the official software provider. If credentials are prefilled in your legitimate package, check that they are authorized for your use before continuing.",
-      "downloads": 303,
+      "downloads": 304,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1792579475778,
@@ -6544,7 +6544,7 @@
       "coverUrl": "",
       "createdAt": 1792644943758,
       "description": "Andriod CDC VCOM Driver",
-      "downloads": 2,
+      "downloads": 3,
       "folderId": "f_mp6spbfl_unyekccyd",
       "isLink": false,
       "lastModified": 1792644943758,
@@ -6580,7 +6580,7 @@
       ],
       "createdAt": 1792645023619,
       "description": "",
-      "downloads": 8,
+      "downloads": 9,
       "folderId": "f_mp6spbfl_unyekccyd",
       "isLink": false,
       "lastModified": 1792645023619,
@@ -7038,7 +7038,7 @@
       ],
       "createdAt": 1792647347982,
       "description": "iOS Toolkit Apple Device Tools  Dashboard – Check Connected Apple Device\nThe Dashboard is the main place to start after connecting an Apple device. A connected device appears in the device selection area, and the toolkit can show detailed information about it.\n\nThere is also a Rescan Hardware button. This can be useful when you connect a device after the toolkit has already been opened.\n\nThe information area includes several fields, including:\n\nDevice Name – Shows the name of the connected device.\nModel Name – Displays the detected model.\nProduct Type – Shows the device product identifier.\niOS / Build – Displays the available iOS and build information.\nSerial Number – Shows the device serial number.\nUDID – Displays the device UDID.\nIMEI – Shows the available IMEI information.\nMEID – Displays the available MEID information.\nWi-Fi MAC – Shows the Wi-Fi address.\nBluetooth MAC – Shows the Bluetooth address.\nCPU Arch – Displays the CPU architecture information.\nHW Model – Shows the hardware model.\nSIM Status – Displays the available SIM status.\nLock Screen – Shows the available lock screen status.\nBattery and storage are also shown separately on the Dashboard using progress indicators.",
-      "downloads": 5,
+      "downloads": 6,
       "folderId": "f_mp6sunl4_or57y3gxd",
       "isLink": false,
       "lastModified": 1792647347982,
@@ -7700,7 +7700,7 @@
       ],
       "createdAt": 1792669153806,
       "description": "Today, we introducing SamFw FRP Tool version 6.2\n\nMain function:\n\nRemove FRP with one click\nChange CSC with one click \nRemove FRP for new security patch (Aug 2022)\nRemove FRP paid method\nRead info, Factory reset, Reset FRP\nRemove FRP with one click\n\nConnect the phone to the PC, and install the Samsung driver if you have not yet installed\nGo to emergency call then type *#0*#\nClick Remove FRP on the Tool\nClick Accept USB debugging on the phone if it appears\nThe phone will finish and reboot after removing FRP\n\nMD5 SamFwTool.exe: 80661ebbd6e36e29e245a92bbe9108b8\n\nMD5 SamFwToolSetup_v6.2.zip: 8e86f089cb48b1601ee41fb83863df06",
-      "downloads": 13,
+      "downloads": 15,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
       "lastModified": 1794828373319,
@@ -7939,7 +7939,7 @@
       ],
       "createdAt": 1792677125446,
       "description": "TSM PRO Cracked BY GsmHeroTeam \n\nYour Purchased Tools\nKeY :: TSM_FREE_BY_GSMHERO_TEAM_FB\nPassword: your Login Password Add",
-      "downloads": 939,
+      "downloads": 943,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1794993203005,
@@ -11331,7 +11331,7 @@
       ],
       "createdAt": 1793354920237,
       "description": "USB Port Detector BY GSMSANJOY.com ====================================================================\n\n1. WHAT IS THIS SOFTWARE?\n---------------------------------------------------------------------\nUSB Port Detector BY GSMSANJOY.COM is a Windows background tool that\nwatches every USB port of your PC and INSTANTLY (fast, real time)\nshows a desktop popup notification when a USB device is CONNECTED or\nDISCONNECTED.\n\n   * CONNECTED    -> system tray icon turns GREEN + popup notification\n   * DISCONNECTED -> system tray icon turns RED   + popup notification\n\nEvery popup and the device window show the DEVICE NAME and the PORT:\n   * COM port number for serial devices   e.g. COM2, COM4, COM5\n   * USB hub port location for others     e.g. Port_#0002.Hub_#0004\n   * VID/PID identification as fallback   e.g. VID_1234&PID_5678\n\nThe software is protected with a HWID LICENSE system: one activation\nkey works on ONE computer for ONE year and can be renewed.\n\n2. FEATURES\n---------------------------------------------------------------------\n   - FAST real time USB connect / disconnect detection (WMI events)\n   - Instant desktop popup (toast / balloon) for every event\n   - GREEN tray icon = connect, RED tray icon = disconnect\n   - Device window: device name, status, port / COM number, device ID\n   - COM port numbers shown and highlighted (COM2, COM4, COM5, ...)\n   - HWID license activation - 1 year key per computer, renewable\n   - Auto start with Windows - background, always on\n   - Single instance protection and event log file:\n       C:\\ProgramData\\GSMSANJOY\\USBPortDetector\\usb_detector_log.txt\n   - SHA-256 checksum verification of all program files\n\n3. REQUIREMENTS\n---------------------------------------------------------------------\n   - Windows 7 / 8 / 8.1 / 10 / 11 (64-bit)\n   - Microsoft .NET Framework 4.x\n     (already built into Windows 8 / 10 / 11 - no extra download)",
-      "downloads": 82,
+      "downloads": 85,
       "folderId": "f_mp6sdi6s_ikugxspq5",
       "isLink": false,
       "lastModified": 1793881914012,
@@ -11419,7 +11419,7 @@
       ],
       "createdAt": 1793452465409,
       "description": "UnlockTool-2026-11-05-0 Released Update !\n\nLatest release\nUnlockTool 2026.10.31.0\nReleased 31 October 2026 · Windows 7 / 8 / 10 / 11 · account login required\n\nMD5\n203ba012c5b877fe7013d64e78a43986\nCheck your downloaded file against this hash to confirm it has not been tampered with.",
-      "downloads": 159,
+      "downloads": 160,
       "folderId": "f_mp6sihua_qn9c5cpoh",
       "isLink": false,
       "lastModified": 1793881518523,
@@ -11886,7 +11886,7 @@
       ],
       "createdAt": 1793786385174,
       "description": "UnlockTool V2026.10.15.0 Free Lifetime\nJ-Tools v2.2  (build 2026-11-07)\nHOW TO USE\n1. Extract ALL files to one folder (do not run from inside the ZIP).\n2. Right-click j-tools.exe -> Run as administrator.\n3. Wait until the status shows:  mirror: ok hosts <port>  and  net: ok.\n4. Click START to launch UnlockTool. Click STOP to close it.\n\nNOTES\n- Windows SmartScreen may warn: choose \"More info\" -> \"Run anyway\"\n  (the file is not Authenticode-signed; the launcher verifies its own signature).\n- If antivirus blocks writes to the hosts file, the launcher falls back to\n  NRPT automatically (mode auto) and remembers that choice on this PC.\n- Log file: %LOCALAPPDATA%\\JTools\\logs\\launcher.log\n- Mirror mode can be forced in j-tools.ini: mirror=auto | hosts | nrpt\n\nVERSION\n- Product / File version: 2.2.0.0\n- sha256 j-tools.exe     : 2079a987f3d18c6dbcc5efae6c0e085d664b19b743110a38f7fabecc2b73151d\n\nJ-Tools v1.2 Loader with UnlockTool 2026.11.03.0 Free Download.Software Details\nSoftware Name\tUnlockTool (via J-Tools v1.2 Loader)\nVersion\tUnlockTool-2026.11.03.0\nLoader\tJ-Tools v1.2\nLicense\tTemporary free method (license recommended for long-term use)\nSupported OS\tWindows (tested on my own PC)",
-      "downloads": 1015,
+      "downloads": 1018,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795061538494,
@@ -12003,7 +12003,7 @@
       ],
       "createdAt": 1793849093001,
       "description": "TSM Pro Edition [2026.11.22] Free.rar\nTSM-PRO EDITION v2026/11/22 FREE..\nInstructions:\n\n\n• Download the TSM-PRO EDITION tool v2026.11.22\n• Disable antivirus\n• Unzip the tool\n• I installed the TSM-PRO EDITION v2026.11.22.exe file\n• Copy the tsmloade.exe file and paste it to the path where the TSM-PRO EDITION v2026.11.22 tool was installed\n• Run the tsmloade.exe file as administrator\n• Run the Tsm pro edition 2026.11.22 shortcut on the desktop as administrator\n• Enter any username and password.\n• Enjoy the TSM-PRO EDITION v2026.11.22 tool\nTSM Pro 2026 Blackman V2 Loader Free Download . Risk own for viras.",
-      "downloads": 773,
+      "downloads": 786,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795400097735,
@@ -12799,7 +12799,7 @@
       ],
       "createdAt": 1794740079613,
       "description": "HSD AIO LOADER v2 + Setup V1.0.8 J-Tools Free Download\nHSD AIO Tool V1.0.6 J-Tool Cracked  Limit Time",
-      "downloads": 199,
+      "downloads": 200,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795226745373,
@@ -12881,7 +12881,7 @@
       ],
       "createdAt": 1794821366721,
       "description": "CHAUHAN GSM ADB TOOL ROOT Free Download. ADB FRP ROOT TOOL FREE 2026 | 5 Tools in One Video | Android Root & FRP | Vivo OPPO Realme OnePlus will show you ADB FRP Root Tool and DFRoot Android App with different Android device management tools.",
-      "downloads": 582,
+      "downloads": 589,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1794821366721,
@@ -12970,7 +12970,7 @@
       ],
       "createdAt": 1794922149278,
       "description": "ADB FRP TOOL V1.2\nNew Updates Fixed All Error \n\nHow To Root \n1.Enable USB Debugging \n2.Click Temp Root \n3.No Need Do Anything \nAuto Install Apk & Auto Open App,\nJust Wait.. \nAfter Root Done \n4. Click Wipe FRP\n\nTROJAN ADB FRP v1.0.0 Temp Root Free Download TESTING Peroid.",
-      "downloads": 521,
+      "downloads": 528,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1795575758205,
@@ -13077,7 +13077,7 @@
       ],
       "createdAt": 1795061081723,
       "description": "PinoyTech Loader 4.4.4 Released 20 November 2026 \nPinoyTech Loader UnlockTool Paid Service. PinoyTech Loader V3.1.4 Alph1Tech UnlockTool \n Instructions\n 🔘 Download the PinoyTech Loader UnlockTool.rar file\n 🔘 Unzip the file\n 🔘‎Unzip UnlockTool setup and install it\n 🔘 Unzip PinoyTech Loader, copy and paste it into the folder where UnlockTool was installed, and create a shortcut on your desktop\n 🔘 Run PinoyTech Loader as administrator; it will ask you to update the loader (update it).\n 🔘 Run PinoyTech Loader again and select the free option. If it asks you to find the UnlockTool.exe file, find it and click start.\n ‎‎\n Note: To add more days to the license, simply click the button that says \"add 90 days\".",
-      "downloads": 211,
+      "downloads": 214,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
       "lastModified": 1795276557624,
@@ -13262,43 +13262,57 @@
       "unrarPassword": ""
     },
     "f_mwps3dxv_n4ml4toly": {
-      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgagFV9Jlj-gvN6QUpIJXhw3NZTw0jE8Hb3aj1hxkL-hyKyMhqewxEsdLQzBTO6TQMs3bT_GaaoGwcqMSi46CfMVhMz0NQISWCNaHPnAudGPJbOGmD-uxi78qhXgWbsk5Rv74aJkS09N8X5qwpGxdJGUbl5xZaPvxrsZBcu2p1fOmm-KtCxYTDC-9hzNzwP/w640-h426/J-Tools%20Suite%20v1.0%20Paid%20loader.jpg",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53tiW1y44gBUwngbGscLBEpy1VAnwNRenFXCygVUUz6C8CFV8dP7gHk9j3HL8TLiDf03UXSkCLejosNICWPOPL92X0e925zl5b3JKWBovCUupXzKCZ_1zkI7CqhMU85S9YGGdoyDpQW8ZLNlJiq8KUBTvQJP0fm9LOKuXVktZcAueeaNi_hCIRBoX5Ikt/w484-h640/J-Tools%20Suite%20Loader%20V2.9.png",
       "covers": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53tiW1y44gBUwngbGscLBEpy1VAnwNRenFXCygVUUz6C8CFV8dP7gHk9j3HL8TLiDf03UXSkCLejosNICWPOPL92X0e925zl5b3JKWBovCUupXzKCZ_1zkI7CqhMU85S9YGGdoyDpQW8ZLNlJiq8KUBTvQJP0fm9LOKuXVktZcAueeaNi_hCIRBoX5Ikt/w484-h640/J-Tools%20Suite%20Loader%20V2.9.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgagFV9Jlj-gvN6QUpIJXhw3NZTw0jE8Hb3aj1hxkL-hyKyMhqewxEsdLQzBTO6TQMs3bT_GaaoGwcqMSi46CfMVhMz0NQISWCNaHPnAudGPJbOGmD-uxi78qhXgWbsk5Rv74aJkS09N8X5qwpGxdJGUbl5xZaPvxrsZBcu2p1fOmm-KtCxYTDC-9hzNzwP/w640-h426/J-Tools%20Suite%20v1.0%20Paid%20loader.jpg"
       ],
       "createdAt": 1795227486547,
       "description": "J-Tools Suite v1.0 Paid loader Free Download Setup",
-      "downloads": 31,
+      "downloads": 32,
       "folderId": "f_mpcgjkt0_nqa98ro9k",
       "isLink": false,
-      "lastModified": 1795227486547,
-      "link": "https://u.pcloud.link/publink/show?code=XZypR2JZsaVFUTwryWRFLACvMf91tHIkALRk",
+      "lastModified": 1795690466445,
+      "link": "https://u.pcloud.link/publink/show?code=XZh84WJZ3nPw76kFk77bU1SQlDYSnjAeTHmX",
       "links": [
+        {
+          "label": "J-Tools Suite Loader V2.9",
+          "urls": [
+            {
+              "url": "https://u.pcloud.link/publink/show?code=XZh84WJZ3nPw76kFk77bU1SQlDYSnjAeTHmX",
+              "password": ""
+            },
+            {
+              "url": "https://www.mediafire.com/file/82c7hb05fq2qr94/J-Tools+Suite+Loader.new.rar/file",
+              "password": ""
+            }
+          ]
+        },
         {
           "label": "J-Tools Suite v1.0",
           "urls": [
             {
-              "password": "",
-              "url": "https://u.pcloud.link/publink/show?code=XZypR2JZsaVFUTwryWRFLACvMf91tHIkALRk"
+              "url": "https://u.pcloud.link/publink/show?code=XZypR2JZsaVFUTwryWRFLACvMf91tHIkALRk",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://www.mediafire.com/file/ecnltl2k8e3dzjr/J-Tools+Suite+v1.0.zip/file"
+              "url": "https://www.mediafire.com/file/ecnltl2k8e3dzjr/J-Tools+Suite+v1.0.zip/file",
+              "password": ""
             },
             {
-              "password": "",
-              "url": "https://1024terabox.com/s/1H1PWBzCYwka9R7ylfi4DrA"
+              "url": "https://1024terabox.com/s/1H1PWBzCYwka9R7ylfi4DrA",
+              "password": ""
             }
           ]
         }
       ],
       "loginPassword": "",
       "loginUsername": "",
-      "name": "J-Tools Suite v1.0 Paid loader",
+      "name": "J-Tools Suite Multi loader",
       "password": "",
-      "publishUrl": "j-tools-suite-v10-paid-loader",
+      "publishUrl": "j-tools-suite-paid-loader",
       "published": true,
-      "size": "252.4 MB",
+      "size": "1.2 MB",
       "unrarPassword": ""
     },
     "f_mwpt35sl_8pru6oxz8": {
@@ -13631,7 +13645,7 @@
       ],
       "createdAt": 1795429811541,
       "description": "ArcusX LOADER UnlockTool 2026.11.17 Free Download",
-      "downloads": 289,
+      "downloads": 297,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795599782673,
@@ -13795,7 +13809,7 @@
       ],
       "createdAt": 1795487211499,
       "description": "Dragon XRY Frp Tool Paid Setup Download",
-      "downloads": 2,
+      "downloads": 3,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1795487211499,
@@ -13831,7 +13845,7 @@
       ],
       "createdAt": 1795519298383,
       "description": "TMT ADB Temp Root Tool Free Download",
-      "downloads": 37,
+      "downloads": 40,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1795519298383,
@@ -13872,7 +13886,7 @@
       ],
       "createdAt": 1795523831554,
       "description": "Pixel Utility Tool v2026-11-18-0 Latest Version Download  Pixel Utility Tool Features\nPixel Utility Tool has several sections for managing and servicing supported Pixel devices. Here is a closer look at the available functions.\n\n1. Auto Detect and Device Management\nAutomatic ADB and Fastboot device detection.\nManual device model search and selection.\nModem selection.\nRestore backup option.\nReal-time log console to monitor operations.\n2. IMEI Repair Options\nDual IMEI repair options for IMEI 1 and IMEI 2.\nStandard IMEI repair option.\nBL Locked Mode with temporary root for selected OEM-locked builds.\nOne Click Repair with a Fix Errors option.\nTemporary root support.\nNew Security Mode for selected builds.\nMethod 2 marked as verified by the developer.\nRoot Device and Finalize options.\nRootByApp support.\nThese functions are intended for authorized device servicing. Any IMEI-related repair should preserve the device’s original, legally assigned identity. The tool’s listed support does not guarantee compatibility with every device or build.\n\n3. MDM and Network Operations\nSerial Number (SN) read option.\nSerial Number editing option.\nNetwork and MDM-related operations.\nCarrier lock-related functions.\nNew Security MDM and Network Mode.\nBL Locked and Temporary Root options.\nRoot Device and RootByApp support.\nMode\tSupported Builds\nBL Locked Mode\tCP2A.260605, CP2A.260705, CP2A.260805\nNew Security Mode\tCP3A.261005-002, CP3A.261005-005, CD1A.261005-003\n\nHow to Activate Pixel Utility Tool\nPixel Utility Tool requires license activation before you can use its functions. The activation process uses your computer’s Hardware ID and a license token.\n\nDownload the PixelUtilityTool v2026-11-18-0.exe file to your Windows computer.\nDouble-click the EXE file to start the program.\nWhen the Windows permission window appears, click Yes if you trust the software source.\nOnce the program opens, find your Hardware ID and click the Copy Hardware ID button.\nClick the GET ACTIVATION KEY button. Your browser will open the activation website.\nPaste your Hardware ID on the website and obtain your license token.\nReturn to Pixel Utility Tool and paste the token into the box labelled Paste license token here.\nClick the REGISTER LICENSE button to complete registration.\nAfter successful activation, the program displays a green LICENSE ACTIVE screen with the remaining license days. The program can then start its available functions.",
-      "downloads": 58,
+      "downloads": 60,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795523870145,
@@ -13916,7 +13930,7 @@
       ],
       "createdAt": 1795582656933,
       "description": "XTM Multi Tool Vivo Root FRP v1.0.0 XTM Multi Tool Vivo Special Edition v1.0.0 Latest Version Download\n\n🔥 XTM Multi Tool Vivo Special Edition v1.0.0 Released! 📱\n\nA new multi-function tool for Vivo mobile servicing is available.\n\n🛠 Main Features:\n\n✅ 5 Different Vivo Root Methods\n✅ RootMyVivo Exploit\n✅ GhostLock App\n✅ OpenRoot Engine\n✅ KernelSU Support\n✅ DFRoot Legacy\n✅ Vivo ADB / MTP Mode\n✅ Vivo Fastboot Mode\n✅ Read Vivo Device Info\n✅ Live Terminal Logs\n✅ Vivo FRP Service Section\n📌 Version: v1.0.0\nXTM Multi Tool Vivo Features\nVivo ADB / MTP Mode: The tool includes a dedicated section for working with Vivo devices through ADB and MTP connections.\nVivo Fastboot Mode: Switch to Fastboot mode to access the available Fastboot functions.\nMultiple Root Methods: Five different root exploit methods are available in the selection menu.\nRootMyVivo: Includes the RootMyVivo method based on the zenyxx-xd v1.4.3 Vivo Exploit.\nGhostLock App: Includes the GhostLock App method, identified as YuKong ADB-2026-43499.\nOpenRoot Engine: Uses the OpenRoot Engine with hexo141 Multi-Exploit.\nKernelSU: Includes the KSU Superuser Manager method.\nDFRoot Legacy: Provides a legacy DFRoot method labelled Auto Temp Root.\nStart Vivo Root: A dedicated button starts the selected root method.\nRead Vivo Info: Includes an option to read Vivo device information through ADB or Fastboot.\nFRP Section: A separate Vivo FRP lock operation is available in the interface for authorized device servicing.\nLive Logs: The right-side terminal displays operation messages and status information.\nVivo Engine: Displays the engine initialization and security protocol status.\nADB Daemon: Shows the ADB daemon connection status and local port information.\nFastboot Interface: Displays the Fastboot interface status.",
-      "downloads": 34,
+      "downloads": 51,
       "folderId": "f_mppi1zug_2vn0yyef1",
       "isLink": false,
       "lastModified": 1795582687276,
@@ -13954,44 +13968,44 @@
       "unrarPassword": ""
     },
     "f_mwwxbgkg_n3tr0gt9f": {
-      "name": "PC INFO Chacker GSMSANJOY",
-      "folderId": "f_mp6svh7k_05u4ub0r8",
-      "size": "400 MB",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD2k6vuJJ1AGyW4p4WSdll9lVi56DxEoSJ9InSbuRH_HL4PgJCSOM80gI-riwjZhaqsfN6FYSqFnoHNgDVnR0HINHmmHYS5hl6jiXSJNTffAdOZnyYg5AFYYZ9vFGyQVI6DemUhwUR8NeNi86BEmJ4xIPNEt3eyAAuMwMbE_9S4fyQpmedTmSpS8yPugxp/w640-h358/PC%20INFO%20Chacker%20GSMSANJOY.jpg",
       "covers": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD2k6vuJJ1AGyW4p4WSdll9lVi56DxEoSJ9InSbuRH_HL4PgJCSOM80gI-riwjZhaqsfN6FYSqFnoHNgDVnR0HINHmmHYS5hl6jiXSJNTffAdOZnyYg5AFYYZ9vFGyQVI6DemUhwUR8NeNi86BEmJ4xIPNEt3eyAAuMwMbE_9S4fyQpmedTmSpS8yPugxp/w640-h358/PC%20INFO%20Chacker%20GSMSANJOY.jpg"
       ],
-      "password": "",
-      "unrarPassword": "",
-      "loginUsername": "",
-      "loginPassword": "",
-      "publishUrl": "pc-info-chacker-gsmsanjoy",
+      "createdAt": 1795659524512,
       "description": "PC INFO Chacker BY GSMSANJOY\n=====================================================================\n  PC INFO Chacker by GSMSANJOY  -  version 1.0.0.0\n  PC Hardware & Software Information Tool for Windows\n=====================================================================\n\nWHAT IS THIS?\n-------------\nA small, portable tool that shows complete information about your PC:\nhardware, Windows details, installed software and network - all in one\nclean window with tabs. It needs NO installation, NO admin rights and\nNO .NET / runtime files. Just double-click and it scans.\n\nWHICH FILE TO RUN?\n------------------\n  PC_INFO_Chacker_GSMSANJOY.exe      -> 32-bit build.\n                                        Works on EVERY Windows:\n                                        32-bit AND 64-bit (recommended)\n  PC_INFO_Chacker_GSMSANJOY_x64.exe  -> 64-bit build for modern PCs.\n\nBoth files are the same program, just built for different CPU types.\nIf you are not sure, use the 32-bit one - it runs everywhere\n(Windows 7, 8, 8.1, 10, 11 - 32-bit and 64-bit).\n\nHOW TO USE\n----------\n1. Double-click the .exe file.\n   The tool starts and scans your PC automatically.\n2. Click the tabs to see each section:\n      System      - Windows version, build, install date, uptime,\n                    computer name, user, language, time zone,\n                    battery, motherboard and BIOS info\n      Processor   - CPU name, vendor, cores, cache, clock, load %\n      Memory      - total / used / free RAM, memory load, page file\n      Storage     - all drives: type, label, file system,\n                    total / free space, used %\n      Display     - GPU name, monitor, resolution, refresh rate,\n                    color depth, driver version\n      Network     - every adapter: type, status, IP, MAC,\n                    gateway, DNS, DHCP / static\n      Software    - all installed programs with version,\n                    publisher, install date and size\n3. Buttons:\n      [Scan Now (F5)]     - scan again any time\n      [Save Report (.html)] - saves a colored HTML report named\n                            PC_Report_YYYYMMDD_HHMMSS.html in the\n                            same folder as the exe, then offers to\n                            open it in your browser.\n4. Press F5 anywhere in the window to re-scan.\n\nFIRST RUN NOTE (IMPORTANT)\n--------------------------\nThis exe is not code-signed, so Windows SmartScreen may show\n\"Windows protected your PC\" the first time you run it.\nThis is normal for small tools. Click:\n      More info  ->  Run anyway\nSome antivirus programs may also warn about unknown .exe files -\nallow the file if you downloaded it from a trusted source.\n\nFILE LIST\n---------\n  PC_INFO_Chacker_GSMSANJOY.exe       the tool (32-bit, universal)\n  PC_INFO_Chacker_GSMSANJOY_x64.exe   the tool (64-bit)\n  Sample_Report.html                  a real report produced during\n                                      testing - open it to see what\n                                      your saved report will look like\n  Screenshot.png                      photo of the tool running\n  Source\\                             full source code (C language)\n\nSOURCE CODE\n-----------\nThe whole program is one C file (pc_info_checker.c) using pure\nWin32 API - no external libraries. You can rebuild it yourself:\n\n  zig rc icon.rc icon.res\n  zig cc -target x86-windows-gnu     -O2 -D_WIN32_WINNT=0x0601 \\\n      -Wl,--subsystem,windows -municode pc_info_checker.c icon.res \\\n      -o PC_INFO_Chacker_GSMSANJOY.exe \\\n      -lcomctl32 -lshell32 -ladvapi32 -liphlpapi -luser32 -lgdi32 -lws2_32\n  (same command with -target x86_64-windows-gnu for the x64 build)\nZig compiler with mingw-w64 target: https://ziglang.org/download/\n---------------------------------------------\nPC INFO Chacker by GSMSANJOY  -  free to use and share",
-      "downloads": 0,
-      "link": "https://u.pcloud.link/publink/show?code=XZrUzWJZCkmKOf2V6AJ2TQJ5T79NVBbXOCB7",
+      "downloads": 1,
+      "folderId": "f_mp6svh7k_05u4ub0r8",
       "isLink": false,
-      "published": true,
+      "lastModified": 1795660131111,
+      "link": "https://u.pcloud.link/publink/show?code=XZrUzWJZCkmKOf2V6AJ2TQJ5T79NVBbXOCB7",
       "links": [
         {
           "label": "PC INFO Chacker V1.0 Setup.exe",
           "urls": [
             {
-              "url": "https://u.pcloud.link/publink/show?code=XZrUzWJZCkmKOf2V6AJ2TQJ5T79NVBbXOCB7",
-              "password": ""
+              "password": "",
+              "url": "https://u.pcloud.link/publink/show?code=XZrUzWJZCkmKOf2V6AJ2TQJ5T79NVBbXOCB7"
             },
             {
-              "url": "https://www.mediafire.com/file/q7m23q6jaec7f9d/PC_INFO_Chacker_GSMSANJOY.zip/file",
-              "password": ""
+              "password": "",
+              "url": "https://www.mediafire.com/file/q7m23q6jaec7f9d/PC_INFO_Chacker_GSMSANJOY.zip/file"
             },
             {
-              "url": "https://1024terabox.com/s/1t-J_MP2bMNXH2Wf3QowYvA",
-              "password": ""
+              "password": "",
+              "url": "https://1024terabox.com/s/1t-J_MP2bMNXH2Wf3QowYvA"
             }
           ]
         }
       ],
-      "createdAt": 1795659524512,
-      "lastModified": 1795659524512
+      "loginPassword": "",
+      "loginUsername": "",
+      "name": "PC INFO Chacker GSMSANJOY",
+      "password": "",
+      "publishUrl": "pc-info-chacker-gsmsanjoy",
+      "published": true,
+      "size": "400 kb",
+      "unrarPassword": ""
     }
   },
   "images": {
@@ -14054,7 +14068,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-26T02:18:53.526Z",
+    "createdAt": "2026-11-26T10:54:31.901Z",
     "version": "2.0",
     "sections": 4
   }
