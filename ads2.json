@@ -13662,7 +13662,7 @@
       ],
       "createdAt": 1795429811541,
       "description": "ArcusX LOADER UnlockTool 2026.11.17 Free Download",
-      "downloads": 345,
+      "downloads": 346,
       "folderId": "f_mpajwfy2_5pvx4efm9",
       "isLink": false,
       "lastModified": 1795754653416,
@@ -14047,11 +14047,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw-8WnSR0Xg7y25xuMR_9D7TzTgC6Uo9mAiEdSTpAIfdYTdhBVcV4iEAGu_49udxwArUEGvNUooKQ-iLiobyLX7tbcUIwsLml9QqMaOUMengMEfcLw9R1Tmm1Lx5RCQIbUDVaz5CeKc14scKZlBsM9J9Mn-BA-WoDTCRUN5silvH9t39Mx0LIV7Gowov8/w640-h358/Samsung%20Firmware%20Tool%20v1.0%20Free.jpg"
       ],
       "createdAt": 1795773948784,
-      "description": "Samsung Firmware Tool v1.0 Free Download.",
+      "description": "Samsung Firmware Tool v1.0 Free Download.\n\nSamsung Firmware Tool Features\nOfficial Samsung FUS Downloader: Fetches available Samsung firmware versions directly from Samsung FUS servers.\nFirmware Model Search: Enter the Samsung device model number to find available firmware.\nCSC Selection: Select the required CSC or region code before checking for firmware.\nBinary Version Selection: Enter a specific firmware binary version or leave the field blank to check the latest version.\nCheck Firmware: Use the Check button to retrieve available firmware versions for the selected device.\nFirmware Download: Download the selected firmware package directly through the tool.\nENC4 Decryption: Includes a separate Decrypt .ENC4 section for Samsung firmware decryption.\nFUS v4 Engine: Uses the High-Speed FUS v4 Engine for firmware fetching.\nAES Decryptor: Includes AES-128 decryption support.\nWindows HTTP Support: Uses the WinHTTP security protocol for communication.\nDownload Progress: Displays download percentage, speed, and firmware size.\nFirmware Logs: Shows the current operation, firmware information, and engine status in the log window.\nFirmware Output Folder: Displays the location where downloaded firmware files are saved.",
       "downloads": 0,
       "folderId": "f_mppfc768_ya5wj6h2f",
       "isLink": false,
-      "lastModified": 1795773980399,
+      "lastModified": 1795774137108,
       "link": "https://u.pcloud.link/publink/show?code=XZcLSWJZLrVdE95imG4LR30QvJKm1fKR7oDk",
       "links": [
         {
@@ -14146,7 +14146,7 @@
   },
   "_meta": {
     "label": "",
-    "createdAt": "2026-11-27T10:06:23.398Z",
+    "createdAt": "2026-11-27T10:09:00.012Z",
     "version": "2.0",
     "sections": 4
   }
